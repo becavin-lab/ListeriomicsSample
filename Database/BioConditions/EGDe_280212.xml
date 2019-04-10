@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.expdesign.BioCondition" id="BioCondition0">
+  <void property="antiComparisons">
+   <void method="add">
+    <string>prfA_Star</string>
+   </void>
+   <void method="add">
+    <string>EGD_WT</string>
+   </void>
+  </void>
+  <void property="arrayExpressId">
+   <string>E-MTAB-1676</string>
+  </void>
+  <void property="arrayExpressTechnoId">
+   <string>A-AFFY-140</string>
+  </void>
+  <void property="date">
+   <string>28/02/2012</string>
+  </void>
+  <void property="experienceNb">
+   <int>24</int>
+  </void>
+  <void property="geneExprs">
+   <void method="add">
+    <object class="bacnet.datamodel.dataset.GeneExpression" id="GeneExpression0">
+     <void property="bioCondName">
+      <string>EGDe_280212</string>
+     </void>
+     <void property="date">
+      <string>28/02/2012</string>
+     </void>
+     <void property="name">
+      <string>EGDe_280212.ge</string>
+     </void>
+     <void property="rawDatas">
+      <void method="add">
+       <string>EGDe_WT_1.CEL</string>
+      </void>
+      <void method="add">
+       <string>EGDe_WT_2.CEL</string>
+      </void>
+      <void method="add">
+       <string>EGDe_WT_3.CEL</string>
+      </void>
+     </void>
+     <void id="OmicsData$TypeData0" property="type"/>
+    </object>
+   </void>
+  </void>
+  <void property="genomeName">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="genomeUsed">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="growth">
+   <void method="add">
+    <string>Exp phase</string>
+   </void>
+  </void>
+  <void property="localization">
+   <void method="add">
+    <string></string>
+   </void>
+  </void>
+  <void property="media">
+   <void method="add">
+    <string>BHI Broth</string>
+   </void>
+  </void>
+  <void property="mediaGrowthProperties">
+   <void method="add">
+    <string></string>
+   </void>
+  </void>
+  <void property="name">
+   <string>EGDe_280212</string>
+  </void>
+  <void property="reference">
+   <string>Becavin et al., MBio 2014 (Pubmed:24667708)</string>
+  </void>
+  <void property="tilings">
+   <void method="add">
+    <object class="bacnet.datamodel.dataset.Tiling" id="Tiling0">
+     <void property="bioCondName">
+      <string>EGDe_280212</string>
+     </void>
+     <void property="date">
+      <string>28/02/2012</string>
+     </void>
+     <void property="name">
+      <string>EGDe_280212.+.gr</string>
+     </void>
+     <void property="rawDatas">
+      <void method="add">
+       <string>T_EGDe_WT_1_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_2_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_3_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_1_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_2_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_3_(LmoEGDe_tiling).CEL</string>
+      </void>
+     </void>
+     <void id="OmicsData$TypeData1" property="type"/>
+    </object>
+   </void>
+   <void method="add">
+    <object class="bacnet.datamodel.dataset.Tiling" id="Tiling1">
+     <void property="bioCondName">
+      <string>EGDe_280212</string>
+     </void>
+     <void property="date">
+      <string>28/02/2012</string>
+     </void>
+     <void property="name">
+      <string>EGDe_280212.-.gr</string>
+     </void>
+     <void property="rawDatas">
+      <void method="add">
+       <string>T_EGDe_WT_1_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_2_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_3_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_1_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_2_(LmoEGDe_tiling).CEL</string>
+      </void>
+      <void method="add">
+       <string>T_EGDe_WT_3_(LmoEGDe_tiling).CEL</string>
+      </void>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="time">
+   <string></string>
+  </void>
+  <void property="typeDataContained">
+   <void method="add">
+    <object idref="OmicsData$TypeData0"/>
+   </void>
+   <void method="add">
+    <object idref="OmicsData$TypeData1"/>
+   </void>
+  </void>
+ </object>
+</java>

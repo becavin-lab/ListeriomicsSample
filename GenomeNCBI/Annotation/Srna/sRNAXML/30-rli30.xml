@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>540670</int>
+  </void>
+  <void property="end">
+   <int>540785</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>rli30</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>540670</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>540785</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>116</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>feature (Toledo-Arana et al. 2009)</string>
+    <string>sRNA</string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string>Antisense to lmo0506</string>
+   </void>
+   <void method="put">
+    <string>ref (Toledo-Arana et al. 2009)</string>
+    <string>Toledo, 2009</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>30</string>
+  </void>
+  <void property="length">
+   <int>116</int>
+  </void>
+  <void property="name">
+   <string>rli30</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+ </object>
+</java>

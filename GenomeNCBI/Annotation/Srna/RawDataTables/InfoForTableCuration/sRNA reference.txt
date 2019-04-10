@@ -1,0 +1,305 @@
+1	rli1 - LhrC-1	Christiansen et al. 2006
+2	rli2 - LhrC-2	Christiansen et al. 2006
+3	rli3 - LhrC-3	Christiansen et al. 2006
+4	rli4 - LhrC-4	Christiansen et al. 2006
+5	rli5 - rliA	Mandin et al. 2007
+6	rli6 - rliB	Mandin et al. 2007
+7	rli7 - LhrC-5	Christiansen et al. 2006
+8	rli8 - rliC	Mandin et al. 2007
+9	rli9 - rliH	Mandin et al. 2007
+10	rli10 - rliD	Mandin et al. 2007
+11	rli11 - sbrA	Nielsen et al. 2008
+12	rli12 - ssrS-6S	Mandin et al. 2007
+13	rli13 - rliE	Mandin et al. 2007
+14	rli14 - LhrB	Christiansen et al. 2006
+15	rli15 - rnpB	Mandin et al. 2007
+16	rli16 - rliF	Mandin et al. 2007
+17	rli17 - LhrA	Christiansen et al. 2006
+18	rli18 - rliG	Mandin et al. 2007
+19	rli19 - ssrA	Mandin et al. 2007
+20	rli20 - SRP	Barry et al. 1999
+21	rli21 - rliI	Mandin et al. 2007
+22	rli22	Toledo-Arana et al. 2009
+23	rli23	Toledo-Arana et al. 2009
+24	rli24	Toledo-Arana et al. 2009
+25	rli25	Toledo-Arana et al. 2009
+26	rli26	Toledo-Arana et al. 2009
+27	rli27	Toledo-Arana et al. 2009
+28	rli28	Toledo-Arana et al. 2009
+29	rli28-2	Toledo-Arana et al. 2009
+30	rli28-3	Toledo-Arana et al. 2009
+31	rli29	Toledo-Arana et al. 2009
+32	rli30	Toledo-Arana et al. 2009
+33	rli31	Toledo-Arana et al. 2009
+34	rli32	Toledo-Arana et al. 2009
+35	rli33	Toledo-Arana et al. 2009
+36	rli33-2	Toledo-Arana et al. 2009
+37	rli33-3	Toledo-Arana et al. 2009
+38	rli34	Toledo-Arana et al. 2009
+39	rli34-2	Toledo-Arana et al. 2009
+40	rli35	Toledo-Arana et al. 2009
+41	rli36	Toledo-Arana et al. 2009
+42	rli37	Toledo-Arana et al. 2009
+43	rli38	Toledo-Arana et al. 2009
+44	rli39	Toledo-Arana et al. 2009
+45	rli40	Toledo-Arana et al. 2009
+46	rli41	Toledo-Arana et al. 2009
+47	rli42	Toledo-Arana et al. 2009
+48	rli43	Toledo-Arana et al. 2009
+49	rli44	Toledo-Arana et al. 2009
+50	rli45	Toledo-Arana et al. 2009
+51	rli45-2	Toledo-Arana et al. 2009
+52	rli46	Toledo-Arana et al. 2009
+53	rli47	Toledo-Arana et al. 2009
+54	rli48	Toledo-Arana et al. 2009
+55	rli49	Toledo-Arana et al. 2009
+56	rli50	Toledo-Arana et al. 2009
+57	rli51	Toledo-Arana et al. 2009
+58	rli52	Toledo-Arana et al. 2009
+59	rli53	Toledo-Arana et al. 2009
+60	rli54	Toledo-Arana et al. 2009
+61	rli55	Toledo-Arana et al. 2009
+62	rli56	Toledo-Arana et al. 2009
+63	rli57	Toledo-Arana et al. 2009
+64	rli58	Toledo-Arana et al. 2009
+65	rli59	Toledo-Arana et al. 2009
+66	rli60	Toledo-Arana et al. 2009
+67	rli61	Toledo-Arana et al. 2009
+68	rli62	Toledo-Arana et al. 2009
+69	rli63	Toledo-Arana et al. 2009
+70	rli65	Oliver et al. 2009
+71	rli66	Oliver et al. 2009
+72	rli67	Oliver et al. 2009
+73	rli68	Oliver et al. 2009
+74	rli69	Oliver et al. 2009
+75	rli70	Oliver et al. 2009
+76	rli71	Oliver et al. 2009
+77	rli72	Oliver et al. 2009
+78	rli73	Oliver et al. 2009
+79	rli74	Oliver et al. 2009
+80	rli75	Mraheil et al. 2011
+81	rli76	Mraheil et al. 2011
+82	rli77	Mraheil et al. 2011
+83	rli78	Mraheil et al. 2011
+84	rli79	Mraheil et al. 2011
+85	rli80	Mraheil et al. 2011
+86	rli81	Mraheil et al. 2011
+87	rli82	Mraheil et al. 2011
+88	rli83	Mraheil et al. 2011
+89	rli84	Mraheil et al. 2011
+90	rli85	Mraheil et al. 2011
+91	rli86	Mraheil et al. 2011
+92	rli87	Mraheil et al. 2011
+93	rli88	Mraheil et al. 2011
+94	rli89	Mraheil et al. 2011
+95	rli90	Mraheil et al. 2011
+96	rli91	Mraheil et al. 2011
+97	rli92	Mraheil et al. 2011
+98	rli93	Mraheil et al. 2011
+99	rli94	Mraheil et al. 2011
+100	rli95	Mraheil et al. 2011
+101	rli96	Mraheil et al. 2011
+102	rli97	Mraheil et al. 2011
+103	rli98	Mraheil et al. 2011
+104	rli99	Mraheil et al. 2011
+105	rli100	Mraheil et al. 2011
+106	rli101	Mraheil et al. 2011
+107	rli102	Mraheil et al. 2011
+108	rli103	Mraheil et al. 2011
+109	rli104	Mraheil et al. 2011
+110	rli105	Mraheil et al. 2011
+111	rli106	Mraheil et al. 2011
+112	rli107	Mraheil et al. 2011
+113	rli108	Mraheil et al. 2011
+114	rli109	Mraheil et al. 2011
+115	rli110	Mraheil et al. 2011
+116	rli111	Mraheil et al. 2011
+117	rli112	Mraheil et al. 2011
+118	rli113	Mraheil et al. 2011
+119	rli114	Mraheil et al. 2011
+120	rli115	Mraheil et al. 2011
+121	rli116	Mraheil et al. 2011
+122	rli117	Mraheil et al. 2011
+123	rli118	Mraheil et al. 2011
+124	rli119	Wurtzel et al. 2012
+125	rli120	Wurtzel et al. 2012
+126	rli121	Wurtzel et al. 2012
+127	rli122	Wurtzel et al. 2012
+128	rli123	Wurtzel et al. 2012
+129	rli124	Wurtzel et al. 2012
+130	rli125	Wurtzel et al. 2012
+131	rli126	Wurtzel et al. 2012
+132	rli127	Wurtzel et al. 2012
+133	rli128	Wurtzel et al. 2012
+134	rli129	Wurtzel et al. 2012
+135	rli130	Wurtzel et al. 2012
+136	rli131	Wurtzel et al. 2012
+137	rli132	Wurtzel et al. 2012
+138	rli133	Wurtzel et al. 2012
+139	rli134	Wurtzel et al. 2012
+140	rli135	Wurtzel et al. 2012
+141	rli136	Wurtzel et al. 2012
+142	rli137	Wurtzel et al. 2012
+143	rli138	Wurtzel et al. 2012
+144	rli139	Wurtzel et al. 2012
+145	rli140	Wurtzel et al. 2012
+146	rli141	Wurtzel et al. 2012
+147	rli142	Wurtzel et al. 2012
+148	rli143	Wurtzel et al. 2012
+149	rli144	Wurtzel et al. 2012
+150	rli145	Wurtzel et al. 2012
+151	rli146	Wurtzel et al. 2012
+152	rli147	Wurtzel et al. 2012
+153	rli148 - sbrB	Oliver et al. 2009
+154	rli149 - sbrD	Oliver et al. 2009
+155	AdoCbl_riboswitch	Rfam
+156	Cobalamin	Rfam
+157	Cobalamin 2	Rfam
+158	FMN	Rfam
+159	glmS	Rfam
+160	Glycine	Rfam
+161	L10	Rfam
+162	L13	Rfam
+163	L17DE	Rfam
+164	L19	Rfam
+165	L20	Rfam
+166	L21	Rfam
+167	Lysine	Rfam
+168	M-box	Rfam
+169	pan	Rfam
+170	PreQ1	Rfam
+171	PrfA	Johansson et al. 2002
+172	Purine-1	Rfam
+173	Purine-2	Rfam
+174	PyrR-1	Rfam
+175	PyrR-2	Rfam
+176	SAM-SreA	Johansson et al. 2009
+177	SAM-SreB	Johansson et al. 2009
+178	SAM-SreC	Johansson et al. 2009
+179	SAM-SreD	Johansson et al. 2009
+180	SAM-SreE	Johansson et al. 2009
+181	SAM-SreF	Johansson et al. 2009
+182	SAM-SreG	Johansson et al. 2009
+183	T-box-4	Rfam
+184	T-box-1	KEGG DAS
+185	T-box-2	Rfam
+186	T-box-3	Rfam
+187	T-box-4	Rfam
+188	T-box-5	Rfam
+189	T-box-6	Rfam
+190	T-box-7	Rfam
+191	T-box-8	Rfam
+192	T-box-9	Rfam
+193	T-box-10	Rfam
+194	T-box-11	Rfam
+195	T-box-12	Rfam
+196	T-box-13	Rfam
+197	T-box-14	Rfam
+198	TPP-1	Rfam
+199	T-box-15	Rfam
+200	TPP-2	Rfam
+201	yybP-ykoY	Rfam
+202	anti0043	Mraheil et al. 2011
+203	anti0112	Toledo-Arana et al. 2009
+204	anti0172-rli23	Wurtzel et al. 2012
+205	anti0307	Toledo-Arana et al. 2009
+206	anti0330-rli25	Wurtzel et al. 2012
+207	anti0360	Mraheil et al. 2011
+208	anti0387	Wurtzel et al. 2012
+209	anti0421	Wurtzel et al. 2012
+210	anti0424	Wurtzel et al. 2012
+211	anti0441	Wurtzel et al. 2012
+212	anti0469	Mraheil et al. 2011
+213	anti0470	Wurtzel et al. 2012
+214	anti0506-rli30	Wurtzel et al. 2012
+215	anti0570	Wurtzel et al. 2012
+216	anti0571	Wurtzel et al. 2012
+217	anti0605	Wurtzel et al. 2012
+218	anti0647-1	Mraheil et al. 2011
+219	anti0647-2	Toledo-Arana et al. 2009
+220	anti0648-1	Mraheil et al. 2011
+221	anti0648-2	Mraheil et al. 2011
+222	anti0648-T1	Toledo-Arana et al. 2009
+223	anti0648-T2	Toledo-Arana et al. 2009
+224	anti0667	Wurtzel et al. 2012
+225	anti0671	Wurtzel et al. 2012
+226	anti0675	Wurtzel et al. 2012
+227	anti0733	Toledo-Arana et al. 2009
+228	anti0796	Mraheil et al. 2011
+229	anti0799	Wurtzel et al. 2012
+230	anti0811	Wurtzel et al. 2012
+231	anti0828-rli35	Wurtzel et al. 2012
+232	anti0887	Wurtzel et al. 2012
+233	anti0943	Mraheil et al. 2011
+234	anti0945	Mraheil et al. 2011
+235	anti0946-LhrC-5	Mraheil et al. 2011
+236	anti0968	Wurtzel et al. 2012
+237	anti0977-1	Wurtzel et al. 2012
+238	anti0977-2	Mraheil et al. 2011
+239	anti1023	Wurtzel et al. 2012
+240	anti1079	Wurtzel et al. 2012
+241	anti1096	Wurtzel et al. 2012
+242	anti1188	Wurtzel et al. 2012
+243	anti1236	Wurtzel et al. 2012
+244	anti1255	Wurtzel et al. 2012
+245	anti1278	Wurtzel et al. 2012
+246	anti1279	Wurtzel et al. 2012
+247	anti1284	Wurtzel et al. 2012
+248	anti1399	Wurtzel et al. 2012
+249	anti1457	Mraheil et al. 2011
+250	anti1461	Wurtzel et al. 2012
+251	anti1479	Mraheil et al. 2011
+252	anti1655	Wurtzel et al. 2012
+253	anti1670-2	Mraheil et al. 2011
+254	anti1670-1	Wurtzel et al. 2012
+255	anti1677	Wurtzel et al. 2012
+256	anti1707	Wurtzel et al. 2012
+257	anti1708	Wurtzel et al. 2012
+258	anti1734	Wurtzel et al. 2012
+259	anti1749	Mraheil et al. 2011
+260	anti1751	Wurtzel et al. 2012
+261	anti1758	Mraheil et al. 2011
+262	anti1777	Wurtzel et al. 2012
+263	anti1816	Wurtzel et al. 2012
+264	anti1830	Wurtzel et al. 2012
+265	anti1846	Wurtzel et al. 2012
+266	anti1909	Wurtzel et al. 2012
+267	anti1910	Toledo-Arana et al. 2009
+268	anti1967	Mraheil et al. 2011
+269	anti1974	Mraheil et al. 2011
+270	anti1980-2	Toledo-Arana et al. 2009
+271	anti1980-1	Wurtzel et al. 2012
+272	anti1981	Toledo-Arana et al. 2009
+273	anti2044	Toledo-Arana et al. 2009
+274	anti2045	Toledo-Arana et al. 2009
+275	anti2046	Wurtzel et al. 2012
+276	anti2057	Wurtzel et al. 2012
+277	anti2092	Wurtzel et al. 2012
+278	anti2095-rli65	Toledo-Arana et al. 2009
+279	anti2095-1	Toledo-Arana et al. 2009
+280	anti2114	Wurtzel et al. 2012
+281	anti2115	Wurtzel et al. 2012
+282	anti2224	Mraheil et al. 2011
+283	anti2241	Wurtzel et al. 2012
+284	anti2260-1	Wurtzel et al. 2012
+285	anti2260-2	Toledo-Arana et al. 2009
+286	anti2263	Mraheil et al. 2011
+287	anti2270	Mraheil et al. 2011
+288	anti2271	Mraheil et al. 2011
+289	anti2325-2	Toledo-Arana et al. 2009
+290	anti2325-1	Toledo-Arana et al. 2009
+291	anti2394-2	Toledo-Arana et al. 2009
+292	anti2394-1	Toledo-Arana et al. 2009
+293	anti2415	Mraheil et al. 2011
+294	anti2418	Wurtzel et al. 2012
+295	anti2428	Mraheil et al. 2011
+296	anti2530	Mraheil et al. 2011
+297	anti2558	Wurtzel et al. 2012
+298	anti2678	Wurtzel et al. 2012
+299	anti2700	Wurtzel et al. 2012
+300	anti2717	Wurtzel et al. 2012
+301	anti2722	Wurtzel et al. 2012
+302	anti2745	Wurtzel et al. 2012
+303	anti2749	Wurtzel et al. 2012
+304	MogR-T1	Toledo-Arana et al. 2009
+305	MogR-T2	Toledo-Arana et al. 2009

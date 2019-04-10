@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.expdesign.BioCondition" id="BioCondition0">
+  <void property="NGSSeqs">
+   <void method="add">
+    <object class="bacnet.datamodel.dataset.NGS" id="NGS0">
+     <void property="bioCondName">
+      <string>EGDe_30C</string>
+     </void>
+     <void property="datasets">
+      <void method="put">
+       <string>NC_003210.1</string>
+       <object class="bacnet.datamodel.dataset.ExpressionData">
+        <void property="bioCondName">
+         <string>EGDe_30C</string>
+        </void>
+        <void property="chromosomeID">
+         <string>NC_003210.1</string>
+        </void>
+        <void property="genomeName">
+         <string>Listeria monocytogenes EGD-e</string>
+        </void>
+        <void property="name">
+         <string>EGDe_30C_f</string>
+        </void>
+        <void property="type">
+         <object class="java.lang.Enum" id="OmicsData$TypeData0" method="valueOf">
+          <class>bacnet.datamodel.dataset.OmicsData$TypeData</class>
+          <string>TSS</string>
+         </object>
+        </void>
+       </object>
+      </void>
+     </void>
+     <void property="genomeName">
+      <string>Listeria monocytogenes EGD-e</string>
+     </void>
+     <void property="name">
+      <string>EGDe_30C_f</string>
+     </void>
+     <void property="rawDatas">
+      <void method="add">
+       <string>EGDe_30C_TSS_f.wig</string>
+      </void>
+     </void>
+     <void property="type">
+      <object idref="OmicsData$TypeData0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="bacnet.datamodel.dataset.NGS" id="NGS1">
+     <void property="bioCondName">
+      <string>EGDe_30C</string>
+     </void>
+     <void property="datasets">
+      <void method="put">
+       <string>NC_003210.1</string>
+       <object class="bacnet.datamodel.dataset.ExpressionData">
+        <void property="bioCondName">
+         <string>EGDe_30C</string>
+        </void>
+        <void property="chromosomeID">
+         <string>NC_003210.1</string>
+        </void>
+        <void property="genomeName">
+         <string>Listeria monocytogenes EGD-e</string>
+        </void>
+        <void property="name">
+         <string>EGDe_30C_r</string>
+        </void>
+        <void property="type">
+         <object idref="OmicsData$TypeData0"/>
+        </void>
+       </object>
+      </void>
+     </void>
+     <void property="genomeName">
+      <string>Listeria monocytogenes EGD-e</string>
+     </void>
+     <void property="name">
+      <string>EGDe_30C_r</string>
+     </void>
+     <void property="rawDatas">
+      <void method="add">
+       <string>EGDe_30C_TSS_r.wig</string>
+      </void>
+     </void>
+     <void property="type">
+      <object idref="OmicsData$TypeData0"/>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="arrayExpressId">
+   <string>E-GEOD-36060</string>
+  </void>
+  <void property="arrayExpressTechnoId">
+   <string>Illumina Genome Analyzer (Single end)</string>
+  </void>
+  <void property="date">
+   <string>01/01/2011</string>
+  </void>
+  <void property="experienceNb">
+   <int>29</int>
+  </void>
+  <void property="genomeName">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="genomeUsed">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="growth">
+   <void method="add">
+    <string>Exp phase</string>
+   </void>
+  </void>
+  <void property="localization">
+   <void method="add">
+    <string></string>
+   </void>
+  </void>
+  <void property="media">
+   <void method="add">
+    <string>BHI Broth</string>
+   </void>
+  </void>
+  <void property="mediaGrowthProperties">
+   <void method="add">
+    <string></string>
+   </void>
+  </void>
+  <void property="name">
+   <string>EGDe_30C</string>
+  </void>
+  <void property="reference">
+   <string>Wurtzel et al., MSB 2012 (Pubmed:22617957)</string>
+  </void>
+  <void property="time">
+   <string></string>
+  </void>
+  <void property="typeDataContained">
+   <void method="add">
+    <object idref="OmicsData$TypeData0"/>
+   </void>
+  </void>
+ </object>
+</java>

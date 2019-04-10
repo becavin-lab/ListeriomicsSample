@@ -1,0 +1,21 @@
+Antisense	Start	Size	Strand	Transcript	Min Transcript overlap	Significant characteristics	Figure	type
+anti2095-RNA1	2174999	255	+	RNA1			Fig.S5	Long cis-encoded antisense
+anti2095-RNA2	2174999	2149	+	RNA2			Fig.S5	Long cis-encoded antisense
+anti2325-RNA1	2397280	264	+	RNA1			Fig.S6	Long cis-encoded antisense
+anti2325-RNA2	2397280	995	+	RNA2			Fig.S6	Long cis-encoded antisense
+anti2394-RNA1	2468058	216	+	RNA1		Increased in blood	Fig.S7	Long cis-encoded antisense
+anti2394-RNA2	2468058	693	+	RNA2		Increased in blood	Fig.S7	Long cis-encoded antisense
+lmo0111	120158	388	+		419		Fig.S8	Overlapping 3'-UTR
+lmo0734	763634	830	-		756	Increased in stationary phase	Fig.S9	Overlapping 3'-UTR
+lmo1909	1982891	251	+		1278		Fig.S10	Overlapping 3'-UTR
+lmo1980	2052934	101	+		260		Fig.S11	Overlapping 3'-UTR
+lmo1981	2052674	141	-		260		Fig.S11	Overlapping 3'-UTR
+lmo2044	2129095	219	+		423	Decreased in intestinal lumen	Fig.S12	Overlapping 3'-UTR
+lmo2045	2128672	133	-		423	Decreased in intestinal lumen	Fig.S12	Overlapping 3'-UTR
+lmo2259	2347675	390	+		400		Fig.S13	Overlapping 3'-UTR
+lmo0306	331758	312	-		268	Increased in blood	Fig.S14	Overlapping 5'-UTR
+lmo0647-T1	690364	539	-	T1	834	SigB box:gtttgtttgatgatttgatttaagtat, Increased in stationary phase, Decreased in blood, Decreased in sigB mutant	Fig.S15	Overlapping 5'-UTR
+lmo0647-T2	689861	36	-	T2	331		Fig.S15	Overlapping 5'-UTR
+lmo0648	689530	392	+		834	SigB box:gttttttgatgcgataataagggaaa,Increased in stationary phase, Decreased in sigB mutant	Fig.S15	Overlapping 5'-UTR
+MogR-T1	712446	1697	-	T1	1421	SigB box:gtttacaccctaatcatcaggggtaa, Increased in stationary phase, Decreased in sigB mutant, Decreased in blood	Fig. 4	Overlapping 5'-UTR
+MogR-T2	710794	45	-	T2		Increased in blood	Fig. 4	Overlapping 5'-UTR

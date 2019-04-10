@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2106073</int>
+  </void>
+  <void property="end">
+   <int>2106292</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>rliF</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>2106073</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>2106292</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>220</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>feature (Toledo-Arana et al. 2009)</string>
+    <string>sRNA</string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>ref (Toledo-Arana et al. 2009)</string>
+    <string>Mandin, 2007</string>
+   </void>
+   <void method="put">
+    <string>name (Rfam 2012)</string>
+    <string>rliF</string>
+   </void>
+   <void method="put">
+    <string>from (Rfam 2012)</string>
+    <string>2106073</string>
+   </void>
+   <void method="put">
+    <string>to (Rfam 2012)</string>
+    <string>2106292</string>
+   </void>
+   <void method="put">
+    <string>length (Rfam 2012)</string>
+    <string>220</string>
+   </void>
+   <void method="put">
+    <string>strand (Rfam 2012)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Rfam 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Bits score (Rfam 2012)</string>
+    <string>213.26</string>
+   </void>
+   <void method="put">
+    <string>Rfam ID (Rfam 2012)</string>
+    <string>RF01476</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+   <void method="add">
+    <string>Rfam 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>16</string>
+  </void>
+  <void property="length">
+   <int>220</int>
+  </void>
+  <void property="name">
+   <string>rli16 - rliF</string>
+  </void>
+  <void property="ref">
+   <string>Mandin et al. 2007</string>
+  </void>
+  <void property="synonym">
+   <void method="add">
+    <string>rliF</string>
+   </void>
+  </void>
+ </object>
+</java>

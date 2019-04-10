@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2660210</int>
+  </void>
+  <void property="end">
+   <int>2660364</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Wurtzel et al. 2012)</string>
+    <string>rli49</string>
+   </void>
+   <void method="put">
+    <string>from (Wurtzel et al. 2012)</string>
+    <string>2660210</string>
+   </void>
+   <void method="put">
+    <string>to (Wurtzel et al. 2012)</string>
+    <string>2660364</string>
+   </void>
+   <void method="put">
+    <string>length (Wurtzel et al. 2012)</string>
+    <string>155</string>
+   </void>
+   <void method="put">
+    <string>strand (Wurtzel et al. 2012)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Wurtzel et al. 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Inocua presence (Wurtzel et al. 2012)</string>
+    <string>0</string>
+   </void>
+   <void method="put">
+    <string>note (Wurtzel et al. 2012)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>ref (Wurtzel et al. 2012)</string>
+    <string>Toledo-Arana et al</string>
+   </void>
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>rli49</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>2660179</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>2660364</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>186</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>feature (Toledo-Arana et al. 2009)</string>
+    <string>sRNA</string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>ref (Toledo-Arana et al. 2009)</string>
+    <string>Toledo, 2009</string>
+   </void>
+   <void method="put">
+    <string>name (Rfam 2012)</string>
+    <string>rli49</string>
+   </void>
+   <void method="put">
+    <string>from (Rfam 2012)</string>
+    <string>2660202</string>
+   </void>
+   <void method="put">
+    <string>to (Rfam 2012)</string>
+    <string>2660364</string>
+   </void>
+   <void method="put">
+    <string>length (Rfam 2012)</string>
+    <string>163</string>
+   </void>
+   <void method="put">
+    <string>strand (Rfam 2012)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Rfam 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Bits score (Rfam 2012)</string>
+    <string>194.04</string>
+   </void>
+   <void method="put">
+    <string>Rfam ID (Rfam 2012)</string>
+    <string>RF01488</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Wurtzel et al. 2012</string>
+   </void>
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+   <void method="add">
+    <string>Rfam 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>49</string>
+  </void>
+  <void property="length">
+   <int>155</int>
+  </void>
+  <void property="name">
+   <string>rli49</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,51 @@
+ID	Name	Start	Stop	sRNA_strand	Feature	Significant characteristics	Publication
+1	LhrC-1	231884	231994	+	sRNA		Christiansen, 2006
+2	LhrC-2	232086	232197	+	sRNA		Christiansen, 2006
+3	LhrC-3	232289	232400	+	sRNA		Christiansen, 2006
+4	LhrC-4	232492	232605	+	sRNA		Christiansen, 2006
+5	rliA	513584	513807	+	sRNA		Mandin, 2007
+6	rliB	544357	544716	+	sRNA		Mandin, 2007
+7	LhrC-5	981621	981731	+	sRNA		Christiansen, 2006
+8	rliC	1154309	1154671	+	sRNA		Mandin, 2007
+9	rliH	1180826	1181254	+	sRNA		Mandin, 2007
+10	rliD	1359529	1359202	-	sRNA		Mandin, 2007
+11	sbrA	1399363	1399433	+	sRNA		Nielsen, 2008
+12	ssrS	1546531	1546343	-	sRNA	6S	Mandin, 2007
+13	rliE	1584586	1584808	+	sRNA		Mandin, 2007
+14	LhrB	1860008	1859870	-	Leader	Annotated as L20_leader in Rfam	Christiansen, 2006
+15	rnpB	1962188	1961804	-	sRNA		Mandin, 2007
+16	rliF	2106292	2106073	-	sRNA		Mandin, 2007
+17	LhrA	2346434	2346166	-	sRNA	LhrA contains the final part of the lmo2257	Christiansen, 2006
+18	rliG	2386992	2386715	-	sRNA		Mandin, 2007
+19	ssrA	2510220	2509854	-	sRNA	tmRNA	Mandin, 2007
+20	SRP	2784604	2784272	-	sRNA	Partially antisense to lmo2711, size bigger than Rfam annotation	Barry, 1999
+21	rliI	2842200	2841962	-	sRNA		Mandin, 2007
+22	rli22	31997	32107	+	sRNA		Toledo, 2009
+23	rli23	172171	172268	+	sRNA	Antisense to lmo0172: transposase. Similar to rli25 and rli35.	Toledo, 2009
+24	rli24	271029	271186	+	sRNA		Toledo, 2009
+25	rli25	357618	357516	-	sRNA	Antisense to lmo00330: transposase. Similar to rli23 and rli35	Toledo, 2009
+26	rli26	388707	388520	-	sRNA		Toledo, 2009
+27	rli27	434831	434929	+	sRNA?		Toledo, 2009
+28	rli28	507394	507206	-	sRNA	Homolog of rli50	Toledo, 2009
+29	rli29	507643	507450	-	sRNA?	Antisense to the 5'UTR of lmo0471	Toledo, 2009
+30	rli30	540785	540670	-	sRNA	Antisense to lmo0506	Toledo, 2009
+31	rli31	597812	597926	+	sRNA		Toledo, 2009
+32	rli32	600750	600604	-	sRNA		Toledo, 2009
+33	rli33	708326	708860	+	sRNA		Toledo, 2009
+34	rli34	803031	802948	-	sRNA?		Toledo, 2009
+35	rli35	855495	855393	-	sRNA	Antisense to lmo00828: transposase. Similar to rli23 and rli25	Toledo, 2009
+36	rli36	859527	859444	-	sRNA		Toledo, 2009
+37	rli37	907576	907832	+	ORF		Toledo, 2009
+38	rli38	1152549	1152917	+	sRNA		Toledo, 2009
+39	rli39	1179807	1179993	+	sRNA	In Rfam Annotated as Cobalamin riboswitch.	Toledo, 2009
+40	rli40	1275810	1275547	-	ORF	ORF of 64 aa. RBS region: AGTGAGGCGTCCTTATG	Toledo, 2009
+41	rli41	1277207	1276713	-	Two ORFs	ORF of 45 aa. RBS region: AGAGGAGGTATTTTCTATG	Toledo, 2009
+42	rli42	1399617	1399447	-	sRNA		Toledo, 2009
+43	rli43	1861630	1861377	-	ORF	ORF of 35aa. RBS region: AGAGTGAGGTGTAATATG	Toledo, 2009
+44	rli44	2039087	2039375	+	ORF	ORF of 28aa. RBS region: GGAAAGGATAACCCATG	Toledo, 2009
+45	rli45	2154775	2154852	+	sRNA?	Antisense to rli46	Toledo, 2009
+46	rli46	2155058	2154765	-	sRNA	Antisense to rli45	Toledo, 2009
+47	rli47	2226024	2226532	+	sRNA		Toledo, 2009
+48	rli48	2361423	2361274	-	sRNA		Toledo, 2009
+49	rli49	2660179	2660364	+	sRNA		Toledo, 2009
+50	rli50	2783274	2783098	-	sRNA	Homolog of rli28	Toledo, 2009

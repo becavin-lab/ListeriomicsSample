@@ -1,0 +1,2953 @@
+Probes	Begin	End	Length	Strand	Description	Note	Operon
+lmo0001	318	1673	1356	+		chromosome replication initiator DnaA	
+lmo0002	1867	3012	1146	+		DNA polymerase III subunit beta	
+lmo0003	3121	4464	1344	+		hypothetical protein	
+lmo0004	4644	4865	222	+		hypothetical protein	
+lmo0005	4869	5981	1113	+		recombination protein F	
+lmo0006	6030	7970	1941	+		DNA gyrase subunit B	
+lmo0007	8065	10593	2529	+		DNA gyrase subunit A	
+lmo0008	10728	12242	1515	+		cardiolipin synthase	
+lmo0009	12258	12776	519	+		spermidine acetyltransferase	
+lmo0010	12918	13886	969	+		mevalonate kinase	
+lmo0011	13843	14814	972	+		mevalonate diphosphate decarboxylase	
+lmo0012	14795	15874	1080	+		mevalonate kinase	
+lmo0013	16219	17325	1107	+		AA3-600 quinol oxidase subunit II	
+lmo0014	17344	19323	1980	+		AA3-600 quinol oxidase subunit I	
+lmo0015	19311	19922	612	+		AA3-600 quinol oxidase subunit III	
+lmo0016	19924	20256	333	+		quinol oxidase aa3-600 subunit IV	
+lmo0017	20308	21426	1119	-		capsule biosynthesis protein CapA	
+lmo0018	21652	23085	1434	+		beta-glucosidase	
+lmo0019	23132	23953	822	-		hypothetical protein	
+lmo0020	24194	24934	741	+		GntR family transcriptional regulator	
+lmo0021	24950	25351	402	+		PTS fructose transporter subunit IIA	
+lmo0022	25351	25839	489	+		PTS fructose transporter subunit IIB	
+lmo0023	25862	26665	804	+		PTS fructose transporter subunit IIC	
+lmo0024	26640	27467	828	+		PTS mannose transporter subunit IID	
+lmo0025	27495	28199	705	+		phosphoheptose isomerase	
+lmo0026	28254	28895	642	+		copper homeostasis protein CutC	
+lmo0027	29100	31004	1905	+		PTS beta-glucoside transporter subunit IIABC	
+lmo0028	31088	31963	876	+		microcin C7 self-immunity protein MccF	
+lmo0029	32197	32535	339	+		hypothetical protein	
+lmo0030	32571	33380	810	-		hypothetical protein	
+lmo0031	33397	34452	1056	-		LacI family transcription regulator	
+lmo0032	34654	35619	966	+		xylose repressor	
+lmo0033	35616	38018	2403	+		endoglucanase	
+lmo0034	38031	39383	1353	+		PTS cellbiose transporter subunit IIC	
+lmo0035	39385	40470	1086	+		glucosamine--fructose-6-phosphate aminotransferase	
+lmo0036	40705	41730	1026	+		putrescine carbamoyltransferase	
+lmo0037	41803	43188	1386	+		amino acid transporter	
+lmo0038	43175	44266	1092	+		agmatine deiminase	
+lmo0039	44282	45223	942	+		carbamate kinase	
+lmo0040	45325	46434	1110	+		agmatine deiminase	
+lmo0041	46451	47230	780	+		hypothetical protein	
+lmo0042	47335	47994	660	+		DedA protein	
+lmo0043	48074	49306	1233	+		arginine deiminase	
+lmo0044	49585	49878	294	+		30S ribosomal protein S6	
+lmo0045	49934	50470	537	+		single-strand binding protein	
+lmo0046	50514	50753	240	+		30S ribosomal protein S18	
+lmo0047	50907	51518	612	+		hypothetical protein	
+lmo0048	51775	52389	615	+		sensor histidine kinase AgrB	
+lmo0049	52373	52534	162	+		hypothetical protein	
+lmo0050	52630	53925	1296	+		histidine kinase	
+lmo0051	53944	54672	729	+		response regulator	
+lmo0052	54839	56812	1974	+		hypothetical protein	
+lmo0053	56815	57261	447	+		50S ribosomal protein L9	
+lmo0054	57286	58638	1353	+		replicative DNA helicase	
+lmo0055	58897	60189	1293	+		adenylosuccinate synthetase	
+lmo0056	60506	60799	294	+		heat shock protein	
+lmo0057	60948	64154	3207	+		hypothetical protein	
+lmo0058	64144	64659	516	+		hypothetical protein	
+lmo0059	64677	64928	252	+		hypothetical protein	
+lmo0060	64950	66146	1197	+		hypothetical protein	
+lmo0061	66160	70656	4497	+		hypothetical protein	
+lmo0062	70676	71071	396	+		hypothetical protein	
+lmo0063	71064	71363	300	+		hypothetical protein	
+lmo0064	71360	72061	702	+		hypothetical protein	
+lmo0065	72062	72394	333	+		hypothetical protein	
+lmo0066	72408	74222	1815	+		toxin	
+lmo0067	74239	75228	990	+		dinitrogenase reductase ADP-ribosylation protein	
+lmo0068	75342	75665	324	+		hypothetical protein	
+lmo0069	75832	76125	294	+		hypothetical protein	
+lmo0070	76262	76984	723	+		hypothetical protein	
+lmo0071	77149	77406	258	+		hypothetical protein	
+lmo0072	77863	78066	204	+		hypothetical protein	
+lmo0073	78090	78374	285	+		hypothetical protein	
+lmo0074	78362	78811	450	+		hypothetical protein	
+lmo0075	79047	79820	774	+		carboxyphosphonoenolpyruvate phosphonomutase	
+lmo0076	79817	80869	1053	+		O6-methylguanine-DNA methyltransferase	
+lmo0077	80892	81530	639	-		hypothetical protein	
+lmo0078	81661	82617	957	+		phosphoglycerate dehydrogenase	
+lmo0079	82959	84437	1479	+		hypothetical protein	
+lmo0080	84451	84849	399	+		hypothetical protein	
+lmo0081	85025	85627	603	+		hypothetical protein	
+lmo0082	85902	86228	327	+		hypothetical protein	
+lmo0083	86323	86691	369	-		MerR family transcriptional regulator	
+lmo0084	86747	87730	984	-		oxidoreductase	
+lmo0085	88121	88810	690	+		hypothetical protein	
+lmo0086	88888	94767	5880	+		hypothetical protein	
+lmo0087	94764	97070	2307	+		hypothetical protein	
+lmo0088	97127	97369	243	+		ATP synthase subunit C	
+lmo0089	97381	98412	1032	+		ATP synthase subunit delta	
+lmo0090	98409	99905	1497	+		ATP synthase F0F1 subunit alpha	
+lmo0091	99902	100771	870	+		ATP synthase subunit gamma	
+lmo0092	100772	102142	1371	+		ATP synthase F0F1 subunit beta	
+lmo0093	102155	102478	324	+		ATP synthase subunit epsilon	
+lmo0094	102468	103028	561	+		hypothetical protein	
+lmo0095	103204	103836	633	+		hypothetical protein	
+lmo0096	104134	105099	966	+		PTS mannose transporter subunit IIAB	
+lmo0097	105123	105929	807	+		PTS mannose transporter subunit IIC	
+lmo0098	105951	106862	912	+		PTS mannose transporter subunit IID	
+lmo0099	106988	107377	390	+		hypothetical protein	
+lmo0100	107499	107849	351	+		hypothetical protein	
+lmo0101	107915	108208	294	-		transcriptional regulator	
+lmo0102	108320	108610	291	+		hypothetical protein	
+lmo0103	108624	109256	633	+		NADH oxidase	
+lmo0104	109349	109720	372	+		hypothetical protein	
+lmo0105	110013	112283	2271	+		chitinase B	
+lmo0106	112386	113288	903	+		transcriptional regulator	
+lmo0107	113313	115094	1782	-		ABC transporter ATP-binding protein	
+lmo0108	115087	116829	1743	-		ABC transporter ATP-binding protein	
+lmo0109	116972	117805	834	+		AraC family transcriptional regulator	
+lmo0110	117841	118956	1116	+		lipase	
+lmo0111	119063	119770	708	+		hypothetical protein	
+lmo0112	119740	120435	696	-		Fnr/Crp family transcriptional regulator	
+lmo0113	120654	121106	453	-		hypothetical protein	
+lmo0114	121112	121447	336	-		repressor C1	
+lmo0115	121664	122092	429	+		hypothetical protein	
+lmo0116	122104	122520	417	+		hypothetical protein	
+lmo0117	122798	123187	390	+		antigen B	
+lmo0118	123200	123712	513	+		antigen A	
+lmo0119	123760	124062	303	+		hypothetical protein	
+lmo0120	124104	124508	405	+		hypothetical protein	
+lmo0121	124495	126363	1869	+		phage tail protein	
+lmo0122	126360	127178	819	+		hypothetical protein	
+lmo0123	127188	128324	1137	+		hypothetical protein	
+lmo0124	128314	128613	300	+		hypothetical protein	
+lmo0125	128628	129203	576	+		hypothetical protein	
+lmo0126	129218	129697	480	+		hypothetical protein	
+lmo0127	129694	130230	537	+		hypothetical protein	
+lmo0128	130249	130671	423	+		hypothetical protein	
+lmo0129	130652	131380	729	+		N-acetylmuramoyl-L-alanine amidase	
+lmo0130	131419	133773	2355	-		5'-nucleotidase	
+lmo0131	133961	134710	750	+		hypothetical protein	
+lmo0132	134782	136290	1509	-		inosine 5-monophosphate dehydrogenase	
+lmo0133	136469	136702	234	+		hypothetical protein	
+lmo0134	136714	136992	279	+		hypothetical protein	
+lmo0135	137323	138897	1575	+		peptide ABC transporter substrate-binding protein	
+lmo0136	138999	139949	951	+		peptide ABC transporter permease	
+lmo0137	139960	140853	894	+		peptide ABC transporter permease	
+lmo0138	141052	141336	285	+		hypothetical protein	
+lmo0139	141337	141705	369	+		hypothetical protein	
+lmo0140	141618	143006	1389	+		hypothetical protein	
+lmo0141	143016	143258	243	+		hypothetical protein	
+lmo0142	143366	143722	357	+		hypothetical protein	
+lmo0142a	143986	144273	288	+		hypothetical protein	
+lmo0143	144097	144273	177	+		hypothetical protein	
+lmo0144	144397	144840	444	+		hypothetical protein	
+lmo0146	145354	145560	207	+		hypothetical protein	
+lmo0147	145869	146306	438	+		hypothetical protein	
+lmo0148	146306	146656	351	+		hypothetical protein	
+lmo0149	146764	147381	618	+		hypothetical protein	
+lmo0150	147399	147764	366	+		hypothetical protein	
+lmo0151	147884	148291	408	+		hypothetical protein	
+lmo0152	148354	150009	1656	-		peptide ABC transporter substrate-binding protein	
+lmo0153	150232	151173	942	+		zinc ABC transporter substrate-binding protein	
+lmo0154	151186	151890	705	+		zinc ABC transporter ATP-binding protein	
+lmo0155	151839	152645	807	+		zinc ABC transporter permease	
+lmo0156	152648	153328	681	-		hypothetical protein	
+lmo0157	153608	155947	2340	+		ATP-dependent helicase	
+lmo0158	155993	156805	813	+		hypothetical protein	
+lmo0159	157089	159470	2382	+		peptidoglycan binding protein	
+lmo0160	159663	161378	1716	+		peptidoglycan binding protein	
+lmo0161	161420	162250	831	-		hypothetical protein	
+lmo0162	162467	163459	993	+		DNA polymerase III subunit delta'	
+lmo0163	163465	164298	834	+		hypothetical protein	
+lmo0164	164309	164698	390	+		DNA replication intiation control protein YabA	
+lmo0165	164756	165508	753	+		hypothetical protein	
+lmo0166	165492	165764	273	+		GIY-YIG nuclease	
+lmo0167	165761	166642	882	+		hypothetical protein	
+lmo0168	166687	166971	285	-		AbrB family transcriptional regulator	
+lmo0169	167086	167943	858	+		glucose transporter	
+lmo0170	168005	169270	1266	+		hypothetical protein	
+lmo0171	169510	172008	2499	+		internalin	
+lmo0174	172903	173208	306	-		transposase	
+lmo0175	173309	174556	1248	-		peptidoglycan-binding protein	
+lmo0176	174834	175694	861	+		glucose transporter	
+lmo0177	175766	177760	1995	+		methionyl-tRNA synthetase	
+lmo0178	177924	179138	1215	+		xylose repressor	
+lmo0179	179174	180052	879	+		sugar ABC transporter permease	
+lmo0180	180052	180900	849	+		sugar ABC transporter permease	
+lmo0181	180928	182184	1257	+		sugar ABC transporter substrate-binding protein	
+lmo0182	182267	185569	3303	+		alpha-glucosidase	
+lmo0183	185572	187863	2292	+		alpha-glucosidase	
+lmo0184	187867	189528	1662	+		oligo-1,6-glucosidase	
+lmo0185	189625	190398	774	+		hypothetical protein	
+lmo0186	190690	191916	1227	+		hypothetical protein	
+lmo0187	192018	192593	576	+		hypothetical protein	
+lmo0188	192586	193473	888	+		dimethyladenosine transferase	
+lmo0189	193593	193850	258	+		Veg protein	
+lmo0190	193989	194870	882	+		4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	
+lmo0191	194892	195629	738	+		phospho-beta-glucosidase	
+lmo0192	195793	196611	819	+		PurR family transcriptional regulator	
+lmo0193	196786	197463	678	+		hypothetical protein	
+lmo0194	197512	198204	693	+		ABC transporter, ATP-binding protein	
+lmo0195	198201	199409	1209	+		ABC transporter permease	
+lmo0196	200094	200402	309	+		regulatory protein SpoVG	
+lmo0197	200522	200830	309	+		regulatory protein SpoVG	
+lmo0198	201217	202590	1374	+		bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	
+lmo0199	202641	203597	957	+	prs	ribose-phosphate pyrophosphokinase	
+lmo0200	203640	204353	714	-	prfA	listeriolysin positive regulatory protein	
+lmo0201	204624	205577	954	-		phosphatidylinositol-specific phospholipase c	
+lmo0202	205819	207408	1590	+		listeriolysin O precursor	
+lmo0203	207739	209271	1533	+		Zinc metalloproteinase precursor	
+lmo0204	209470	211389	1920	+		actin-assembly inducing protein precursor	
+lmo0205	211425	212294	870	+		phospholipase C	
+lmo0206	212366	212689	324	+		hypothetical protein	
+lmo0207	212824	213285	462	+		hypothetical protein	
+lmo0208	213336	213668	333	-		hypothetical protein	
+lmo0209	213735	214409	675	-		hypothetical protein	
+lmo0210	214486	215427	942	-		L-lactate dehydrogenase	
+lmo0211	215721	216344	624	+		50S ribosomal protein L25	
+lmo0212	216434	217018	585	+		hypothetical protein	
+lmo0213	217125	217685	561	+		peptidyl-tRNA hydrolase	
+lmo0214	217800	221339	3540	+		transcription-repair coupling factor	
+lmo0215	221370	222959	1590	+		hypothetical protein	
+lmo0216	222983	223261	279	+		hypothetical protein	
+lmo0217	223490	223876	387	+		DivIC protein	
+lmo0218	224027	224455	429	+		hypothetical protein	
+lmo0219	224562	226508	1947	+		hypothetical protein	
+lmo0220	226854	228929	2076	+		cell division protein FtsH	
+lmo0221	229045	229824	780	+		pantothenate kinase	
+lmo0222	229840	230724	885	+		heat shock protein 33	
+lmo0223	230840	231766	927	+		cysteine synthase	
+lmo0224	232662	233477	816	+		dihydropteroate synthases	
+lmo0225	233491	233865	375	+		dihydroneopterin aldolase	
+lmo0226	233858	234337	480	+		7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase	
+lmo0227	234414	235409	996	+		hypothetical protein	
+lmo0228	235524	237020	1497	+		lysyl-tRNA synthetase	
+lmo0229	248555	249013	459	+		CtsR family transcriptional regulator	
+lmo0230	249026	249544	519	+		hypothetical protein	
+lmo0231	249541	250563	1023	+		ATP:guanido phosphotransferase	
+lmo0232	250592	253054	2463	+		endopeptidase Clp ATP-binding chain C	
+lmo0233	253200	254573	1374	+		DNA repair protein RadA	
+lmo02333	2402357	2402833	477	+		hypothetical protein	
+lmo0234	254707	255780	1074	+		hypothetical protein	
+lmo0235	255800	256498	699	+	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	
+lmo0236	256491	256964	474	+		2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	
+lmo0237	256983	258458	1476	+		glutamyl-tRNA synthetase	
+lmo0238	258856	259470	615	+		serine O-acetyltransferase	
+lmo0239	259477	260892	1416	+		cysteinyl-tRNA synthetase	
+lmo0240	260896	261306	411	+		hypothetical protein	
+lmo0241	261306	262061	756	+		hypothetical protein	
+lmo0242	262064	262576	513	+		hypothetical protein	
+lmo0243	262657	263262	606	+		RNA polymerase factor sigma-70	
+lmo0244	263366	263515	150	+	rpmG	50S ribosomal protein L33 type II	
+lmo0245	263535	263714	180	+		preprotein translocase subunit SecE	
+lmo0246	263844	264377	534	+		transcription antitermination protein NusG	
+lmo0247	264432	264902	471	+		hypothetical protein	
+lmo0248	265029	265454	426	+		50S ribosomal protein L11	
+lmo0249	265494	266183	690	+		50S ribosomal protein L1	
+lmo0250	266431	266931	501	+		50S ribosomal protein L10	
+lmo0251	267010	267372	363	+		50S ribosomal protein L7/L12	
+lmo0252	267530	267916	387	+		penicilinase repressor	
+lmo0253	267909	268949	1041	+		penicillinase antirepressor	
+lmo0254	269067	269729	663	+		hypothetical protein	
+lmo0255	269754	270257	504	+		hypothetical protein	
+lmo0256	270372	270977	606	+		hypothetical protein	
+lmo0257	271324	272502	1179	+		hypothetical protein	
+lmo0258	273003	276557	3555	+		DNA-directed RNA polymerase subunit beta	
+lmo0259	276728	280333	3606	+		DNA-directed RNA polymerase subunit beta'	
+lmo0260	280410	280955	546	+		hypothetical protein	
+lmo0261	281021	282481	1461	+		phospho-beta-glucosidase	
+lmo0262	282755	284227	1473	+		internalin G	
+lmo0263	284365	286011	1647	+		internalin H	
+lmo0264	286219	287718	1500	+		internalin E	
+lmo0265	287853	288992	1140	+		succinyl-diaminopimelate desuccinylase	
+lmo0266	289139	289555	417	+		transcriptional regulator	
+lmo0267	289562	290521	960	+		hypothetical protein	
+lmo0268	290593	291228	636	+		phosphoglycerate mutase	
+lmo0269	291312	293198	1887	+		transporter	
+lmo0270	293212	293841	630	-		hypothetical protein	
+lmo0271	293845	295281	1437	-		phospho-beta-glucosidase	
+lmo0272	295401	296213	813	-		hypothetical protein	
+lmo0273	296349	296852	504	+		hypothetical protein	
+lmo0274	296889	297551	663	-		hypothetical protein	
+lmo0275	297810	298652	843	-		hypothetical protein	
+lmo0276	298669	299490	822	-		hypothetical protein	
+lmo0277	299607	300578	972	+		oxidoreductase	
+lmo0278	300617	301717	1101	-		sugar ABC transporter ATP-binding protein	
+lmo0279	302008	304140	2133	+		anaerobic ribonucleoside triphosphate reductase	
+lmo0280	304133	304684	552	+		anaerobic ribonucleotide reductase activator protein	
+lmo0281	304942	305613	672	-		hypothetical protein	
+lmo0282	305775	306554	780	-		hypothetical protein	
+lmo0283	306644	307306	663	-		ABC transporter permease	
+lmo0284	307303	308319	1017	-		ABC transporter ATP-binding protein	
+lmo0285	308334	309155	822	-		lipoprotein	
+lmo0286	309538	310719	1182	+		aminotransferase	
+lmo0287	310932	311645	714	+		two-component response regulator	
+lmo0288	311830	313662	1833	+		two-component sensor histidine kinase	
+lmo0289	313659	314981	1323	+		hypothetical protein	
+lmo0290	314984	315823	840	+		hypothetical protein	
+lmo0291	315945	316775	831	+		hypothetical protein	
+lmo0292	316873	318375	1503	+		heat-shock protein htrA serine protease	
+lmo0293	319049	319528	480	+		rRNA large subunit methyltransferase	
+lmo0294	319560	320423	864	-		LysR family transcriptional regulator	
+lmo0295	320542	321279	738	+		FMN-containing NADPH-linked nitro/flavin reductase	
+lmo0296	321490	322128	639	+		hypothetical protein	
+lmo0297	322134	324005	1872	-		transcriptional antiterminator BglG	
+lmo0298	324104	325417	1314	-		PTS beta-glucoside transporter subunit IIC	
+lmo0299	325422	325712	291	-		PTS beta-glucoside transporter subunit IIB	
+lmo0300	325729	327120	1392	-		phospho-beta-galactosidase	
+lmo0301	327113	327454	342	-		PTS beta-glucoside transporter subunit IIA	
+lmo0302	327621	327905	285	+		hypothetical protein	
+lmo0303	327941	328495	555	+		putaive secreted, lysin rich protein	
+lmo0304	328701	329966	1266	+		hypothetical protein	
+lmo0305	329923	330999	1077	+		L-allo-threonine aldolase	
+lmo0306	331063	331446	384	-		hypothetical protein	
+lmo0307	331543	332688	1146	+		hypothetical protein	
+lmo0309	333534	335195	1662	+		hypothetical protein	
+lmo0310	335350	336426	1077	+		hypothetical protein	
+lmo0311	336541	337161	621	+		hypothetical protein	
+lmo0312	337161	338363	1203	+		hypothetical protein	
+lmo0313	338341	339087	747	+		hypothetical protein	
+lmo0314	339270	340055	786	+		hypothetical protein	
+lmo0315	340278	340952	675	+		thiamin biosynthesis protein	
+lmo0316	340945	341754	810	+		hydroxyethylthiazole kinase	
+lmo0317	341751	342554	804	+		phosphomethylpyrimidine kinase	
+lmo0318	342551	343195	645	+		thiamine-phosphate pyrophosphorylase	
+lmo0319	343221	344636	1416	-		phospho-beta-glucosidase	
+lmo0320	344850	346049	1200	-		peptidoglycan-bound surface protein	
+lmo0321	346377	347036	660	+		hypothetical protein	
+lmo0322	347219	347611	393	+		hypothetical protein	
+lmo0323	347658	348428	771	-		hypothetical protein	
+lmo0324	348586	349065	480	+		hypothetical protein	
+lmo0325	349326	350228	903	+		transcriptional regulator	
+lmo0326	350392	351264	873	+		transcriptional regulator	
+lmo0327	351459	355505	4047	+		cell surface protein	
+lmo0328	355643	356323	681	+		hypothetical protein	
+lmo0329	356567	356872	306	+		transposase	
+lmo0330	356890	357705	816	+		transposase	
+lmo0331	357775	359676	1902	-		internalin	
+lmo0332	360172	360507	336	+		hypothetical protein	
+lmo0333	360936	366272	5337	+		internalin	
+lmo0334	366508	367032	525	+		hypothetical protein	
+lmo0335	367248	367532	285	+		hypothetical protein	
+lmo0336	367533	367901	369	+		hypothetical protein	
+lmo0337	367898	369373	1476	+		hypothetical protein	
+lmo0338	369377	369757	381	+		hypothetical protein	
+lmo0339	370032	370403	372	+		hypothetical protein	
+lmo0340	370416	370634	219	+		hypothetical protein	
+lmo0341	370732	371064	333	-		hypothetical protein	
+lmo0342	371130	373127	1998	-		transketolase	
+lmo0343	373129	373785	657	-		translaldolase	
+lmo0344	373832	374596	765	-		short chain dehydrogenase	
+lmo0345	374621	375067	447	-		sugar-phosphate isomerase	
+lmo0346	375074	375838	765	-		triosephosphate isomerase	
+lmo0347	375842	376492	651	-		dihydroxyacetone kinase	
+lmo0348	376514	377509	996	-		dihydroxyacetone kinase	
+lmo0349	377531	377872	342	-		hypothetical protein	
+lmo0350	377888	378319	432	-		hypothetical protein	
+lmo0351	378404	378781	378	-		phosphotransferase mannnose-specific family component IIA	
+lmo0352	378964	379728	765	+		DeoR family transcriptional regulator	
+lmo0353	379794	380207	414	+		hypothetical protein	
+lmo0354	380253	381779	1527	-		fatty-acid--CoA ligase	
+lmo0355	382016	383536	1521	+		fumarate reductase subunit A	
+lmo0356	383710	384726	1017	+		oxidoreductase	
+lmo0357	384926	385372	447	+		PTS sugar transporter subunit IIA	
+lmo0358	385386	386780	1395	+		PTS fructose transporter subunit IIBC	
+lmo0359	386780	387640	861	+		D-fructose-1,6-biphosphate aldolase	
+lmo0360	387697	388467	771	+		DeoR family transcriptional regulator	
+lmo0360a	388451	388678	228	-		hypothetical protein	
+lmo0361	388807	389541	735	-		membrane protein	
+lmo0362	389538	389717	180	-		hypothetical protein	
+lmo0363	389813	390430	618	-		peptidase E	
+lmo0364	390529	391473	945	+		transcriptional regulator	
+lmo0365	391604	393052	1449	+		hypothetical protein	
+lmo0366	393086	394246	1161	+		hypothetical protein	
+lmo0367	394264	395529	1266	+		hypothetical protein	
+lmo0368	395602	396111	510	+		hypothetical protein	
+lmo0369	396208	396927	720	+		hypothetical protein	
+lmo0370	396964	397299	336	+		hypothetical protein	
+lmo0371	397340	398053	714	-		GntR family transcriptional regulator	
+lmo0372	398210	399652	1443	+		beta-glucosidase	
+lmo0373	399645	400979	1335	+		PTS beta-glucoside transporter subunit IIC	
+lmo0374	400997	401299	303	+		PTS beta-glucoside transporter subunit IIB	
+lmo0375	401386	401580	195	+		hypothetical protein	
+lmo0376	401619	402539	921	-		transcriptional regulator	
+lmo0377	402641	403060	420	+		hypothetical protein	
+lmo0378	403279	403725	447	+		hypothetical protein	
+lmo0379	403743	404198	456	+		hypothetical protein	
+lmo0380	404365	404994	630	+		hypothetical protein	
+lmo0381	405221	405607	387	+		hypothetical protein	
+lmo0382	405680	406441	762	-		transcriptional regulator	
+lmo0383	406637	408103	1467	+		methylmalonate-semialdehyde dehydrogenase	
+lmo0384	408116	408937	822	+		IolB protein	
+lmo0385	408954	409931	978	+		IolC protein	
+lmo0386	409944	411860	1917	+		IolD protein	
+lmo0387	411992	412363	372	+		hypothetical protein	
+lmo0388	412457	412825	369	+		hypothetical protein	
+lmo0389	412849	413964	1116	-		low temperature requirement protein A	
+lmo0390	414095	414760	666	+		uracil-DNA glycosylase	
+lmo0391	414928	415227	300	+		hypothetical protein	
+lmo0392	415224	416168	945	+		hypothetical protein	
+lmo0393	416203	416652	450	+		hypothetical protein	
+lmo0394	416796	417479	684	+		P60 protein	
+lmo0395	417535	417960	426	+		blasticidin S-acetyltransferase	
+lmo0396	417963	418763	801	-		pyrroline-5-carboxylate reductase	
+lmo0397	418891	419373	483	+		hypothetical protein	
+lmo0398	419544	420002	459	+		PTS sugar transporter subunit IIA	
+lmo0399	419999	420331	333	+		PTS fructose transporter subunit IIB	
+lmo0400	420335	421447	1113	+		PTS fructose transporter subunit IIC	
+lmo0401	421469	424096	2628	+		alpha-mannosidase	
+lmo0402	424130	426064	1935	+		transcriptional antiterminator BglG	
+lmo0403	426190	426606	417	+		hypothetical protein	
+lmo0404	426597	426995	399	+		hypothetical protein	
+lmo0405	427104	428111	1008	+		phosphate transporter	
+lmo0406	428127	428507	381	+		hypothetical protein	
+lmo0407	428576	428968	393	+		hypothetical protein	
+lmo0408	428981	429403	423	+		hypothetical protein	
+lmo0409	429630	432095	2466	+		internalin	
+lmo0411	433153	434745	1593	-		phosphoenolpyruvate synthase	
+lmo0412	434945	435817	873	-		hypothetical protein	
+lmo0413	436161	436352	192	+		hypothetical protein	
+lmo0414	436379	437188	810	+		hypothetical protein	
+lmo0415	437482	438882	1401	+		endo-1,4-beta-xylanase	
+lmo0416	439009	439212	204	+		transcriptional regulator	
+lmo0417	439214	439624	411	+		hypothetical protein	
+lmo0418	439677	439976	300	-		hypothetical protein	
+lmo0419	440056	440610	555	-		hypothetical protein	
+lmo0420	440758	441570	813	+		hypothetical protein	
+lmo0421	441622	442872	1251	-		rod shape-determining protein RodA	
+lmo0422	442869	443300	432	-		lineage-specific thermal regulator protein	
+lmo0423	443303	443851	549	-		RNA polymerase factor sigma C	
+lmo0424	444031	444888	858	-		glucose uptake protein	
+lmo0425	445049	447010	1962	+		transcriptional antiterminator BglG	
+lmo0426	447010	447474	465	+		PTS fructose transporter subunit IIA	
+lmo0427	447471	447791	321	+		PTS fructose transporter subunit IIB	
+lmo0428	447804	448910	1107	+		PTS fructose transporter subunit IIC	
+lmo0429	448926	451508	2583	+		sugar hydrolase	
+lmo0430	451531	452406	876	-		LysR family transcriptional regulator	
+lmo0431	452524	453093	570	+		acetyltransferase	
+lmo0432	453107	453853	747	+		oxidoreductase	
+lmo0433	454534	456936	2403	+		internalin A	
+lmo0434	457021	458913	1893	+		internalin B	
+lmo0435	459681	465722	6042	+		peptidoglycan binding protein	
+lmo0436	465934	466419	486	-		hypothetical protein	
+lmo0437	466517	467362	846	+		hypothetical protein	
+lmo0438	467519	468136	618	+		hypothetical protein	
+lmo0439	468169	469437	1269	-		hypothetical protein	
+lmo0440	469575	470078	504	+		hypothetical protein	
+lmo0441	470122	472158	2037	-		D-alanyl-D-alanine carboxypeptidase	
+lmo0442	472330	472644	315	+		hypothetical protein	
+lmo0443	472781	473710	930	+		LytR family transcriptional regulator	
+lmo0444	473936	476716	2781	+		hypothetical protein	
+lmo0445	476960	478447	1488	+		transcripitonal regulator	
+lmo0446	478721	479710	990	+		penicillin acylase	
+lmo0447	479765	481153	1389	+		glutamate decarboxylase	
+lmo0448	481250	482701	1452	+		amino acid antiporter	
+lmo0448a	482713	482868	156	+		hypothetical protein	
+lmo0449	483166	483891	726	+		hypothetical protein	
+lmo0450	483934	484599	666	-		hypothetical protein	
+lmo0451	484620	485375	756	-		hypothetical protein	
+lmo0452	485493	487652	2160	-		hypothetical protein	
+lmo0453	487649	488797	1149	-		hypothetical protein	
+lmo0454	488802	489749	948	-		hypothetical protein	
+lmo0455	489905	491500	1596	+		hypothetical protein	
+lmo0456	491634	492917	1284	+		permease	
+lmo0457	492918	494018	1101	+		hypothetical protein	
+lmo0458	494011	495561	1551	+		hydantoinase	
+lmo0459	496381	497919	1539	+		transcriptional regulator	
+lmo0460	498171	500240	2070	+		membrane associated lipoprotein	
+lmo0461	500306	500779	474	+		hypothetical protein	
+lmo0462	500799	501284	486	+		hypothetical protein	
+lmo0463	501312	501617	306	+		hypothetical protein	
+lmo0464	501693	501959	267	+		transposase	
+lmo0464a	502198	502362	165	+		hypothetical protein	
+lmo0465	502424	502660	237	-		hypothetical protein	
+lmo0466	502899	504629	1731	+		hypothetical protein	
+lmo0467	504674	504997	324	+		hypothetical protein	
+lmo0468	504972	505277	306	+		hypothetical protein	
+lmo0469	505351	506223	873	+		hypothetical protein	
+lmo0470	506368	506997	630	+		hypothetical protein	
+lmo0471	507723	508733	1011	+		hypothetical protein	
+lmo0472	509400	510287	888	+		hypothetical protein	
+lmo0473	510190	511212	1023	+		hypothetical protein	
+lmo0474	511215	511562	348	+		hypothetical protein	
+lmo0475	511966	512208	243	+		hypothetical protein	
+lmo0476	512291	513268	978	-		oxetanocin A resistance protein OxrB	
+lmo0477	514004	514381	378	+		secreted protein	
+lmo0478	514681	515058	378	+		secreted protein	
+lmo0479	515391	515750	360	+		secreted protein	
+lmo0480	516076	516636	561	+		transcriptional regulator	
+lmo0481	516746	518446	1701	+		hypothetical protein	
+lmo0482	518597	519700	1104	+		ribosomal RNA large subunit methyltransferase N	
+lmo0483	519789	520268	480	+		hypothetical protein	
+lmo0484	520426	520791	366	+		heme-degrading monooxygenase IsdG	
+lmo0485	520961	521536	576	+		hypothetical protein	
+lmo0486	521601	521771	171	+	rpmF	50S ribosomal protein L32	
+lmo0487	521863	522591	729	+		hypothetical protein	
+lmo0488	522628	523521	894	-		LysR family transcriptional regulator	
+lmo0489	523719	525713	1995	+		NADH:flavin oxidoreductase	
+lmo0490	525813	526688	876	+		shikimate 5-dehydrogenase	
+lmo0491	526754	527512	759	+		3-dehydroquinate dehydratase	
+lmo0492	527580	528488	909	-		LysR family transcriptional regulator	
+lmo0493	528563	530323	1761	-		acylase	
+lmo0494	530515	531108	594	+		hypothetical protein	
+lmo0495	531294	532253	960	+		hypothetical protein	
+lmo0496	532328	532552	225	+		hypothetical protein	
+lmo0497	532603	534111	1509	-		sugar transferase	
+lmo0498	534307	534756	450	+		5-phosphate isomerase	
+lmo0499	534753	535421	669	+		ribulose-5-phosphate 3 epimerase	
+lmo0500	535428	536078	651	+		transaldolase	
+lmo0501	536187	538247	2061	+		transcriptional antiterminator BglG	
+lmo0502	538251	538853	603	+		sugar-phosphate isomerase	
+lmo0503	538881	539348	468	+		PTS fructose transporter subunit IIA	
+lmo0504	539365	539763	399	+		hypothetical protein	
+lmo0505	539774	540424	651	+		ribulose-5-phosphate 3-epimerase	
+lmo0506	540421	541467	1047	+		sorbitol dehydrogenase	
+lmo0507	541483	541776	294	+		PTS galactitol transporter subunit IIB	
+lmo0508	541791	543062	1272	+		PTS galactitol transporter subunit IIC	
+lmo0509	543202	544137	936	+		phosphoribosyl pyrophosphate synthetase	
+lmo0510	544923	545501	579	+		hypothetical protein	
+lmo0511	545609	546289	681	+		hypothetical protein	
+lmo0512	546314	546673	360	-		hypothetical protein	
+lmo0513	546680	547138	459	-		hypothetical protein	
+lmo0514	547520	549337	1818	+		internalin	
+lmo0515	549438	549869	432	+		hypothetical protein	
+lmo0516	549916	551346	1431	-		encapsulation protein CapA	
+lmo0517	551467	552282	816	-		phosphoglycerate mutase	
+lmo0518	552563	552931	369	-		hypothetical protein	
+lmo0519	553078	554493	1416	+		multidrug resistance protein	
+lmo0520	554624	555628	1005	+		transcriptional regulator	
+lmo0521	555660	556976	1317	-		6-phospho-beta-glucosidase	
+lmo0522	557178	557930	753	+		transcriptional regulator	
+lmo0523	558037	558480	444	+		hypothetical protein	
+lmo0524	558526	560187	1662	-		sulfate transporter	
+lmo0525	560443	561774	1332	+		hypothetical protein	
+lmo0526	561819	562559	741	-		transcriptional regulator	
+lmo0527	562789	564264	1476	+		transmembrane protein	
+lmo0528	564257	565753	1497	+		hypothetical protein	
+lmo0529	565764	567014	1251	+		glucosaminyltransferase	
+lmo0530	567030	569081	2052	+		hypothetical protein	
+lmo0531	569094	569948	855	+		hypothetical protein	
+lmo0532	570008	570838	831	+		hypothetical protein	
+lmo0533	570916	571185	270	+		hypothetical protein	
+lmo0534	571204	572559	1356	+		hypothetical protein	
+lmo0535	572600	573568	969	-		LacI family transcriptional regulator	
+lmo0536	573740	575062	1323	+		6-phospho-beta-glucosidase	
+lmo0537	575166	576437	1272	+		allantoate amidohydrolase	
+lmo0538	576403	577584	1182	+		N-acyl-L-amino acid amidohydrolase	
+lmo0539	577632	578648	1017	-		tagatose 1,6-diphosphate aldolase	
+lmo0540	578886	580079	1194	+		penicillin-binding protein	
+lmo0541	580119	581039	921	-		ABC transporter substrate-binding protein	
+lmo0542	581150	581500	351	-		PTS sorbitol transporter subunit IIA	
+lmo0543	581519	582505	987	-		PTS sorbitol transporter subunit IIBC	
+lmo0544	582526	583047	522	-		PTS sorbitol transporter subunit IIC	
+lmo0545	583072	583452	381	-		hypothetical protein	
+lmo0546	583507	584757	1251	-		NAD(P)-dependent oxidoreductase	
+lmo0547	585015	585962	948	-		DeoR family transcriptional regulator	
+lmo0548	586329	586994	666	+		hypothetical protein	
+lmo0549	587012	589033	2022	+		internalin	
+lmo0550	589066	589362	297	+		pepdidoglycan-bound protein	
+lmo0551	589406	590248	843	+		hypothetical protein	
+lmo0552	590324	591355	1032	+		hypothetical protein	
+lmo0553	591412	592047	636	-		hypothetical protein	
+lmo0554	592257	593438	1182	+		NADH-dependent butanol dehydrogenase	
+lmo0555	593528	595006	1479	+		di-tripeptide transporter	
+lmo0556	595135	595842	708	+		phosphoglycerate mutase	
+lmo0557	595843	596538	696	+		phosphoglycerate mutase	
+lmo0558	596580	597620	1041	-		hypothetical protein	
+lmo0559	598020	598925	906	+		hypothetical protein	
+lmo0560	598968	600344	1377	-		glutamate dehydrogenase	
+lmo0561	600837	601148	312	-		phosphoribosyl-ATP pyrophosphatase	
+lmo0562	601149	601466	318	-		phosphoribosyl-AMP cyclohydrolase	
+lmo0563	601463	602218	756	-		imidazole glycerol phosphate synthase subunit HisF	
+lmo0564	602208	602930	723	-		1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	
+lmo0565	602909	603535	627	-		imidazole glycerol phosphate synthase subunit HisH	
+lmo0566	603536	604120	585	-		imidazoleglycerol-phosphate dehydratase	
+lmo0567	604121	605404	1284	-		histidinol dehydrogenase	
+lmo0568	605401	606042	642	-		ATP phosphoribosyltransferase	
+lmo0569	606039	607220	1182	-		ATP phosphoribosyltransferase	
+lmo0570	607372	608199	828	+		histidinol-phosphatase	
+lmo0571	608184	608480	297	-		methyltransferase	
+lmo0572	608557	609588	1032	+		hypothetical protein	
+lmo0573	609629	610924	1296	-		hypothetical protein	
+lmo0574	611240	612634	1395	+		beta-glucosidase	
+lmo0575	612678	613406	729	+		GntR family transcriptional regulator	
+lmo0576	613836	615299	1464	+		hypothetical protein	
+lmo0577	615353	615811	459	-		hypothetical protein	
+lmo0578	615825	616577	753	-		hypothetical protein	
+lmo0579	616742	616951	210	+		hypothetical protein	
+lmo0580	616973	617629	657	+		hypothetical protein	
+lmo0581	617660	618844	1185	-		hypothetical protein	
+lmo0582	618932	620380	1449	-		invasion associated secreted endopeptidase	
+lmo0583	620805	623135	2331	+		preprotein translocase subunit SecA	
+lmo0584	623251	624423	1173	+		hypothetical protein	
+lmo0585	624682	625395	714	+		secreted protein	
+lmo0586	625463	626488	1026	+		hypothetical protein	
+lmo0587	626506	628971	2466	+		secreted protein	
+lmo0588	629088	630491	1404	+		DNA photolyase	
+lmo0589	630629	631042	414	+		hypothetical protein	
+lmo0590	631045	632811	1767	+		hypothetical protein	
+lmo0591	632811	633581	771	+		hypothetical protein	
+lmo0592	633709	634251	543	+		hypothetical protein	
+lmo0593	634479	635279	801	+		formate transporter	
+lmo0594	635317	636423	1107	-		homoserine O-acetyltransferase	
+lmo0595	636440	637717	1278	-		O-acetylhomoserine sulfhydrylase	
+lmo0596	638165	638692	528	+		hypothetical protein	
+lmo0597	638781	639482	702	-		Crp/Fnr family transcriptional regulator	
+lmo0597a	639558	640106	549	-		hypothetical protein	
+lmo0599	640300	640632	333	+		hypothetical protein	
+lmo0600	640625	641215	591	+		hypothetical protein	
+lmo0601	641208	642308	1101	+		cell surface protein	
+lmo0602	642414	642914	501	+		transcripitonal regulator	
+lmo0603	642962	643348	387	-		hypothetical protein	
+lmo0604	643400	643744	345	-		hypothetical protein	
+lmo0605	643891	645231	1341	-		hypothetical protein	
+lmo0606	645397	645858	462	+		MarR family transcriptional regulator	
+lmo0607	645878	647590	1713	+		ABC transporter ATP-binding protein	
+lmo0608	647587	649404	1818	+		ABC transporter ATP-binding protein	
+lmo0609	649520	649819	300	+		phage shock protein E	
+lmo0610	649864	651633	1770	-		internalin	
+lmo0611	651794	652420	627	-		azoreductase	
+lmo0612	652589	653044	456	+		MarR family transcriptional evidence	
+lmo0613	653041	653982	942	+		oxidoreductase	
+lmo0614	654078	654611	534	+		hypothetical protein	
+lmo0615	654608	654850	243	-		hypothetical protein	
+lmo0616	654957	656708	1752	+		glycerophosphoryl diester phosphodiesterase	
+lmo0617	656749	657243	495	-		hypothetical protein	
+lmo0618	657323	658465	1143	-		protein kinase	
+lmo0619	658572	659027	456	+		hypothetical protein	
+lmo0620	659083	659475	393	+		hypothetical protein	
+lmo0621	659572	660312	741	+		hypothetical protein	
+lmo0622	660398	660676	279	+		hypothetical protein	
+lmo0623	660692	660958	267	+		hypothetical protein	
+lmo0624	660996	661439	444	-		hypothetical protein	
+lmo0625	661470	662171	702	-		hypothetical protein	
+lmo0626	662257	663936	1680	-		hypothetical protein	
+lmo0627	664242	668990	4749	+		pepdidoglycan bound protein	
+lmo0628	669086	669361	276	+		hypothetical protein	
+lmo0629	669423	669950	528	+		hypothetical protein	
+lmo0630	670309	672339	2031	+		transcriptional antiterminator BglG	
+lmo0631	672341	672793	453	+		PTS fructose transporter subunit IIA	
+lmo0632	672794	673855	1062	+		PTS fructose transporter subunit IIC	
+lmo0633	673870	674178	309	+		PTS fructose transporter subunit IIB	
+lmo0634	674205	675473	1269	+		tagatose 6-phosphate kinase	
+lmo0635	675563	676267	705	+		hypothetical protein	
+lmo0636	676372	676788	417	+		hypothetical protein	
+lmo0637	676802	677395	594	+		hypothetical protein	
+lmo0638	678494	679123	630	+		hypothetical protein	
+lmo0639	679763	680296	534	+		transcripitonal regulator	
+lmo0640	680360	681277	918	+		oxidoreductase	
+lmo0641	681543	683423	1881	+		heavy metal-transporting ATPase	
+lmo0642	683519	684247	729	+		hypothetical protein	
+lmo0643	684390	685040	651	+		transaldolase	
+lmo0644	685083	686903	1821	-		hypothetical protein	
+lmo0645	687138	688529	1392	+		amino acid transporter	
+lmo0646	688619	689458	840	+		hypothetical protein	
+lmo0647	689541	689825	285	-		hypothetical protein	
+lmo0648	689923	690873	951	+		hypothetical protein	
+lmo0649	690897	691538	642	+		transcriptional regulator	
+lmo0650	691581	694271	2691	+		hypothetical protein	
+lmo0651	694317	694964	648	+		transcriptional regulator	
+lmo0652	694973	695509	537	-		hypothetical protein	
+lmo0653	695496	696416	921	-		hypothetical protein	
+lmo0654	696606	696815	210	+		hypothetical protein	
+lmo0655	696883	697590	708	+		phosphoprotein phosphatase	
+lmo0656	697634	698197	564	-		hypothetical protein	
+lmo0657	698317	698733	417	+		hypothetical protein	
+lmo0658	698785	699420	636	+		hypothetical protein	
+lmo0659	699410	700306	897	-		transcriptional regulator	
+lmo0660	700537	700821	285	+		transposase	
+lmo0661	700876	701184	309	-		hypothetical protein	
+lmo0662	701247	702062	816	-		phosphomethylpyrimidine kinase	
+lmo0663	702088	702954	867	-		hypothetical protein	
+lmo0664	703128	703691	564	+		acetyl transferase	
+lmo0665	703688	703951	264	+		hypothetical protein	
+lmo0666	703961	704338	378	+		hypothetical protein	
+lmo0667	704452	705387	936	+		ABC transporter ATP-binding protein	
+lmo0668	705380	706150	771	+		ABC transporter permease	
+lmo0669	706408	707292	885	+		oxidoreductase	
+lmo0670	707310	707486	177	+		hypothetical protein	
+lmo0671	707612	708220	609	+		hypothetical protein	
+lmo0672	709134	709562	429	+		hypothetical protein	
+lmo0673	709601	709810	210	-		hypothetical protein	
+lmo0674	709829	710749	921	-		hypothetical protein	
+lmo0675	711121	711435	315	+		hypothetical protein	
+lmo0676	711428	712195	768	+		flagellar biosynthesis protein FliP	
+lmo0677	712208	712480	273	+		flagellar biosynthesis protein FliQ	
+lmo0678	712483	713244	762	+		flagellar biosynthesis protein FliR	
+lmo0679	713260	714306	1047	+		flagellar biosynthesis protein FlhB	
+lmo0680	714353	716428	2076	+		flagellar biosynthesis protein FlhA	
+lmo0681	716450	717673	1224	+		flagellar biosynthesis regulator FlhF	
+lmo0682	717670	718449	780	+		flagellar basal body rod protein FlgG	
+lmo0683	718478	719266	789	+		chemotaxis protein CheR	
+lmo0684	719291	719626	336	+		hypothetical protein	
+lmo0685	719653	720504	852	+		flagellar motor protein MotA	
+lmo0686	720464	721291	828	+		flagellar motor rotation MotB	
+lmo0687	721301	721801	501	+		hypothetical protein	
+lmo0688	721824	723737	1914	+		hypothetical protein	
+lmo0689	723750	724658	909	+		chemotaxis protein CheV	
+lmo0690	724896	725759	864	+		flagellin	
+lmo0691	726034	726393	360	+		chemotaxis response regulator CheY	
+lmo0692	726413	728269	1857	+		two-component sensor histidine kinase CheA	
+lmo0693	728282	728581	300	+		flagellar motor switch protein FliY	
+lmo0694	728600	729010	411	+		hypothetical protein	
+lmo0695	729026	730072	1047	+		hypothetical protein	
+lmo0696	730074	730496	423	+		flagellar basal body rod modification protein	
+lmo0697	730516	731751	1236	+		flagellar hook protein FlgE	
+lmo0698	731765	732001	237	+		flagellar motor switch protein	
+lmo0699	732022	733014	993	+		flagellar motor switch protein FliM	
+lmo0700	733017	734564	1548	+		flagellar motor switch protein FliY	
+lmo0701	734570	735973	1404	+		hypothetical protein	
+lmo0702	735996	737162	1167	+		hypothetical protein	
+lmo0703	737269	737733	465	+		hypothetical protein	
+lmo0704	737743	738171	429	+		hypothetical protein	
+lmo0705	738191	739711	1521	+		flagellar hook-associated protein FlgK	
+lmo0706	739723	740598	876	+		flagellar hook-associated protein FlgL	
+lmo0707	740610	741899	1290	+		flagellar capping protein FliD	
+lmo0708	741918	742304	387	+		flagellar protein	
+lmo0709	742276	742557	282	+		hypothetical protein	
+lmo0710	742578	742979	402	+		flagellar basal-body rod protein FlgB	
+lmo0711	742991	743401	411	+		flagellar basal body rod protein FlgC	
+lmo0712	743418	743714	297	+		flagellar hook-basal body protein FliE	
+lmo0713	743782	745434	1653	+		flagellar MS-ring protein FliF	
+lmo0714	745437	746543	1107	+		flagellar motor switch protein FliG	
+lmo0715	746530	747222	693	+		flagellar assembly protein H	
+lmo0716	747219	748520	1302	+		flagellum-specific ATP synthase	
+lmo0717	748537	749205	669	+		transglycosylase	
+lmo0718	749219	749863	645	+		hypothetical protein	
+lmo0719	749985	750311	327	+		hypothetical protein	
+lmo0720	750311	750634	324	+		hypothetical protein	
+lmo0721	750680	751327	648	-		fibronectin-binding protein	
+lmo0722	751598	753328	1731	+		pyruvate oxidase	
+lmo0723	753490	755295	1806	+		metyl-accepting chemotaxis protein	
+lmo0724	755308	756036	729	+		hypothetical protein	
+lmo0725	756079	756291	213	-		peptidoglycan-binding protein	
+lmo0726	756494	756637	144	+		hypothetical protein	
+lmo0727	756738	758543	1806	+		glucosamine--fructose-6-phosphate aminotransferase	
+lmo0728	758656	759396	741	+		riboflavin kinase / FAD synthase	
+lmo0729	759479	759958	480	+		hypothetical protein	
+lmo0730	759972	760310	339	+		hypothetical protein	
+lmo0731	760455	760859	405	+		hypothetical protein	
+lmo0732	761552	763468	1917	+		peptidoglycan binding protein	
+lmo0733	763798	764307	510	+		transcriptional regulator	
+lmo0734	764465	765469	1005	-		LacI family transcriptional regulator	
+lmo0735	765683	766354	672	+		ribulose-5-phosphate 3-epimerase	
+lmo0736	766351	766797	447	+		ribose-5-phosphate isomerase B	
+lmo0737	766810	767742	933	+		hypothetical protein	
+lmo0738	767766	769619	1854	+		PTS beta-glucoside transporter subunit IIABC	
+lmo0739	769639	771012	1374	+		6-phospho-beta-glucosidase	
+lmo0740	771026	771685	660	-		transcriptional regulator	
+lmo0741	771949	772326	378	+		GntR family transcriptional regulator	
+lmo0742	772310	772999	690	+		ABC transporter ATP-binding protein	
+lmo0743	772996	773700	705	+		hypothetical protein	
+lmo0744	773715	775715	2001	+		ABC transporter ATP-binding protein	
+lmo0745	775744	776247	504	+		hypothetical protein	
+lmo0746	776398	776697	300	-		hypothetical protein	
+lmo0747	776761	777102	342	+		hypothetical protein	
+lmo0748	777209	777496	288	+		hypothetical protein	
+lmo0749	777493	777699	207	+		hypothetical protein	
+lmo0750	777692	778207	516	+		hypothetical protein	
+lmo0751	778262	778558	297	+		hypothetical protein	
+lmo0752	778654	779490	837	+		hypothetical protein	
+lmo0753	779616	780296	681	+		Crp/Fnr family transcriptional regulator	
+lmo0754	780377	780988	612	+		hypothetical protein	
+lmo0755	781103	781924	822	+		hypothetical protein	
+lmo0756	781896	782801	906	+		ABC transporter ATP-binding protein	
+lmo0757	782794	783774	981	+		hypothetical protein	
+lmo0758	783901	784788	888	+		hypothetical protein	
+lmo0759	784788	785747	960	+		hypothetical protein	
+lmo0760	785754	786362	609	+		hypothetical protein	
+lmo0761	786372	786992	621	+		hypothetical protein	
+lmo0762	787320	788576	1257	+		ATP/GTP-binding protein	
+lmo0763	788642	789514	873	+		hypothetical protein	
+lmo0764	789520	790509	990	+		lipoate-protein ligase	
+lmo0765	790662	791960	1299	+		hypothetical protein	
+lmo0766	791977	792867	891	+		sugar ABC transporter permease	
+lmo0767	792879	793754	876	+		ABC transporter permease	
+lmo0768	793777	795030	1254	+		sugar ABC transporter substrate-binding protein	
+lmo0769	795034	796062	1029	+		alpha-1,6-mannanase	
+lmo0770	796075	797193	1119	-		LacI family transcriptional regulator	
+lmo0771	797353	798105	753	+		hypothetical protein	
+lmo0772	798141	798788	648	+		transcriptional regulator	
+lmo0773	798828	799817	990	-		alcohol dehydrogenase	
+lmo0774	799996	800925	930	+		hypothetical protein	
+lmo0775	800965	801297	333	+		hypothetical protein	
+lmo0776	801336	802202	867	-		transcriptional regulator	
+lmo0777	802356	802739	384	+		hypothetical protein	
+lmo0778	803201	803548	348	+		hypothetical protein	
+lmo0779	803745	804212	468	-		hypothetical protein	
+lmo0780	804382	804729	348	+		hypothetical protein	
+lmo0781	804887	805765	879	-		PTS mannose transporter subunit IID	
+lmo0782	805784	806596	813	-		PTS mannose transporter subunit IIC	
+lmo0783	806770	807255	486	-		PTS mannose transporter subunit IIB	
+lmo0784	807255	807689	435	-		PTS mannose transporter subunit IIB	
+lmo0785	807976	810792	2817	-		transcriptional regulator	
+lmo0786	810985	811620	636	+		ACP phosphodiesterase	
+lmo0787	811813	813189	1377	+		amino acid transporter	
+lmo0788	813451	817878	4428	+		hypothetical protein	
+lmo0789	817914	818762	849	-		hypothetical protein	
+lmo0790	818789	819265	477	-		transcriptional regulator	
+lmo0791	819389	820039	651	+		hypothetical protein	
+lmo0792	820145	821035	891	+		hypothetical protein	
+lmo0793	821070	821771	702	-		hypothetical protein	
+lmo0794	821886	822527	642	-		hypothetical protein	
+lmo0795	822611	823531	921	-		hypothetical protein	
+lmo0796	823638	824168	531	-		hypothetical protein	
+lmo0797	824423	824884	462	+		hypothetical protein	
+lmo0798	824936	826396	1461	-		lysine-specific permease	
+lmo0799	826752	827513	762	-		hypothetical protein	
+lmo0800	827666	828016	351	+		hypothetical protein	
+lmo0801	828168	830108	1941	+		internalin	
+lmo0802	830259	830897	639	+		hypothetical protein	
+lmo0803	831025	833073	2049	+		Na+/H+ antiporter	
+lmo0804	833117	833587	471	-		hypothetical protein	
+lmo0805	833615	834076	462	-		hypothetical protein	
+lmo0806	834287	834829	543	+		transcriptional regulator	
+lmo0807	834845	835939	1095	+		spermidine/putrescine ABC transporter ATP-binding protein	
+lmo0808	835939	836748	810	+		spermidine/putrescine ABC transporter permease	
+lmo0809	836745	837551	807	+		spermidine/putrescine ABC transporter permease	
+lmo0810	837548	838621	1074	+		spermidine/putrescine ABC transporter substrate-binding protein	
+lmo0811	838751	839452	702	+		carbonic anhydrase	
+lmo0812	839520	840062	543	+		hypothetical protein	
+lmo0813	840200	841072	873	+		fructokinase	
+lmo0814	841157	842086	930	+		oxidoreductase	
+lmo0815	842313	842765	453	+		transcriptional regulator	
+lmo0816	842781	843287	507	+		regulatory protein PaiA	
+lmo0817	843311	843724	414	-		PhnB protein	
+lmo0818	843949	846579	2631	+		cation-transporting ATPase	
+lmo0819	846594	847442	849	+		hypothetical protein	
+lmo0820	847552	848109	558	+		acetyltransferase	
+lmo0821	848126	848788	663	+		hypothetical protein	
+lmo0822	848804	849193	390	-		transcriptional regulator	
+lmo0823	849314	850138	825	+		oxidoreductase	
+lmo0824	850216	851184	969	+		hypothetical protein	
+lmo0825	851225	852505	1281	+		3-hydroxy-3-methylglutaryl-CoA reductase	
+lmo0826	852704	854338	1635	+		transporter	
+lmo0827	854443	854748	306	+		transposase	
+lmo0828	854745	855581	837	+		transposase	
+lmo0829	855759	859406	3648	+		pyruvate-flavodoxin oxidoreductase	
+lmo0830	859656	861617	1962	-		fructose-1,6-bisphosphatase	
+lmo0831	861731	862642	912	-		hypothetical protein	
+lmo0832	863322	863606	285	+		transposase	
+lmo0833	863798	864688	891	+		transcriptional regulator	
+lmo0834	864824	865537	714	+		hypothetical protein	
+lmo0835	865530	866534	1005	+		peptidoglycan binding protein	
+lmo0836	866577	866990	414	-		phosphate-starvation-inducible protein PsiE	
+lmo0837	867163	868800	1638	+		hypothetical protein	
+lmo0838	869095	870480	1386	+		sugar:phosphate antiporter	
+lmo0839	870587	871807	1221	-		tetracycline resistance protein	
+lmo0840	871940	872410	471	-		hypothetical protein	
+lmo0841	872616	875258	2643	+		calcium-transporting ATPase	
+lmo0842	875721	881855	6135	+		peptidoglycan binding protein	
+lmo0843	881992	882249	258	-		hypothetical protein	
+lmo0844	882328	882705	378	+		hypothetical protein	
+lmo0845	882962	884065	1104	+		hypothetical protein	
+lmo0846	884170	885270	1101	+		excinuclease ABC subunit C	
+lmo0847	885440	886882	1443	+		glutamine ABC transporter	
+lmo0848	886875	887603	729	+		amino acid ABC transporter ATP-binding protein	
+lmo0849	887652	889502	1851	-		amidase	
+lmo0850	890069	890215	147	+		hypothetical protein	
+lmo0851	890439	891197	759	+		hypothetical protein	
+lmo0852	891277	891831	555	+		TetR family transcriptional regulator	
+lmo0853	891848	892189	342	+		SugE protein	
+lmo0854	892192	892512	321	+		SugE protein	
+lmo0855	892662	893774	1113	+		D-alanyl-alanine synthetase A	
+lmo0856	893838	895211	1374	+		UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diamino pimelate-D-alanyl-D-alanyl ligase	
+lmo0857	895278	895991	714	+		carboxylesterase	
+lmo0858	896003	897028	1026	-		LacI family transcriptional regulator	
+lmo0859	897273	898592	1320	+		sugar ABC transporter substrate-binding protein	
+lmo0860	898589	899467	879	+		sugar ABC transporter permease	
+lmo0861	899454	900287	834	+		sugar ABC transporter permease	
+lmo0862	900303	901835	1533	+		oligo-1,6-glucosidase	
+lmo0863	901837	902751	915	+		hypothetical protein	
+lmo0864	902773	903840	1068	+		hypothetical protein	
+lmo0865	903837	905510	1674	+		phosphomannomutase	
+lmo0866	905962	907524	1563	+		ATP-dependent RNA helicase	
+lmo0866a	907654	907830	177	+		hypothetical protein	
+lmo0867	907979	908467	489	+		hypothetical protein	
+lmo0868	908499	909056	558	-		hypothetical protein	
+lmo0869	909159	910157	999	+		hypothetical protein	
+lmo0870	910173	910484	312	+		hypothetical protein	
+lmo0871	910517	910870	354	-		hypothetical protein	
+lmo0872	910998	912164	1167	+		antibiotic resistance protein	
+lmo0873	912372	914390	2019	+		transcriptional regulator	
+lmo0874	914405	914734	330	+		PTS sugar transporter subunit IIA	
+lmo0875	914735	915070	336	+		PTS beta-glucoside transporter subunit IIB	
+lmo0876	915090	916415	1326	+		PTS sugar transporter subunit IIC	
+lmo0877	916436	917164	729	+		glucosamine-6-phosphate isomerase	
+lmo0878	917164	918117	954	+		oxidoreductase	
+lmo0879	918135	918902	768	+		hypothetical protein	
+lmo0880	919020	920408	1389	+		wall associated protein precursor	
+lmo0881	920452	920928	477	-		hypothetical protein	
+lmo0882	921062	921544	483	+		hypothetical protein	
+lmo0883	921537	923012	1476	+		hypothetical protein	
+lmo0884	923161	924540	1380	+		protoporphyrinogen oxidase	
+lmo0885	924542	924898	357	+		4'-phosphopantetheinyl transferase	
+lmo0886	924917	926023	1107	+		alanine racemase	
+lmo0887	926229	926507	279	+		hypothetical protein	
+lmo0888	926511	926858	348	+		hypothetical protein	
+lmo0889	927110	927946	837	+		positive regulator of sigma-B activity	
+lmo0890	927952	928308	357	+		negative regulation of sigma-B activity	
+lmo0891	928311	928721	411	+		positive regulation of sigma-B activity	
+lmo0892	928738	929742	1005	+		serine phosphatase	
+lmo0893	929892	930236	345	+		anti-anti-sigma factor (antagonist of RsbW)	
+lmo0894	930220	930693	474	+		serine-protein kinase RsbW	
+lmo0895	930671	931450	780	+		RNA polymerase sigma factor SigB	
+lmo0896	931451	932050	600	+		indirect negative regulation of sigma B dependant gene expression (serine phosphatase)	
+lmo0897	932257	933882	1626	+		transporter	
+lmo0898	933959	936136	2178	+		hypothetical protein	
+lmo0899	936136	936603	468	+		hypothetical protein	
+lmo0900	937202	937594	393	+		hypothetical protein	
+lmo0901	937739	939025	1287	+		PTS cellbiose transporter subunit IIC	
+lmo0902	939106	939819	714	+		GntR family transcriptional regulator	
+lmo0903	940316	940696	381	+		hypothetical protein	
+lmo0904	940810	941484	675	+		hypothetical protein	
+lmo0905	941615	942112	498	+		hypothetical protein	
+lmo0906	942148	943497	1350	+		glutathione reductase	
+lmo0907	943526	944200	675	+		phosphoglycerate mutase	
+lmo0908	944243	945379	1137	-		hypothetical protein	
+lmo0909	945520	945912	393	+		GntR family transcriptional regulator	
+lmo0910	945915	947018	1104	+		hypothetical protein	
+lmo0911	947101	947604	504	+		hypothetical protein	
+lmo0912	947718	948530	813	+		formate transporter	
+lmo0913	948754	950220	1467	+		succinate semialdehyde dehydrogenase	
+lmo0914	950363	950668	306	+		PTS sugar transporter subunit IIB	
+lmo0915	950673	951941	1269	+		PTS sugar transporter subunit IIC	
+lmo0916	951956	952306	351	+		PTS sugar transporter subunit IIA	
+lmo0917	952318	953769	1452	+		beta-glucosidase	
+lmo0918	953842	955740	1899	+		transcription antiterminator BglG	
+lmo0919	956031	957602	1572	+		antibiotic ABC transporter ATP-binding protein	
+lmo0920	957724	958764	1041	+		hypothetical protein	
+lmo0921	958783	959622	840	+		hypothetical protein	
+lmo0922	959711	960631	921	+		pantothenate kinase	
+lmo0923	960748	961221	474	+		ABC transporter ATP-binding protein	
+lmo0925	961469	962584	1116	+		hypothetical protein	
+lmo0926	962607	963263	657	+		TetR family transcriptional regulator	
+lmo0927	963294	965255	1962	-		hypothetical protein	
+lmo0928	965513	966136	624	+		3-methyladenine DNA glycosylase	
+lmo0929	966245	966913	669	+		sortase	
+lmo0930	967029	967760	732	+		hypothetical protein	
+lmo0931	967784	968779	996	+		lipoate protein ligase A	
+lmo0932	968819	969424	606	-		hypothetical protein	
+lmo0933	969549	970496	948	-		sugar transferase	
+lmo0934	971037	972176	1140	+		hypothetical protein	
+lmo0935	972197	972706	510	+		rRNA methylase	
+lmo0936	972719	973459	741	+		nitroflavin reductase	
+lmo0937	973509	973670	162	-		hypothetical protein	
+lmo0938	973758	974216	459	-		protein-tyrosine-phosphatase	
+lmo0939	974229	974975	747	-		hypothetical protein	
+lmo0940	975071	976033	963	-		hypothetical protein	
+lmo0941	976065	977039	975	-		hypothetical protein	
+lmo0942	977051	978856	1806	-		heat shock protein 90	
+lmo0943	979059	979529	471	+		non-heme iron-binding ferritin	
+lmo0944	979762	980064	303	+		hypothetical protein	
+lmo0945	980177	981307	1131	+		competence protein ComEC	
+lmo0946	981317	981544	228	+		hypothetical protein	
+lmo0947	981743	982960	1218	-		hypothetical protein	
+lmo0948	982957	983646	690	-		transcriptional regulator	
+lmo0949	983768	984814	1047	+		hypothetical protein	
+lmo0950	984823	985722	900	-		hypothetical protein	
+lmo0951	985743	986564	822	-		hypothetical protein	
+lmo0952	986722	987180	459	+		hypothetical protein	
+lmo0953	987274	987501	228	+		hypothetical protein	
+lmo0954	987735	988049	315	+		hypothetical protein	
+lmo0955	988065	988910	846	+		hypothetical protein	
+lmo0956	989099	990232	1134	+		N-acetylglucosamine-6P-phosphate deacetylase	
+lmo0957	990248	990952	705	+		glucosamine-6-phosphate isomerase	
+lmo0958	990968	991690	723	+		GntR family transcirptional regulator	
+lmo0959	991810	992865	1056	+		undacaprenyl-phosphate N-acetylglucosaminyltransferase	
+lmo0960	992978	993886	909	+		protease	
+lmo0961	993900	995126	1227	+		protease	
+lmo0962	995210	995767	558	+		LemA protein	
+lmo0963	995790	996704	915	+		heat shock protein HtpX	
+lmo0964	996739	997557	819	-		hypothetical protein	
+lmo0965	997795	998379	585	-		hypothetical protein	
+lmo0966	998396	998863	468	-		hypothetical protein	
+lmo0967	999022	999690	669	+		hypothetical protein	
+lmo0968	999722	1000516	795	+	ppnK	inorganic polyphosphate/ATP-NAD kinase	
+lmo0969	1000535	1001425	891	+		ribosomal large subunit pseudouridine synthetase	
+lmo0970	1001503	1002291	789	+		enoyl-ACP reductase	
+lmo0971	1002319	1003593	1275	-		DltD protein for D-alanine esterification of lipoteichoic acid and wall teichoic acid	
+lmo0972	1003593	1003829	237	-		D-alanine--poly(phosphoribitol) ligase subunit 2	
+lmo0973	1003855	1005039	1185	-		DltB protein for D-alanine esterification of lipoteichoic acid and wall teichoic acid	
+lmo0974	1005036	1006568	1533	-		D-alanine--poly(phosphoribitol) ligase subunit 1	
+lmo0975	1006959	1007633	675	+		ribose-5-phosphate isomerase A	
+lmo0976	1007669	1008112	444	-		hypothetical protein	
+lmo0977	1008130	1008879	750	-		hypothetical protein	
+lmo0978	1009098	1010117	1020	+		branched-chain amino acid aminotransferase	
+lmo0979	1010313	1011077	765	+		daunorubicin resistance ATP-binding protein	
+lmo0980	1011074	1011826	753	+		ABC transporter permease	
+lmo0981	1011860	1013335	1476	-		transporter	
+lmo0982	1013475	1014527	1053	+		peptidase	
+lmo0983	1014540	1015019	480	+		glutathione peroxidase	
+lmo0984	1015153	1015608	456	+		hypothetical protein	
+lmo0985	1015605	1016033	429	+		hypothetical protein	
+lmo0986	1016030	1016941	912	+		antibiotic ABC transporter ATP-binding protein	
+lmo0987	1016934	1017788	855	+		CylB protein	
+lmo0988	1017870	1019438	1569	+		peptide chain release factor 3	
+lmo0989	1019545	1019970	426	+		MarR family transcriptional regulator	
+lmo0990	1020022	1021383	1362	+		hypothetical protein	
+lmo0991	1021665	1022432	768	+		hypothetical protein	
+lmo0992	1022535	1023302	768	+		hypothetical protein	
+lmo0993	1023346	1024680	1335	+		Na+-transporting ATP synthase subunit J	
+lmo0994	1024761	1025129	369	-		hypothetical protein	
+lmo0995	1025159	1026190	1032	-		hypothetical protein	
+lmo0996	1026376	1026855	480	+		methylated-DNA-protein-cysteine methyltransferase	
+lmo0997	1026871	1029045	2175	-		ATP-dependent protease	
+lmo0998	1029208	1029819	612	-		hypothetical protein	
+lmo0999	1029965	1030756	792	+		hypothetical protein	
+lmo1000	1030757	1032229	1473	-		phytoene dehydrogenase	
+lmo1001	1032333	1032617	285	-		hypothetical protein	
+lmo1002	1032924	1033190	267	+		phosphocarrier protein HPr	
+lmo1003	1033190	1034908	1719	+		phosphotransferase system enzyme I	
+lmo1004	1035021	1036055	1035	+		hypothetical protein	
+lmo1005	1036068	1036928	861	+		3-hydroxyisobutyrate dehydrogenase	
+lmo1006	1036971	1038116	1146	-		aminotransferase	
+lmo1007	1038336	1038557	222	+		hypothetical protein	
+lmo1008	1038863	1039096	234	+		hypothetical protein	
+lmo1009	1039297	1039749	453	+		hypothetical protein	
+lmo1010	1039746	1040624	879	+		LysR family transcriptional regulator	
+lmo1011	1040672	1041382	711	+		tetrahydrodipicolinate succinylase	
+lmo1012	1041446	1042561	1116	+		N-acyl-L-amino acid amidohydrolase	
+lmo1013	1042605	1043450	846	-		hypothetical protein	
+lmo1014	1043821	1045014	1194	+		glycine/betaine ABC transporter ATP-binding protein	
+lmo1015	1045007	1045855	849	+		glycine/betaine ABC transporter permease	
+lmo1016	1045869	1046771	903	+		glycine/betaine ABC transporter substrate-binding protein	
+lmo1017	1046886	1047377	492	+		PTS glucose transporter subunit IIA	
+lmo1018	1047490	1048185	696	+		copper homeostasis protein CutC	
+lmo1019	1048266	1049138	873	+		hypothetical protein	
+lmo1020	1049273	1049986	714	+		hypothetical protein	
+lmo1021	1049983	1051041	1059	+		two-component sensor histidine kinase	
+lmo1022	1051038	1051676	639	+		two-component response regulator	
+lmo1023	1051695	1052354	660	+		potassium transporter	
+lmo1024	1052509	1053429	921	+		hypothetical protein	
+lmo1025	1053426	1054277	852	+		hypothetical protein	
+lmo1026	1054319	1055284	966	-		LytR protein	
+lmo1027	1055393	1057060	1668	-		hypothetical protein	
+lmo1028	1057067	1057276	210	-		hypothetical protein	
+lmo1029	1057761	1058531	771	+		hypothetical protein	
+lmo1030	1058580	1059608	1029	-		LacI family transcriptional regulator	
+lmo1031	1059872	1061275	1404	+		hypothetical protein	
+lmo1032	1061291	1062115	825	+		transketolase	
+lmo1033	1062108	1063064	957	+		transketolase	
+lmo1034	1063061	1064524	1464	+		glycerol kinase	
+lmo1035	1064521	1066377	1857	+		PTS beta-glucoside transporter subunit IIABC	
+lmo1036	1066397	1067662	1266	+		hypothetical protein	
+lmo1037	1067723	1068526	804	-		hypothetical protein	
+lmo1038	1068594	1069175	582	-		hypothetical protein	
+lmo1039	1069156	1069818	663	-		ABC transporter ATP-binding protein	
+lmo1040	1069821	1070492	672	-		molybdenum ABC transporter permease	
+lmo1041	1070597	1071367	771	+		molybdate ABC transporter substrate-binding protein	
+lmo1042	1071462	1072685	1224	+		molybdopterin biosynthesis protein MoeA	
+lmo1043	1072664	1073149	486	+		molybdopterin-guanine dinucleotide biosynthesis MobB	
+lmo1044	1073146	1073568	423	+		molybdopterin converting factor subunit 2	
+lmo1045	1073552	1073800	249	+		molybdopterin converting factor subunit 1	
+lmo1046	1073813	1074295	483	+		molybdenum cofactor biosynthesis protein MoaC	
+lmo1047	1074324	1075325	1002	+		molybdenum cofactor biosynthesis protein A	
+lmo1048	1075360	1075848	489	-		molybdenum cofactor biosynthesis protein B	
+lmo1049	1075860	1076858	999	-		molybdopterin biosynthesis protein MoeB	
+lmo1050	1076989	1077543	555	+		hypothetical protein	
+lmo1051	1077592	1078143	552	-		peptide deformylase	
+lmo1052	1078977	1080092	1116	+		pyruvate dehydrogenase subunit E1 alpha	
+lmo1053	1080095	1081072	978	+		pyruvate dehydrogenase subunit E1 beta	
+lmo1054	1081183	1082817	1635	+		dihydrolipoamide acetyltransferase	
+lmo1055	1082822	1084225	1404	+		dihydrolipoamide dehydrogenase	
+lmo1056	1084413	1084724	312	+		hypothetical protein	
+lmo1057	1084853	1085806	954	+		L-lactate dehydrogenase	
+lmo1058	1085806	1086078	273	+		hypothetical protein	
+lmo1059	1086100	1086630	531	+		hypothetical protein	
+lmo1060	1086772	1087434	663	+		transcriptional regulator	
+lmo1061	1087409	1088854	1446	+		two-component sensor histidine kinase	
+lmo1062	1088941	1090362	1422	+		ABC transporters permease	
+lmo1063	1090375	1091043	669	+		ABC transporter ATP binding protein	
+lmo1064	1091110	1092054	945	-		transporter	
+lmo1065	1092255	1092869	615	-		hypothetical protein	
+lmo1066	1093000	1093773	774	+		myo-inositol-1(or 4)-monophosphatase	
+lmo1067	1093965	1095803	1839	+		GTP-binding elongation factor	
+lmo1068	1095975	1096835	861	+		hypothetical protein	
+lmo1069	1096874	1097116	243	-		hypothetical protein	
+lmo1070	1097322	1097603	282	+		hypothetical protein	
+lmo1071	1097786	1098988	1203	+		cell division protein FtsW	
+lmo1072	1099266	1102706	3441	+		pyruvate carboxylase	
+lmo1073	1102858	1103757	900	+		metal ABC transporter substrate-binding protein	
+lmo1074	1104048	1104851	804	+		teichoic acid translocation permease TagG	
+lmo1075	1104863	1105864	1002	+		teichoic acid ABC transporter ATP-binding protein	
+lmo1076	1106041	1107759	1719	+		autolysin	
+lmo1077	1107975	1109663	1689	+		teichoic acid biosynthesis protein B	
+lmo1078	1109705	1110577	873	-		UDP-glucose pyrophosphorylase	
+lmo1079	1110769	1113627	2859	+		hypothetical protein	
+lmo1080	1113759	1115630	1872	+		teichoic acid biosynthesis protein GgaB	
+lmo1081	1115647	1116513	867	+		glucose-1-phosphate thymidyl transferase	
+lmo1082	1116532	1117092	561	+		dTDP-sugar epimerase	
+lmo1083	1117093	1118079	987	+		dTDP-D-glucose 4,6-dehydratase	
+lmo1084	1118082	1118912	831	+		DTDP-L-rhamnose synthetase	
+lmo1085	1118932	1121022	2091	+		teichoic acid biosynthesis protein B	
+lmo1086	1121098	1121808	711	+		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	
+lmo1087	1121805	1122830	1026	+		glucitol dehydrogenase	
+lmo1088	1122918	1124078	1161	+		teichoic acid biosynthesis protein B	
+lmo1089	1124079	1124462	384	+		glycerol-3-phosphate cytidylyltransferase	
+lmo1090	1124484	1125467	984	+		glycosyltransferase	
+lmo1091	1125482	1126495	1014	+		glysosyltransferase	
+lmo1092	1126704	1128194	1491	+		nicotinate phosphoribosyltransferase	
+lmo1093	1128206	1129030	825	+		NAD synthetase	
+lmo1094	1129043	1129351	309	+		hypothetical protein	
+lmo1095	1129412	1129816	405	+		PTS cellbiose transporter subunit IIB	
+lmo1096	1129945	1131501	1557	+		GMP synthase	
+lmo1097	1131558	1132760	1203	-		integrase	
+lmo1097a	1132787	1132987	201	-		hypothetical protein	
+lmo1098	1133466	1133696	231	-		hypothetical protein	
+lmo1099	1133698	1134117	420	-		hypothetical protein	
+lmo1100	1134472	1136595	2124	-		cadmium resistance protein	
+lmo1101	1136900	1137400	501	+		lipoprotein signal peptidase	
+lmo1102	1137533	1137868	336	-		cadmium efflux system accessory protein	
+lmo1103	1137997	1138914	918	-		hypothetical protein	
+lmo1104	1138930	1139940	1011	-		P60 protein	
+lmo1105	1139940	1142099	2160	-		hypothetical protein	
+lmo1106	1142099	1144549	2451	-		hypothetical protein	
+lmo1107	1144533	1144928	396	-		hypothetical protein	
+lmo1108	1145211	1145711	501	-		hypothetical protein	
+lmo1109	1145723	1145944	222	-		hypothetical protein	
+lmo1110	1145941	1146231	291	-		hypothetical protein	
+lmo1111	1146228	1147412	1185	-		hypothetical protein	
+lmo1112	1147603	1149003	1401	-		hypothetical protein	
+lmo1113	1149011	1149385	375	-		hypothetical protein	
+lmo1114	1149406	1149720	315	-		hypothetical protein	
+lmo1115	1149887	1152475	2589	-		fibrinogen-binding protein	
+lmo1116	1153010	1153783	774	+		regulatory protein	
+lmo1117	1153848	1154204	357	+		hypothetical protein	
+lmo1118	1154864	1156381	1518	-		hypothetical protein	
+lmo1119	1156384	1157241	858	-		methylase	
+lmo1120	1157592	1158008	417	+		hypothetical protein	
+lmo1121	1158020	1158388	369	+		hypothetical protein	
+lmo1122	1158425	1158844	420	+		hypothetical protein	
+lmo1123	1158930	1159403	474	+		hypothetical protein	
+lmo1124	1159393	1159830	438	+		hypothetical protein	
+lmo1125	1160220	1160753	534	+		hypothetical protein	
+lmo1126	1160778	1161230	453	+		hypothetical protein	
+lmo1127	1161220	1161675	456	+		hypothetical protein	
+lmo1128	1161689	1162711	1023	-		hypothetical protein	
+lmo1129	1162666	1163280	615	-		hypothetical protein	
+lmo1130	1163277	1163996	720	-		transcriptional regulator	
+lmo1131	1164245	1165960	1716	+		ABC transporter ATP-binding protein	
+lmo1132	1165962	1167608	1647	+		ABC transporter ATP-binding protein	
+lmo1133	1167645	1167953	309	-		hypothetical protein	
+lmo1134	1168021	1168368	348	+		regulatory protein	
+lmo1135	1168390	1169541	1152	+		hypothetical protein	
+lmo1136	1170002	1171621	1620	+		internalin	
+lmo1137	1171662	1172009	348	-		hypothetical protein	
+lmo1138	1172076	1172648	573	-		ATP-dependent Clp protease proteolytic subunit	
+lmo1139	1172797	1173036	240	-		hypothetical protein	
+lmo1140	1173144	1173551	408	-		hypothetical protein	
+lmo1141	1173643	1174122	480	+		uroporphyrin-III C-methyltransferase	
+lmo1142	1174241	1175605	1365	+		PduS protein	
+lmo1143	1175602	1176156	555	+		PduT protein	
+lmo1144	1176304	1176654	351	+		PduU protein	
+lmo1145	1176660	1177091	432	+		PduV protein	
+lmo1146	1177116	1177865	750	+		hypothetical protein	
+lmo1147	1177862	1178419	558	+		cobalamin biosynthesis protein CopB	
+lmo1148	1178421	1179167	747	+		cobalamin (5'-phosphatase) synthetase	
+lmo1149	1179168	1179743	576	+		alpha-ribazole-5'-phosphatase	
+lmo1150	1180152	1181036	885	-		transcriptional regulator PocR	
+lmo1151	1181338	1181625	288	+		PduA protein	
+lmo1152	1181720	1182421	702	+		PduB protein	
+lmo1153	1182440	1184104	1665	+		propanediol dehydratase subunit alpha	
+lmo1154	1184142	1184801	660	+		diol dehydratase subunit gamma	
+lmo1155	1184818	1185330	513	+		diol dehydratase subunit gamma	
+lmo1156	1185375	1187195	1821	+		diol dehydratase-reactivating factor large subunit	
+lmo1157	1187192	1187539	348	+		diol dehydratase-reactivating factor small subunit	
+lmo1158	1187552	1187989	438	+		PduK protein	
+lmo1159	1188014	1188289	276	+		carboxysome structural protein	
+lmo1160	1188293	1188928	636	+		PduL protein	
+lmo1161	1188949	1189788	840	+		ethanolamine utilization protein EutJ	
+lmo1162	1189785	1190264	480	+		hypothetical protein	
+lmo1163	1190269	1190532	264	+		carbon dioxide concentrating mechanism protein	
+lmo1164	1190547	1191542	996	+		ATP:cob(I)alamin adenosyltransferase PduO	
+lmo1165	1191549	1192958	1410	+		ethanolamine utilization protein EutE	
+lmo1166	1192974	1194092	1119	+		NADPH-dependent butanol dehydrogenase	
+lmo1167	1194120	1194824	705	+		glycerol uptake facilitator protein	
+lmo1168	1194890	1196083	1194	+		acetate kinase	
+lmo1169	1196097	1197182	1086	+	cobD	threonine-phosphate decarboxylase	
+lmo1170	1197172	1198047	876	+		PduX protein	
+lmo1171	1198637	1199776	1140	+		NADPH-dependent butanol dehydrogenase	
+lmo1172	1200051	1200632	582	+		two-component response regulator	
+lmo1173	1200625	1202082	1458	+		two-component sensor histidine kinase	
+lmo1174	1202171	1203592	1422	+		ethanolamine utilization protein EutA	
+lmo1175	1203634	1204998	1365	+		ethanolamine ammonia-lyase large subunit	
+lmo1176	1205018	1205899	882	+		ethanolamine ammonia-lyase small subunit	
+lmo1177	1205922	1206575	654	+		carboxysome structural protein EutL	
+lmo1178	1206590	1207111	522	+		carboxysome structural protein	
+lmo1179	1207111	1208571	1461	+		alcohol dehydrogenase	
+lmo1180	1208603	1208887	285	+		carboxysome structural protein	
+lmo1181	1209053	1209808	756	+		cobalamin adenosyl transferase	
+lmo1182	1209821	1210462	642	+		PduL protein	
+lmo1183	1210459	1211031	573	+		hypothetical protein	
+lmo1184	1211046	1211315	270	+		carbon dioxide concentrating mechanism protein	
+lmo1185	1211308	1211853	546	+		PduT protein	
+lmo1186	1211869	1212990	1122	+		ethanolamine utilization protein EutH	
+lmo1187	1212983	1213426	444	+		ethanolamine utilization protein EutQ	
+lmo1188	1213636	1215087	1452	+		hypothetical protein	
+lmo1189	1215128	1215679	552	-		transcriptional regulator	
+lmo1190	1215993	1216487	495	+		hypothetical protein	
+lmo1191	1216820	1218178	1359	+		cobyrinic acid a,c-diamide synthase	
+lmo1192	1218175	1219122	948	+		cobalamin biosynthesis protein	
+lmo1193	1219135	1219767	633	+		cobalt-precorrin-8X methylmutase	
+lmo1194	1219783	1220904	1122	+		cobalt-precorrin-6A synthase	
+lmo1195	1220901	1221497	597	+		cobalt-precorrin-6Y C(5)-methyltransferase	
+lmo1196	1221487	1222056	570	+		cobalt-precorrin-6Y C(15)-methyltransferase	
+lmo1197	1222062	1222811	750	+		precorrin-3 methylase	
+lmo1198	1222798	1223829	1032	+		cobalamin biosynthesis protein CbiG	
+lmo1199	1223826	1224551	726	+		precorrin-3B C17-methyltransferase	
+lmo1200	1224548	1225300	753	+		cobalamin biosynthesis protein CbiJ	
+lmo1201	1225300	1226781	1482	+		uroporphyrinogen-III methyltransferase/uroporphyrinogen-III synthase	
+lmo1202	1226778	1227563	786	+		cobalt chelatase	
+lmo1203	1227556	1228266	711	+		cobalt-precorrin-2 C(20)-methyltransferase	
+lmo1204	1228347	1228997	651	+		cobalamin biosynthesis protein CbiM	
+lmo1205	1228994	1229290	297	+		cobalamin biosynthesis protein CbiN	
+lmo1206	1229277	1229954	678	+		cobalamin biosynthesis protein CbiQ	
+lmo1207	1229967	1230773	807	+		cobalt transporter ATP-binding protein CbiO	
+lmo1208	1230773	1232308	1536	+		cobyric acid synthase CbiP	
+lmo1209	1232272	1232838	567	+		hypothetical protein	
+lmo1210	1232884	1233351	468	-		hypothetical protein	
+lmo1211	1233366	1233815	450	-		hypothetical protein	
+lmo1212	1233904	1234434	531	+		hypothetical protein	
+lmo1213	1234465	1234776	312	+		hypothetical protein	
+lmo1214	1234779	1235330	552	+		hypothetical protein	
+lmo1215	1235670	1236539	870	+		N-acetylmuramoyl-L-alanine amidase	
+lmo1216	1236836	1237822	987	+		N-acetylmuramoyl-L-alanine amidase	
+lmo1217	1237934	1239013	1080	+		endo-1,4-beta-glucanase and to aminopeptidase	
+lmo1218	1239039	1239797	759	+		rRNA methylase	
+lmo1219	1239842	1240201	360	-		hypothetical protein	
+lmo1220	1240358	1240681	324	+		hypothetical protein	
+lmo1221	1241048	1242100	1053	+		phenylalanyl-tRNA synthetase subunit alpha	
+lmo1222	1242100	1244508	2409	+	pheT	phenylalanyl-tRNA synthetase subunit beta	
+lmo1223	1244669	1245370	702	+		ABC transporter ATP-binding proteins	
+lmo1224	1245384	1248794	3411	+		hypothetical protein	
+lmo1225	1248892	1249344	453	+		MarR family transcriptional regulator	
+lmo1226	1249360	1252560	3201	+		transporter	
+lmo1227	1252667	1253341	675	+		uracil-DNA glycosylase	
+lmo1228	1253379	1254305	927	-		ribonuclease HIII	
+lmo1229	1254459	1254722	264	+		hypothetical protein	
+lmo1230	1254722	1255264	543	+		hypothetical protein	
+lmo1231	1255357	1257069	1713	+		DNA polymerase beta	
+lmo1232	1257092	1259449	2358	+		recombination and DNA strand exchange inhibitor protein	
+lmo1233	1259530	1259841	312	+		thioredoxin	
+lmo1234	1259917	1261728	1812	+		excinuclease ABC subunit C	
+lmo1235	1261917	1263131	1215	+		aspartate kinase	
+lmo1236	1263187	1263681	495	-		hypothetical protein	
+lmo1237	1263829	1264629	801	+		glutamate racemase	
+lmo1238	1264642	1265388	747	+		ribonuclease PH	
+lmo1239	1265392	1266003	612	+		nucleoside-triphosphatase	
+lmo1240	1266040	1266564	525	+		hypothetical protein	
+lmo1241	1267115	1268473	1359	+		hypothetical protein	
+lmo1242	1268515	1269108	594	-		hypothetical protein	
+lmo1243	1269262	1269669	408	-		hypothetical protein	
+lmo1244	1269834	1270433	600	+		phosphoglycerate mutase	
+lmo1245	1270465	1270725	261	-		hypothetical protein	
+lmo1246	1270849	1272261	1413	+		ATP-dependent RNA helicase	
+lmo1247	1272286	1272549	264	+		hypothetical protein	
+lmo1248	1272717	1273193	477	+		hypothetical protein	
+lmo1249	1273231	1273476	246	-		hypothetical protein	
+lmo1250	1273473	1274678	1206	-		antibiotic resistance protein	
+lmo1251	1274883	1275542	660	+		Fnr/Crp family transcriptional regulator	
+lmo1252	1275845	1276693	849	-		hypothetical protein	
+lmo1253	1277312	1278025	714	+		GntR family transcriptional regulator	
+lmo1254	1278056	1279702	1647	-		alpha,alpha-phosphotrehalase	
+lmo1255	1279721	1281205	1485	-		PTS trehalose transporter subunit IIBC	
+lmo1256	1281321	1281773	453	+		hypothetical protein	
+lmo1257	1281820	1282284	465	-		hypothetical protein	
+lmo1258	1282473	1283393	921	+		hypothetical protein	
+lmo1259	1283413	1284660	1248	-		gamma-glutamyl phosphate reductase	
+lmo1260	1284644	1285474	831	-		gamma-glutamyl kinase	
+lmo1261	1285610	1286749	1140	-		hypothetical protein	
+lmo1262	1286830	1287225	396	-		transcriptional regulator	
+lmo1263	1287376	1287591	216	+		transcriptional regulator	
+lmo1264	1287710	1288243	534	+		hypothetical protein	
+lmo1265	1288261	1288926	666	+		hypothetical protein	
+lmo1266	1289188	1290126	939	+		hypothetical protein	
+lmo1267	1290241	1291524	1284	+		trigger factor	
+lmo1268	1291710	1292969	1260	+		ATP-dependent protease ATP-binding subunit ClpX	
+lmo1269	1293088	1293654	567	+		type I signal peptidase	
+lmo1270	1293689	1294258	570	+		type I signal peptidase	
+lmo1271	1294360	1294902	543	+		type I signal peptidase	
+lmo1272	1294912	1295775	864	+		ribosomal biogenesis GTPase	
+lmo1273	1295772	1296557	786	+		ribonuclease HII	
+lmo1274	1296691	1297551	861	+		polypeptide deformylase	
+lmo1275	1297823	1299901	2079	+		DNA topoisomerase I	
+lmo1276	1299964	1301268	1305	+		tRNA (uracil-5-)-methyltransferase Gid	
+lmo1277	1301551	1302453	903	+		integrase/recombinase	
+lmo1278	1302474	1303013	540	+		ATP-dependent protease peptidase subunit	
+lmo1279	1303027	1304436	1410	+		ATP-dependent protease ATP-binding subunit HslU	
+lmo1280	1304457	1305236	780	+		transcriptional repressor CodY	
+lmo1281	1305390	1305758	369	+		hypothetical protein	
+lmo1282	1305781	1306092	312	+		hypothetical protein	
+lmo1283	1306095	1306967	873	+		LacX protein	
+lmo1284	1307009	1307605	597	-		hypothetical protein	
+lmo1285	1307763	1308170	408	+		hypothetical protein	
+lmo1286	1308351	1310318	1968	+		DNA topoisomerase IV subunit B	
+lmo1287	1310315	1312774	2460	+		DNA topoisomerase IV subunit A	
+lmo1288	1312857	1313324	468	+		S-ribosylhomocysteinase	
+lmo1289	1313654	1315435	1782	+		internalin	
+lmo1290	1315767	1317563	1797	+		internalin	
+lmo1291	1317596	1319464	1869	-		acyltransferase	
+lmo1292	1319677	1320375	699	+		glycerophosphodiester phosphodiesterase	
+lmo1293	1320608	1322284	1677	+		glycerol-3-phosphate dehydrogenase	
+lmo1294	1322410	1323327	918	+		tRNA delta(2)-isopentenylpyrophosphate transferase	
+lmo1295	1323450	1323683	234	+		host factor-1 protein	
+lmo1296	1323794	1325017	1224	+		hypothetical protein	
+lmo1297	1325010	1326236	1227	+		aluminum resistance protein	
+lmo1298	1326440	1326808	369	+		glutamine synthetase repressor	
+lmo1299	1326879	1328213	1335	+		glutamine synthetase	
+lmo1300	1328357	1329652	1296	+		arsenic transporter	
+lmo1301	1329696	1330217	522	-		hypothetical protein	
+lmo1302	1330247	1330861	615	-		LexA family transcriptional regulator	
+lmo1303	1331018	1331347	330	+		cell division suppressor	
+lmo1304	1331439	1331666	228	+		hypothetical protein	
+lmo1305	1331813	1333807	1995	+		transketolase	
+lmo1306	1334028	1334267	240	+		hypothetical protein	
+lmo1307	1334318	1335160	843	-		hypothetical protein	
+lmo1308	1335179	1335910	732	-		hypothetical protein	
+lmo1309	1335932	1336438	507	-		hypothetical protein	
+lmo1310	1336448	1337752	1305	-		hypothetical protein	
+lmo1311	1337742	1338947	1206	-		hypothetical protein	
+lmo1312	1338925	1339299	375	-		hypothetical protein	
+lmo1313	1339592	1340320	729	+		uridylate kinase	
+lmo1314	1340320	1340877	558	+		ribosome recycling factor	
+lmo1315	1341107	1341865	759	+		UDP pyrophosphate synthase	
+lmo1316	1341879	1342667	789	+		phosphatidate cytidylyltransferase	
+lmo1317	1342682	1343824	1143	+		1-deoxy-D-xylulose 5-phosphate reductoisomerase	
+lmo1318	1343838	1345100	1263	+		hypothetical protein	
+lmo1319	1345140	1346846	1707	+		prolyl-tRNA synthetase	
+lmo1320	1346951	1351285	4335	+		DNA polymerase III PolC	
+lmo1321	1351467	1351934	468	+		hypothetical protein	
+lmo1322	1351964	1353082	1119	+		transcription elongation factor NusA	
+lmo1323	1353097	1353381	285	+		hypothetical protein	
+lmo1324	1353374	1353673	300	+		hypothetical protein	
+lmo1325	1353696	1356035	2340	+		translation initiation factor IF-2	
+lmo1326	1356032	1356310	279	+		hypothetical protein	
+lmo1327	1356327	1356671	345	+		ribosome-binding factor A	
+lmo1328	1356769	1357683	915	+		tRNA pseudouridine synthase B	
+lmo1329	1357753	1358697	945	+		riboflavin kinase	
+lmo1330	1358834	1359103	270	+		30S ribosomal protein S15	
+lmo1331	1359352	1361523	2172	+		polynucleotide phosphorylase	
+lmo1332	1361564	1362604	1041	-		GTPase EngC	
+lmo1333	1362765	1363244	480	-		hypothetical protein	
+lmo1333a	1363272	1363739	468	-		hypothetical protein	
+lmo1334	1363272	1363628	357	-		hypothetical protein	
+lmo1335	1363826	1363975	150	+		50S ribosomal protein L33	
+lmo1336	1364031	1364570	540	+		5-formyltetrahydrofolate cyclo-ligase	
+lmo1337	1364669	1366207	1539	+		hypothetical protein	
+lmo1338	1366220	1366432	213	+		hypothetical protein	
+lmo1339	1366457	1367425	969	+		glucose kinase	
+lmo1340	1367559	1368650	1092	+		hypothetical protein	
+lmo1341	1368668	1368985	318	-		competence protein ComG	
+lmo1342	1368982	1369449	468	-		competence protein ComGF	
+lmo1343	1369412	1369696	285	-		competence protein ComGE	
+lmo1344	1369683	1370111	429	-		competence protein ComGD	
+lmo1345	1370108	1370431	324	-		competence protein ComGC	
+lmo1346	1370445	1371476	1032	-		competence protein ComGB	
+lmo1347	1371454	1372476	1023	-		competence protein ComGA	
+lmo1348	1373015	1374103	1089	+		glycine cleavage system aminomethyltransferase T	
+lmo1349	1374119	1375465	1347	+		glycine dehydrogenase subunit 1	
+lmo1350	1375462	1376928	1467	+		glycine dehydrogenase subunit 2	
+lmo1351	1376968	1377348	381	-		hypothetical protein	
+lmo1352	1377410	1377682	273	-		hypothetical protein	
+lmo1353	1377695	1378660	966	-		hypothetical protein	
+lmo1354	1378840	1379901	1062	+		aminopeptidase P	
+lmo1355	1380004	1380561	558	+		elongation factor P	
+lmo1356	1380720	1381187	468	+		acetyl-CoA carboxylase subunit (biotin carboxyl carrier subunit)	
+lmo1357	1381201	1382565	1365	+		acetyl-CoA carboxylase biotin carboxylase subunit	
+lmo1358	1382569	1382976	408	+		hypothetical protein	
+lmo1359	1383007	1383393	387	+		transcription antitermination protein NusB	
+lmo1360	1383489	1384343	855	+		bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase	
+lmo1361	1384362	1385714	1353	+		exodeoxyribonuclease VII large subunit	
+lmo1362	1385704	1385931	228	+		exodeoxyribonuclease VII small subunit	
+lmo1363	1385934	1386815	882	+		geranyltranstransferase	
+lmo1364	1387014	1387214	201	+		cold-shock protein	
+lmo1365	1387381	1389210	1830	+		1-deoxy-D-xylulose-5-phosphate synthase	
+lmo1366	1389207	1390031	825	+		hypothetical protein	
+lmo1367	1390222	1390671	450	+		arginine repressor ArgR	
+lmo1368	1390694	1392385	1692	+		DNA repair protein	
+lmo1369	1392514	1393380	867	+		phosphotransbutyrylase	
+lmo1370	1393517	1394584	1068	+		butyrate kinase	
+lmo1371	1394599	1396026	1428	+		dihydrolipoamide dehydrogenase	
+lmo1372	1396051	1397046	996	+		branched-chain alpha-keto acid dehydrogenase subunit E1	
+lmo1373	1397063	1398046	984	+		branched-chain alpha-keto acid dehydrogenase subunit E1	
+lmo1374	1398077	1399327	1251	+		branched-chain alpha-keto acid dehydrogenase subunit E2	
+lmo1375	1399699	1400796	1098	+		aminotripeptidase	
+lmo1376	1400941	1402359	1419	+		6-phosphogluconate dehydrogenase	
+lmo1377	1402550	1403230	681	+		two-component response regulator	
+lmo1378	1403227	1404678	1452	+		two-component sensor histidine kinase	
+lmo1379	1404714	1405541	828	-		sporulation protein SpoJ	
+lmo1380	1405578	1405859	282	-		hypothetical protein	
+lmo1381	1405945	1406226	282	-		acylphosphatase	
+lmo1382	1406366	1406713	348	+		hypothetical protein	
+lmo1383	1406742	1407818	1077	+		isopentenyl pyrophosphate isomerase	
+lmo1384	1407859	1408818	960	-		hypothetical protein	
+lmo1385	1409070	1409996	927	+		hypothetical protein	
+lmo1386	1410148	1412421	2274	+		DNA translocase	
+lmo1387	1412455	1413294	840	-		pyrroline-5-carboxylate reductase	
+lmo1388	1413646	1414719	1074	+		CD4+ T cell-stimulating antigen, lipoprotein	
+lmo1389	1415152	1416693	1542	+		sugar ABC transporter ATP-binding protein	
+lmo1390	1416686	1417738	1053	+		ABC transporter permease	
+lmo1391	1417735	1418685	951	+		sugar ABC transporter permease	
+lmo1392	1418803	1420095	1293	+		peptidase	
+lmo1393	1420076	1421362	1287	+		peptidase	
+lmo1394	1421454	1422185	732	+		3-ketoacyl-ACP reductase	
+lmo1395	1422236	1423165	930	+		hypothetical protein	
+lmo1396	1423255	1423833	579	+		phosphatidylglycerophosphate synthase	
+lmo1397	1423902	1425146	1245	+		competence damage-inducible protein CinA	
+lmo1398	1425419	1426465	1047	+		recombinase A	
+lmo1399	1426766	1428328	1563	+		phosphodiesterase	
+lmo13a	936986	937147	162	+		hypothetical protein	
+lmo1400	1428442	1428939	498	+		N-acetyltransferase	
+lmo1401	1428945	1429748	804	+		hypothetical protein	
+lmo1402	1429765	1430127	363	+		hypothetical protein	
+lmo1403	1430237	1432819	2583	+		DNA mismatch repair protein MutS	
+lmo1404	1432839	1434644	1806	+		DNA mismatch repair protein	
+lmo1405	1434661	1435209	549	+		anti-terminator regulatory protein	
+lmo1406	1435635	1437866	2232	+		pyruvate formate-lyase	
+lmo1407	1437943	1438689	747	+		pyruvate-formate lyase activating enzyme	
+lmo1408	1438724	1439254	531	-		hypothetical protein	
+lmo1409	1439421	1440614	1194	+		multidrug transporter	
+lmo1410	1440748	1441296	549	+		hypothetical protein	
+lmo1411	1441313	1441540	228	+		hypothetical protein	
+lmo1412	1441581	1442114	534	+		modulates DNA topology	
+lmo1413	1442368	1443687	1320	-		peptidoglycan binding protein	
+lmo1414	1443873	1445042	1170	-		acetyl-CoA:acetyltransferase	
+lmo1415	1445192	1446358	1167	+		hydroxy-3-methylglutaryl-CoA synthase	
+lmo1416	1446383	1446982	600	-		hypothetical protein	
+lmo1417	1447052	1448296	1245	-		hypothetical protein	
+lmo1418	1448315	1449583	1269	-		hypothetical protein	
+lmo1419	1449647	1450684	1038	-		hypothetical protein	
+lmo1420	1450701	1451597	897	-		UDP-N-acetylenolpyruvoylglucosamine reductase	
+lmo1421	1451813	1452799	987	+		glycine/betaine ABC transporter ATP-binding protein	
+lmo1422	1452796	1454310	1515	+		glycine/betaine ABC transporter permease	
+lmo1423	1454347	1455177	831	-		hypothetical protein	
+lmo1424	1455316	1456662	1347	-		manganese transporter	
+lmo1425	1456775	1457446	672	-		glycine/betaine ABC transporter permease	
+lmo1426	1457461	1458387	927	-		glycine/betaine ABC transporter substrate-binding protein	
+lmo1427	1458389	1459045	657	-		glycine/betaine ABC transporter permease	
+lmo1428	1459049	1460242	1194	-		glycine/betaine ABC transporter ATP-binding protein	
+lmo1429	1460534	1461094	561	-		hypothetical protein	
+lmo1430	1461343	1461726	384	-		hypothetical protein	
+lmo1431	1461866	1463467	1602	+		ABC transporter ATP-binding protein	
+lmo1432	1463506	1464156	651	-		hypothetical protein	
+lmo1433	1464209	1465549	1341	-		glutathione reductase	
+lmo1434	1465638	1467305	1668	-		hypothetical protein	
+lmo1435	1467325	1468206	882	-		dihydrodipicolinate synthase	
+lmo1436	1468221	1469432	1212	-		aspartate kinase	
+lmo1437	1469444	1470487	1044	-		aspartate-semialdehyde dehydrogenase	
+lmo1438	1470685	1472850	2166	-		penicillin-binding protein	
+lmo1439	1472980	1473588	609	-		superoxide dismutase	
+lmo1440	1473889	1474689	801	+		hypothetical protein	
+lmo1441	1474802	1475908	1107	+		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	
+lmo1442	1475944	1476651	708	+		transporter	
+lmo1443	1476642	1476968	327	+		hypothetical protein	
+lmo1444	1477050	1477934	885	-		foldase	
+lmo1445	1478071	1478496	426	-		ZurR family transcriptional regulator	
+lmo1446	1478477	1479355	879	-		metal (zinc) transport protein (ABC transporter, permease)	
+lmo1447	1479330	1480103	774	-		metal (zinc) transport protein(ABC transporter, ATP-binding protein)	
+lmo1448	1480246	1481172	927	-		manganese-dependent inorganic pyrophosphatase	
+lmo1449	1481188	1482081	894	-		endonuclease IV	
+lmo1450	1482096	1483403	1308	-		DEAD/DEAH box helicase	
+lmo1451	1483549	1484544	996	+		4-hydroxy-3-methylbut-2-enyl diphosphate reductase	
+lmo1452	1484590	1485711	1122	-		hypothetical protein	
+lmo1453	1485708	1486412	705	-		hypothetical protein	
+lmo1454	1486480	1487604	1125	-		RNA polymerase sigma factor RpoD	
+lmo1455	1487699	1489579	1881	-		DNA primase	
+lmo1456	1489599	1490039	441	-		hypothetical protein	
+lmo1457	1490229	1491053	825	-		hypothetical protein	
+lmo1458	1491087	1493153	2067	-		glycyl-tRNA synthetase subunit beta	
+lmo1459	1493146	1494036	891	-		glycyl-tRNA synthetase subunit alpha	
+lmo1460	1494317	1495084	768	-		DNA repair protein RecO	
+lmo1461	1495221	1495850	630	+		hypothetical protein	
+lmo1462	1495899	1496804	906	-		GTP-binding protein Era	
+lmo1463	1496801	1497196	396	-		cytidine deaminase	
+lmo1464	1497221	1497616	396	-		diacylglycerol kinase	
+lmo1465	1497594	1498079	486	-		metalloprotease	
+lmo1466	1498096	1500252	2157	-		hypothetical protein	
+lmo1467	1500268	1501227	960	-		phosphate starvation-induced protein PhoH	
+lmo1468	1501415	1501861	447	-		hypothetical protein	
+lmo1469	1501881	1502054	174	-		30S ribosomal protein S21	
+lmo1470	1502252	1503019	768	-		16S ribosomal RNA methyltransferase RsmE	
+lmo1471	1503020	1503964	945	-		ribosomal protein L11 methyltransferase	
+lmo1472	1504037	1505170	1134	-		molecular chaperone DnaJ	
+lmo1473	1505312	1507153	1842	-		molecular chaperone DnaK	
+lmo1474	1507187	1507762	576	-		heat shock protein GrpE	
+lmo1475	1507804	1508841	1038	-		heat-inducible transcription repressor	
+lmo1476	1508988	1510145	1158	-		coproporphyrinogen III oxidase	
+lmo1477	1510234	1511262	1029	-		oxidoreductase	
+lmo1478	1511375	1511812	438	+		MerR family transcriptional regulator	
+lmo1479	1511858	1513684	1827	-		GTP-binding protein LepA	
+lmo1480	1513917	1514171	255	+		30S ribosomal protein S20	
+lmo1481	1514257	1515288	1032	-		DNA polymerase III subunit delta	
+lmo1482	1515356	1517578	2223	-		competence protein ComEC	
+lmo1483	1517613	1518173	561	-		competence protein ComEB	
+lmo1484	1518245	1518847	603	-		competence protein ComEA	
+lmo1485	1518950	1519681	732	-		hypothetical protein	
+lmo1486	1519736	1520092	357	-		hypothetical protein	
+lmo1487	1520097	1520672	576	-		hypothetical protein	
+lmo1488	1520659	1521225	567	-		nicotinic acid mononucleotide adenylyltransferase	
+lmo1489	1521243	1521533	291	-		hypothetical protein	
+lmo1490	1521533	1522354	822	-		shikimate 5-dehydrogenase	
+lmo1491	1522374	1523474	1101	-		GTP-binding protein	
+lmo1492	1523471	1523992	522	-		hypothetical protein	
+lmo1493	1524154	1525962	1809	+		oligopeptidase	
+lmo1494	1525997	1526698	702	-		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	
+lmo1495	1526748	1527371	624	-		hypothetical protein	
+lmo1496	1527422	1527904	483	-		transcription elongation factor GreA	
+lmo1497	1528098	1528727	630	-		uridine kinase	
+lmo1498	1528724	1529377	654	-		O-methyltransferase	
+lmo1499	1529454	1530524	1071	-		hypothetical protein	
+lmo1500	1530727	1531353	627	+		hypothetical protein	
+lmo1501	1531398	1531700	303	-		hypothetical protein	
+lmo1502	1531716	1532132	417	-		Holliday junction resolvase	
+lmo1503	1532129	1532401	273	-		hypothetical protein	
+lmo1504	1532493	1535132	2640	-		alanyl-tRNA synthetase	
+lmo1505	1535439	1536134	696	-		ABC transporter ATP-binding protein	
+lmo1506	1536143	1537648	1506	-		transporter	
+lmo1507	1537815	1538501	687	+		response regulator	
+lmo1508	1538498	1539937	1440	+		histidine kinase	
+lmo1509	1539979	1542375	2397	-		exodeoxyribonuclease V	
+lmo1510	1542403	1543041	639	-		hypothetical protein	
+lmo1511	1543082	1543822	741	-		hypothetical protein	
+lmo1512	1543940	1545055	1116	-		tRNA-specific 2-thiouridylase	
+lmo1513	1545074	1546222	1149	-		iron-sulfur cofactor synthesis protein	
+lmo1514	1546608	1547885	1278	-		recombination factor protein RarA	
+lmo1515	1548034	1548456	423	+		hypothetical protein	
+lmo1516	1548701	1549906	1206	+		ammonium transporter NrgA	
+lmo1517	1549920	1550285	366	+		nitrogen regulatory PII protein	
+lmo1518	1550435	1550815	381	+		hypothetical protein	
+lmo1519	1550854	1552629	1776	-		aspartyl-tRNA synthetase	
+lmo1520	1552632	1553909	1278	-		histidyl-tRNA synthetase	
+lmo1521	1554360	1555643	1284	+		N-acetylmuramoyl-L-alanine amidase	
+lmo1522	1555680	1556132	453	-		D-tyrosyl-tRNA(Tyr) deacylase	
+lmo1523	1556148	1558364	2217	-		(p)ppGpp synthetase	
+lmo1524	1558570	1559091	522	-		adenine phosphoribosyltransferase	
+lmo1525	1559081	1561432	2352	-		recombination protein RecJ	
+lmo1526	1561538	1561882	345	-		hypothetical protein	
+lmo1527	1561978	1564242	2265	-		preprotein translocase SecDF	
+lmo1528	1564343	1564633	291	-		hypothetical protein	
+lmo1529	1564776	1565105	330	-		hypothetical protein	
+lmo1530	1565139	1566278	1140	-		queuine tRNA-ribosyltransferase	
+lmo1531	1566365	1567393	1029	-		S-adenosylmethionine:tRNA ribosyltransferase-isomerase	
+lmo1532	1567397	1568404	1008	-		Holliday junction DNA helicase RuvB	
+lmo1533	1568420	1569025	606	-		Holliday junction DNA helicase RuvA	
+lmo1534	1569149	1570084	936	-		L-lactate dehydrogenase	
+lmo1535	1570154	1570879	726	-		hypothetical protein	
+lmo1536	1570990	1571838	849	-		prephenate dehydratase	
+lmo1537	1571905	1573194	1290	-		GTPase ObgE	
+lmo1538	1573354	1574847	1494	-		glycerol kinase	
+lmo1539	1574922	1575740	819	-		glycerol transporter	
+lmo1540	1576107	1576397	291	-		50S ribosomal protein L27	
+lmo1541	1576411	1576728	318	-		hypothetical protein	
+lmo1542	1576747	1577055	309	-		50S ribosomal protein L21	
+lmo1543	1577212	1578573	1362	-		ribonuclease G	
+lmo1544	1578625	1579425	801	-		septum formation inhibitor MinD	
+lmo1545	1579428	1580105	678	-		septum formation inhibitor MinC	
+lmo1546	1580283	1580801	519	-		cell-shape determining protein MreD	
+lmo1547	1580804	1581691	888	-		rod shape-determining protein MreC	
+lmo1548	1581777	1582790	1014	-		rod shape-determining protein MreB	
+lmo1549	1583242	1583916	675	-		DNA repair protein RadC	
+lmo1550	1583928	1584638	711	-		competence protein ComC	
+lmo1551	1584850	1586139	1290	-		folyl-polyglutamate synthetase	
+lmo1552	1586201	1588852	2652	-		valyl-tRNA synthetase	
+lmo1553	1589175	1590464	1290	-		glutamate-1-semialdehyde aminotransferase	
+lmo1554	1590477	1591451	975	-		delta-aminolevulinic acid dehydratase	
+lmo1555	1591448	1592170	723	-		uroporphyrinogen-III synthase	
+lmo1556	1592167	1593096	930	-		porphobilinogen deaminase	
+lmo1557	1593100	1594407	1308	-		glutamyl-tRNA reductase	
+lmo1558	1594535	1595119	585	-		GTP-binding protein EngB	
+lmo1559	1595227	1597149	1923	-		threonyl-tRNA synthetase	
+lmo1560	1597499	1598422	924	-		primosomal protein DnaI	
+lmo1561	1598432	1599808	1377	-		chromosome replication initiation / membrane attachment protein DnaB	
+lmo1562	1599814	1600278	465	-		transcriptional regulator NrdR	
+lmo1563	1600356	1600958	603	-		dephospho-CoA kinase	
+lmo1564	1600975	1601796	822	-		formamidopyrimidine-DNA glycosylase	
+lmo1565	1601820	1604447	2628	-		DNA polymerase I	
+lmo1566	1604613	1605875	1263	-		isocitrate dehydrogenase	
+lmo1567	1605895	1607016	1122	-		citrate synthase	
+lmo1568	1607053	1607514	462	-		hypothetical protein	
+lmo1569	1607671	1608048	378	-		FxsA	
+lmo1570	1608166	1609923	1758	-		pyruvate kinase	
+lmo1571	1610206	1611165	960	-		6-phosphofructokinase	
+lmo1572	1611449	1612405	957	-		acetyl-CoA carboxylase carboxyltransferase subunit alpha	
+lmo1573	1612395	1613279	885	-		acetyl-CoA carboxylase subunit beta	
+lmo1574	1613497	1616823	3327	-		DNA polymerase III subunit alpha	
+lmo1575	1616945	1617880	936	-		hypothetical protein	
+lmo1576	1617901	1619214	1314	-		hypothetical protein	
+lmo1577	1619240	1619926	687	-		metal-dependent hydrolase	
+lmo1578	1620091	1621188	1098	+		X-Pro dipeptidase	
+lmo1579	1621230	1622342	1113	-		alanine dehydrogenase	
+lmo1580	1622583	1623047	465	+		hypothetical protein	
+lmo1581	1623099	1624292	1194	-		acetate kinase	
+lmo1582	1624316	1625314	999	-		hypothetical protein	
+lmo1583	1625505	1626002	498	-		thiol peroxidase	
+lmo1584	1626064	1626600	537	-		hypothetical protein	
+lmo1585	1626620	1627633	1014	-		peptidase	
+lmo1586	1627812	1628615	804	+		inorganic polyphosphate/ATP-NAD kinase	
+lmo1587	1628647	1629597	951	-		ornithine carbamoyltransferase	
+lmo1588	1629594	1630754	1161	-		acetylornithine aminotransferase	
+lmo1589	1630751	1631503	753	-		acetylglutamate kinase	
+lmo1590	1631516	1632712	1197	-		bifunctional ornithine acetyltransferase/N-acetylglutamate synthase	
+lmo1591	1632728	1633759	1032	-		N-acetyl-gamma-glutamyl-phosphate reductase	
+lmo1592	1633933	1635144	1212	-		thiamine biosynthesis protein ThiI	
+lmo1593	1635146	1636285	1140	-		iron-sulfur cofactor synthesis protein NifS	
+lmo1594	1636412	1638127	1716	-		septation ring formation regulator EzrA	
+lmo1595	1638420	1638908	489	+		hypothetical protein	
+lmo1596	1639120	1639722	603	+		30S ribosomal protein S4	
+lmo1596a	1639998	1640198	201	-		hypothetical protein	
+lmo1597	1640225	1641004	780	-		hypothetical protein	
+lmo1598	1641284	1642543	1260	-		tyrosyl-tRNA synthetase	
+lmo1599	1642865	1643872	1008	-		catabolite control protein A	
+lmo1600	1644106	1645191	1086	-		bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase	
+lmo1601	1645412	1645936	525	-		general stress protein	
+lmo1602	1645958	1646413	456	-		hypothetical protein	
+lmo1603	1646669	1647781	1113	+		aminopeptidase	
+lmo1604	1647821	1648366	546	-		2-cys peroxiredoxin	
+lmo1605	1648511	1649854	1344	-		UDP-N-acetylmuramate--L-alanine ligase	
+lmo1606	1650149	1652500	2352	-		DNA translocase	
+lmo1607	1652810	1653427	618	-		phenylalanyl-tRNA synthetase subunit beta	
+lmo1608	1653433	1654233	801	-		hypothetical protein	
+lmo1609	1654268	1654579	312	-		thioredoxin	
+lmo1610	1654691	1654909	219	-		hypothetical protein	
+lmo1611	1654902	1655975	1074	-		aminopeptidase	
+lmo1612	1656173	1656484	312	+		hypothetical protein	
+lmo1613	1656521	1656769	249	-		hypothetical protein	
+lmo1614	1656903	1657754	852	-		hypothetical protein	
+lmo1615	1657815	1658459	645	-		tRNA (guanine-N(7)-)-methyltransferase	
+lmo1616	1658466	1659248	783	-		hypothetical protein	
+lmo1617	1659457	1660926	1470	-		multidrug transporter	
+lmo1618	1660923	1661363	441	-		MarR family transcriptional regulator	
+lmo1619	1661588	1662457	870	-		D-amino acid aminotransferase	
+lmo1620	1662570	1663982	1413	-		dipeptidase PepV	
+lmo1621	1664057	1664470	414	-		hypothetical protein	
+lmo1622	1664575	1665405	831	+		hypothetical protein	
+lmo1623	1665444	1666097	654	-		hypothetical protein	
+lmo1624	1666107	1667720	1614	-		transporter	
+lmo1625	1667831	1669444	1614	-		transporter	
+lmo1626	1669529	1669966	438	-		hypothetical protein	
+lmo1627	1670037	1670810	774	-		tryptophan synthase subunit alpha	
+lmo1628	1670803	1672005	1203	-		tryptophan synthase subunit beta	
+lmo1629	1672008	1672616	609	-		N-(5'-phosphoribosyl)anthranilate isomerase	
+lmo1630	1672613	1673371	759	-		indole-3-glycerol phosphate synthase	
+lmo1631	1673368	1674387	1020	-		anthranilate phosphoribosyltransferase	
+lmo1632	1674359	1674964	606	-		anthranilate synthase subunit beta	
+lmo1633	1674961	1676325	1365	-		anthranilate synthase subunit alpha	
+lmo1634	1677409	1680009	2601	+		bifunctional acetaldehyde-CoA/alcohol dehydrogenase	
+lmo1635	1680132	1680560	429	+		hypothetical protein	
+lmo1636	1680644	1681564	921	+		ABC transporter ATP-binding protein	
+lmo1637	1681561	1682628	1068	+		hypothetical protein	
+lmo1638	1682664	1683638	975	-		hypothetical protein	
+lmo1639	1683635	1684216	582	-		DNA-3-methyladenine glycosidase	
+lmo1640	1684229	1684462	234	-		hypothetical protein	
+lmo1641	1684563	1687265	2703	-		aconitate hydratase	
+lmo1642	1687420	1688223	804	-		sigma factor regulator	
+lmo1643	1688248	1688670	423	-		hypothetical protein	
+lmo1644	1688670	1691888	3219	-		helicase SNF2	
+lmo1645	1691972	1695043	3072	-		ATP-dependent dsDNA exonuclease SbcC	
+lmo1646	1695040	1696164	1125	-		exonuclease SbcD	
+lmo1647	1696280	1696888	609	+		1-acylglycerol-3-phosphate O-acyltransferase	
+lmo1648	1696940	1697302	363	-		hypothetical protein	
+lmo1649	1697476	1697991	516	-		hypothetical protein	
+lmo1650	1698165	1698653	489	-		hypothetical protein	
+lmo1651	1698734	1700539	1806	-		ABC transporter ATP-binding protein	
+lmo1652	1700523	1702292	1770	-		ABC transporter ATP-binding protein	
+lmo1653	1702695	1703315	621	-		cellsurface protein	
+lmo1654	1703330	1703824	495	-		cell surface protein	
+lmo1655	1704618	1705181	564	-		hypothetical protein	
+lmo1656	1705199	1705630	432	-		hypothetical protein	
+lmo1657	1706204	1707088	885	-		elongation factor Ts	
+lmo1658	1707168	1707917	750	-		30S ribosomal protein S2	
+lmo1659	1708312	1708518	207	+		hypothetical protein	
+lmo1660	1708857	1711268	2412	-		leucyl-tRNA synthetase	
+lmo1661	1711672	1712637	966	+		hypothetical protein	
+lmo1662	1712634	1713209	576	+		hypothetical protein	
+lmo1663	1713234	1715099	1866	-		asparagine synthetase	
+lmo1664	1715236	1716435	1200	-		S-adenosylmethionine synthetase	
+lmo1665	1716858	1717160	303	+		hypothetical protein	
+lmo1666	1717193	1722328	5136	-		peptidoglycan-linked protein	
+lmo1667	1722431	1723339	909	-		L-lactate dehydrogenase	
+lmo1668	1723356	1723598	243	-		hypothetical protein	
+lmo1669	1723649	1724122	474	-		hypothetical protein	
+lmo1670	1724196	1724462	267	+		hypothetical protein	
+lmo1671	1724612	1725565	954	+		ABC transporter	
+lmo1672	1725584	1726993	1410	-		O-succinylbenzoic acid--CoA ligase	
+lmo1673	1727009	1727827	819	-		naphthoate synthase	
+lmo1674	1727824	1728651	828	-		prolyl aminopetidase	
+lmo1675	1728653	1730395	1743	-		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	
+lmo1676	1730392	1731780	1389	-		menaquinone-specific isochorismate synthase	
+lmo1677	1731955	1732893	939	+		1,4-dihydroxy-2-naphthoate octaprenyltransferase	
+lmo1678	1732926	1734779	1854	-		bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase	
+lmo1679	1734776	1735948	1173	-		cystathionine beta-lyase	
+lmo1680	1735941	1737065	1125	-		cystathionine gamma-synthase	
+lmo1681	1737087	1739384	2298	-		5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	
+lmo1682	1739674	1740849	1176	-		transporter	
+lmo1683	1748263	1748709	447	-		Fur family transcriptional regulator	
+lmo1684	1748792	1749733	942	-		glycerate dehydrogenase	
+lmo1685	1749878	1751176	1299	+		glutamate-1-semialdehyde aminotransferase	
+lmo1686	1751283	1752371	1089	+		hypothetical protein	
+lmo1687	1752413	1752940	528	-		hypothetical protein	
+lmo1688	1753095	1753841	747	-		enoyl-ACP reductase	
+lmo1689	1753845	1754942	1098	-		A/G-specific adenine glycosylase	
+lmo1690	1755143	1756123	981	+		hypothetical protein	
+lmo1691	1756156	1756617	462	-		deoxyuridine triphosphate nucleotidohydrolase	
+lmo1692	1756629	1756862	234	-		hypothetical protein	
+lmo1693	1756864	1757673	810	-		recombination regulator RecX	
+lmo1694	1757771	1758673	903	+		CDP-abequose synthase	
+lmo1695	1758694	1761291	2598	-		hypothetical protein	
+lmo1696	1761318	1761992	675	-		hypothetical protein	
+lmo1697	1762200	1763165	966	+		hypothetical protein	
+lmo1698	1763209	1763751	543	-		ribosomal-protein-alanine N-acetyltransferase	
+lmo1699	1763941	1764843	903	+		chemotaxis protein	
+lmo1700	1764871	1765077	207	+		hypothetical protein	
+lmo1701	1765117	1765470	354	-		hypothetical protein	
+lmo1702	1765499	1765900	402	-		glutathione transferase	
+lmo1703	1765915	1767294	1380	-		RNA methyltransferase	
+lmo1704	1767359	1767739	381	-		hypothetical protein	
+lmo1705	1767846	1768490	645	+		deoxyguanosine kinase/deoxyadenosine kinase	
+lmo1706	1768520	1769389	870	-		transporter	
+lmo1707	1769479	1769700	222	+		hypothetical protein	
+lmo1708	1769720	1770526	807	-		aminoglycoside N3'-acetyltransferase	
+lmo1709	1770648	1771406	759	-		methionine aminopeptidase	
+lmo1710	1771594	1772040	447	+		flavodoxin	
+lmo1711	1772178	1773410	1233	+		aminopeptidase	
+lmo1712	1773514	1774773	1260	+		multidrug resistance protein	
+lmo1713	1774991	1775983	993	+		rod shape-determining protein MreB	
+lmo1714	1776257	1776829	573	-		hypothetical protein	
+lmo1715	1776910	1777578	669	-		hypothetical protein	
+lmo1716	1777763	1778338	576	+		transcriptional regulator	
+lmo1717	1778415	1779482	1068	-		hypothetical protein	
+lmo1718	1779714	1780802	1089	-		hypothetical protein	
+lmo1719	1780824	1781126	303	-		PTS lichenan transporter subunit IIA	
+lmo1720	1781196	1781504	309	-		PTS lichenan transporter subunit IIB	
+lmo1721	1781661	1784339	2679	-		transcriptional regulator	
+lmo1722	1784473	1785798	1326	-		ATP-dependent RNA helicase	
+lmo1723	1785841	1786614	774	-		hypothetical protein	
+lmo1724	1786607	1787287	681	-		ABC transporter ATP-binding protein	
+lmo1725	1787280	1787648	369	-		GntR family tramscriptional regulator	
+lmo1726	1787769	1788752	984	-		hypothetical protein	
+lmo1727	1788812	1789777	966	-		LacI family transcriptional regulator	
+lmo1728	1789825	1793085	3261	-		cellobiose phosphorylase	
+lmo1729	1793082	1795253	2172	-		beta-glucosidase	
+lmo1730	1795681	1796925	1245	+		sugar ABC transporter substrate-binding protein	
+lmo1731	1796987	1797880	894	+		sugar ABC transporter permease	
+lmo1732	1797897	1798727	831	+		sugar ABC transporter permease	
+lmo1733	1798772	1800241	1470	-		glutamate synthase subunit beta	
+lmo1734	1800256	1804848	4593	-		glutamate synthase large subunit	
+lmo1735	1805041	1805928	888	+		transcription activator of glutamate synthase operon GltC	
+lmo1736	1805925	1806443	519	-		hypothetical protein	
+lmo1737	1806446	1807552	1107	-		glycerol dehydrogenase	
+lmo1738	1807643	1808458	816	-		amino acid ABC transporter substrate-binding protein	
+lmo1739	1808460	1809107	648	-		amino acid ABC transporter ATP-binding protein	
+lmo1740	1809118	1809759	642	-		amino acid ABC transporter permease	
+lmo1741	1810157	1811197	1041	-		histidine kinase	
+lmo1742	1811219	1812961	1743	-		adenine deaminase	
+lmo1743	1812978	1813436	459	-		hypothetical protein	
+lmo1744	1813457	1814332	876	-		hypothetical protein	
+lmo1745	1814403	1815080	678	-		two-component response regulator	
+lmo1746	1815143	1817122	1980	-		ABC transporter permease	
+lmo1747	1817112	1817879	768	-		ABC transporter ATP-binding protein	
+lmo1748	1818007	1818516	510	-		hypothetical protein	
+lmo1749	1818740	1819213	474	+		shikimate kinase	
+lmo1750	1819244	1819798	555	-		hypothetical protein	
+lmo1751	1820133	1821494	1362	-		hypothetical protein	
+lmo1752	1821518	1822273	756	-		hypothetical protein	
+lmo1753	1822421	1823353	933	-		lipid kinase	
+lmo1754	1823494	1824924	1431	-		aspartyl/glutamyl-tRNA amidotransferase subunit B	
+lmo1755	1824936	1826387	1452	-		aspartyl/glutamyl-tRNA amidotransferase subunit A	
+lmo1756	1826411	1826704	294	-		aspartyl/glutamyl-tRNA amidotransferase subunit C	
+lmo1757	1826829	1827944	1116	-		hypothetical protein	
+lmo1758	1827941	1829956	2016	-		NAD-dependent DNA ligase LigA	
+lmo1759	1829982	1832177	2196	-		ATP-dependent DNA helicase	
+lmo1760	1832242	1832919	678	-		geranylgeranylglyceryl phosphate synthase-like protein	
+lmo1761	1833125	1834480	1356	+		sodium-dependent transporter	
+lmo1762	1834523	1834777	255	-		hypothetical protein	
+lmo1763	1834795	1835091	297	-		hypothetical protein	
+lmo1764	1835229	1836491	1263	-		phosphoribosylamine--glycine ligase	
+lmo1765	1836516	1838045	1530	-		bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	
+lmo1766	1838051	1838617	567	-		phosphoribosylglycinamide formyltransferase	
+lmo1767	1838614	1839663	1050	-		phosphoribosylaminoimidazole synthetase	
+lmo1768	1839682	1841109	1428	-		amidophosphoribosyltransferase	
+lmo1769	1841094	1843313	2220	-		phosphoribosylformylglycinamidine synthase II	
+lmo1770	1843306	1843989	684	-		phosphoribosylformylglycinamidine synthase I	
+lmo1771	1843993	1844238	246	-		phosphoribosylformylglycinamidine synthase subunit PurS	
+lmo1772	1844250	1844963	714	-		phosphoribosylaminoimidazole-succinocarboxamide synthase	
+lmo1773	1845044	1846336	1293	-		adenylosuccinate lyase	
+lmo1774	1846355	1847479	1125	-		phosphoribosylaminoimidazole carboxylase ATPase subunit	
+lmo1775	1847472	1847960	489	-		phosphoribosylaminoimidazole carboxylase catalytic subunit	
+lmo1776	1848166	1848690	525	-		hypothetical protein	
+lmo1777	1854077	1854682	606	-		hypothetical protein	
+lmo1778	1854748	1855521	774	+		ABC transporter ATP-binding protein	
+lmo1779	1855571	1855933	363	+		hypothetical protein	
+lmo1780	1855952	1857184	1233	-		aminotripeptidase	
+lmo1781	1857242	1857772	531	-		hypothetical protein	
+lmo1782	1857856	1858611	756	+		3'-exo-deoxyribonuclease	
+lmo1783	1858651	1859010	360	-		50S ribosomal protein L20	
+lmo1784	1859050	1859250	201	-		50S ribosomal protein L35	
+lmo1785	1859272	1859787	516	-		translation initiation factor IF-3	
+lmo1786	1860200	1861090	891	-		internalin C	
+lmo1787	1861907	1862251	345	-		50S ribosomal protein L19	
+lmo1788	1862459	1862893	435	+		transcriptional regulator	
+lmo1789	1862893	1863480	588	+		hypothetical protein	
+lmo1790	1863501	1864217	717	+		hypothetical protein	
+lmo1791	1864248	1864637	390	-		hypothetical protein	
+lmo1792	1864657	1865394	738	-		tRNA (guanine-N(1)-)-methyltransferase	
+lmo1793	1865394	1865912	519	-		16S rRNA-processing protein RimM	
+lmo1794	1865922	1866308	387	-		hypothetical protein	
+lmo1795	1866336	1867070	735	-		hypothetical protein	
+lmo1796	1867180	1867410	231	-		hypothetical protein	
+lmo1797	1867427	1867699	273	-		30S ribosomal protein S16	
+lmo1798	1867802	1869460	1659	-		hypothetical protein	
+lmo1799	1869532	1872243	2712	-		peptidoglycan binding protein	
+lmo1800	1872724	1873620	897	-		protein-tyrosine phosphatase	
+lmo1801	1873764	1875116	1353	-		signal recognition particle protein Ffh	
+lmo1802	1875129	1875461	333	-		DNA-binding protein	
+lmo1803	1875574	1876560	987	-		cell division protein FtsY	
+lmo1804	1876575	1880135	3561	-		chromosome condensation protein Smc	
+lmo1805	1880158	1880847	690	-		ribonuclease III	
+lmo1806	1881041	1881274	234	-		acyl carrier protein	
+lmo1807	1881381	1882124	744	-		3-ketoacyl-ACP reductase	
+lmo1808	1882128	1883069	942	-		ACP S-malonyltransferase	
+lmo1809	1883062	1884075	1014	-		glycerol-3-phosphate acyltransferase PlsX	
+lmo1810	1884096	1884665	570	-		fatty acid biosynthesis transcriptional regulator	
+lmo1811	1884846	1886894	2049	-		ATP-dependent DNA helicase RecG	
+lmo1812	1886887	1887777	891	-		L-serine dehydratase	
+lmo1813	1887913	1888575	663	-		phosphoglycerate dehydrogenase	
+lmo1814	1888615	1890273	1659	-		hypothetical protein	
+lmo1815	1890288	1890653	366	-		hypothetical protein	
+lmo1816	1890951	1891139	189	+		50S ribosomal protein L28	
+lmo1817	1891236	1891880	645	-		hypothetical protein	
+lmo1818	1891944	1892600	657	-		ribulose-phosphate 3-epimerase	
+lmo1819	1892603	1893478	876	-		ribosome-associated GTPase	
+lmo1820	1893497	1895464	1968	-		serine/threonine protein kinase	
+lmo1821	1895461	1896219	759	-		phosphoprotein phosphatase	
+lmo1822	1896242	1897576	1335	-		RNA-binding Sun protein	
+lmo1823	1897577	1898515	939	-		methionyl-tRNA formyltransferase	
+lmo1824	1898529	1900922	2394	-		primosome assembly protein PriA	
+lmo1825	1900927	1902126	1200	-		pantothenate metabolism flavoprotein	
+lmo1826	1902281	1902484	204	-		DNA-directed RNA polymerase subunit omega	
+lmo1827	1902484	1903101	618	-		guanylate kinase	
+lmo1828	1903120	1903995	876	-		hypothetical protein	
+lmo1829	1904152	1905864	1713	+		fibronectin-binding proteins	
+lmo1830	1905952	1906551	600	+		short-chain dehydrogenase	
+lmo1831	1906592	1907221	630	-		orotate phosphoribosyltransferase	
+lmo1832	1907218	1907919	702	-		orotidine 5'-phosphate decarboxylase	
+lmo1833	1907916	1908830	915	-		dihydroorotate dehydrogenase	
+lmo1834	1908827	1909591	765	-		dihydroorotate dehydrogenase electron transfer subunit	
+lmo1835	1909614	1912826	3213	-		carbamoyl-phosphate synthetase	
+lmo1836	1912819	1913910	1092	-		carbamoyl phosphate synthase small subunit	
+lmo1837	1913907	1915187	1281	-		dihydroorotase	
+lmo1838	1915175	1916086	912	-		aspartate carbamoyltransferase	
+lmo1839	1916166	1917452	1287	-		uracil permease	
+lmo1840	1917581	1918132	552	-		bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase	
+lmo1841	1918363	1918593	231	+		hypothetical protein	
+lmo1842	1918681	1919505	825	+		hypothetical protein	
+lmo1843	1919525	1920436	912	-		hypothetical protein	
+lmo1844	1920436	1920900	465	-		lipoprotein signal peptidase	
+lmo1845	1920982	1922265	1284	-		hypothetical protein	
+lmo1846	1922439	1923809	1371	+		multidrug transporter	
+lmo1847	1923825	1924757	933	-		metal ABC transporter	
+lmo1848	1924754	1925596	843	-		metal ABC transporter permease	
+lmo1849	1925600	1926322	723	-		metal ABC transporter ATP-binding protein	
+lmo1850	1926482	1926898	417	-		MarR family transcriptional regulator	
+lmo1851	1926935	1928425	1491	-		carboxy-terminal processing proteinase	
+lmo1852	1928579	1928785	207	-		mercury-binding protein	
+lmo1853	1928798	1931011	2214	-		heavy metal-transporting ATPase	
+lmo1854	1931026	1931319	294	-		hypothetical protein	
+lmo1855	1931442	1932266	825	-		D-alanyl-D-alanine carboxypeptidase	
+lmo1856	1932324	1933025	702	-		purine nucleoside phosphorylase	
+lmo1857	1933037	1933270	234	-		hypothetical protein	
+lmo1858	1933333	1934238	906	-		dehydrogenase	
+lmo1859	1934321	1934758	438	-		methionine sulfoxide reductase B	
+lmo1860	1934765	1935298	534	-		methionine sulfoxide reductase A	
+lmo1861	1935334	1935948	615	-		hypothetical protein	
+lmo1862	1935964	1936749	786	-		hypothetical protein	
+lmo1863	1936764	1937603	840	-		hypothetical protein	
+lmo1864	1937783	1938415	633	+		hemolysin	
+lmo1865	1938538	1939155	618	+		hypothetical protein	
+lmo1866	1939168	1939980	813	+		hypothetical protein	
+lmo1867	1939999	1942638	2640	+		pyruvate phosphate dikinase	
+lmo1868	1942687	1943064	378	-		hypothetical protein	
+lmo1869	1943068	1944051	984	-		hypothetical protein	
+lmo1870	1944145	1944768	624	-		alkaline phosphatase	
+lmo1871	1944908	1946419	1512	-		phosphoglucomutase	
+lmo1872	1946488	1947363	876	-		methyltransferase	
+lmo1873	1947416	1947898	483	-		dihydrofolate reductase	
+lmo1874	1947914	1948858	945	-		thymidylate synthase	
+lmo1875	1948871	1950763	1893	-		ABC transporter ATP-binding protein	
+lmo1877	1951284	1952564	1281	-		formyl-tetrahydrofolate synthetase	
+lmo1878	1952721	1953149	429	-		manganese transport transcriptional regulator	
+lmo1879	1953513	1953713	201	+		cold-shock protein	
+lmo1880	1953836	1954237	402	+		RNase HI	
+lmo1881	1954255	1955127	873	-		5'-3' exonuclease	
+lmo1882	1955205	1955474	270	-	rpsN	30S ribosomal protein S14	
+lmo1883	1955598	1956656	1059	-		chitinase	
+lmo1884	1956848	1958155	1308	-		xanthine permease	
+lmo1885	1958162	1958740	579	-		xanthine phosphoribosyltransferase	
+lmo1886	1958968	1960476	1509	-		carboxypeptidase	
+lmo1887	1960496	1961644	1149	-		hypothetical protein	
+lmo1888	1962225	1962566	342	-		hypothetical protein	
+lmo1889	1962698	1963243	546	-		hypothetical protein	
+lmo1890	1963240	1963605	366	-		hypothetical protein	
+lmo1891	1963852	1964457	606	+		Holliday junction-specific endonuclease	
+lmo1892	1964489	1966972	2484	+		penicillin-binding protein 2A	
+lmo1893	1967015	1967506	492	-		hypothetical protein	
+lmo1894	1967499	1968158	660	-		endonuclease III (DNA repair)	
+lmo1895	1968169	1968888	720	-		chromosome replication initiation protein	
+lmo1896	1969037	1970329	1293	-		asparaginyl-tRNA synthetase	
+lmo1897	1970343	1971524	1182	-		aspartate aminotransferase	
+lmo1898	1971547	1972131	585	-		hypothetical protein	
+lmo1899	1972176	1974962	2787	-		bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon	
+lmo1900	1975059	1975442	384	-		aspartate alpha-decarboxylase	
+lmo1901	1975446	1976303	858	-		pantoate--beta-alanine ligase	
+lmo1902	1976307	1977140	834	-		3-methyl-2-oxobutanoate hydroxymethyltransferase	
+lmo1903	1977307	1977780	474	-		thioredoxin	
+lmo1904	1977928	1978905	978	-		transcriptional regulator	
+lmo1905	1978895	1980076	1182	-		tRNA CCA-pyrophosphorylase	
+lmo1906	1980091	1980495	405	-		methylglyoxal synthase	
+lmo1907	1980511	1981302	792	-		dihydrodipicolinate reductase	
+lmo1908	1981299	1981634	336	-		hypothetical protein	
+lmo1909	1981774	1982640	867	+		hypothetical protein	
+lmo1910	1982630	1983736	1107	-		oxidoreductase	
+lmo1911	1984056	1985192	1137	+		histidine kinase	
+lmo1912	1985218	1986345	1128	+		histidine kinase	
+lmo1913	1986342	1987346	1005	+		hypothetical protein	
+lmo1914	1987365	1988048	684	+		hypothetical protein	
+lmo1915	1988159	1989802	1644	+		malate dehydrogenase	
+lmo1916	1989805	1990812	1008	+		peptidase	
+lmo1917	1991047	1993326	2280	+		pyruvate formate-lyase	
+lmo1918	1993372	1994637	1266	-		hypothetical protein	
+lmo1919	1994751	1995434	684	-		hypothetical protein	
+lmo1920	1995520	1996116	597	-		hypothetical protein	
+lmo1921	1996204	1996749	546	-		hypothetical protein	
+lmo1922	1996784	1998037	1254	-		hypothetical protein	
+lmo1923	1998168	1999454	1287	-		3-phosphoshikimate 1-carboxyvinyltransferase	
+lmo1924	1999468	2000571	1104	-		prephenate dehydrogenase	
+lmo1925	2000592	2001674	1083	-		histidinol-phosphate aminotransferase	
+lmo1926	2001674	2002048	375	-		chorismate mutase	
+lmo1927	2002045	2003142	1098	-		3-dehydroquinate synthase	
+lmo1928	2003145	2004311	1167	-		chorismate synthase	
+lmo1929	2004515	2004958	444	-		nucleoside diphosphate kinase	
+lmo1930	2004977	2005942	966	-		heptaprenyl diphosphate synthase subunit II	
+lmo1931	2005953	2006666	714	-		ubiquinone/menaquinone biosynthesis methyltransferase	
+lmo1932	2006689	2007456	768	-		heptaprenyl diphosphate synthase subunit I	
+lmo1933	2007515	2008084	570	-		GTP cyclohydrolase I	
+lmo1934	2008319	2008594	276	-		DNA-binding protein HU	
+lmo1935	2009006	2009986	981	-		protein-tyrosine/serine phosphatase	
+lmo1936	2010089	2011105	1017	-		NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	
+lmo1937	2011128	2012438	1311	-		GTP-binding protein EngA	
+lmo1938	2012582	2013727	1146	-		30S ribosomal protein S1	
+lmo1939	2014086	2014760	675	-		cytidylate kinase	
+lmo1940	2014776	2015738	963	-		asparaginase	
+lmo1941	2015819	2016538	720	-		hypothetical protein	
+lmo1942	2016858	2018261	1404	-		ATP-dependent DNA helicase	
+lmo1943	2018258	2019265	1008	-		hypothetical protein	
+lmo1944	2019420	2019644	225	+		ferredoxin	
+lmo1945	2019686	2020297	612	-		hypothetical protein	
+lmo1946	2020738	2021256	519	-		acyl-CoA hydrolase	
+lmo1947	2021272	2023062	1791	-		two-component sensor histidine kinas	
+lmo1948	2023163	2023879	717	-		two-component response regulator ResD	
+lmo1949	2024062	2024796	735	-		hypothetical protein	
+lmo1950	2024799	2025395	597	-		hypothetical protein	
+lmo1951	2025392	2026141	750	-		segregation and condensation protein A	
+lmo1952	2026157	2027467	1311	-	lysA	diaminopimelate decarboxylase	
+lmo1953	2027648	2028466	819	-		purine nucleoside phosphorylase	
+lmo1954	2028485	2029669	1185	-		phosphopentomutase	
+lmo1955	2029698	2030591	894	-		integrase/recombinase	
+lmo1956	2030744	2031196	453	-		Fur family transcriptional regulator	
+lmo1957	2031438	2032460	1023	-		ferrichrome ABC transporter permease	
+lmo1958	2032460	2033485	1026	-		ferrichrome ABC transporter permease	
+lmo1959	2033587	2034528	942	-		ferrichrome-binding protein	
+lmo1960	2034693	2035517	825	+		ferrichrome ABC transporter ATP-binding protein	
+lmo1961	2035507	2036505	999	+		oxidoreductase	
+lmo1962	2036521	2037141	621	-		TetR family transcriptional regulator	
+lmo1963	2037141	2037956	816	-		hypothetical protein	
+lmo1964	2037953	2038840	888	-		ABC transporter ATP-binding protein	
+lmo1965	2039441	2039998	558	-		hypothetical protein	
+lmo1966	2040274	2040933	660	+		hypothetical protein	
+lmo1967	2040911	2042110	1200	+		toxic ion resistance protein	
+lmo1968	2042157	2042900	744	-		creatinine amidohydrolase	
+lmo1969	2042913	2043521	609	-		2-keto-3-deoxygluconate-6-phosphate aldolase	
+lmo1970	2043540	2044457	918	-		phosphotriesterase	
+lmo1971	2044481	2045749	1269	-	ulaA	PTS ascorbate transporter subunit IIC	
+lmo1972	2045765	2046046	282	-		PTS pentitol transporter subunit IIB	
+lmo1973	2046046	2046489	444	-		PTS sugar transporter subunit IIA	
+lmo1974	2046507	2047256	750	-		GntR family transcriptional regulator	
+lmo1975	2047444	2048514	1071	-		DNA polymerase IV	
+lmo1976	2048623	2049414	792	-		oxidoreductase	
+lmo1977	2049419	2050339	921	-		hypothetical protein	
+lmo1978	2050639	2052114	1476	+		glucose-6-phosphate 1-dehydrogenase	
+lmo1979	2052233	2052664	432	+		hypothetical protein	
+lmo1980	2052696	2052833	138	+		hypothetical protein	
+lmo1981	2052816	2053301	486	-		hypothetical protein	
+lmo1982	2053274	2053801	528	-		hypothetical protein	
+lmo1983	2054493	2056187	1695	+		dihydroxy-acid dehydratase	
+lmo1984	2056205	2057926	1722	+		acetolactate synthase	
+lmo1985	2057927	2058418	492	+		acetolactate synthase small subunit	
+lmo1986	2058516	2059511	996	+		ketol-acid reductoisomerase	
+lmo1987	2059669	2061207	1539	+		2-isopropylmalate synthase	
+lmo1988	2061209	2062261	1053	+		3-isopropylmalate dehydrogenase	
+lmo1989	2062263	2063651	1389	+		isopropylmalate isomerase large subunit	
+lmo1990	2063638	2064219	582	+		isopropylmalate isomerase small subunit	
+lmo1991	2064238	2065506	1269	+		threonine dehydratase	
+lmo1992	2065698	2066417	720	+		alpha-acetolactate decarboxylase	
+lmo1993	2066455	2067756	1302	-		pyrimidine-nucleoside phosphorylase	
+lmo1994	2067887	2068897	1011	-		LacI family transcriptional regulator	
+lmo1995	2068977	2069648	672	-		deoxyribose-phosphate aldolase	
+lmo1996	2069710	2070657	948	-		DeoR family transcriptional regulator	
+lmo1997	2070754	2071170	417	-		PTS mannose transporter subunit IIA	
+lmo1998	2071187	2072182	996	-		opine catabolism protein	
+lmo1999	2072205	2073269	1065	-		hypothetical protein	
+lmo2000	2073282	2074103	822	-		PTS mannose transporter subunit IID	
+lmo2001	2074084	2074902	819	-		PTS mannose transporter subunit IIC	
+lmo2002	2074925	2075392	468	-		PTS mannose transporter subunit IIB	
+lmo2003	2075412	2076113	702	-		GntR family transcriptional regulator	
+lmo2004	2076115	2076846	732	-		GntR family transcriptional regulator	
+lmo2005	2077019	2078014	996	-		oxidoreductase	
+lmo2006	2078132	2079829	1698	-		acetolactate synthase	
+lmo2007	2080027	2081484	1458	-		hypothetical protein	
+lmo2008	2081505	2082476	972	-		ABC transporter permease	
+lmo2009	2082495	2083424	930	-		sugar ABC transporter permease	
+lmo2010	2083537	2085021	1485	-		two-component response regulator	
+lmo2011	2085021	2086760	1740	-		two-component sensor histidine kinase	
+lmo2012	2086817	2087428	612	-		hypothetical protein	
+lmo2013	2087489	2088793	1305	-		hypothetical protein	
+lmo2014	2088797	2091454	2658	-		sugar hydrolase	
+lmo2015	2091698	2094808	3111	+		alpha-mannosidase	
+lmo2016	2094877	2095077	201	-		cold-shock protein	
+lmo2017	2095366	2096061	696	-		hypothetical protein	
+lmo2018	2096075	2097064	990	-		diaminopimelate epimerase	
+lmo2019	2097176	2099941	2766	-		isoleucyl-tRNA synthetase	
+lmo2020	2100224	2100751	528	-		chemotaxis protein CheY	
+lmo2021	2100845	2101366	522	-		hypothetical protein	
+lmo2022	2101371	2102477	1107	-		carbon-sulfur lyase	
+lmo2023	2102608	2104062	1455	+		L-aspartate oxidase	
+lmo2024	2104059	2104904	846	+		nicotinate-nucleotide pyrophosphorylase	
+lmo2025	2104901	2106001	1101	+		quinolinate synthetase	
+lmo2026	2106329	2108209	1881	-		peptidoglycan binding protein	
+lmo2027	2108500	2109603	1104	-		cell surface protein, internalin proteins	
+lmo2028	2110009	2110785	777	-		hypothetical protein	
+lmo2029	2110909	2111199	291	-		hypothetical protein	
+lmo2030	2111222	2111680	459	-		hypothetical protein	
+lmo2031	2111684	2112373	690	-		hypothetical protein	
+lmo2032	2112492	2113667	1176	-		cell division protein FtsZ	
+lmo2033	2113734	2115014	1281	-		cell division protein FtsA	
+lmo2034	2115381	2116193	813	-		cell division protein FtsQ	
+lmo2035	2116216	2117307	1092	-		UDP-diphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	
+lmo2036	2117304	2118671	1368	-		UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	
+lmo2037	2118812	2119786	975	-		phospho-N-acetylmuramoyl-pentapeptide-transferase	
+lmo2038	2119833	2121308	1476	-		UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase	
+lmo2039	2121483	2123738	2256	-		penicillin-binding protein 2B	
+lmo2040	2123735	2124097	363	-		cell division protein FtsL	
+lmo2041	2124114	2125052	939	-		S-adenosyl-methyltransferase MraW	
+lmo2042	2125065	2125496	432	-		cell division protein MraZ	
+lmo2043	2125699	2126946	1248	-		MFS transporter	
+lmo2044	2127062	2128876	1815	+		peptide ABC transporter substrate-binding protein	
+lmo2045	2128806	2129192	387	-		hypothetical protein	
+lmo2046	2129185	2130078	894	-		2-dehydropantoate 2-reductase	
+lmo2047	2130228	2130401	174	-		50S ribosomal protein L32	
+lmo2048	2130492	2131028	537	-		hypothetical protein	
+lmo2049	2131158	2132330	1173	+		hypothetical protein	
+lmo2050	2132412	2134652	2241	+		excinuclease ABC subunit A	
+lmo2051	2134695	2135735	1041	-		hypothetical protein	
+lmo2052	2135754	2136236	483	-		phosphopantetheine adenylyltransferase	
+lmo2053	2136239	2136796	558	-		hypothetical protein	
+lmo2054	2136893	2137174	282	-		hypothetical protein	
+lmo2055	2137205	2137654	450	-		hypothetical protein	
+lmo2056	2137702	2138757	1056	-		hypothetical protein	
+lmo2057	2138904	2139809	906	-		protoheme IX farnesyltransferase	
+lmo2058	2140046	2140963	918	+		heme O oxygenase	
+lmo2059	2141071	2141814	744	+		potassium channel protein	
+lmo2060	2141820	2142461	642	-		hypothetical protein	
+lmo2061	2142480	2143097	618	-		hypothetical protein	
+lmo2062	2143109	2144734	1626	-		copper transporter	
+lmo2063	2144874	2145065	192	+		hypothetical protein	
+lmo2064	2145127	2145513	387	+		large-conductance mechanosensitive channel protein	
+lmo2065	2145652	2146044	393	-		hypothetical protein	
+lmo2066	2146089	2146298	210	-		hypothetical protein	
+lmo2067	2146449	2147426	978	-		bile acid hydrolase	
+lmo2068	2147684	2149312	1629	-		molecular chaperone GroEL	
+lmo2069	2149348	2149632	285	-		co-chaperonin GroES	
+lmo2070	2149868	2150554	687	+		hypothetical protein	
+lmo2071	2150556	2150759	204	+		hypothetical protein	
+lmo2072	2150786	2151433	648	-		redox-sensing transcriptional repressor Rex	
+lmo2073	2151744	2153696	1953	+		ABC transporter ATP-binding protein	
+lmo2074	2153720	2154679	960	+		hypothetical protein	
+lmo2075	2155223	2156245	1023	-		DNA-binding/iron metalloprotein/AP endonuclease	
+lmo2076	2156242	2156697	456	-		alanine acetyltransferase	
+lmo2077	2156694	2157386	693	-		glycoprotease	
+lmo2078	2157383	2157844	462	-		hypothetical protein	
+lmo2079	2157949	2159094	1146	-		hypothetical protein	
+lmo2080	2159224	2159604	381	-		hypothetical protein	
+lmo2081	2159697	2160053	357	-		camphor resistance protein CrcB	
+lmo2082	2160043	2160432	390	-		camphor resistance protein CrcB	
+lmo2083	2160538	2161164	627	-		hypothetical protein	
+lmo2084	2161161	2162054	894	-		hypothetical protein	
+lmo2085	2162323	2164011	1689	-		peptidoglycan binding protein	
+lmo2086	2164106	2165377	1272	-		hypothetical protein	
+lmo2087	2166012	2167343	1332	-		hypothetical protein	
+lmo2088	2167353	2167943	591	-		transcriptional regulator	
+lmo2089	2168054	2169097	1044	-		lipase	
+lmo2090	2169312	2170526	1215	+		argininosuccinate synthase	
+lmo2091	2170530	2171900	1371	+		argininosuccinate lyase	
+lmo2092	2172068	2173591	1524	+		glycine betaine transporter BetL	
+lmo2093	2173635	2173832	198	-		hypothetical protein	
+lmo2094	2173836	2174486	651	-		L-fuculose-phosphate aldolase	
+lmo2095	2174488	2175420	933	-		phosphofructokinase	
+lmo2096	2175438	2176787	1350	-		PTS galacticol transporter subunit IIC	
+lmo2097	2176815	2177090	276	-		PTS galacticol transporter subunit IIB	
+lmo2098	2177096	2177563	468	-		PTS galacticol transporter subunit IIA	
+lmo2099	2177571	2179577	2007	-		transcriptional antiterminator	
+lmo2100	2179758	2181203	1446	-		GntR family transcriptional regulator	
+lmo2101	2181329	2182216	888	+		pyridoxal biosynthesis lyase PdxS	
+lmo2102	2182218	2182784	567	+		glutamine amidotransferase subunit PdxT	
+lmo2103	2182823	2183800	978	-		phosphotransacetylase	
+lmo2104	2184120	2184347	228	+		hypothetical protein	
+lmo2104a	2186345	2186527	183	+		hypothetical protein	
+lmo2105	2184344	2186338	1995	+		ferrous iron transport protein B	
+lmo2106	2186557	2187411	855	-		hypothetical protein	
+lmo2107	2187663	2188424	762	+		DeoR family transcriptional regulator	
+lmo2108	2188430	2189563	1134	+		N-acetylglucosamine-6-phosphate deacetylase	
+lmo2109	2189605	2190402	798	+		hydrolase	
+lmo2110	2190489	2191445	957	-		mannnose-6 phospate isomerase	
+lmo2111	2191525	2192256	732	-		nitroreductase	
+lmo2112	2192379	2192609	231	+		hypothetical protein	
+lmo2113	2192693	2193448	756	+		heme peroxidase	
+lmo2114	2193645	2194412	768	+		ABC transporter ATP-binding protein	
+lmo2115	2194399	2196339	1941	+		ABC transporter permease	
+lmo2116	2196382	2197206	825	-		hypothetical protein	
+lmo2117	2197267	2197728	462	+		hypothetical protein	
+lmo2118	2197763	2199115	1353	-		phosphoglucosamine mutase	
+lmo2119	2199365	2200723	1359	-		hypothetical protein	
+lmo2120	2200723	2201544	822	-		hypothetical protein	
+lmo2121	2201719	2203980	2262	-		maltose phosphorylase	
+lmo2122	2203996	2204829	834	-		maltodextrose utilization protein MalA	
+lmo2123	2204857	2205708	852	-		sugar ABC transporter permease	
+lmo2124	2205709	2207016	1308	-		sugar ABC transporter permease	
+lmo2125	2207103	2208362	1260	-		sugar ABC transporter substrate-binding protein	
+lmo2126	2208576	2210351	1776	-		maltogenic amylase	
+lmo2127	2210609	2211244	636	+		hypothetical protein	
+lmo2128	2211280	2212245	966	-		LacI family transcriptional regulator	
+lmo2129	2212384	2212620	237	-		hypothetical protein	
+lmo2130	2213218	2215041	1824	-		hypothetical protein	
+lmo2131	2216054	2216743	690	-		hypothetical protein	
+lmo2132	2217222	2217953	732	+		hypothetical protein	
+lmo2133	2217963	2218862	900	-		fructose-1,6-biphosphate aldolase type II	
+lmo2134	2218879	2219733	855	-		fructose-1,6-biphosphate aldolase type II	
+lmo2135	2219751	2220845	1095	-		PTS fructose transporter subunit IIC	
+lmo2136	2220862	2221173	312	-		PTS fructose transporter subunit IIB	
+lmo2137	2221186	2221659	474	-		PTS fructose transporter subunit IIA	
+lmo2138	2221671	2223128	1458	-		transcriptional regulator	
+lmo2139	2223324	2224226	903	+		ABC transporter ATP-binding protein	
+lmo2140	2224219	2225454	1236	+		ABC transporter permease	
+lmo2141	2225471	2225944	474	+		hypothetical protein	
+lmo2142	2226533	2227198	666	-		hypothetical protein	
+lmo2143	2227412	2229154	1743	+		hypothetical protein	
+lmo2144	2229193	2229927	735	-		GntR family transcriptional regulator	
+lmo2145	2230042	2231058	1017	-		hypothetical protein	
+lmo2146	2231127	2231981	855	-		LysR family transcriptional regulator	
+lmo2147	2232087	2233094	1008	+		hypothetical protein	
+lmo2148	2233150	2233791	642	+		hypothetical protein	
+lmo2149	2233841	2234158	318	-		hypothetical protein	
+lmo2150	2234357	2234533	177	+		hypothetical protein	
+lmo2151	2234575	2234874	300	-		hypothetical protein	
+lmo2152	2234982	2235308	327	-		thioredoxin	
+lmo2153	2235305	2235742	438	-		flavodoxin	
+lmo2154	2235739	2236788	1050	-		ribonucleotide-diphosphate reductase subunit beta	
+lmo2155	2236844	2239135	2292	-		ribonucleotide-diphosphate reductase subunit alpha	
+lmo2156	2239672	2240013	342	+		hypothetical protein	
+lmo2157	2240068	2241969	1902	-		hypothetical protein	
+lmo2158	2242097	2242282	186	-		hypothetical protein	
+lmo2159	2242376	2243425	1050	-		oxidoreductase	
+lmo2160	2243448	2244416	969	-		hypothetical protein	
+lmo2161	2244419	2245141	723	-		hypothetical protein	
+lmo2162	2245143	2245883	741	-		hypothetical protein	
+lmo2163	2245899	2246975	1077	-		oxidoreductase	
+lmo2164	2247050	2247928	879	-		AraC family transcriptional regulator	
+lmo2165	2247998	2248693	696	-		Crp/Fnr family transcriptional regulator	
+lmo2166	2248946	2249617	672	-		hypothetical protein	
+lmo2167	2249683	2250300	618	-		hypothetical protein	
+lmo2168	2250431	2250820	390	+		glyoxalase	
+lmo2169	2250846	2251004	159	+		hypothetical protein	
+lmo2170	2251050	2251979	930	-		hypothetical protein	
+lmo2171	2252001	2253224	1224	-		MFS transporter	
+lmo2172	2253221	2254804	1584	-		propionate CoA-transferase	
+lmo2173	2255034	2256401	1368	-		sigma-54-dependent transcriptional regulator	
+lmo2174	2256507	2257580	1074	-		hypothetical protein	
+lmo2175	2257754	2258515	762	-	fabG	3-ketoacyl-ACP reductase	
+lmo2176	2258697	2259260	564	+		TetR family transcriptional regulator	
+lmo2177	2259366	2259713	348	+		hypothetical protein	
+lmo2178	2259753	2264591	4839	-		peptidoglycan binding protein	
+lmo2179	2264772	2268230	3459	-		peptidoglycan binding protein	
+lmo2180	2268424	2268900	477	-		hypothetical protein	
+lmo2181	2268961	2269701	741	-		hypothetical protein	
+lmo2182	2269705	2270484	780	-		ferrichrome ABC transporter ATP-binding protein	
+lmo2183	2270465	2271454	990	-		ferrichrome ABC transporter permease	
+lmo2184	2271444	2272316	873	-		ferrichrome ABC transporter substrate-binding protein	
+lmo2185	2272403	2274112	1710	-		hypothetical protein	
+lmo2186	2274127	2274750	624	-		hypothetical protein	
+lmo2187	2274961	2275221	261	-		hypothetical protein	
+lmo2188	2275520	2277325	1806	-		oligoendopeptidase	
+lmo2189	2277398	2278513	1116	-		competence protein CoiA	
+lmo2190	2278639	2279292	654	-		adaptor protein	
+lmo2191	2279524	2279919	396	-		ArsC family transcriptional regulator	
+lmo2192	2280238	2281206	969	-		peptide ABC transporter ATP-binding protein	
+lmo2193	2281203	2282279	1077	-		peptide ABC transporter ATP-binding protein	
+lmo2194	2282297	2283331	1035	-		peptide ABC transporter permease	
+lmo2195	2283331	2284260	930	-		peptide ABC transporter permease	
+lmo2196	2284539	2286215	1677	-		hypothetical protein	
+lmo2197	2286839	2287183	345	+		hypothetical protein	
+lmo2198	2287518	2288513	996	+		tryptophanyl-tRNA synthetase	
+lmo2199	2288571	2288987	417	-		hypothetical protein	
+lmo2200	2288971	2289423	453	-		MarR family transcriptional regulator	
+lmo2201	2289545	2290786	1242	-		3-oxoacyl-ACP synthase	
+lmo2202	2290989	2291927	939	-		3-oxoacyl-ACP synthase	
+lmo2203	2292047	2293174	1128	-		N-acetylmuramoyl-L-alanine amidase	
+lmo2204	2293497	2293685	189	+		hypothetical protein	
+lmo2205	2293775	2294464	690	-		phosphoglyceromutase	
+lmo2206	2294555	2297155	2601	-		Clp protease subunit B	
+lmo2207	2297304	2297981	678	-		hypothetical protein	
+lmo2208	2298093	2298863	771	-		hypothetical protein	
+lmo2209	2298927	2299712	786	-		hypothetical protein	
+lmo2210	2299833	2300177	345	-		hypothetical protein	
+lmo2211	2300334	2301263	930	-		ferrochelatase	
+lmo2212	2301260	2302321	1062	-		uroporphyrinogen decarboxylase	
+lmo2213	2302518	2303021	504	+		hypothetical protein	
+lmo2214	2303060	2304283	1224	-		ABC transporter permease	
+lmo2215	2304267	2305019	753	-		ABC transporter ATP-binding protein	
+lmo2216	2305180	2305602	423	+		histidine triad (HIT) protein	
+lmo2217	2305632	2305994	363	+		hypothetical protein	
+lmo2218	2306177	2306716	540	+		hypothetical protein	
+lmo2219	2306833	2307714	882	+		foldase	
+lmo2220	2307755	2308696	942	-		3'-5' exoribonuclease	
+lmo2221	2308741	2311464	2724	-		hypothetical protein	
+lmo2222	2311461	2312696	1236	-		hypothetical protein	
+lmo2223	2312839	2313192	354	-		hypothetical protein	
+lmo2224	2313274	2314407	1134	-		hypothetical protein	
+lmo2225	2314511	2315878	1368	-		fumarate hydratase	
+lmo2226	2315948	2316742	795	-		hypothetical protein	
+lmo2227	2316739	2317644	906	-		ABC transporter ATP-binding protein	
+lmo2228	2317644	2317841	198	-		hypothetical protein	
+lmo2229	2317950	2320094	2145	-		penicillin-binding protein	
+lmo2230	2320416	2320841	426	+		arsenate reductase	
+lmo2231	2320906	2321775	870	+		hypothetical protein	
+lmo2232	2322031	2323335	1305	+		hypothetical protein	
+lmo2233	2323375	2324253	879	-		LysR family transcriptional regulator	
+lmo2234	2324554	2325408	855	+		hypothetical protein	
+lmo2235	2325477	2327402	1926	+		NADH oxidase	
+lmo2236	2327461	2328330	870	+		shikimate 5-dehydrogenase	
+lmo2237	2328363	2329571	1209	+		MFS transporter permease	
+lmo2238	2329731	2330921	1191	+		MFS transporter	
+lmo2239	2330959	2332023	1065	-		hypothetical protein	
+lmo2240	2332020	2332898	879	-		ABC transporter ATP-binding protein	
+lmo2241	2332888	2333283	396	-		GntR family transcriptional regulator	
+lmo2242	2333375	2333857	483	-		O6-methylguanine-DNA methyltransferase	
+lmo2243	2334003	2334569	567	+		AraC family transcriptional regulator	
+lmo2244	2334586	2335455	870	+		ribosomal large subunit pseudouridine synthase	
+lmo2245	2335468	2335860	393	-		hypothetical protein	
+lmo2246	2335862	2336518	657	-		hypothetical protein	
+lmo2247	2336515	2337399	885	-		oxidoreductase	
+lmo2248	2337786	2338406	621	+		hypothetical protein	
+lmo2249	2338420	2339418	999	+		low-affinity inorganic phosphate transporter	
+lmo2250	2339611	2341071	1461	+		amino acid ABC transporter permease	
+lmo2251	2341064	2341789	726	+		amino acid ABC transporter ATP-binding protein	
+lmo2252	2341865	2343013	1149	+		aspartate aminotransferase	
+lmo2253	2343056	2343685	630	-		phosphoglucomutase	
+lmo2254	2343858	2345150	1293	+		hypothetical protein	
+lmo2255	2345260	2345526	267	+		hypothetical protein	
+lmo2256	2345567	2346088	522	-		hypothetical protein	
+lmo2257	2346252	2346596	345	-		hypothetical protein	
+lmo2258	2346593	2346784	192	-		hypothetical protein	
+lmo2259	2346935	2347285	351	+		PTS beta-glucoside transporter subunit IIA	
+lmo2260	2347276	2348151	876	-		hypothetical protein	
+lmo2261	2348231	2348539	309	-		hypothetical protein	
+lmo2262	2348604	2349356	753	-		hypothetical protein	
+lmo2263	2349475	2350320	846	+		hypothetical protein	
+lmo2264	2350398	2351300	903	-		hypothetical protein	
+lmo2265	2351384	2351746	363	-		hypothetical protein	
+lmo2266	2351767	2352615	849	-		hypothetical protein	
+lmo2267	2352616	2356323	3708	-		ATP-dependent deoxyribonuclease subunit A	
+lmo2268	2356325	2359798	3474	-		ATP-dependent deoxyribonuclease subunit B	
+lmo2269	2359948	2360304	357	-		hypothetical protein	
+lmo2270	2360435	2360713	279	+		competence protein ComK	
+lmo2271	2360908	2361141	234	-		hypothetical protein	
+lmo2272	2361582	2361791	210	+		hypothetical protein	
+lmo2273	2361897	2362274	378	+		hypothetical protein	
+lmo2274	2362306	2362656	351	+		protein gp29	
+lmo2275	2362661	2363110	450	+		protein gp28	
+lmo2276	2363135	2363632	498	+		hypothetical protein	
+lmo2277	2363709	2364260	552	-		hypothetical protein	
+lmo2278	2364754	2365599	846	-		L-alanoyl-D-glutamate peptidase	
+lmo2279	2365599	2365880	282	-		holin	
+lmo2280	2365893	2366258	366	-		protein gp23	
+lmo2281	2366288	2366446	159	-		protein gp22	
+lmo2282	2366451	2366768	318	-		protein gp21	
+lmo2283	2366780	2367853	1074	-		protein gp20	
+lmo2284	2367853	2368881	1029	-		protein gp19	
+lmo2285	2368882	2369907	1026	-		protein gp18	
+lmo2286	2369916	2370734	819	-		protein gp17	
+lmo2287	2370736	2376099	5364	-		tape-measure	
+lmo2288	2376110	2376715	606	-		protein gp15	
+lmo2289	2376721	2377143	423	-		protein gp14	
+lmo2290	2377198	2377530	333	-		protein gp13	
+lmo2291	2377460	2377894	435	-		major tail shaft protein	
+lmo2292	2377897	2378304	408	-		protein gp11	
+lmo2293	2378304	2378642	339	-		protein gp10	
+lmo2294	2378642	2379004	363	-		protein gp9	
+lmo2295	2379004	2379399	396	-		protein gp8	
+lmo2296	2379418	2380419	1002	-		phage coat protein	
+lmo2297	2380419	2381009	591	-		scaffolding protein	
+lmo2298	2381088	2382227	1140	-		protein gp4	
+lmo2299	2382228	2383988	1761	-		portal protein	
+lmo2300	2384001	2385332	1332	-		terminase large subunit from bacteriophage A118	
+lmo2301	2385301	2386095	795	-		terminase	
+lmo2302	2386141	2386680	540	-		hypothetical protein	
+lmo2303	2387046	2387480	435	-		hypothetical protein	
+lmo2304	2387499	2387663	165	-		hypothetical protein	
+lmo2305	2387792	2388175	384	-		hypothetical protein	
+lmo2306	2388179	2388583	405	-		hypothetical protein	
+lmo2307	2388528	2388710	183	-		hypothetical protein	
+lmo2308	2388729	2389211	483	-		single-stranded DNA-binding protein	
+lmo2309	2389208	2389387	180	-		hypothetical protein	
+lmo2310	2389491	2389658	168	-		hypothetical protein	
+lmo2311	2389655	2390116	462	-		hypothetical protein	
+lmo2312	2390113	2390583	471	-		hypothetical protein	
+lmo2313	2390580	2391023	444	-		hypothetical protein	
+lmo2314	2391020	2391217	198	-		hypothetical protein	
+lmo2315	2391220	2391816	597	-		hypothetical protein	
+lmo2316	2391813	2392625	813	-		site-specific DNA-methyltransferase	
+lmo2317	2392622	2393596	975	-		hypothetical protein	
+lmo2318	2393613	2394311	699	-		hypothetical protein	
+lmo2319	2394317	2394793	477	-		hypothetical protein	
+lmo2320	2394790	2394984	195	-		hypothetical protein	
+lmo2321	2395290	2395478	189	-		hypothetical protein	
+lmo2322	2395586	2395801	216	-		gp44	
+lmo2323	2395798	2396331	534	-		hypothetical protein	
+lmo2324	2396454	2397230	777	-		anti-repressor	
+lmo2325	2397212	2397487	276	-		hypothetical protein	
+lmo2325a	2397294	2397491	198	+		hypothetical protein	
+lmo2326	2397493	2397774	282	-		hypothetical protein	
+lmo2327	2397800	2398084	285	-		hypothetical protein	
+lmo2328	2398287	2398529	243	-		XRE family transcriptional regulator	
+lmo2329	2398685	2399161	477	+		hypothetical protein	
+lmo2329a	2399320	2399487	168	+		hypothetical protein	
+lmo2330	2399542	2400243	702	+		hypothetical protein	
+lmo2331	2400264	2400944	681	+		hypothetical protein	
+lmo2332	2401008	2402366	1359	+		integrase	
+lmo2334	2402888	2403235	348	-		transcriptional regulator	
+lmo2335	2403341	2405239	1899	-		PTS fructose transporter subunit IIABC	
+lmo2336	2405241	2406164	924	-		fructose-1-phosphate kinase	
+lmo2337	2406161	2406913	753	-		DeoR family transcriptional regulator	
+lmo2338	2407128	2408453	1326	+		aminopeptidase	
+lmo2339	2408450	2408893	444	-		hypothetical protein	
+lmo2340	2408967	2409878	912	-		hypothetical protein	
+lmo2341	2409875	2410993	1119	-		sugar kinase	
+lmo2342	2411126	2411827	702	-		16S pseudouridylate synthase	
+lmo2343	2411900	2413222	1323	-		nitrilotriacetate monooxygenase	
+lmo2344	2413219	2413485	267	-		hypothetical protein	
+lmo2345	2413478	2414473	996	-		hypothetical protein	
+lmo2346	2414470	2415249	780	-		amino acid ABC transporter ATP-binding protein	
+lmo2347	2415246	2415953	708	-		amino acid ABC transporter permease	
+lmo2348	2415967	2416683	717	-		amino acid ABC transporter permease	
+lmo2349	2416705	2417514	810	-		amino acid ABC transporter substrate-binding protein	
+lmo2350	2417531	2418067	537	-		hypothetical protein	
+lmo2351	2418083	2418628	546	-		FMN reductase	
+lmo2352	2418871	2419770	900	+		LysR family transcriptional regulator	
+lmo2353	2419797	2421749	1953	-		Na+/H+ antiporter	
+lmo2354	2421878	2423476	1599	-		hypothetical protein	
+lmo2355	2423480	2424721	1242	-		multidrug resistance protein	
+lmo2356	2424922	2425533	612	-		hypothetical protein	
+lmo2357	2425723	2426253	531	-		hypothetical protein	
+lmo2358	2426270	2427001	732	-		N-acetylglucosamine-6-phosphate isomerase	
+lmo2359	2427045	2427890	846	-		hypothetical protein	
+lmo2360	2428010	2430793	2784	-		transmembrane protein	
+lmo2361	2430826	2431296	471	-		hypothetical protein	
+lmo2362	2431688	2433211	1524	+		amino acid antiporter	
+lmo2363	2433224	2434618	1395	+		glutamate decarboxylase	
+lmo2364	2434627	2434866	240	-		hypothetical protein	
+lmo2365	2435023	2436141	1119	-		RofA family transcriptional regulator	
+lmo2366	2443368	2444126	759	-		DeoR family transcriptional regulator	
+lmo2367	2444231	2445583	1353	-		glucose-6-phosphate isomerase	
+lmo2368	2445685	2446092	408	-		hypothetical protein	
+lmo2369	2446240	2446593	354	-		general stress protein 13	
+lmo2370	2446747	2447913	1167	+		aminotransferase	
+lmo2371	2448052	2449155	1104	+		ABC transporter permease	
+lmo2372	2449155	2449835	681	+		ABC transporter ATP-binding protein	
+lmo2373	2449878	2450192	315	-		PTS beta-glucoside transporter subunit IIB	
+lmo2374	2450437	2451798	1362	+		aspartate kinase	
+lmo2375	2451840	2452235	396	-		hypothetical protein	
+lmo2376	2452322	2452906	585	-		peptidyl-prolyl cis-trans isomerase	
+lmo2377	2453138	2454349	1212	+		multidrug transporter	
+lmo2378	2454695	2457103	2409	+		monovalent cation/H+ antiporter subunit A	
+lmo2379	2457087	2457512	426	+		monovalent cation/H+ antiporter subunit B	
+lmo2380	2457512	2457859	348	+		monovalent cation/H+ antiporter subunit C	
+lmo2381	2457852	2459336	1485	+		monovalent cation/H+ antiporter subunit D	
+lmo2382	2459343	2459822	480	+		monovalent cation/H+ antiporter subunit E	
+lmo2383	2459819	2460106	288	+		monovalent cation/H+ antiporter subunit F	
+lmo2384	2460090	2460683	594	+		monovalent cation/H+ antiporter subunit G	
+lmo2385	2460720	2461091	372	-		hypothetical protein	
+lmo2386	2461219	2461692	474	+		hypothetical protein	
+lmo2387	2461803	2463029	1227	+		hypothetical protein	
+lmo2388	2463066	2463884	819	-		hypothetical protein	
+lmo2389	2463969	2465180	1212	-		NADH dehydrogenase	
+lmo2390	2465630	2466625	996	+		hypothetical thioredoxine reductase	
+lmo2391	2466713	2467342	630	+		hypothetical protein	
+lmo2392	2467388	2467621	234	-		hypothetical protein	
+lmo2393	2467643	2467969	327	-		hypothetical protein	
+lmo2394	2468210	2468392	183	-		hypothetical protein	
+lmo2395	2468545	2468703	159	-		hypothetical protein	
+lmo2396	2469093	2471915	2823	+		internalin	
+lmo2397	2472089	2472325	237	+		NifU protein	
+lmo2398	2472438	2472938	501	+		hypothetical protein	
+lmo2399	2472963	2474273	1311	-		hypothetical protein	
+lmo2400	2474309	2474752	444	-		acetyltransferase	
+lmo2401	2474801	2475568	768	-		hypothetical protein	
+lmo2402	2475588	2475863	276	-		hypothetical protein	
+lmo2403	2475860	2477251	1392	-		hypothetical protein	
+lmo2404	2477385	2478224	840	+		hypothetical protein	
+lmo2405	2478225	2478590	366	+		hypothetical protein	
+lmo2406	2478623	2479465	843	-		hypothetical protein	
+lmo2407	2479607	2479921	315	-		hypothetical protein	
+lmo2408	2480325	2480528	204	+		repressor protein	
+lmo2409	2480531	2480944	414	+		hypothetical protein	
+lmo2410	2481023	2481574	552	-		hypothetical protein	
+lmo2411	2481732	2483126	1395	-		hypothetical protein	
+lmo2412	2483149	2483592	444	-		hypothetical protein	
+lmo2413	2483589	2484815	1227	-		aminotransferase	
+lmo2414	2484816	2486117	1302	-		aminotransferase	
+lmo2415	2486136	2486921	786	-		ABC transporter ATP-binding protein	
+lmo2416	2487261	2488337	1077	+		hypothetical protein	
+lmo2417	2488379	2489209	831	-		ABC transporter substrate-binding protein	
+lmo2418	2489274	2489948	675	-		ABC transporter permease	
+lmo2419	2489945	2490967	1023	-		ABC transporter ATP-binding protein	
+lmo2420	2491285	2491473	189	-		hypothetical protein	
+lmo2421	2491552	2492694	1143	-		two-component sensor histidine kinase	
+lmo2422	2492684	2493379	696	-		two-component response regulator	
+lmo2423	2493454	2494329	876	-		hypothetical protein	
+lmo2424	2494522	2494806	285	-		thioredoxin	
+lmo2425	2494891	2495268	378	-		glycine cleavage system protein H	
+lmo2426	2495309	2495662	354	-		hypothetical protein	
+lmo2427	2495818	2496993	1176	-		cell division protein FtsW	
+lmo2428	2497069	2498238	1170	-		cell division protein FtsW	
+lmo2429	2498381	2499172	792	-		ferrichrome ABC transporter ATP-binding protein	
+lmo2430	2499169	2500179	1011	-		ferrichrome ABC transporter permease	
+lmo2431	2500179	2501150	972	-		ferrichrome ABC transporter substrate-binding protein	
+lmo2432	2501306	2501470	165	+		hypothetical protein	
+lmo2433	2501603	2502361	759	+		acetylesterase	
+lmo2434	2502401	2503804	1404	-		glutamate decarboxylase	
+lmo2435	2503931	2504236	306	+		hypothetical protein	
+lmo2436	2504300	2505157	858	-		transcription antiterminator	
+lmo2437	2505425	2505835	411	+		hypothetical protein	
+lmo2438	2505858	2506370	513	-		hypothetical protein	
+lmo2439	2506494	2506835	342	+		hypothetical protein	
+lmo2440	2506867	2507250	384	-		hypothetical protein	
+lmo2441	2507306	2508202	897	-		transcriptional regulator	
+lmo2442	2508247	2508816	570	-		hypothetical protein	
+lmo2443	2508992	2509411	420	-		hypothetical protein	
+lmo2444	2510361	2514293	3933	-		glycosidase	
+lmo2445	2514308	2515210	903	-		internalin	
+lmo2446	2515312	2518587	3276	-		glycosidase	
+lmo2447	2518971	2519879	909	+		transcriptional regulator	
+lmo2448	2519935	2520399	465	-		SsrA-binding protein	
+lmo2449	2520415	2522796	2382	-		exoribonuclease RNase-R	
+lmo2450	2522830	2523576	747	-		carboxylesterase	
+lmo2451	2523835	2524068	234	-		preprotein translocase subunit SecG	
+lmo2452	2524168	2524911	744	-		carboxylesterase	
+lmo2453	2525094	2525813	720	-		epoxide hydrolase	
+lmo2454	2525946	2526119	174	-		hypothetical protein	
+lmo2455	2526222	2527514	1293	-		phosphopyruvate hydratase	
+lmo2456	2527650	2529182	1533	-		phosphoglyceromutase	
+lmo2457	2529184	2529939	756	-		triosephosphate isomerase	
+lmo2458	2529985	2531175	1191	-		phosphoglycerate kinase	
+lmo2459	2531310	2532320	1011	-		glyceraldehyde-3-phosphate dehydrogenase	
+lmo2460	2532352	2533398	1047	-		transcriptional regulator	
+lmo2461	2533840	2535183	1344	-		RNA polymerase factor sigma-54	
+lmo2462	2535342	2536268	927	-		dipeptidase	
+lmo2463	2536347	2538581	2235	-		multidrug transporter	
+lmo2464	2538588	2539196	609	-		transcriptional regulator	
+lmo2465	2539213	2539611	399	-		hypothetical protein	
+lmo2466	2539838	2540173	336	+		hypothetical protein	
+lmo2467	2540421	2541857	1437	-		chitin-binding protein	
+lmo2468	2542014	2542610	597	+		ATP-dependent Clp protease proteolytic subunit	
+lmo2469	2542658	2544049	1392	-		amino acid transporter	
+lmo2470	2544267	2545433	1167	+		internalin	
+lmo2471	2545487	2546503	1017	-		NADPH dehydrogenase	
+lmo2472	2546530	2547501	972	-		hypothetical protein	
+lmo2473	2547509	2548477	969	-		hypothetical protein	
+lmo2474	2548479	2549354	876	-		hypothetical protein	
+lmo2475	2549462	2551192	1731	-		phosphoglucomutase	
+lmo2476	2551234	2552295	1062	-		aldose 1-epimerase	
+lmo2477	2552312	2553295	984	-		UDP-glucose 4-epimerase	
+lmo2478	2553414	2554373	960	-		thioredoxin reductase	
+lmo2479	2554452	2555927	1476	-		hypothetical protein	
+lmo2480	2556013	2556510	498	-		acetyltransferase	
+lmo2481	2556514	2557167	654	-		pyrophosphatase PpaX	
+lmo2482	2557211	2558044	834	-		prolipoprotein diacylglyceryl transferase	
+lmo2483	2558130	2559068	939	-		HPr kinase/phosphorylase	
+lmo2484	2559255	2559608	354	-		hypothetical protein	
+lmo2485	2559617	2559817	201	-		hypothetical protein	
+lmo2486	2559841	2561052	1212	-		hypothetical protein	
+lmo2487	2561120	2562382	1263	-		hypothetical protein	
+lmo2488	2562591	2565461	2871	-		excinuclease ABC subunit A	
+lmo2489	2565469	2567445	1977	-		excinuclease ABC subunit B	
+lmo2490	2567696	2567935	240	-		CsbA protein	
+lmo2491	2567956	2568603	648	-		hypothetical protein	
+lmo2492	2568625	2569011	387	-		hypothetical protein	
+lmo2493	2569117	2569422	306	-		ArsR family transcriptional regulator	
+lmo2494	2569690	2570349	660	-		PhoU family transcriptional regulator	
+lmo2495	2570362	2571141	780	-		phosphate ABC transporter ATP-binding protein	
+lmo2496	2571156	2571971	816	-		phosphate ABC transporter ATP-binding protein	
+lmo2497	2571999	2572883	885	-		phosphate ABC transporter permease	
+lmo2498	2572880	2573803	924	-		phosphate ABC transporter permease	
+lmo2499	2573897	2574805	909	-		phosphate ABC transporter substrate-binding protein	
+lmo2500	2575061	2576836	1776	-		two-component sensor histidine kinase	
+lmo2501	2576836	2577546	711	-		two-component response phosphate regulator	
+lmo2502	2577696	2578871	1176	-		hypothetical protein	
+lmo2503	2578899	2580347	1449	-		cardiolipin synthase	
+lmo2504	2580470	2581780	1311	-		cell wall-binding protein	
+lmo2505	2581900	2583105	1206	-		peptidoglycan lytic protein P45	
+lmo2506	2583181	2584065	885	-		cell division protein FtsX	
+lmo2507	2584055	2584741	687	-		cell division protein FtsE	
+lmo2508	2585245	2586108	864	-		hypothetical protein	
+lmo2509	2586114	2587097	984	-		peptide chain release factor 2	
+lmo2510	2587300	2589813	2514	-		preprotein translocase subunit SecA	
+lmo2511	2590044	2590607	564	-		hypothetical protein	
+lmo2512	2590802	2591458	657	-		competence protein ComFC	
+lmo2513	2591451	2592770	1320	-		competence protein comFA	
+lmo2514	2592965	2593816	852	-		hypothetical protein	
+lmo2515	2593837	2594523	687	-		two-component response regulator DegU	
+lmo2516	2594908	2595543	636	+		hypothetical protein	
+lmo2517	2595485	2596090	606	+		hypothetical protein	
+lmo2518	2596266	2597324	1059	+		LytR family transcriptional regulator	
+lmo2519	2597363	2598415	1053	-		teichoic acid linkage unit synthesis protein	
+lmo2520	2598423	2599547	1125	-		O-succinylbenzoate-CoA synthase	
+lmo2521	2599548	2600282	735	-		polyglycerol phosphate biosynthesis protein TagA	
+lmo2522	2600408	2601241	834	-		cell wall-binding protein	
+lmo2523	2601632	2601997	366	-		single-strand DNA-binding protein	
+lmo2524	2602249	2602683	435	-		(3R)-hydroxymyristoyl-ACP dehydratase	
+lmo2525	2602705	2603700	996	-		rod shape-determining protein MreB	
+lmo2526	2603863	2605155	1293	-		UDP-N-acetylglucosamine 1-carboxyvinyltransferase	
+lmo2527	2605337	2605573	237	-		hypothetical protein	
+lmo2528	2605697	2606101	405	-		ATP synthase F0F1 subunit epsilon	
+lmo2529	2606123	2607544	1422	-		ATP synthase F0F1 subunit beta	
+lmo2530	2607605	2608477	873	-		ATP synthase F0F1 subunit gamma	
+lmo2531	2608515	2610029	1515	-		ATP synthase F0F1 subunit alpha	
+lmo2532	2610056	2610595	540	-		ATP synthase F0F1 subunit delta	
+lmo2533	2610592	2611104	513	-		ATP synthase F0F1 subunit B	
+lmo2534	2611192	2611410	219	-		ATP synthase F0F1 subunit C	
+lmo2535	2611482	2612198	717	-		ATP synthase F0F1 subunit A	
+lmo2536	2612205	2612603	399	-		ATP synthase subunit I	
+lmo2536a	2612797	2612967	171	-		hypothetical protein	
+lmo2537	2613435	2614574	1140	-		UDP-N-acetylglucosamine 2-epimerase	
+lmo2538	2614692	2615321	630	-		uracil phosphoribosyltransferase	
+lmo2539	2615458	2616699	1242	-		serine hydroxymethyltransferase	
+lmo2540	2616835	2617242	408	-		phosphatase	
+lmo2541	2617239	2618276	1038	-		tRNA threonylcarbamoyladenosine biosynthesis protein	
+lmo2542	2618577	2619428	852	-		protoporphyrinogen oxidase	
+lmo2543	2619415	2620491	1077	-		peptide chain release factor 1	
+lmo2544	2620514	2621089	576	-		thymidine kinase	
+lmo2545	2621201	2622067	867	-		homoserine kinase	
+lmo2546	2622067	2623122	1056	-		threonine synthase	
+lmo2547	2623125	2624411	1287	-		homoserine dehydrogenase	
+lmo2548	2624633	2624878	246	-		50S ribosomal protein L31	
+lmo2549	2624980	2625417	438	-		wall teichoic acid glycosylation protein GtcA	
+lmo2550	2625414	2626361	948	-		glycosyl transferase	
+lmo2551	2626442	2627713	1272	-		transcription termination factor Rho	
+lmo2552	2627816	2629087	1272	-		UDP-N-acetylglucosamine 1-carboxyvinyltransferase	
+lmo2553	2629208	2630278	1071	-		hypothetical protein	
+lmo2554	2630285	2631310	1026	-		galactosyltransferase	
+lmo2555	2631303	2632586	1284	-		N-acetylglucosaminyl-phosphatidylinositol biosynthesis protein	
+lmo2556	2632907	2633761	855	-		fructose-1,6-bisphosphate aldolase	
+lmo2557	2633930	2634850	921	-		lipid kinase	
+lmo2558	2635167	2637920	2754	+		autolysin, amidase	
+lmo2559	2637964	2639562	1599	-		CTP synthetase	
+lmo2560	2639930	2640466	537	-		DNA-directed RNA polymerase subunit delta	
+lmo2561	2640832	2642502	1671	-		arginyl-tRNA synthetase	
+lmo2562	2642499	2642948	450	-		hypothetical protein	
+lmo2563	2643026	2643679	654	-		hypothetical protein	
+lmo2564	2643753	2643938	186	+		4-oxalocrotonate isomerase	
+lmo2565	2643973	2645295	1323	-		hypothetical protein	
+lmo2566	2645310	2646146	837	-		hypothetical protein	
+lmo2567	2646464	2646664	201	-		hypothetical protein	
+lmo2568	2646686	2647009	324	-		hypothetical protein	
+lmo2569	2647164	2648825	1662	-		peptide ABC transporter substrate-binding protein	
+lmo2570	2648960	2649574	615	-		hypothetical protein	
+lmo2571	2649598	2650230	633	-		nicotinamidase	
+lmo2572	2650231	2650755	525	-		dihydrofolate reductase subunit A	
+lmo2573	2650758	2651756	999	-		zinc-binding dehydrogenase	
+lmo2574	2651853	2652125	273	-		hypothetical protein	
+lmo2575	2652174	2653085	912	-		cation transporter	
+lmo2576	2653211	2657803	4593	-		colossin A	
+lmo2577	2658024	2658851	828	-		hypothetical protein	
+lmo2578	2658966	2659841	876	+		hypothetical protein	
+lmo2579	2659852	2660145	294	+		hypothetical protein	
+lmo2579a	2660178	2660339	162	-		hypothetical protein	
+lmo2580	2660408	2661076	669	-		ABC transporter ATP-binding protein	
+lmo2581	2661076	2662164	1089	-		hypothetical protein	
+lmo2582	2662243	2663622	1380	-		histidine kinase	
+lmo2583	2663619	2664296	678	-		DNA-binding response regulator	
+lmo2584	2664343	2665128	786	-		formate dehydrogenase accessory protein	
+lmo2585	2665190	2665666	477	-		hypothetical protein	
+lmo2586	2665666	2668653	2988	-		formate dehydrogenase subunit alpha	
+lmo2587	2669152	2669994	843	+		hypothetical protein	
+lmo2588	2670042	2671523	1482	-		multidrug transporter	
+lmo2589	2671624	2672511	888	-		TetR family transcriptional regulator	
+lmo2590	2678302	2679330	1029	-		ATP-binding protein	
+lmo2591	2679599	2681125	1527	+		N-acetylmuramoyl-L-alanine amidase	
+lmo2592	2681167	2682018	852	-		aldo/keto reductase	
+lmo2593	2682040	2682462	423	-		MerR family transcriptional regulator	
+lmo2594	2682584	2682943	360	-		hypothetical protein	
+lmo2595	2683187	2684056	870	+		hypothetical protein	
+lmo2596	2684251	2684643	393	-		30S ribosomal protein S9	
+lmo2597	2684665	2685102	438	-		50S ribosomal protein L13	
+lmo2598	2685297	2686043	747	-		tRNA pseudouridine synthase A	
+lmo2599	2686049	2686846	798	-		hypothetical protein	
+lmo2600	2686849	2687715	867	-	cbiO	cobalt ABC transporter ATP-binding subunit	
+lmo2601	2687691	2688530	840	-		cobalt ABC transporter ATP-binding protein	
+lmo2602	2688661	2689323	663	+		hypothetical protein	
+lmo2603	2689442	2690332	891	+		hypothetical protein	
+lmo2604	2690371	2691465	1095	-		hypothetical protein	
+lmo2605	2691673	2692080	408	-		50S ribosomal protein L17	
+lmo2606	2692097	2693041	945	-		DNA-directed RNA polymerase subunit alpha	
+lmo2607	2693151	2693540	390	-		30S ribosomal protein S11	
+lmo2608	2693563	2693928	366	-		30S ribosomal protein S13	
+lmo2609	2693947	2694060	114	-		50S ribosomal protein L36	
+lmo2610	2694164	2694382	219	-		translation initiation factor IF-1	
+lmo2611	2694769	2695416	648	-		adenylate kinase	
+lmo2612	2695476	2696771	1296	-		preprotein translocase subunit SecY	
+lmo2613	2696771	2697211	441	-		50S ribosomal protein L15	
+lmo2614	2697267	2697446	180	-		50S ribosomal protein L30	
+lmo2615	2697463	2697966	504	-		30S ribosomal protein S5	
+lmo2616	2697988	2698347	360	-		50S ribosomal protein L18	
+lmo2617	2698387	2698923	537	-		50S ribosomal protein L6	
+lmo2618	2698954	2699352	399	-		30S ribosomal protein S8	
+lmo2619	2699383	2699568	186	-		30S ribosomal protein S14	
+lmo2620	2699600	2700139	540	-		50S ribosomal protein L5	
+lmo2621	2700166	2700477	312	-		50S ribosomal protein L24	
+lmo2622	2700515	2700883	369	-		50S ribosomal protein L14	
+lmo2623	2700963	2701226	264	-		30S ribosomal protein S17	
+lmo2624	2701254	2701445	192	-		50S ribosomal protein L29	
+lmo2625	2701435	2701869	435	-		50S ribosomal protein L16	
+lmo2626	2701872	2702528	657	-		30S ribosomal protein S3	
+lmo2627	2702532	2702888	357	-		50S ribosomal protein L22	
+lmo2628	2702909	2703187	279	-		30S ribosomal protein S19	
+lmo2629	2703275	2704108	834	-		50S ribosomal protein L2	
+lmo2630	2704149	2704433	285	-		50S ribosomal protein L23	
+lmo2631	2704433	2705056	624	-		50S ribosomal protein L4	
+lmo2632	2705082	2705711	630	-		50S ribosomal protein L3	
+lmo2633	2705746	2706054	309	-		30S ribosomal protein S10	
+lmo2634	2706415	2707215	801	-		hypothetical protein	
+lmo2635	2707235	2708194	960	-		1,4-dihydroxy-2-naphthoate octaprenyltransferase	
+lmo2636	2708276	2709358	1083	-		hypothetical protein	
+lmo2637	2709522	2710421	900	-		hypothetical protein	
+lmo2638	2710869	2712755	1887	+		NADH dehydrogenase	
+lmo2639	2712931	2713365	435	+		hypothetical protein	
+lmo2640	2713398	2713940	543	+		hypothetical protein	
+lmo2641	2713962	2714942	981	+		heptaprenyl diphosphate synthase subunit II	
+lmo2642	2715032	2716363	1332	+		hypothetical protein	
+lmo2643	2716408	2717394	987	-		hypothetical protein	
+lmo2644	2717422	2718234	813	-		hypothetical protein	
+lmo2644a	2718312	2719055	744	-		hypothetical protein	
+lmo2646	2719056	2719775	720	-		hypothetical protein	
+lmo2647	2719735	2720484	750	-		creatinine amidohydrolase	
+lmo2648	2720497	2721489	993	-		phosphotriesterase	
+lmo2649	2721559	2722857	1299	-		PTS system ascorbate transporter subunit IIC	
+lmo2650	2722884	2723156	273	-		MFS transporter	
+lmo2651	2723159	2723593	435	-		PTS mannitol transporter subunit IIA	
+lmo2652	2723786	2725852	2067	-		transcriptional antiterminator	
+lmo2653	2726008	2727195	1188	-		elongation factor Tu	
+lmo2654	2727304	2729391	2088	-		elongation factor G	
+lmo2655	2729457	2729927	471	-		30S ribosomal protein S7	
+lmo2656	2729958	2730371	414	-		30S ribosomal protein S12	
+lmo2657	2730564	2731961	1398	-		deoxyguanosinetriphosphate triphosphohydrolase	
+lmo2658	2731976	2732455	480	-		acyltransferase	
+lmo2659	2732589	2733233	645	-		ribulose-phosphate 3-epimerase	
+lmo2660	2733230	2735245	2016	-		transketolase	
+lmo2661	2735279	2735953	675	-		ribulose-5-phosphate 3-epimerase	
+lmo2662	2735962	2736402	441	-		ribose 5-phosphate epimerase	
+lmo2663	2736597	2737628	1032	-		polyol dehydrogenase	
+lmo2664	2737630	2738682	1053	-		sorbitol dehydrogenase	
+lmo2665	2738719	2739990	1272	-		PTS galacticol transporter subunit IIC	
+lmo2666	2740052	2740333	282	-		PTS galacticol transporter subunit IIB	
+lmo2667	2740390	2740854	465	-		PTS galacticol transporter subunit IIA	
+lmo2668	2740888	2742957	2070	-		transcriptional antiterminator BglG	
+lmo2669	2743326	2744138	813	-		hypothetical protein	
+lmo2670	2744212	2744574	363	-		hypothetical protein	
+lmo2671	2744571	2744939	369	-		hypothetical protein	
+lmo2672	2744985	2745791	807	-		AraC family transcriptional regulator	
+lmo2673	2745907	2746377	471	+		hypothetical protein	
+lmo2674	2746423	2746878	456	+		ribose-5-phosphate isomerase B	
+lmo2675	2747073	2747414	342	+		hypothetical protein	
+lmo2676	2747427	2748683	1257	+		DNA polymerase IV	
+lmo2677	2748685	2749497	813	-		esterase	
+lmo2678	2749538	2750233	696	-		XRE family transcriptional regulator	
+lmo2679	2750230	2752920	2691	-		histidine kinase	
+lmo2680	2752936	2753508	573	-		potassium-transporting ATPase subunit C	
+lmo2681	2753523	2755568	2046	-		potassium-transporting ATPase subunit B	
+lmo2682	2755580	2757265	1686	-		potassium-transporting ATPase subunit A	
+lmo2683	2757606	2757911	306	+		PTS cellbiose transporter subunit IIB	
+lmo2684	2758046	2759353	1308	+		PTS cellbiose transporter subunit IIC	
+lmo2685	2759390	2759692	303	+		PTS cellbiose transporter subunit IIA	
+lmo2686	2760147	2760680	534	-		hypothetical protein	
+lmo2687	2760845	2761954	1110	-		cell division protein FtsW	
+lmo2688	2761951	2763081	1131	-		cell division protein FtsW	
+lmo2689	2763082	2765652	2571	-		magnesium-translocating P-type ATPase	
+lmo2689a	2765824	2766078	255	-		hypothetical protein	
+lmo2690	2766207	2766773	567	-		TetR family transcriptional regulator	
+lmo2691	2766935	2768707	1773	+		autolysin	
+lmo2692	2768944	2769273	330	-		hypothetical protein	
+lmo2693	2769381	2770007	627	-		thymidylate kinase	
+lmo2694	2770060	2771439	1380	-		lysine decarboxylase	
+lmo2695	2771623	2772612	990	+		dihydroxyacetone kinase subunit DhaK	
+lmo2696	2772634	2773230	597	+		dihydroxyacetone kinase	
+lmo2697	2773234	2773608	375	+		PTS mannose transporter subunit IIA	
+lmo2698	2773714	2774565	852	+		RpiR family transcriptional regulator	
+lmo2699	2774684	2775523	840	+		hypothetical protein	
+lmo2700	2775644	2776486	843	+		aldo/keto reductase	
+lmo2701	2776532	2776777	246	-		hypothetical protein	
+lmo2702	2776792	2777388	597	-		recombination protein RecR	
+lmo2703	2777497	2777814	318	-		hypothetical protein	
+lmo2704	2777844	2779583	1740	-		DNA polymerase III subunit gamma/tau	
+lmo2705	2779910	2780374	465	-		hypothetical protein	
+lmo2706	2780392	2780574	183	-		hypothetical protein	
+lmo2707	2780577	2780798	222	-		hypothetical protein	
+lmo2708	2780933	2782297	1365	-		PTS cellbiose transporter subunit IIC	
+lmo2709	2782739	2782894	156	+		hypothetical protein	
+lmo2710	2783466	2784107	642	-		hypothetical protein	
+lmo2711	2784354	2784674	321	+		hypothetical protein	
+lmo2712	2784805	2786319	1515	-		gluconate kinase	
+lmo2713	2786435	2787373	939	-		internalin	
+lmo2714	2787416	2788363	948	-		pepdidoglycan bound protein	
+lmo2715	2788504	2790243	1740	-		ABC transporter ATP-binding protein	
+lmo2716	2790243	2791967	1725	-		ABC transporter	
+lmo2717	2791967	2792980	1014	-		cytochrome D ubiquinol oxidase subunit II	
+lmo2718	2792967	2794373	1407	-		cytochrome D ubiquinol oxidase subunit I	
+lmo2719	2794755	2795225	471	-		hypothetical protein	
+lmo2720	2795420	2796997	1578	+		acetate-CoA ligase	
+lmo2721	2797039	2797758	720	-		6-phosphogluconolactonase	
+lmo2722	2797838	2798572	735	+		MerR family transcripitonal regulator	
+lmo2723	2798626	2799087	462	+		hypothetical protein	
+lmo2724	2799108	2799551	444	-		hypothetical protein	
+lmo2725	2799609	2800961	1353	-		hypothetical protein	
+lmo2726	2800958	2801407	450	-		MarR family transcriptional regulator	
+lmo2727	2801577	2802458	882	+		hypothetical protein	
+lmo2728	2802543	2802998	456	+		MerR family transcriptional regulator	
+lmo2729	2802998	2803402	405	+		hypothetical protein	
+lmo2730	2803445	2804056	612	-		phosphatase	
+lmo2731	2804070	2804438	369	-		RpiR family transcriptional regulator	
+lmo2732	2804522	2805274	753	-		hypothetical protein	
+lmo2733	2805440	2807398	1959	+		PTS fructose transporter subunit IIABC	
+lmo2734	2807459	2810107	2649	+		sugar hydrolase	
+lmo2735	2810109	2811791	1683	+		sucrose phosphorylase	
+lmo2736	2811788	2812921	1134	+		hypothetical protein	
+lmo2737	2812925	2813881	957	-		LacI family transcriptional regulator	
+lmo2738	2813949	2815283	1335	-		hemolysin	
+lmo2739	2815401	2816090	690	-		NAD-dependent deacetylase	
+lmo2740	2816083	2816373	291	-		hypothetical protein	
+lmo2741	2816363	2817571	1209	-		multidrug transporter	
+lmo2742	2817688	2818035	348	-		hypothetical protein	
+lmo2743	2818054	2818698	645	-		translaldolase	
+lmo2744	2818841	2819530	690	-		Crp/Fnr family transcriptional regulator	
+lmo2745	2819860	2821587	1728	+		ABC transporter ATP-binding protein	
+lmo2746	2821641	2821892	252	-		hypothetical protein	
+lmo2747	2821912	2823195	1284	-		seryl-tRNA synthetase	
+lmo2748	2823530	2823949	420	-		hypothetical protein	
+lmo2749	2824079	2824651	573	+		glutamine amidotransferase	
+lmo2750	2824648	2826354	1707	+		para-aminobenzoate synthase subunit I	
+lmo2751	2826515	2828236	1722	+		ABC transporter ATP-binding protein	
+lmo2752	2828236	2830008	1773	+		ABC transporter ATP-binding protein	
+lmo2753	2830284	2830523	240	+		hypothetical protein	
+lmo2754	2830542	2831879	1338	-		D-alanyl-D-alanine carboxypeptidase	
+lmo2755	2832058	2833725	1668	-		CoA-transferase	
+lmo2756	2833834	2835987	2154	-		DNA topoisomerase III	
+lmo2757	2836011	2837783	1773	-		ATP-dependent DNA helicase	
+lmo2758	2837944	2839410	1467	-		inosine-monophosphate dehydrogenase	
+lmo2759	2839698	2840228	531	-		hypothetical protein	
+lmo2760	2840286	2841896	1611	-		ABC transporter ATP-binding protein	
+lmo2760a	2842035	2842385	351	+		hypothetical protein	
+lmo2761	2842413	2843867	1455	+		beta-glucosidase	
+lmo2762	2843914	2844216	303	+		PTS cellbiose transporter subunit IIB	
+lmo2763	2844249	2845601	1353	+		PTS cellbiose transporter subunit IIC	
+lmo2764	2845613	2846497	885	+		ROK family transcriptional regulator	
+lmo2765	2846490	2846798	309	+		PTS cellbiose transporter subunit IIA	
+lmo2766	2846839	2847573	735	-		RpiR family transcriptional regulator	
+lmo2767	2847673	2848335	663	-		hypothetical protein	
+lmo2768	2848406	2849536	1131	-		hypothetical protein	
+lmo2769	2849563	2850450	888	-		ABC transporter ATP-binding protein	
+lmo2770	2850620	2852950	2331	+		bifunctional glutamate--cysteine ligase/glutathione synthetase	
+lmo2771	2852988	2854436	1449	-		beta-glucosidase	
+lmo2772	2854429	2856282	1854	-		PTS beta-glucoside transporter subunit IIABC	
+lmo2773	2856379	2857218	840	-		transcriptional antiterminator	
+lmo2774	2857580	2858203	624	-		ABC transporter ATP-binding protein	
+lmo2775	2858196	2860364	2169	-		bacteriocin transporter	
+lmo2776	2860426	2860821	396	-		hypothetical protein	
+lmo2777	2861424	2862614	1191	+		multidrug transporter	
+lmo2778	2862774	2863283	510	-		hypothetical protein	
+lmo2779	2863561	2864661	1101	-		GTP-binding protein EngD	
+lmo2780	2864813	2865121	309	-		PTS cellbiose transporter subunit IIA	
+lmo2781	2865127	2867397	2271	-		beta-glucosidase	
+lmo2782	2867432	2867731	300	-		PTS cellbiose transporter subunit IIB	
+lmo2783	2867746	2869041	1296	-		PTS cellbiose transporter subunit IIC	
+lmo2784	2869191	2871107	1917	-		transcriptional antiterminator	
+lmo2785	2871318	2872784	1467	-		catalase	
+lmo2786	2872932	2873915	984	-		hypothetical protein	
+lmo2787	2873915	2875837	1923	-		beta-glucoside-specific phosphotransferase enzyme II ABC component	
+lmo2788	2875945	2876775	831	-		transcription antiterminator	
+lmo2789	2876947	2877153	207	-		hypothetical protein	
+lmo2790	2877160	2878011	852	-		partition protein ParB homolg	
+lmo2791	2878004	2878765	762	-		partition protein, ParA-like protein	
+lmo2792	2878989	2879747	759	-		hypothetical protein	
+lmo2793	2879906	2880205	300	-		hypothetical protein	
+lmo2794	2880217	2881071	855	-		NA-binding protein Spo0J	
+lmo2795	2881243	2882049	807	-		RpiR family transcription regulator	
+lmo2796	2882033	2882938	906	-		transcriptional regulator	
+lmo2797	2882963	2883409	447	-		PTS mannitol transporter subunit IIA	
+lmo2798	2883422	2884078	657	-		phosphatase	
+lmo2799	2884141	2885547	1407	-		PTS mannitol transporter subunit IIBC	
+lmo2800	2885581	2886582	1002	-		dehydrogenase	
+lmo2801	2886584	2887297	714	-		N-acetylmannosamine-6-phosphate 2-epimerase	
+lmo2802	2887499	2888215	717	-		16S rRNA methyltransferase GidB	
+lmo2802a	2888368	2888634	267	-		hypothetical protein	
+lmo2803	2888639	2889001	363	-		hypothetical protein	
+lmo2804	2888994	2890277	1284	-		hypothetical protein	
+lmo2805	2890274	2890666	393	-		hypothetical protein	
+lmo2806	2890779	2891171	393	-		hypothetical protein	
+lmo2807	2891269	2891652	384	-		hypothetical protein	
+lmo2808	2891649	2892032	384	-		hypothetical protein	
+lmo2809	2892057	2892437	381	-		hypothetical protein	
+lmo2810	2892596	2894485	1890	-		tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	
+lmo2811	2894510	2895883	1374	-		tRNA modification GTPase TrmE	
+lmo2812	2896241	2897059	819	+		D-alanyl-D-alanine carboxypeptidase	
+lmo2813	2897116	2897823	708	-		hypothetical protein	
+lmo2814	2897847	2898374	528	-		TetR family transcriptional regulator	
+lmo2815	2898535	2899266	732	+		3-ketoacyl-ACP reductase	
+lmo2816	2899313	2900506	1194	-		MFS transporter	
+lmo2817	2900594	2901784	1191	-		peptidase	
+lmo2818	2901800	2903200	1401	-		MFS transporter	
+lmo2819	2903200	2904402	1203	-		carboxypeptidase	
+lmo2820	2904598	2906940	2343	-		amino-terminal domain-containing protein	
+lmo2821	2907153	2909708	2556	+		internalin	
+lmo2822	2909753	2910076	324	-		hypothetical protein	
+lmo2823	2910085	2911326	1242	-		sporulation protein SpoOJ	
+lmo2824	2911415	2912602	1188	-		D-3-phosphoglycerate dehydrogenase	
+lmo2825	2912595	2913686	1092	-		phosphoserine aminotransferase	
+lmo2826	2914057	2915205	1149	-		MFS transporter	
+lmo2827	2915219	2915641	423	-		MarR family transcriptional regulator	
+lmo2828	2915744	2916097	354	-		hypothetical protein	
+lmo2829	2916291	2916890	600	+		nitroreductase	
+lmo2830	2916946	2917266	321	-		thioredoxin	
+lmo2831	2917389	2918051	663	-		phosphoglucomutase	
+lmo2832	2918048	2919169	1122	-		hypothetical protein	
+lmo2833	2919166	2921343	2178	-		maltose phosphorylase	
+lmo2834	2921340	2922371	1032	-		oxidoreductase	
+lmo2835	2922429	2923223	795	-		xylose isomerase	
+lmo2836	2923236	2924288	1053	-		alcohol dehydrogenase	
+lmo2837	2924307	2925158	852	-		sugar ABC transporter permease	
+lmo2838	2925145	2926026	882	-		sugar ABC transporter permease	
+lmo2839	2926101	2927393	1293	-		sugar ABC transporter substrate-binding protein	
+lmo2840	2927390	2928631	1242	-		sucrose phosphorylase	
+lmo2841	2928668	2929090	423	-		sucrose phosphorylase	
+lmo2842	2929315	2930340	1026	+		LacI family transcriptional regulator	
+lmo2843	2930479	2932473	1995	-		hypothetical protein	
+lmo2844	2932609	2933148	540	-		hypothetical protein	
+lmo2845	2933303	2934715	1413	+		MFS transporter	
+lmo2846	2934756	2935070	315	-		hypothetical protein	
+lmo2847	2935083	2935904	822	-		rhamnulose-1-phosphate aldolase	
+lmo2848	2935917	2937179	1263	-		L-rhamnose isomerase	
+lmo2849	2937192	2938643	1452	-		rhamnulokinase	
+lmo2850	2938662	2939930	1269	-		sugar transporter	
+lmo2851	2940053	2941033	981	+		AraC family transcriptional regulator	
+lmo2852	2941083	2941544	462	-		hypothetical protein	
+lmo2853	2941599	2942219	621	-		hypothetical protein	
+lmo2854	2942216	2943079	864	-		sporulation protein SpoJ	
+lmo2855	2943120	2943479	360	-		ribonuclease P	
+lmo2856	2943569	2943703	135	-		50S ribosomal protein L34	
+lmo2857	2943871	2944341	471	-		hypothetical protein	
+lmor01							
+lmor02							
+lmor03							
+lmor04							
+lmor05							
+lmor06							
+lmor07							
+lmor08							
+lmor09							
+lmor10							
+lmor11							
+lmor12							
+lmor13							
+lmor14							
+lmor15							
+lmor16							
+lmor17							
+lmor18							
+lmot01							
+lmot02							
+lmot03							
+lmot04							
+lmot05							
+lmot06							
+lmot07							
+lmot08							
+lmot09							
+lmot10							
+lmot11							
+lmot12							
+lmot13							
+lmot14							
+lmot15							
+lmot16							
+lmot17							
+lmot18							
+lmot19							
+lmot20							
+lmot21							
+lmot22							
+lmot23							
+lmot24							
+lmot25							
+lmot26							
+lmot27							
+lmot28							
+lmot29							
+lmot30							
+lmot31							
+lmot32							
+lmot33							
+lmot34							
+lmot35							
+lmot36							
+lmot37							
+lmot38							
+lmot39							
+lmot40							
+lmot41							
+lmot42							
+lmot43							
+lmot44							
+lmot45							
+lmot46							
+lmot47							
+lmot48							
+lmot49							
+lmot50							
+lmot51							
+lmot52							
+lmot53							
+lmot54							
+lmot55							
+lmot56							
+lmot57							
+lmot58							
+lmot59							
+lmot60							
+lmot61							
+lmot62							
+lmot63							
+lmot64							
+lmot65							
+lmot66							
+lmot67							

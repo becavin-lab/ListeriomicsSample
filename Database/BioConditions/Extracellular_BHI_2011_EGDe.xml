@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.expdesign.BioCondition" id="BioCondition0">
+  <void property="comment">
+   <string>Tryptic peptide mixtures obtained from peptidoglycan material</string>
+  </void>
+  <void property="date">
+   <string>16/08/2011</string>
+  </void>
+  <void property="genomeName">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="genomeUsed">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="growth">
+   <void method="add">
+    <string>Exp phase</string>
+   </void>
+  </void>
+  <void property="localization">
+   <void method="add">
+    <string>Cell wall</string>
+   </void>
+  </void>
+  <void property="media">
+   <void method="add">
+    <string>BHI Broth</string>
+   </void>
+  </void>
+  <void property="mediaGrowthProperties">
+   <void method="add">
+    <string></string>
+   </void>
+  </void>
+  <void property="name">
+   <string>Extracellular_BHI_2011_EGDe</string>
+  </void>
+  <void property="proteomes">
+   <void method="add">
+    <object class="bacnet.datamodel.dataset.ProteomicsData" id="ProteomicsData0">
+     <void property="bioCondName">
+      <string>Extracellular_BHI_2011_EGDe</string>
+     </void>
+     <void property="date">
+      <string>16/08/2011</string>
+     </void>
+     <void property="name">
+      <string>Extracellular_BHI_2011_EGDe</string>
+     </void>
+     <void property="rawDatas">
+      <void method="add">
+       <string>Extracellular_BHI_2011_EGDe.txt</string>
+      </void>
+     </void>
+     <void id="OmicsData$TypeData0" property="type"/>
+    </object>
+   </void>
+  </void>
+  <void property="reference">
+   <string>Garcia-del Portillo et al., J. Bio. Chemistry (Pubmed:21846725)</string>
+  </void>
+  <void property="time">
+   <string></string>
+  </void>
+  <void property="typeDataContained">
+   <void method="add">
+    <object idref="OmicsData$TypeData0"/>
+   </void>
+  </void>
+ </object>
+</java>

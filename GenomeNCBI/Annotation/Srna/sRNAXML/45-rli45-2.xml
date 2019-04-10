@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2153775</int>
+  </void>
+  <void property="end">
+   <int>2153852</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Rfam 2012)</string>
+    <string>rli45</string>
+   </void>
+   <void method="put">
+    <string>from (Rfam 2012)</string>
+    <string>2153775</string>
+   </void>
+   <void method="put">
+    <string>to (Rfam 2012)</string>
+    <string>2153852</string>
+   </void>
+   <void method="put">
+    <string>length (Rfam 2012)</string>
+    <string>78</string>
+   </void>
+   <void method="put">
+    <string>strand (Rfam 2012)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Rfam 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Bits score (Rfam 2012)</string>
+    <string>95.4</string>
+   </void>
+   <void method="put">
+    <string>Rfam ID (Rfam 2012)</string>
+    <string>RF01475</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Rfam 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>45</string>
+  </void>
+  <void property="length">
+   <int>78</int>
+  </void>
+  <void property="name">
+   <string>rli45-2</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+  <void property="synonym">
+   <void method="add">
+    <string>rli45</string>
+   </void>
+  </void>
+ </object>
+</java>

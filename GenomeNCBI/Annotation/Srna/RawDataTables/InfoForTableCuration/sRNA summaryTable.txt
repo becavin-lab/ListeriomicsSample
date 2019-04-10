@@ -1,0 +1,359 @@
+1	rli1 - LhrC-1	Wurtzel et al. 2012	Srna	LhrC-1-1	4	LhrC-1 231884 231994 true : Toledo-Arana et al. 2009 : sRNA	LhrC-1 231866 232004 true : Mraheil et al. 2011 : sRNA	LhrC-1 231884 231994 true : Wurtzel et al. 2012 : sRNA	LhrC-1 231884 231994 true : Rfam 2012 : sRNA
+2	rli2 - LhrC-2	Wurtzel et al. 2012	Srna	LhrC-2-2	4	LhrC-2 232086 232197 true : Toledo-Arana et al. 2009 : sRNA	LhrC-2 232053 232207 true : Mraheil et al. 2011 : sRNA	LhrC-2 232086 232197 true : Wurtzel et al. 2012 : sRNA	LhrC-2 232086 232197 true : Rfam 2012 : sRNA
+3	rli3 - LhrC-3	Wurtzel et al. 2012	Srna	LhrC-3-3	4	LhrC-3 232289 232400 true : Toledo-Arana et al. 2009 : sRNA	LhrC-3 232288 232401 true : Mraheil et al. 2011 : sRNA	LhrC-3 232289 232400 true : Wurtzel et al. 2012 : sRNA	LhrC-3 232289 232400 true : Rfam 2012 : sRNA
+4	rli4 - LhrC-4	Wurtzel et al. 2012	Srna	LhrC-4-4	4	LhrC-4 232492 232605 true : Toledo-Arana et al. 2009 : sRNA	LhrC-4 232459 232604 true : Mraheil et al. 2011 : sRNA	LhrC-4 232492 232605 true : Wurtzel et al. 2012 : sRNA	LhrC-4 232492 232605 true : Rfam 2012 : sRNA
+5	rli5 - rliA	Toledo-Arana et al. 2009	Srna	rliA-5	2	rliA 513584 513807 true : Toledo-Arana et al. 2009 : sRNA	rliA 513584 513807 true : Rfam 2012 : sRNA		
+6	rli6 - rliB	Wurtzel et al. 2012	Srna	rliB-	1	rliB 544238 544716 true : Wurtzel et al. 2012 : sRNA			
+6	rli6 - rliB	Wurtzel et al. 2012	Srna	rliB-6	2	rliB 544357 544716 true : Toledo-Arana et al. 2009 : sRNA	rliB 544357 544716 true : Rfam 2012 : sRNA		
+7	rli7 - LhrC-5	Wurtzel et al. 2012	Srna	LhrC-5-7	4	LhrC-5 981621 981731 true : Toledo-Arana et al. 2009 : sRNA	LhrC-5 981620 981732 true : Mraheil et al. 2011 : sRNA	LhrC-5 981621 981731 true : Wurtzel et al. 2012 : sRNA	LhrC-5 981621 981731 true : Rfam 2012 : sRNA
+8	rli8 - rliC	Mraheil et al. 2011	Srna	rliC-33	1	rliC 1154414 1154674 true : Mraheil et al. 2011 : sRNA			
+8	rli8 - rliC	Mraheil et al. 2011	Srna	rliC-8	1	rliC 1154309 1154671 true : Toledo-Arana et al. 2009 : sRNA			
+9	rli9 - rliH	Toledo-Arana et al. 2009	Srna	rliH-9	2	rliH 1180826 1181254 true : Toledo-Arana et al. 2009 : sRNA	rliH 1180826 1181254 true : Rfam 2012 : sRNA		
+10	rli10 - rliD	Toledo-Arana et al. 2009	Srna	rliD-10	2	rliD 1359529 1359202 false : Toledo-Arana et al. 2009 : sRNA	rliD 1359202 1359529 false : Rfam 2012 : sRNA		
+11	rli11 - sbrA	Wurtzel et al. 2012	Srna	Rli11-sbrA-	1	Rli11-sbrA 1399365 1399616 true : Wurtzel et al. 2012 : sRNA			
+11	rli11 - sbrA	Wurtzel et al. 2012	Srna	sbrA-11	3	sbrA 1399363 1399433 true : Toledo-Arana et al. 2009 : sRNA	sbrA 1399365 1399464 true : Mraheil et al. 2011 : sRNA	sbrA 1399363 1399433 true : Rfam 2012 : sRNA	
+12	rli12 - ssrS-6S	Wurtzel et al. 2012	Srna	ssrS-12	3	ssrS 1546531 1546343 false : Toledo-Arana et al. 2009 : sRNA	ssrS 1546330 1546537 false : Mraheil et al. 2011 : sRNA	ssrS-6S 1546336 1546531 false : Wurtzel et al. 2012 : sRNA	
+13	rli13 - rliE	Toledo-Arana et al. 2009	Srna	rliE-13	2	rliE 1584586 1584808 true : Toledo-Arana et al. 2009 : sRNA	rliE 1584586 1584808 true : Rfam 2012 : sRNA		
+14	rli14 - LhrB	Wurtzel et al. 2012	Srna	LhrB-14	3	LhrB 1860008 1859870 false : Toledo-Arana et al. 2009 : sRNA	LhrB 1859877 1860018 false : Mraheil et al. 2011 : sRNA	LhrB-L20 1859870 1860017 false : Wurtzel et al. 2012 : sRNA	
+15	rli15 - rnpB	Wurtzel et al. 2012	Srna	rnpB-15	3	rnpB 1962188 1961804 false : Toledo-Arana et al. 2009 : sRNA	rnpB-RNase P 1961807 1962188 false : Wurtzel et al. 2012 : sRNA	RNaseP_bact_b 1961807 1962188 false : Rfam 2012 : sRNA	
+15	rli15 - rnpB	Wurtzel et al. 2012	Srna	rnpB-52	1	rnpB 1961656 1961974 false : Mraheil et al. 2011 : sRNA			
+16	rli16 - rliF	Toledo-Arana et al. 2009	Srna	rliF-16	2	rliF 2106292 2106073 false : Toledo-Arana et al. 2009 : sRNA	rliF 2106073 2106292 false : Rfam 2012 : sRNA		
+17	rli17 - LhrA	Wurtzel et al. 2012	Srna	LhrA-17	4	LhrA 2346434 2346166 false : Toledo-Arana et al. 2009 : sRNA	LhrA 2346167 2346434 false : Mraheil et al. 2011 : sRNA	LhrA 2346166 2346382 false : Wurtzel et al. 2012 : sRNA	LhrA 2346166 2346434 false : Rfam 2012 : sRNA
+18	rli18 - rliG	Wurtzel et al. 2012	Srna	rliG-18	2	rliG 2386992 2386715 false : Toledo-Arana et al. 2009 : sRNA	rliG 2386715 2386992 false : Wurtzel et al. 2012 : sRNA		
+18	rli18 - rliG	Wurtzel et al. 2012	Srna	rliG-67	1	rliG 2386714 2386829 false : Mraheil et al. 2011 : sRNA			
+19	rli19 - ssrA	Wurtzel et al. 2012	Srna	ssrA-19	3	ssrA 2510220 2509854 false : Toledo-Arana et al. 2009 : sRNA	ssrA-tmRNA 2509852 2510220 false : Wurtzel et al. 2012 : sRNA	tmRNA 2509851 2510220 false : Rfam 2012 : sRNA	
+19	rli19 - ssrA	Wurtzel et al. 2012	Srna	ssrA-74	1	ssrA 2509737 2510236 false : Mraheil et al. 2011 : sRNA			
+20	rli20 - SRP	Wurtzel et al. 2012	Srna	SRP-20	1	SRP 2784604 2784272 false : Toledo-Arana et al. 2009 : sRNA			
+20	rli20 - SRP	Wurtzel et al. 2012	Srna	SRP-85	4	SRP 2784206 2784540 false : Mraheil et al. 2011 : sRNA	SRP 2784311 2784413 false : Wurtzel et al. 2012 : sRNA	Bacteria_large_SRP 2784262 2784528 false : Rfam 2012 : sRNA	Bacteria_small_SRP 2784313 2784412 false : Rfam 2012 : sRNA
+21	rli21 - rliI	Wurtzel et al. 2012	Srna	rliI-21	4	rliI 2842200 2841962 false : Toledo-Arana et al. 2009 : sRNA	rliI 2841963 2842200 false : Mraheil et al. 2011 : sRNA	rliI 2841962 2842199 false : Wurtzel et al. 2012 : sRNA	rliI 2841962 2842200 false : Rfam 2012 : sRNA
+22	rli22	Toledo-Arana et al. 2009	Srna	rli22-22	2	rli22 31997 32107 true : Toledo-Arana et al. 2009 : sRNA	rli22 31997 32107 true : Rfam 2012 : sRNA		
+23	rli23	Toledo-Arana et al. 2009	Srna	rli23-23	2	rli23 172171 172268 true : Toledo-Arana et al. 2009 : sRNA	rli23-1 172171 172268 true : Rfam 2012 : sRNA		
+24	rli24	Mraheil et al. 2011	Srna	rli24-24	4	rli24 271029 271186 true : Toledo-Arana et al. 2009 : sRNA	rli24 271014 271201 true : Mraheil et al. 2011 : sRNA	rli24 271014 271186 true : Wurtzel et al. 2012 : sRNA	rli24 271029 271186 true : Rfam 2012 : sRNA
+25	rli25	Toledo-Arana et al. 2009	Srna	rli25-25	2	rli25 357618 357516 false : Toledo-Arana et al. 2009 : sRNA	rli23-2 357509 357606 false : Rfam 2012 : sRNA		
+26	rli26	Wurtzel et al. 2012	Srna	rli26-26	3	rli26 388707 388520 false : Toledo-Arana et al. 2009 : sRNA	rli26 388590 388707 false : Wurtzel et al. 2012 : sRNA	rli26 388520 388707 false : Rfam 2012 : sRNA	
+27	rli27	Wurtzel et al. 2012	Srna	rli27-27	4	rli27 434831 434929 true : Toledo-Arana et al. 2009 : sRNA	rli27 434817 434947 true : Mraheil et al. 2011 : sRNA	rli27 434817 434929 true : Wurtzel et al. 2012 : sRNA	rli27 434831 434929 true : Rfam 2012 : sRNA
+28	rli28	Wurtzel et al. 2012	Srna	rli28-16	2	rli28 507068 507402 false : Mraheil et al. 2011 : sRNA	rli28 507141 507372 false : Wurtzel et al. 2012 : sRNA		
+28	rli28-2	Rfam 2012	Srna	rli28-2-	1	rli28-2 2039064 2039248 true : Rfam 2012 : sRNA			
+28	rli28	Wurtzel et al. 2012	Srna	rli28-28	2	rli28 507394 507206 false : Toledo-Arana et al. 2009 : sRNA	rli28-1 507206 507394 false : Rfam 2012 : sRNA		
+28	rli28-3	Rfam 2012	Srna	rli28-3-	1	rli28-3 2154893 2155080 false : Rfam 2012 : sRNA			
+29	rli29	Wurtzel et al. 2012	Srna	rli29-29	3	rli29 507643 507450 false : Toledo-Arana et al. 2009 : sRNA	rli29 507418 507632 false : Mraheil et al. 2011 : sRNA	rli29 507450 507632 false : Wurtzel et al. 2012 : sRNA	
+30	rli30	Toledo-Arana et al. 2009	Srna	rli30-30	1	rli30 540785 540670 false : Toledo-Arana et al. 2009 : sRNA			
+31	rli31	Wurtzel et al. 2012	Srna	rli31-31	4	rli31 597812 597926 true : Toledo-Arana et al. 2009 : sRNA	rli31 597806 597949 true : Mraheil et al. 2011 : sRNA	rli31 597806 597926 true : Wurtzel et al. 2012 : sRNA	rli31 597812 597926 true : Rfam 2012 : sRNA
+32	rli32	Wurtzel et al. 2012	Srna	rli32-32	4	rli32 600750 600604 false : Toledo-Arana et al. 2009 : sRNA	rli32 600602 600751 false : Mraheil et al. 2011 : sRNA	rli32 600604 600750 false : Wurtzel et al. 2012 : sRNA	rli32 600604 600750 false : Rfam 2012 : sRNA
+33	rli33-2	Mraheil et al. 2011	Srna	rli33-1-23	1	rli33-1 708309 708494 true : Mraheil et al. 2011 : sRNA			
+33	rli33	Wurtzel et al. 2012	Srna	rli33-2-24	2	rli33-2 708618 708891 true : Mraheil et al. 2011 : sRNA	rli33-2 708618 708860 true : Wurtzel et al. 2012 : sRNA		
+33	rli33-3	Toledo-Arana et al. 2009	Srna	rli33-33	2	rli33 708326 708860 true : Toledo-Arana et al. 2009 : sRNA	rli33 708326 708860 true : Rfam 2012 : sRNA		
+34	rli34-2	Rfam 2012	Srna	rli34-1-	1	rli34-1 678220 678303 false : Rfam 2012 : sRNA			
+34	rli34	Toledo-Arana et al. 2009	Srna	rli34-34	2	rli34 803031 802948 false : Toledo-Arana et al. 2009 : sRNA	rli34-2 802948 803031 false : Rfam 2012 : sRNA		
+35	rli35	Toledo-Arana et al. 2009	Srna	rli35-35	2	rli35 855495 855393 false : Toledo-Arana et al. 2009 : sRNA	rli23-3 855385 855482 false : Rfam 2012 : sRNA		
+36	rli36	Wurtzel et al. 2012	Srna	rli36-36	3	rli36 859527 859444 false : Toledo-Arana et al. 2009 : sRNA	rli36 859412 859521 false : Wurtzel et al. 2012 : sRNA	rli36 859444 859527 false : Rfam 2012 : sRNA	
+37	rli37	Wurtzel et al. 2012	Srna	rli37-37	3	rli37 907576 907832 true : Toledo-Arana et al. 2009 : sRNA	rli37 907526 907832 true : Wurtzel et al. 2012 : sRNA	rli37 907576 907832 true : Rfam 2012 : sRNA	
+38	rli38	Wurtzel et al. 2012	Srna	rli38-32	2	rli38 1152805 1152917 true : Mraheil et al. 2011 : sRNA	rli38 1152768 1152917 true : Rfam 2012 : sRNA		
+38	rli38	Wurtzel et al. 2012	Srna	rli38-38	2	rli38 1152549 1152917 true : Toledo-Arana et al. 2009 : sRNA	rli38 1152549 1152917 true : Wurtzel et al. 2012 : sRNA		
+39	rli39	Toledo-Arana et al. 2009	Srna	rli39-39	1	rli39 1179807 1179993 true : Toledo-Arana et al. 2009 : sRNA			
+40	rli40	Wurtzel et al. 2012	Srna	rli40-40	3	rli40 1275810 1275547 false : Toledo-Arana et al. 2009 : sRNA	rli40 1275547 1275794 false : Wurtzel et al. 2012 : sRNA	rli40 1275547 1275810 false : Rfam 2012 : sRNA	
+41	rli41	Wurtzel et al. 2012	Srna	rli41-38	1	rli41 1276706 1276847 false : Mraheil et al. 2011 : sRNA			
+41	rli41	Wurtzel et al. 2012	Srna	rli41-41	3	rli41 1277207 1276713 false : Toledo-Arana et al. 2009 : sRNA	rli41 1276713 1277206 false : Wurtzel et al. 2012 : sRNA	rli41 1276713 1277207 false : Rfam 2012 : sRNA	
+42	rli42	Wurtzel et al. 2012	Srna	rli42-42	4	rli42 1399617 1399447 false : Toledo-Arana et al. 2009 : sRNA	rli42 1399445 1399616 false : Mraheil et al. 2011 : sRNA	rli42 1399461 1399616 false : Wurtzel et al. 2012 : sRNA	rli42 1399447 1399617 false : Rfam 2012 : sRNA
+43	rli43	Wurtzel et al. 2012	Srna	rli43-	1	rli43 1861377 1861533 false : Wurtzel et al. 2012 : sRNA			
+43	rli43	Wurtzel et al. 2012	Srna	rli43-43	2	rli43 1861630 1861377 false : Toledo-Arana et al. 2009 : sRNA	rli43 1861377 1861630 false : Rfam 2012 : sRNA		
+44	rli44	Wurtzel et al. 2012	Srna	rli44-44	3	rli44 2039087 2039375 true : Toledo-Arana et al. 2009 : sRNA	rli44 2039087 2039362 true : Mraheil et al. 2011 : sRNA	rli44 2039087 2039375 true : Wurtzel et al. 2012 : sRNA	
+45	rli45-2	Rfam 2012	Srna	rli45-	1	rli45 2153775 2153852 true : Rfam 2012 : sRNA			
+45	rli45	Wurtzel et al. 2012	Srna	rli45-45	4	rli45 2154775 2154852 true : Toledo-Arana et al. 2009 : sRNA	rli45 2154757 2154883 true : Mraheil et al. 2011 : sRNA	rli45 2154765 2154852 true : Wurtzel et al. 2012 : sRNA	RatA-3 2154755 2154842 true : Rfam 2012 : sRNA
+46	rli46	Wurtzel et al. 2012	Srna	rli46-46	2	rli46 2155058 2154765 false : Toledo-Arana et al. 2009 : sRNA	rli46 2154765 2155058 false : Wurtzel et al. 2012 : sRNA		
+46	rli46	Wurtzel et al. 2012	Srna	rli46-58	1	rli46 2154764 2154971 false : Mraheil et al. 2011 : sRNA			
+47	rli47	Wurtzel et al. 2012	Srna	rli47-47	3	rli47 2226024 2226532 true : Toledo-Arana et al. 2009 : sRNA	rli47 2226036 2226481 true : Wurtzel et al. 2012 : sRNA	rli47 2226024 2226532 true : Rfam 2012 : sRNA	
+47	rli47	Wurtzel et al. 2012	Srna	rli47-59	1	rli47 2226036 2226349 true : Mraheil et al. 2011 : sRNA			
+48	rli48	Wurtzel et al. 2012	Srna	rli48-48	4	rli48 2361423 2361274 false : Toledo-Arana et al. 2009 : sRNA	rli48 2361297 2361404 false : Mraheil et al. 2011 : sRNA	rli48 2361274 2361405 false : Wurtzel et al. 2012 : sRNA	rli48 2361274 2361423 false : Rfam 2012 : sRNA
+49	rli49	Wurtzel et al. 2012	Srna	rli49-49	3	rli49 2660179 2660364 true : Toledo-Arana et al. 2009 : sRNA	rli49 2660210 2660364 true : Wurtzel et al. 2012 : sRNA	rli49 2660202 2660364 true : Rfam 2012 : sRNA	
+50	rli50	Wurtzel et al. 2012	Srna	rli50-50	2	rli50 2783274 2783098 false : Toledo-Arana et al. 2009 : sRNA	rli28-4 2783098 2783286 false : Rfam 2012 : sRNA		
+50	rli50	Wurtzel et al. 2012	Srna	rli50-84	2	rli50 2782959 2783264 false : Mraheil et al. 2011 : sRNA	rli50 2782981 2783264 false : Wurtzel et al. 2012 : sRNA		
+51	rli51	Toledo-Arana et al. 2009	Srna	rli51-4	1	rli51 207589 207714 true : Mraheil et al. 2011 : sRNA			
+51	rli51	Toledo-Arana et al. 2009	Srna	rli51-51	2	rli51 207589 207709 true : Toledo-Arana et al. 2009 : cisReg	rli51 207589 207709 true : Rfam 2012 : cisReg		
+52	rli52	Wurtzel et al. 2012	Srna	rli52-19	2	rli52 552313 552418 false : Mraheil et al. 2011 : sRNA	rli52 552313 552417 false : Wurtzel et al. 2012 : sRNA		
+52	rli52	Toledo-Arana et al. 2009	Srna	rli52-52	2	rli52 552421 552327 false : Toledo-Arana et al. 2009 : cisReg	rli52 552327 552421 false : Rfam 2012 : cisReg		
+53	rli53	Wurtzel et al. 2012	Srna	rli53-29	2	rli53 955824 956029 true : Mraheil et al. 2011 : sRNA	rli53 955824 956021 true : Wurtzel et al. 2012 : sRNA		
+53	rli53	Wurtzel et al. 2012	Srna	rli53-53	2	rli53 955829 956001 true : Toledo-Arana et al. 2009 : cisReg	rli53 955829 956001 true : Rfam 2012 : cisReg		
+54	rli54	Toledo-Arana et al. 2009	Srna	rli54-54	2	rli54 1078584 1079111 true : Toledo-Arana et al. 2009 : cisReg	rli54 1078584 1079111 true : Rfam 2012 : cisReg		
+55	rli55	Wurtzel et al. 2012	Srna	rli55-35	2	rli55 1198094 1198610 true : Mraheil et al. 2011 : sRNA	rli55 1198108 1198561 true : Wurtzel et al. 2012 : sRNA		
+55	rli55	Wurtzel et al. 2012	Srna	rli55-55	1	rli55 1198107 1198389 true : Toledo-Arana et al. 2009 : cisReg			
+56	rli56	Wurtzel et al. 2012	Srna	rli56-36	2	rli56 1199848 1199937 true : Mraheil et al. 2011 : sRNA	rli56 1199848 1199937 true : Wurtzel et al. 2012 : sRNA		
+56	rli56	Wurtzel et al. 2012	Srna	rli56-56	2	rli56 1199859 1199958 true : Toledo-Arana et al. 2009 : cisReg	rli56 1199859 1199958 true : Rfam 2012 : cisReg		
+57	rli57	Toledo-Arana et al. 2009	Srna	rli57-57	1	rli57 1216658 -1000000 true : Toledo-Arana et al. 2009 : cisReg			
+58	rli58	Wurtzel et al. 2012	Srna	rli58-48	2	rli58 1639909 1640182 false : Mraheil et al. 2011 : sRNA	rli58 1639915 1640132 false : Wurtzel et al. 2012 : sRNA		
+58	rli58	Wurtzel et al. 2012	Srna	rli58-58	1	rli58 1639974 -1000000 false : Toledo-Arana et al. 2009 : cisReg			
+59	rli59	Wurtzel et al. 2012	Srna	rli59-50	3	rli59 1702295 1702543 false : Mraheil et al. 2011 : sRNA	rli59 1702361 1702543 false : Wurtzel et al. 2012 : sRNA	rli59 1702373 1702553 false : Rfam 2012 : sRNA	
+59	rli59	Wurtzel et al. 2012	Srna	rli59-59	1	rli59 1702553 1702373 false : Toledo-Arana et al. 2009 : cisReg			
+60	rli60	Wurtzel et al. 2012	Srna	rli60-	1	rli60 2054162 2054501 true : Wurtzel et al. 2012 : sRNA			
+60	rli60	Wurtzel et al. 2012	Srna	rli60-55	1	rli60 2054110 2054356 true : Mraheil et al. 2011 : sRNA			
+60	rli60	Wurtzel et al. 2012	Srna	rli60-60	1	rli60 2054124 2054308 true : Toledo-Arana et al. 2009 : cisReg			
+61	rli61	Wurtzel et al. 2012	Srna	rli61-	1	rli61 2275258 2275363 false : Rfam 2012 : cisReg			
+61	rli61	Wurtzel et al. 2012	Srna	rli61-61	2	rli61 2275258 2275362 false : Mraheil et al. 2011 : sRNA	rli61 2275297 2275362 false : Wurtzel et al. 2012 : sRNA		
+62	rli62	Wurtzel et al. 2012	Srna	rli62-62	2	rli62 2364508 2364337 false : Toledo-Arana et al. 2009 : cisReg	rli62 2364337 2364508 false : Rfam 2012 : cisReg		
+62	rli62	Wurtzel et al. 2012	Srna	rli62-66	2	rli62 2364285 2364497 false : Mraheil et al. 2011 : sRNA	rli62 2364321 2364439 false : Wurtzel et al. 2012 : sRNA		
+63	rli63	Wurtzel et al. 2012	Srna	rli63-	1	rli63 2612921 2613300 false : Wurtzel et al. 2012 : sRNA			
+63	rli63	Wurtzel et al. 2012	Srna	rli63-63	1	rli63 2613301 -1000000 false : Toledo-Arana et al. 2009 : cisReg			
+63	rli63	Wurtzel et al. 2012	Srna	rli63-77	1	rli63 2613039 2613300 false : Mraheil et al. 2011 : sRNA			
+65	rli65	Wurtzel et al. 2012	Srna	rli65-18	2	rli65 531146 531281 true : Mraheil et al. 2011 : sRNA	rli65 531148 531266 true : Wurtzel et al. 2012 : sRNA		
+66	rli66	Oliver et al. 2009	Srna	rli124-	2	rli124 1057361 1057621 false : Wurtzel et al. 2012 : Srna	rli66 1057315 1057642 false : Oliver et al. 2009 : Srna		
+67	rli67	Oliver et al. 2009	Srna	rli67-rli67	1	rli67 1535169 1535409 true : Oliver et al. 2009 : sRNA			
+68	rli68	Oliver et al. 2009	Srna	rli68-rli68	1	rli68 2174995 2175265 true : Oliver et al. 2009 : sRNA			
+69	rli69	Oliver et al. 2009	Srna	rli69-rli69	1	rli69 2468115 2468289 true : Oliver et al. 2009 : sRNA			
+70	rli70	Oliver et al. 2009	Srna	rli70-rli70	1	rli70 2533504 2533732 true : Oliver et al. 2009 : sRNA			
+71	rli71	Wurtzel et al. 2012	Srna	rli71-1	2	rli71 28964 29061 true : Mraheil et al. 2011 : sRNA	rli71 28964 29061 true : Wurtzel et al. 2012 : sRNA		
+72	rli72	Wurtzel et al. 2012	Srna	rli72-2	2	rli72 200410 200519 true : Mraheil et al. 2011 : sRNA	rli72 200410 200519 true : Wurtzel et al. 2012 : sRNA		
+73	rli73	Wurtzel et al. 2012	Srna	rli73-	1	rli73 200942 201217 true : Wurtzel et al. 2012 : sRNA			
+73	rli73	Wurtzel et al. 2012	Srna	rli73-3	1	rli73 200939 201035 true : Mraheil et al. 2011 : sRNA			
+74	rli74	Wurtzel et al. 2012	Srna	rli74-5	2	rli74 209321 209453 true : Mraheil et al. 2011 : sRNA	rli74 209321 209453 true : Wurtzel et al. 2012 : sRNA		
+75	rli75	Mraheil et al. 2011	Srna	rli75-11	1	rli75 321290 321363 true : Mraheil et al. 2011 : sRNA			
+76	rli76	Wurtzel et al. 2012	Srna	rli76-12	2	rli76 344675 344772 false : Mraheil et al. 2011 : sRNA	rli76 344675 344771 false : Wurtzel et al. 2012 : sRNA		
+77	rli77	Mraheil et al. 2011	Srna	rli77-14	1	rli77 454095 454227 true : Mraheil et al. 2011 : sRNA			
+78	rli78	Wurtzel et al. 2012	Srna	rli78-	1	rli78 507068 507473 true : Wurtzel et al. 2012 : sRNA			
+78	rli78	Wurtzel et al. 2012	Srna	rli78-15	2	rli78 507066 507199 true : Mraheil et al. 2011 : sRNA	RatA-1 507057 507150 true : Rfam 2012 : sRNA		
+79	rli79	Mraheil et al. 2011	Srna	rli79-22	1	rli79 696818 696880 true : Mraheil et al. 2011 : sRNA			
+80	rli80	Wurtzel et al. 2012	Srna	rli80-25	2	rli80 787038 787317 true : Mraheil et al. 2011 : sRNA	rli80 787038 787254 true : Wurtzel et al. 2012 : sRNA		
+81	rli81	Wurtzel et al. 2012	Srna	rli81-26	2	rli81 905683 905860 true : Mraheil et al. 2011 : sRNA	rli81 905685 905801 true : Wurtzel et al. 2012 : sRNA		
+82	rli82	Wurtzel et al. 2012	Srna	rli82-27	2	rli82 910875 910944 false : Mraheil et al. 2011 : sRNA	rli82 910875 910942 false : Wurtzel et al. 2012 : sRNA		
+83	rli83	Mraheil et al. 2011	Srna	rli83-28	1	rli83 926922 927039 true : Mraheil et al. 2011 : sRNA			
+84	rli84	Wurtzel et al. 2012	Srna	rli84-31	2	rli84 1093855 1093954 true : Mraheil et al. 2011 : sRNA	rli84 1093855 1093954 true : Wurtzel et al. 2012 : sRNA		
+85	rli85	Mraheil et al. 2011	Srna	rli85-34	1	rli85 1154617 1154762 false : Mraheil et al. 2011 : sRNA			
+86	rli86	Wurtzel et al. 2012	Srna	rli86-37	2	rli86 1272592 1272662 true : Mraheil et al. 2011 : sRNA	rli86 1272592 1272662 true : Wurtzel et al. 2012 : sRNA		
+87	rli87	Wurtzel et al. 2012	Srna	rli87-	1	rli87 1301287 1301551 true : Wurtzel et al. 2012 : sRNA			
+87	rli87	Wurtzel et al. 2012	Srna	rli87-39	1	rli87 1301269 1301389 true : Mraheil et al. 2011 : sRNA			
+88	rli88	Wurtzel et al. 2012	Srna	rli88-40	2	rli88 1320429 1320509 true : Mraheil et al. 2011 : sRNA	rli88 1320429 1320501 true : Wurtzel et al. 2012 : sRNA		
+89	rli89	Mraheil et al. 2011	Srna	rli89-43	1	rli89 1399490 1399656 true : Mraheil et al. 2011 : sRNA			
+90	rli90	Wurtzel et al. 2012	Srna	rli90-44	2	rli90 1527932 1528048 false : Mraheil et al. 2011 : sRNA	rli90 1527941 1528048 false : Wurtzel et al. 2012 : sRNA		
+91	rli91	Wurtzel et al. 2012	Srna	rli91-46	2	rli91 1575830 1575917 false : Mraheil et al. 2011 : sRNA	rli91 1575830 1575917 false : Wurtzel et al. 2012 : sRNA		
+92	rli92	Wurtzel et al. 2012	Srna	rli92-47	2	rli92 1638942 1639083 true : Mraheil et al. 2011 : sRNA	rli92 1638942 1639091 true : Wurtzel et al. 2012 : sRNA		
+93	rli93	Mraheil et al. 2011	Srna	rli93-49	1	rli93 1641179 1641239 true : Mraheil et al. 2011 : sRNA			
+94	rli94	Wurtzel et al. 2012	Srna	rli94-	1	rli94 2039079 2039375 false : Wurtzel et al. 2012 : sRNA			
+94	rli94	Wurtzel et al. 2012	Srna	rli94-54	2	rli94 2039254 2039395 false : Mraheil et al. 2011 : sRNA	RatA-2 2039298 2039385 false : Rfam 2012 : sRNA		
+95	rli95	Mraheil et al. 2011	Srna	rli95-56	1	rli95 2106222 2106324 true : Mraheil et al. 2011 : sRNA			
+96	rli96	Wurtzel et al. 2012	Srna	rli96-60	2	rli96 2239222 2239295 false : Mraheil et al. 2011 : sRNA	rli96 2239222 2239295 false : Wurtzel et al. 2012 : sRNA		
+97	rli97	Wurtzel et al. 2012	Srna	rli97-62	2	rli97 2280060 2280111 false : Mraheil et al. 2011 : sRNA	rli97 2279995 2280110 false : Wurtzel et al. 2012 : sRNA		
+98	rli98	Wurtzel et al. 2012	Srna	rli98-	1	rli98 2361329 2361581 true : Wurtzel et al. 2012 : sRNA			
+98	rli98	Wurtzel et al. 2012	Srna	rli98-64	1	rli98 2361255 2361407 true : Mraheil et al. 2011 : sRNA			
+99	rli99	Wurtzel et al. 2012	Srna	rli99-	1	rli99 2395032 2395236 true : Wurtzel et al. 2012 : sRNA			
+99	rli99	Wurtzel et al. 2012	Srna	rli99-68	1	rli99 2394985 2395110 true : Mraheil et al. 2011 : sRNA			
+100	rli100	Wurtzel et al. 2012	Srna	rli100-69	2	rli100 2424801 2424875 false : Mraheil et al. 2011 : sRNA	rli100 2424807 2424866 false : Wurtzel et al. 2012 : sRNA		
+101	rli101	Wurtzel et al. 2012	Srna	rli101-70	2	rli101 2452913 2452994 false : Mraheil et al. 2011 : sRNA	rli101 2452913 2452994 false : Wurtzel et al. 2012 : sRNA		
+102	rli102	Wurtzel et al. 2012	Srna	rli102-	1	rli102 2454489 2454690 true : Wurtzel et al. 2012 : sRNA			
+102	rli102	Wurtzel et al. 2012	Srna	rli102-71	1	rli102 2454489 2454586 true : Mraheil et al. 2011 : sRNA			
+103	rli103	Mraheil et al. 2011	Srna	rli103-72	1	rli103 2498270 2498344 false : Mraheil et al. 2011 : sRNA			
+104	rli104	Mraheil et al. 2011	Srna	rli104-73	1	rli104 2505181 2505340 false : Mraheil et al. 2011 : sRNA			
+105	rli105	Wurtzel et al. 2012	Srna	rli105-75	2	rli105 2533473 2533615 false : Mraheil et al. 2011 : sRNA	rli105 2533481 2533615 false : Wurtzel et al. 2012 : sRNA		
+106	rli106	Wurtzel et al. 2012	Srna	rli106-	1	rli106 2594561 2594785 false : Wurtzel et al. 2012 : sRNA			
+106	rli106	Wurtzel et al. 2012	Srna	rli106-76	1	rli106 2594654 2594785 false : Mraheil et al. 2011 : sRNA			
+107	rli107	Mraheil et al. 2011	Srna	rli107-78	1	rli107 2632700 2632770 false : Mraheil et al. 2011 : sRNA			
+108	rli108	Wurtzel et al. 2012	Srna	rli108-79	2	rli108 2639710 2639789 false : Mraheil et al. 2011 : sRNA	rli108 2639710 2639789 false : Wurtzel et al. 2012 : sRNA		
+109	rli109	Wurtzel et al. 2012	Srna	rli109-	1	rli109 2694509 2694694 false : Wurtzel et al. 2012 : sRNA			
+109	rli109	Wurtzel et al. 2012	Srna	rli109-80	1	rli109 2694473 2694623 false : Mraheil et al. 2011 : sRNA			
+110	rli110	Mraheil et al. 2011	Srna	rli110-81	1	rli110 2730489 2730555 true : Mraheil et al. 2011 : sRNA			
+111	rli111	Wurtzel et al. 2012	Srna	rli111-82	2	rli111 2736465 2736564 true : Mraheil et al. 2011 : sRNA	rli111 2736457 2736640 true : Wurtzel et al. 2012 : sRNA		
+112	rli112	Mraheil et al. 2011	Srna	rli112-	1	rli112 2782978 2783221 true : Wurtzel et al. 2012 : sRNA			
+112	rli112	Mraheil et al. 2011	Srna	rli112-83	1	rli112 2782958 2783091 true : Mraheil et al. 2011 : sRNA			
+113	rli113	Wurtzel et al. 2012	Srna	rli113-86	2	rli113 2839445 2839574 false : Mraheil et al. 2011 : sRNA	rli113 2839401 2839573 false : Wurtzel et al. 2012 : sRNA		
+114	rli114	Wurtzel et al. 2012	Srna	rli114-88	2	rli114 2857244 2857320 false : Mraheil et al. 2011 : sRNA	rli114 2857252 2857320 false : Wurtzel et al. 2012 : sRNA		
+115	rli115	Wurtzel et al. 2012	Srna	rli115-	1	rli115 77597 77863 true : Wurtzel et al. 2012 : sRNA			
+116	rli116	Wurtzel et al. 2012	Srna	rli116-	1	rli116 143795 144000 true : Wurtzel et al. 2012 : sRNA			
+117	rli117	Wurtzel et al. 2012	Srna	rli117-	1	rli117 145571 145841 true : Wurtzel et al. 2012 : sRNA			
+118	rli118	Wurtzel et al. 2012	Srna	rli118-	1	rli118 199775 199884 true : Wurtzel et al. 2012 : sRNA			
+119	rli119	Wurtzel et al. 2012	Srna	rli119-	1	rli119 215458 215587 false : Wurtzel et al. 2012 : sRNA			
+120	rli120	Wurtzel et al. 2012	Srna	rli120-	1	rli120 226546 226640 true : Wurtzel et al. 2012 : sRNA			
+121	rli121	Wurtzel et al. 2012	Srna	rli121-	1	rli121 495786 496381 true : Wurtzel et al. 2012 : sRNA			
+122	rli122	Wurtzel et al. 2012	Srna	rli122-	1	rli122 507021 507161 false : Wurtzel et al. 2012 : sRNA			
+123	rli123	Wurtzel et al. 2012	Srna	rli123-	1	rli123 862938 863241 true : Wurtzel et al. 2012 : sRNA			
+124	rli124	Wurtzel et al. 2012	Srna	rli124-	2	rli124 1057361 1057621 false : Wurtzel et al. 2012 : Srna	rli66 1057315 1057642 false : Oliver et al. 2009 : Srna		
+125	rli125	Wurtzel et al. 2012	Srna	rli125-	1	rli125 1154319 1154671 false : Wurtzel et al. 2012 : sRNA			
+126	rli126	Wurtzel et al. 2012	Srna	rli126-	1	rli126 1159877 1160115 true : Wurtzel et al. 2012 : sRNA			
+127	rli127	Wurtzel et al. 2012	Srna	rli127-	1	rli127 1473701 1473829 false : Wurtzel et al. 2012 : sRNA			
+128	rli128	Wurtzel et al. 2012	Srna	rli128-	1	rli128 1575917 1575995 false : Wurtzel et al. 2012 : sRNA			
+129	rli129	Wurtzel et al. 2012	Srna	rli129-	1	rli129 1613300 1613451 false : Wurtzel et al. 2012 : sRNA			
+130	rli130	Wurtzel et al. 2012	Srna	rli130-	1	rli130 2008753 2008871 false : Wurtzel et al. 2012 : sRNA			
+131	rli131	Wurtzel et al. 2012	Srna	rli131-	1	rli131 2031272 2031354 false : Wurtzel et al. 2012 : sRNA			
+132	rli132	Wurtzel et al. 2012	Srna	rli132-	1	rli132 2109721 2109972 false : Wurtzel et al. 2012 : sRNA			
+133	rli133	Wurtzel et al. 2012	Srna	rli133-	1	rli133 2145524 2145648 false : Wurtzel et al. 2012 : sRNA			
+134	rli134	Wurtzel et al. 2012	Srna	rli134-	1	rli134 2151510 2151605 false : Wurtzel et al. 2012 : sRNA			
+135	rli135	Wurtzel et al. 2012	Srna	rli135-	1	rli135 2213168 2213213 false : Wurtzel et al. 2012 : sRNA			
+136	rli136	Wurtzel et al. 2012	Srna	rli136-	1	rli136 2286256 2286586 false : Wurtzel et al. 2012 : sRNA			
+137	rli137	Wurtzel et al. 2012	Srna	rli137-	1	rli137 2293286 2293472 true : Wurtzel et al. 2012 : sRNA			
+138	rli138	Wurtzel et al. 2012	Srna	rli138-	1	rli138 2321818 2322026 true : Wurtzel et al. 2012 : sRNA			
+139	rli139	Wurtzel et al. 2012	Srna	rli139-	1	rli139 2321818 2321967 false : Wurtzel et al. 2012 : sRNA			
+140	rli140	Wurtzel et al. 2012	Srna	rli140-	1	rli140 2395032 2395244 false : Wurtzel et al. 2012 : sRNA			
+141	rli141	Wurtzel et al. 2012	Srna	rli141-	1	rli141 2399283 2399512 true : Wurtzel et al. 2012 : sRNA			
+142	rli142	Wurtzel et al. 2012	Srna	rli142-	1	rli142 2569572 2569681 true : Wurtzel et al. 2012 : sRNA			
+143	rli143	Wurtzel et al. 2012	Srna	rli143-	1	rli143 2584861 2585032 false : Wurtzel et al. 2012 : sRNA			
+144	rli144	Wurtzel et al. 2012	Srna	rli144-	1	rli144 2640531 2640819 false : Wurtzel et al. 2012 : sRNA			
+145	rli145	Wurtzel et al. 2012	Srna	rli145-	1	rli145 2794580 2794741 false : Wurtzel et al. 2012 : sRNA			
+146	rli146	Wurtzel et al. 2012	Srna	rli146-	1	rli146 318784 318834 true : Wurtzel et al. 2012 : sRNA			
+147	rli147	Wurtzel et al. 2012	Srna	rli147-	1	rli147 2784594 2784775 false : Wurtzel et al. 2012 : sRNA			
+148	rli148 - sbrB	Oliver et al. 2009	Srna	sbrB-sbrB	1	sbrB 1275554 1275719 true : Oliver et al. 2009 : sRNA			
+149	rli149 - sbrD	Oliver et al. 2009	Srna	sbrD-sbrD	1	sbrD 1548463 1548535 true : Oliver et al. 2009 : sRNA			
+150	AdoCbl_riboswitch	Rfam 2012	CisReg	AdoCbl_riboswitch-	1	AdoCbl_riboswitch 1198103 1198252 true : Rfam 2012 : cisReg			
+151	Cobalamin	Rfam 2012	CisReg	Cobalamin 1-	1	Cobalamin 1 1179809 1179999 true : Rfam 2012 : cisReg			
+151	Cobalamin 2	Rfam 2012	CisReg	Cobalamin 2-	1	Cobalamin 2 1216481 1216658 true : Rfam 2012 : cisReg			
+152	FMN	Toledo-Arana et al. 2009 	CisReg	FMN-145	1	FMN 2020365 2020623 false : Mraheil et al. 2011 : cisReg			
+152	FMN	Toledo-Arana et al. 2009 	CisReg	FMN-96	2	FMN 2020609 2020487 false : Toledo-Arana et al. 2009 : cisReg	FMN 2020487 2020609 false : Rfam 2012 : cisReg		
+153	glmS	Toledo-Arana et al. 2009 	CisReg	glms-125	1	glms 756425 756482 true : Mraheil et al. 2011 : cisReg			
+153	glmS	Toledo-Arana et al. 2009 	CisReg	glmS-72	2	glmS 756458 756652 true : Toledo-Arana et al. 2009 : cisReg	glmS 756458 756652 true : Rfam 2012 : cisReg		
+154	Glycine	Toledo-Arana et al. 2009 	CisReg	Glycine-78	2	Glycine 1372840 1372931 true : Toledo-Arana et al. 2009 : cisReg	Glycine 1372840 1372931 true : Rfam 2012 : cisReg		
+155	L10	Toledo-Arana et al. 2009 	CisReg	L10-67	3	L10 266232 266375 true : Toledo-Arana et al. 2009 : cisReg	L10 266236 266368 true : Mraheil et al. 2011 : cisReg	L10_leader 266232 266375 true : Rfam 2012 : cisReg	
+156	L13	Toledo-Arana et al. 2009 	CisReg	L13-101	2	L13 2685233 2685181 false : Toledo-Arana et al. 2009 : cisReg	L13_leader 2685181 2685233 false : Rfam 2012 : cisReg		
+157	L17DE	Rfam 2012	CisReg	L17DE-	1	L17DE 2691575 2691650 false : Rfam 2012 : cisReg			
+158	L19	Toledo-Arana et al. 2009 	CisReg	L19-92	1	L19 1862308 1862270 false : Toledo-Arana et al. 2009 : cisReg			
+159	L20	Rfam 2012	CisReg	L20_leader-	1	L20_leader 1859870 1860008 false : Rfam 2012 : cisReg			
+160	L21	Toledo-Arana et al. 2009 	CisReg	L21-82	3	L21 1577146 1577068 false : Toledo-Arana et al. 2009 : cisReg	L21 1577076 1577162 false : Mraheil et al. 2011 : cisReg	L21_leader 1577068 1577146 false : Rfam 2012 : cisReg	
+161	Lysine	Toledo-Arana et al. 2009 	CisReg	Lysine-73	3	Lysine 826683 826486 false : Toledo-Arana et al. 2009 : cisReg	Lysine 826431 826710 false : Mraheil et al. 2011 : cisReg	Lysine 826486 826683 false : Rfam 2012 : cisReg	
+162	M-box	Toledo-Arana et al. 2009 	CisReg	M-box-102	3	M-box 2766104 2765940 false : Toledo-Arana et al. 2009 : cisReg	ykoK 2765879 2766128 false : Mraheil et al. 2011 : cisReg	ykoK 2765940 2766104 false : Rfam 2012 : cisReg	
+163	pan	Rfam 2012	CisReg	pan-	1	pan 1977152 1977238 false : Rfam 2012 : cisReg			
+164	PreQ1	Toledo-Arana et al. 2009 	CisReg	PreQ1-75	2	PreQ1 907926 907973 true : Toledo-Arana et al. 2009 : cisReg	PreQ1 907926 907973 true : Rfam 2012 : cisReg		
+165	PrfA	Toledo-Arana et al. 2009 	CisReg	PrfA-65	2	PrfA 204468 204339 false : Toledo-Arana et al. 2009 : cisReg	PrfA 204339 204468 false : Rfam 2012 : cisReg		
+166	Purine-1	Toledo-Arana et al. 2009 	CisReg	Purine-123	1	Purine 610929 611100 false : Mraheil et al. 2011 : cisReg			
+166	Purine-1	Toledo-Arana et al. 2009 	CisReg	Purine-70	2	Purine 611119 611017 false : Toledo-Arana et al. 2009 : cisReg	Purine 1 611018 611119 false : Rfam 2012 : cisReg		
+167	Purine-2	Toledo-Arana et al. 2009	CisReg	Purine-95	3	Purine 1958922 1958821 false : Toledo-Arana et al. 2009 : cisReg	Purine 1958760 1958922 false : Mraheil et al. 2011 : cisReg	Purine 2 1958822 1958922 false : Rfam 2012 : cisReg	
+168	PyrR-1	Toledo-Arana et al. 2009	CisReg	PyrR-93	3	PyrR 1917574 1917471 false : Toledo-Arana et al. 2009 : cisReg	PyrR 1917472 1917580 false : Mraheil et al. 2011 : cisReg	PyrR 1 1917471 1917573 false : Rfam 2012 : cisReg	
+169	PyrR-2	Toledo-Arana et al. 2009	CisReg	PyrR-94	3	PyrR 1918262 1918154 false : Toledo-Arana et al. 2009 : cisReg	PyrR 1918173 1918271 false : Mraheil et al. 2011 : cisReg	PyrR 2 1918154 1918262 false : Rfam 2012 : cisReg	
+170	SAM-SreA	Johansson 2009	CisReg	SAM-99	4	SAM 2491176 2491058 false : Toledo-Arana et al. 2009 : cisReg	SAM 2491006 2491227 false : Mraheil et al. 2011 : cisReg	SAM 7 2491058 2491176 false : Rfam 2012 : cisReg	SAM 7 2490998 2491226 false : Johansson 2009 : CisReg
+171	SAM-SreB	Johansson 2009	CisReg	SAM-71	4	SAM 637926 637826 false : Toledo-Arana et al. 2009 : cisReg	SAM 637762 637942 false : Mraheil et al. 2011 : cisReg	SAM 3 637826 637926 false : Rfam 2012 : cisReg	SAM 3 637762 637940 false : Johansson 2009 : CisReg
+172	SAM-SreC	Johansson 2009	CisReg	SAM-89	4	SAM 1716651 1716543 false : Toledo-Arana et al. 2009 : cisReg	SAM 1716475 1716665 false : Mraheil et al. 2011 : cisReg	SAM 5 1716543 1716651 false : Rfam 2012 : cisReg	SAM 5 1716478 1716659 false : Johansson 2009 : CisReg
+173	SAM-SreD	Johansson 2009	CisReg	SAM-90	4	SAM 1739597 1739491 false : Toledo-Arana et al. 2009 : cisReg	SAM 1739418 1739635 false : Mraheil et al. 2011 : cisReg	SAM 6 1739491 1739597 false : Rfam 2012 : cisReg	SAM 6 1739418 1739633 false : Johansson 2009 : CisReg
+174	SAM-SreE	Johansson 2009	CisReg	SAM-74	4	SAM 882770 882867 true : Toledo-Arana et al. 2009 : cisReg	SAM 882758 882925 true : Mraheil et al. 2011 : cisReg	SAM 4 882770 882867 true : Rfam 2012 : cisReg	SAM 4 882759 882927 true : Johansson 2009 : CisReg
+175	SAM-SreF	Johansson 2009	CisReg	SAM-68	4	SAM 309385 309266 false : Toledo-Arana et al. 2009 : cisReg	SAM 309210 309408 false : Mraheil et al. 2011 : cisReg	SAM 2 309266 309385 false : Rfam 2012 : cisReg	SAM 2 309211 309408 false : Johansson 2009 : CisReg
+176	SAM-SreG	Johansson 2009	CisReg	SAM-64	4	SAM 137133 137235 true : Toledo-Arana et al. 2009 : cisReg	SAM 137099 137205 true : Mraheil et al. 2011 : cisReg	SAM 1 137133 137235 true : Rfam 2012 : cisReg	SAM 1 137135 137294 true : Johansson 2009 : CisReg
+177	T-box-4	Mraheil et al. 2011	CisReg	T-box-132	1	T-box 1535161 1535409 false : Mraheil et al. 2011 : cisReg			
+178	T-box-1	Toledo-Arana et al. 2009	CisReg	T-box-66	2	T-box 258548 258760 true : Toledo-Arana et al. 2009 : cisReg	T-box 258552 258802 true : Mraheil et al. 2011 : cisReg		
+179	T-box-2	Toledo-Arana et al. 2009	CisReg	T-box-77	3	T-box 1240774 1241002 true : Toledo-Arana et al. 2009 : cisReg	T-box 1240764 1241019 true : Mraheil et al. 2011 : cisReg	T-box 1 1240774 1241002 true : Rfam 2012 : cisReg	
+180	T-box-3	Toledo-Arana et al. 2009	CisReg	T-box-80	3	T-box 1494276 1494104 false : Toledo-Arana et al. 2009 : cisReg	T-box 1494067 1494286 false : Mraheil et al. 2011 : cisReg	T-box 2 1494104 1494276 false : Rfam 2012 : cisReg	
+181	T-box-4	Toledo-Arana et al. 2009	CisReg	T-box-81	3	T-box 1554200 1553972 false : Toledo-Arana et al. 2009 : cisReg	T-box 1553943 1554209 false : Mraheil et al. 2011 : cisReg	T-box 3 1553972 1554200 false : Rfam 2012 : cisReg	
+182	T-box-5	Toledo-Arana et al. 2009	CisReg	T-box-83	3	T-box 1589127 1588901 false : Toledo-Arana et al. 2009 : cisReg	T-box 1588879 1589139 false : Mraheil et al. 2011 : cisReg	T-box 4 1588901 1589127 false : Rfam 2012 : cisReg	
+183	T-box-6	Toledo-Arana et al. 2009	CisReg	T-box-84	3	T-box 1597448 1597218 false : Toledo-Arana et al. 2009 : cisReg	T-box 1597192 1597455 false : Mraheil et al. 2011 : cisReg	T-box 5 1597218 1597448 false : Rfam 2012 : cisReg	
+184	T-box-7	Toledo-Arana et al. 2009	CisReg	T-box-85	3	T-box 1642811 1642603 false : Toledo-Arana et al. 2009 : cisReg	T-box 1642569 1642828 false : Mraheil et al. 2011 : cisReg	T-box 6 1642603 1642811 false : Rfam 2012 : cisReg	
+185	T-box-8	Toledo-Arana et al. 2009	CisReg	T-box-86	2	T-box 1676617 1676392 false : Toledo-Arana et al. 2009 : cisReg	T-box 7 1676392 1676617 false : Rfam 2012 : cisReg		
+186	T-box-9	Toledo-Arana et al. 2009	CisReg	T-box-87	3	T-box 1676907 1676666 false : Toledo-Arana et al. 2009 : cisReg	T-box 1676622 1676916 false : Mraheil et al. 2011 : cisReg	T-box 8 1676666 1676907 false : Rfam 2012 : cisReg	
+187	T-box-10	Toledo-Arana et al. 2009	CisReg	T-box-88	3	T-box 1711543 1711342 false : Toledo-Arana et al. 2009 : cisReg	T-box 1711308 1711555 false : Mraheil et al. 2011 : cisReg	T-box 9 1711342 1711543 false : Rfam 2012 : cisReg	
+188	T-box-11	Toledo-Arana et al. 2009	CisReg	T-box-91	2	T-box 1810057 1809817 false : Toledo-Arana et al. 2009 : cisReg	T-box 10 1809817 1810057 false : Rfam 2012 : cisReg		
+189	T-box-12	Toledo-Arana et al. 2009	CisReg	T-box-97	2	T-box 2100227 2100001 false : Toledo-Arana et al. 2009 : cisReg	T-box 2099978 2100218 false : Mraheil et al. 2011 : cisReg		
+190	T-box-13	Toledo-Arana et al. 2009	CisReg	T-box-98	3	T-box 2287226 2287453 true : Toledo-Arana et al. 2009 : cisReg	T-box 2287219 2287483 true : Mraheil et al. 2011 : cisReg	T-box 11 2287226 2287453 true : Rfam 2012 : cisReg	
+191	T-box-14	Toledo-Arana et al. 2009	CisReg	T-box-100	1	T-box 2668833 2669082 true : Toledo-Arana et al. 2009 : cisReg			
+191	TPP-1	Toledo-Arana et al. 2009	CisReg	TPP-69	3	TPP 340086 340191 true : Toledo-Arana et al. 2009 : cisReg	TPP1 340078 340255 true : Mraheil et al. 2011 : cisReg	TPP 1 340086 340191 true : Rfam 2012 : cisReg	
+192	T-box-15	Toledo-Arana et al. 2009	CisReg	T-box-103	3	T-box 2823477 2823255 false : Toledo-Arana et al. 2009 : cisReg	T-box 2823222 2823485 false : Mraheil et al. 2011 : cisReg	T-box 12 2823255 2823477 false : Rfam 2012 : cisReg	
+192	TPP-2	Toledo-Arana et al. 2009	CisReg	TPP-79	3	TPP 1461273 1461163 false : Toledo-Arana et al. 2009 : cisReg	TPP 1461102 1461291 false : Mraheil et al. 2011 : cisReg	TPP 2 1461163 1461273 false : Rfam 2012 : cisReg	
+193	yybP-ykoY	Toledo-Arana et al. 2009	CisReg	yybP-ykoY-76	3	yybP-ykoY 1021463 1021588 true : Toledo-Arana et al. 2009 : cisReg	yybP-ykoY 1021442 1021618 true : Mraheil et al. 2011 : cisReg	yybP-ykoY 1021463 1021588 true : Rfam 2012 : cisReg	
+194	anti0043	Wurtzel et al. 2012	ASrna	anti0043-	1	anti0043 48637 -1000000 false : Wurtzel et al. 2012 : asRNA			
+194	anti0043	Wurtzel et al. 2012	ASrna	anti0043-89	1	anti0043 48500 48637 false : Mraheil et al. 2011 : asRNA			
+195	anti0112	Toledo-Arana et al. 2009	ASrna	lmo0111-lmo0111	1	lmo0111 120158 120546 true : Toledo-Arana et al. 2009 : asRNA			
+196	anti0172-rli23	Wurtzel et al. 2012	ASrna	anti0172-rli23-	1	anti0172-rli23 172186 -1000000 true : Wurtzel et al. 2012 : asRNA			
+197	anti0307	Toledo-Arana et al. 2009	ASrna	lmo0306-lmo0306	1	lmo0306 331758 331446 false : Toledo-Arana et al. 2009 : asRNA			
+198	anti0330-rli25	Wurtzel et al. 2012	ASrna	anti0330-rli25-	1	anti0330-rli25 357591 -1000000 false : Wurtzel et al. 2012 : asRNA			
+199	anti0360	Mraheil et al. 2011	ASrna	anti0360-90	1	anti0360 388392 388640 false : Mraheil et al. 2011 : asRNA			
+200	anti0387	Wurtzel et al. 2012	ASrna	anti0387-	1	anti0387 412094 -1000000 false : Wurtzel et al. 2012 : asRNA			
+201	anti0421	Wurtzel et al. 2012	ASrna	anti0421-	1	anti0421 441667 -1000000 true : Wurtzel et al. 2012 : asRNA			
+202	anti0424	Wurtzel et al. 2012	ASrna	anti0424-	1	anti0424 444354 -1000000 true : Wurtzel et al. 2012 : asRNA			
+203	anti0441	Wurtzel et al. 2012	ASrna	anti0441-	1	anti0441 471939 -1000000 true : Wurtzel et al. 2012 : asRNA			
+204	anti0469	Mraheil et al. 2011	ASrna	anti0469-91	1	anti0469 506019 506103 false : Mraheil et al. 2011 : asRNA			
+205	anti0470	Wurtzel et al. 2012	ASrna	anti0470-	1	anti0470 506968 -1000000 false : Wurtzel et al. 2012 : asRNA			
+206	anti0506-rli30	Wurtzel et al. 2012	ASrna	anti0506-rli30-	1	anti0506-rli30 540769 -1000000 false : Wurtzel et al. 2012 : asRNA			
+207	anti0570	Wurtzel et al. 2012	ASrna	anti0570-	1	anti0570 607849 -1000000 false : Wurtzel et al. 2012 : asRNA			
+208	anti0571	Wurtzel et al. 2012	ASrna	anti0571-	1	anti0571 608233 -1000000 true : Wurtzel et al. 2012 : asRNA			
+209	anti0605	Wurtzel et al. 2012	ASrna	anti0605-	1	anti0605 643800 -1000000 true : Wurtzel et al. 2012 : asRNA			
+210	anti0647-1	Wurtzel et al. 2012	ASrna	anti0647-1-	1	anti0647-1 689529 -1000000 true : Wurtzel et al. 2012 : asRNA			
+210	anti0647-1	Wurtzel et al. 2012	ASrna	anti0647-1-92	1	anti0647-1 689600 689666 true : Mraheil et al. 2011 : asRNA			
+210	anti0647-2	Toledo-Arana et al. 2009	ASrna	anti0647-2-	1	anti0647-2 689786 -1000000 true : Wurtzel et al. 2012 : asRNA			
+210	anti0647-2	Toledo-Arana et al. 2009	ASrna	anti0647-2-93	1	anti0647-2 689792 689865 true : Mraheil et al. 2011 : asRNA			
+210	anti0647-2	Toledo-Arana et al. 2009	ASrna	lmo0648-lmo0648	1	lmo0648 689530 689922 true : Toledo-Arana et al. 2009 : asRNA			
+211	anti0648-1	Mraheil et al. 2011	ASrna	anti0648-1-94	1	anti0648-1 689932 689996 false : Mraheil et al. 2011 : asRNA			
+211	anti0648-2	Mraheil et al. 2011	ASrna	anti0648-2-95	1	anti0648-2 690044 690350 false : Mraheil et al. 2011 : asRNA			
+211	anti0648-T1	Toledo-Arana et al. 2009	ASrna	lmo0647-T1-lmo0647-T1	1	lmo0647-T1 690364 689825 false : Toledo-Arana et al. 2009 : asRNA			
+211	anti0648-T2	Toledo-Arana et al. 2009	ASrna	lmo0647-T2-lmo0647-T2	1	lmo0647-T2 689861 689825 false : Toledo-Arana et al. 2009 : asRNA			
+212	anti0667	Wurtzel et al. 2012	ASrna	anti0667-	1	anti0667 705124 -1000000 false : Wurtzel et al. 2012 : asRNA			
+213	anti0671	Wurtzel et al. 2012	ASrna	anti0671-	1	anti0671 707869 -1000000 false : Wurtzel et al. 2012 : asRNA			
+214	anti0675	Wurtzel et al. 2012	ASrna	anti0675-677-	1	anti0675-677 712447 -1000000 false : Wurtzel et al. 2012 : asRNA			
+215	anti0733	Toledo-Arana et al. 2009	ASrna	lmo0734-lmo0734	1	lmo0734 763634 762804 false : Toledo-Arana et al. 2009 : asRNA			
+216	anti0796	Mraheil et al. 2011	ASrna	anti0796-96	1	anti0796 823682 823884 true : Mraheil et al. 2011 : asRNA			
+217	anti0799	Wurtzel et al. 2012	ASrna	anti0799-	1	anti0799 827498 -1000000 true : Wurtzel et al. 2012 : asRNA			
+218	anti0811	Wurtzel et al. 2012	ASrna	anti0811-	1	anti0811 838843 -1000000 false : Wurtzel et al. 2012 : asRNA			
+219	anti0828-rli35	Wurtzel et al. 2012	ASrna	anti0828-rli35-	1	anti0828-rli35 855467 -1000000 false : Wurtzel et al. 2012 : asRNA			
+220	anti0887	Wurtzel et al. 2012	ASrna	anti0887-	1	anti0887 926280 -1000000 false : Wurtzel et al. 2012 : asRNA			
+221	anti0943	Mraheil et al. 2011	ASrna	anti0943-97	1	anti0943 979023 979137 false : Mraheil et al. 2011 : asRNA			
+222	anti0945	Mraheil et al. 2011	ASrna	anti0945-98	1	anti0945 981201 981315 false : Mraheil et al. 2011 : asRNA			
+223	anti0946-LhrC-5	Mraheil et al. 2011	ASrna	anti0946-99	1	anti0946 981423 981635 false : Mraheil et al. 2011 : asRNA			
+223	anti0946-LhrC-5	Wurtzel et al. 2012	ASrna	anti0946-anti-LhrC-5-	1	anti0946-anti-LhrC-5 981666 -1000000 false : Wurtzel et al. 2012 : asRNA			
+224	anti0968	Wurtzel et al. 2012	ASrna	anti0968-	1	anti0968 1000409 -1000000 false : Wurtzel et al. 2012 : asRNA			
+225	anti0977-1	Wurtzel et al. 2012	ASrna	anti0977-	1	anti0977 1007804 -1000000 true : Wurtzel et al. 2012 : asRNA			
+225	anti0977-2	Mraheil et al. 2011	ASrna	anti0977-100	1	anti0977 1008851 1008902 true : Mraheil et al. 2011 : asRNA			
+226	anti1023	Wurtzel et al. 2012	ASrna	anti1023-	1	anti1023 1051778 -1000000 false : Wurtzel et al. 2012 : asRNA			
+227	anti1079	Wurtzel et al. 2012	ASrna	anti1079-	1	anti1079 1112017 -1000000 false : Wurtzel et al. 2012 : asRNA			
+228	anti1096	Wurtzel et al. 2012	ASrna	anti1096-	1	anti1096 1130253 -1000000 false : Wurtzel et al. 2012 : asRNA			
+229	anti1188	Wurtzel et al. 2012	ASrna	anti1188-	1	anti1188 1213983 -1000000 false : Wurtzel et al. 2012 : asRNA			
+230	anti1236	Wurtzel et al. 2012	ASrna	anti1236-	1	anti1236 1263477 -1000000 true : Wurtzel et al. 2012 : asRNA			
+231	anti1255	Wurtzel et al. 2012	ASrna	anti1255-	1	anti1255 1279827 -1000000 true : Wurtzel et al. 2012 : asRNA			
+232	anti1278	Wurtzel et al. 2012	ASrna	anti1278-	1	anti1278 1302913 -1000000 false : Wurtzel et al. 2012 : asRNA			
+233	anti1279	Wurtzel et al. 2012	ASrna	anti1279-	1	anti1279 1303985 -1000000 false : Wurtzel et al. 2012 : asRNA			
+234	anti1284	Wurtzel et al. 2012	ASrna	anti1284-	1	anti1284 1307098 -1000000 true : Wurtzel et al. 2012 : asRNA			
+235	anti1399	Wurtzel et al. 2012	ASrna	anti1399-	1	anti1399 1426971 -1000000 false : Wurtzel et al. 2012 : asRNA			
+236	anti1457	Mraheil et al. 2011	ASrna	anti1457-101	1	anti1457 1490369 1490461 true : Mraheil et al. 2011 : asRNA			
+237	anti1461	Wurtzel et al. 2012	ASrna	anti1461-	1	anti1461 1495433 -1000000 false : Wurtzel et al. 2012 : asRNA			
+238	anti1479	Mraheil et al. 2011	ASrna	anti1479-102	1	anti1479 1513590 1513639 true : Mraheil et al. 2011 : asRNA			
+239	anti1655	Wurtzel et al. 2012	ASrna	anti1655-	1	anti1655 1704657 -1000000 true : Wurtzel et al. 2012 : asRNA			
+240	anti1670-2	Wurtzel et al. 2012	ASrna	anti1670-	1	anti1670 1724454 -1000000 false : Wurtzel et al. 2012 : asRNA			
+240	anti1670-1	Mraheil et al. 2011	ASrna	anti1670-103	1	anti1670 1724308 1724381 false : Mraheil et al. 2011 : asRNA			
+241	anti1677	Wurtzel et al. 2012	ASrna	anti1677-	1	anti1677 1732471 -1000000 false : Wurtzel et al. 2012 : asRNA			
+242	anti1707	Wurtzel et al. 2012	ASrna	anti1707-	1	anti1707 1769524 -1000000 false : Wurtzel et al. 2012 : asRNA			
+243	anti1708	Wurtzel et al. 2012	ASrna	anti1708-	1	anti1708 1770069 -1000000 true : Wurtzel et al. 2012 : asRNA			
+244	anti1734	Wurtzel et al. 2012	ASrna	anti1734-	1	anti1734 1800500 -1000000 true : Wurtzel et al. 2012 : asRNA			
+245	anti1749	Mraheil et al. 2011	ASrna	anti1749-104	1	anti1749 1819048 1819127 false : Mraheil et al. 2011 : asRNA			
+246	anti1751	Wurtzel et al. 2012	ASrna	anti1751-	1	anti1751 1820461 -1000000 true : Wurtzel et al. 2012 : asRNA			
+247	anti1758	Mraheil et al. 2011	ASrna	anti1758-105	1	anti1758 1829176 1829234 true : Mraheil et al. 2011 : asRNA			
+248	anti1777	Wurtzel et al. 2012	ASrna	anti1777-	1	anti1777 1854469 -1000000 true : Wurtzel et al. 2012 : asRNA			
+249	anti1816	Wurtzel et al. 2012	ASrna	anti1816-	1	anti1816 1890969 -1000000 false : Wurtzel et al. 2012 : asRNA			
+250	anti1830	Wurtzel et al. 2012	ASrna	anti1830-	1	anti1830 1906099 -1000000 false : Wurtzel et al. 2012 : asRNA			
+251	anti1846	Wurtzel et al. 2012	ASrna	anti1846-	1	anti1846 1923362 -1000000 false : Wurtzel et al. 2012 : asRNA			
+252	anti1909	Wurtzel et al. 2012	ASrna	anti1909-	1	anti1909 1982299 -1000000 false : Wurtzel et al. 2012 : asRNA			
+253	anti1910	Toledo-Arana et al. 2009	ASrna	lmo1909-lmo1909	1	lmo1909 1982891 1983142 true : Toledo-Arana et al. 2009 : asRNA			
+254	anti1967	Mraheil et al. 2011	ASrna	anti1967-106	1	anti1967 2041537 2041655 false : Mraheil et al. 2011 : asRNA			
+255	anti1974	Mraheil et al. 2011	ASrna	anti1974-107	1	anti1974 2047165 2047238 true : Mraheil et al. 2011 : asRNA			
+256	anti1980-2	Wurtzel et al. 2012	ASrna	anti1980-	1	anti1980 2052744 -1000000 false : Wurtzel et al. 2012 : asRNA			
+256	anti1980-1	Toledo-Arana et al. 2009	ASrna	lmo1981-lmo1981	1	lmo1981 2052674 2052533 false : Toledo-Arana et al. 2009 : asRNA			
+257	anti1981	Wurtzel et al. 2012	ASrna	anti1981-	1	anti1981 2052941 -1000000 true : Wurtzel et al. 2012 : asRNA			
+257	anti1981	Toledo-Arana et al. 2009	ASrna	lmo1980-lmo1980	1	lmo1980 2052934 2053035 true : Toledo-Arana et al. 2009 : asRNA			
+258	anti2044	Toledo-Arana et al. 2009	ASrna	lmo2045-lmo2045	1	lmo2045 2128672 2128539 false : Toledo-Arana et al. 2009 : asRNA			
+259	anti2045	Toledo-Arana et al. 2009	ASrna	lmo2044-lmo2044	1	lmo2044 2129095 2129314 true : Toledo-Arana et al. 2009 : asRNA			
+260	anti2046	Wurtzel et al. 2012	ASrna	anti2046-	1	anti2046 2129647 -1000000 true : Wurtzel et al. 2012 : asRNA			
+261	anti2057	Wurtzel et al. 2012	ASrna	anti2057-	1	anti2057 2139794 -1000000 true : Wurtzel et al. 2012 : asRNA			
+262	anti2092	Wurtzel et al. 2012	ASrna	anti2092-	1	anti2092 2172517 -1000000 false : Wurtzel et al. 2012 : asRNA			
+263	anti2095-rli65	Wurtzel et al. 2012	ASrna	anti2095-rli65-	1	anti2095-rli65 2174997 -1000000 true : Wurtzel et al. 2012 : asRNA			
+263	anti2095-rli65	Wurtzel et al. 2012	ASrna	anti2095-RNA1-anti2095-RNA1	2	anti2095-RNA1 2174999 2175254 true : Toledo-Arana et al. 2009 : asRNA	anti2095 2175053 2175248 true : Mraheil et al. 2011 : asRNA		
+264	anti2095-1	Toledo-Arana et al. 2009	ASrna	anti2095-RNA2-anti2095-RNA2	1	anti2095-RNA2 2174999 2177148 true : Toledo-Arana et al. 2009 : asRNA			
+265	anti2114	Wurtzel et al. 2012	ASrna	anti2114-	1	anti2114 2194624 -1000000 false : Wurtzel et al. 2012 : asRNA			
+266	anti2115	Wurtzel et al. 2012	ASrna	anti2115-	1	anti2115 2194478 -1000000 false : Wurtzel et al. 2012 : asRNA			
+267	anti2224	Mraheil et al. 2011	ASrna	anti2224-109	1	anti2224 2314340 2314423 true : Mraheil et al. 2011 : asRNA			
+268	anti2241	Wurtzel et al. 2012	ASrna	anti2241-	1	anti2241 2333247 -1000000 true : Wurtzel et al. 2012 : asRNA			
+269	anti2260-1	Wurtzel et al. 2012	ASrna	anti2260-	1	anti2260 2347318 -1000000 true : Wurtzel et al. 2012 : asRNA			
+269	anti2260-2	Toledo-Arana et al. 2009	ASrna	anti2260-110	1	anti2260 2347506 2347705 true : Mraheil et al. 2011 : asRNA			
+269	anti2260-2	Toledo-Arana et al. 2009	ASrna	lmo2259-lmo2259	1	lmo2259 2347675 2348065 true : Toledo-Arana et al. 2009 : asRNA			
+270	anti2263	Wurtzel et al. 2012	ASrna	anti2263-	1	anti2263 2350055 -1000000 false : Wurtzel et al. 2012 : asRNA			
+270	anti2263	Wurtzel et al. 2012	ASrna	anti2263-111	1	anti2263 2349964 2350025 false : Mraheil et al. 2011 : asRNA			
+271	anti2270	Wurtzel et al. 2012	ASrna	anti2270-	1	anti2270 2360554 -1000000 false : Wurtzel et al. 2012 : asRNA			
+271	anti2270	Wurtzel et al. 2012	ASrna	anti2270-112	1	anti2270 2360500 2360555 false : Mraheil et al. 2011 : asRNA			
+272	anti2271	Mraheil et al. 2011	ASrna	anti2271-113	1	anti2271 2360820 2360930 true : Mraheil et al. 2011 : asRNA			
+273	anti2325-2	Toledo-Arana et al. 2009	ASrna	anti2325-2327-	1	anti2325-2327 2397277 -1000000 true : Wurtzel et al. 2012 : asRNA			
+273	anti2325-1	Toledo-Arana et al. 2009	ASrna	anti2325-RNA1-anti2325-RNA1	1	anti2325-RNA1 2397280 2397544 true : Toledo-Arana et al. 2009 : asRNA			
+273	anti2325-2	Toledo-Arana et al. 2009	ASrna	anti2325-RNA2-anti2325-RNA2	1	anti2325-RNA2 2397280 2398275 true : Toledo-Arana et al. 2009 : asRNA			
+274	anti2394-2	Toledo-Arana et al. 2009	ASrna	anti2394-	1	anti2394 2468166 -1000000 true : Wurtzel et al. 2012 : asRNA			
+274	anti2394-1	Toledo-Arana et al. 2009	ASrna	anti2394-114	1	anti2394 2468111 2468342 true : Mraheil et al. 2011 : asRNA			
+274	anti2394-1	Toledo-Arana et al. 2009	ASrna	anti2394-RNA1-anti2394-RNA1	1	anti2394-RNA1 2468058 2468274 true : Toledo-Arana et al. 2009 : asRNA			
+274	anti2394-2	Toledo-Arana et al. 2009	ASrna	anti2394-RNA2-anti2394-RNA2	1	anti2394-RNA2 2468058 2468751 true : Toledo-Arana et al. 2009 : asRNA			
+275	anti2415	Mraheil et al. 2011	ASrna	anti2415-115	1	anti2415 2486369 2486419 true : Mraheil et al. 2011 : asRNA			
+276	anti2418	Wurtzel et al. 2012	ASrna	anti2418-	1	anti2418 2489486 -1000000 true : Wurtzel et al. 2012 : asRNA			
+277	anti2428	Wurtzel et al. 2012	ASrna	anti2428-	1	anti2428 2497360 -1000000 true : Wurtzel et al. 2012 : asRNA			
+277	anti2428	Wurtzel et al. 2012	ASrna	anti2428-116	1	anti2428 2497968 2498018 true : Mraheil et al. 2011 : asRNA			
+278	anti2530	Mraheil et al. 2011	ASrna	anti2530-117	1	anti2530 2608022 2608077 true : Mraheil et al. 2011 : asRNA			
+279	anti2558	Wurtzel et al. 2012	ASrna	anti2558-	1	anti2558 2637680 -1000000 false : Wurtzel et al. 2012 : asRNA			
+280	anti2678	Wurtzel et al. 2012	ASrna	anti2678-	1	anti2678 2749549 -1000000 true : Wurtzel et al. 2012 : asRNA			
+281	anti2700	Wurtzel et al. 2012	ASrna	anti2700-	1	anti2700 2775792 -1000000 false : Wurtzel et al. 2012 : asRNA			
+282	anti2717	Wurtzel et al. 2012	ASrna	anti2717-	1	anti2717 2792160 -1000000 true : Wurtzel et al. 2012 : asRNA			
+283	anti2722	Wurtzel et al. 2012	ASrna	anti2722-	1	anti2722 2798064 -1000000 false : Wurtzel et al. 2012 : asRNA			
+284	anti2745	Wurtzel et al. 2012	ASrna	anti2745-	1	anti2745 2820726 -1000000 false : Wurtzel et al. 2012 : asRNA			
+285	anti2749	Wurtzel et al. 2012	ASrna	anti2749-	1	anti2749 2824111 -1000000 false : Wurtzel et al. 2012 : asRNA			
+286	MogR-T1	Toledo-Arana et al. 2009	ASrna	MogR-T1-MogR-T1	1	MogR-T1 712446 710749 false : Toledo-Arana et al. 2009 : asRNA			
+286	MogR-T2	Toledo-Arana et al. 2009	ASrna	MogR-T2-MogR-T2	1	MogR-T2 710794 710749 false : Toledo-Arana et al. 2009 : asRNA			

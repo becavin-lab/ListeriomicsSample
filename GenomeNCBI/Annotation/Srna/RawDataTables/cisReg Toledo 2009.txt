@@ -1,0 +1,54 @@
+ID	Name	Start	Stop	sRNA_strand	Feature	Significant characteristics	Publication
+51	rli51 	207589	207709	+	5'-UTR-derived 	Increased in intestinal lumen	{Toledo, 2009}
+52	rli52 	552421	552327	-	5'-UTR-derived 	Putative riboswitch. Off in intestinal lumen	{Toledo, 2009}
+53	rli53 	955829	956001	+	5'-UTR-derived 	Putative riboswitch. Off in blood, On switch in intestinal lumen	{Toledo, 2009}
+54	rli54 	1078584	1079111	+	5'-UTR-derived 	Putative riboswitch. Off in intestinal lumen	{Toledo, 2009}
+55	rli55 	1198107	1198389	+	5'-UTR-derived 	Putative riboswitch. Off at 30C. Increase in blood 	{Toledo, 2009}
+56	rli56 	1199859	1199958	+	5'-UTR-derived 	Putative riboswitch. Off in stationary phase	{Toledo, 2009}
+57	rli57	1216658	-1000000	+	3'-UTR-derived	Annotated as a cobalamin riboswitch in Rfam, lmo1190-rli57 transcript level increased in intestinal lumen 	{Toledo, 2009}
+58	rli58 	1639974	-1000000	-	3'-UTR-derived ORF 	ORF of 66 aa. RBS region: AGGAAGGACAAATTAATG	{Toledo, 2009}
+59	rli59 	1702553	1702373	-	5'-UTR-derived ORF 	Increased in intestinal lumen and blood, ORF of 32aa. RBS region: AAGGAGGAATGGACGATG	{Toledo, 2009}
+60	rli60 	2054124	2054308	+	5'-UTR-derived 	Putative riboswitch. Off in intestinal lumen, Long transcript is Increased in blood	{Toledo, 2009}
+61	rli61	2275363	2275258	-	5'-UTR-derived	Putative riboswitch	{Toledo, 2009}
+62	rli62 	2364508	2364337	-	5'-UTR-derived 	Putative riboswitch. On at 30C 	{Toledo, 2009}
+63	rli63	2613301	-1000000	-	5'-UTR-derived	Putative riboswitch	{Toledo, 2009}
+64	SAM	137133	137235	+		Off in intestinal lumen	Rfam 
+65	PrfA	204468	204339	-		Long transcript is Increased in blood 	Johansson et al. 2002
+66	T-box	258548	258760	+		Off in intestinal lumen 	KEGG DAS 
+67	L10	266232	266375	+		NDC 	Rfam 
+68	SAM	309385	309266	-		NDC 	Rfam 
+69	TPP	340086	340191	+		NDC	Rfam 
+70	Purine	611119	611017	-		Off in BHI and intestinal lumen, On in blood	Rfam
+71	SAM	637926	637826	-		Off in stationary phase	Rfam
+72	glmS 	756458	756652	+		glmS=lmo0726 - NDC	Rfam
+73	Lysine	826683	826486	-		Long transcript is increased in blood 	Rfam
+74	SAM 	882770	882867	+		NDC 	Rfam
+75	PreQ1	907926	907973	+		NDC	Rfam
+76	yybP-ykoY	1021463	1021588	+		Long transcript is increased in blood and in intestinal lumen 	Rfam
+77	T-box	1240774	1241002	+		Off in intestinal lumen, T-box Increase in blood 	Rfam
+78	Glycine	1372840	1372931	+		Long transcript is increase in intestinal lumen	Rfam
+79	TPP	1461273	1461163	-			Rfam
+80	T-box	1494276	1494104	-		Off in intestinal lumen and blood 	Rfam
+81	T-box	1554200	1553972	-		Off in intestinal lumen	Rfam
+82	L21	1577146	1577068	-			Rfam
+83	T-box	1589127	1588901	-		Off in intestinal lumen and blood 	Rfam
+84	T-box	1597448	1597218	-		Off in intestinal lumen and blood 	Rfam
+85	T-box 	1642811	1642603	-		Off in intestinal lumen and blood 	Rfam
+86	T-box 	1676617	1676392	-		T-box in tandem with the following one 	Rfam
+87	T-box 	1676907	1676666	-		Off in intestinal lumen and blood 	Rfam
+88	T-box	1711543	1711342	-		Off in blood 	Rfam
+89	SAM	1716651	1716543	-		NDC	Rfam
+90	SAM	1739597	1739491	-		Long transcript is increased in blood 	Rfam
+91	T-box	1810057	1809817	-		Only T-box upregulated in blood	Rfam
+92	L19	1862308	1862270	-			Rfam
+93	PyrR	1917574	1917471	-		Long transcript is increased in blood 	Rfam
+94	PyrR	1918262	1918154	-		Long transcript is Increased in blood 	Rfam
+95	Purine	1958922	1958821	-		Long transcript is Increased in blood	Rfam
+96	FMN	2020609	2020487	-		Off in intestinal lumen, On in blood	Rfam
+97	T-box	2100227	2100001	-		On in BHI and blood, Off in intestinal lumen	Rfam
+98	T-box	2287226	2287453	+		Off in intestinal lumen and blood 	Rfam
+99	SAM	2491176	2491058	-		Off in intestinal lumen and blood 	Rfam
+100	T-box	2668833	2669082	+		Only T-box upregulated in blood 	Rfam
+101	L13	2685233	2685181	-		NDC	Rfam
+102	M-box	2766104	2765940	-		ykok. associated to 3'utr of lmo2690	Rfam
+103	T-box	2823477	2823255	-			Rfam

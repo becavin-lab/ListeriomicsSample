@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2468058</int>
+  </void>
+  <void property="end">
+   <int>2468751</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>anti2394-RNA2</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>2468058</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>2468751</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>693</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Transcript (Toledo-Arana et al. 2009)</string>
+    <string>RNA2</string>
+   </void>
+   <void method="put">
+    <string>Min transcript coverage (Toledo-Arana et al. 2009)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string>Increased in blood</string>
+   </void>
+   <void method="put">
+    <string>Figure (Toledo-Arana et al. 2009)</string>
+    <string>Fig.S7</string>
+   </void>
+   <void method="put">
+    <string>Type (Toledo-Arana et al. 2009)</string>
+    <string>Long cis-encoded antisense</string>
+   </void>
+   <void method="put">
+    <string>name (Wurtzel et al. 2012)</string>
+    <string>anti2394</string>
+   </void>
+   <void method="put">
+    <string>from (Wurtzel et al. 2012)</string>
+    <string>2468166</string>
+   </void>
+   <void method="put">
+    <string>to (Wurtzel et al. 2012)</string>
+    <string>-1000000</string>
+   </void>
+   <void method="put">
+    <string>length (Wurtzel et al. 2012)</string>
+    <string>-1000000</string>
+   </void>
+   <void method="put">
+    <string>strand (Wurtzel et al. 2012)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Wurtzel et al. 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Gene from (Wurtzel et al. 2012)</string>
+    <string>2468210</string>
+   </void>
+   <void method="put">
+    <string>Gene to (Wurtzel et al. 2012)</string>
+    <string>2468392</string>
+   </void>
+   <void method="put">
+    <string>Gene strand (Wurtzel et al. 2012)</string>
+    <string>-</string>
+   </void>
+   <void method="put">
+    <string>Gene Locus (Wurtzel et al. 2012)</string>
+    <string>lmo2394</string>
+   </void>
+   <void method="put">
+    <string>Product (Wurtzel et al. 2012)</string>
+    <string>hypothetical protein</string>
+   </void>
+   <void method="put">
+    <string>Expressed? (Wurtzel et al. 2012)</string>
+    <string>absent</string>
+   </void>
+   <void method="put">
+    <string>L.inocua locus (Wurtzel et al. 2012)</string>
+    <string>lin2493</string>
+   </void>
+   <void method="put">
+    <string>Already known (Wurtzel et al. 2012)</string>
+    <string>Yes</string>
+   </void>
+   <void method="put">
+    <string>note (Wurtzel et al. 2012)</string>
+    <string></string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+   <void method="add">
+    <string>Wurtzel et al. 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>274</string>
+  </void>
+  <void property="length">
+   <int>694</int>
+  </void>
+  <void property="name">
+   <string>anti2394-2</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+  <void property="synonym">
+   <void method="add">
+    <string>anti2394</string>
+   </void>
+   <void method="add">
+    <string>anti2394-RNA2</string>
+   </void>
+  </void>
+  <void property="typeSrna">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>bacnet.datamodel.sequence.Srna$TypeSrna</class>
+    <string>ASrna</string>
+   </object>
+  </void>
+ </object>
+</java>

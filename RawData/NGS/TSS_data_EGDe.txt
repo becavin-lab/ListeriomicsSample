@@ -1,0 +1,2184 @@
+Position	Strand	Type	Locus	Product	EGDe_37C_TSS	sigB	prfA	EGDe_30C	EGDe_minusO2	EGDe_Stat	EGDe_Complete_TSS
+156	+	Upstream	lmo0001	chromosomal replication initiation protein	146	144	32	817	478	166	1783
+1844	+	Upstream	lmo0002	DNA polymerase III subunit beta	2	0	0	4	3	0	9
+4611	+	Upstream	lmo0004	YaaA protein	11	15	5	28	86	29	174
+4617	+	Upstream	lmo0004	YaaA protein	2	0	0	2	4	0	8
+10697	+	Upstream	lmo0008	cardiolipin synthase	5	2	0	8	8	5	28
+12875	+	Upstream	lmo0010	mevalonate kinase	5	15	3	17	24	6	70
+16024	+	Upstream	lmo0013	AA3-600 quinol oxidase subunit II	0	0	0	7	3	0	10
+21619	+	Upstream	lmo0018	beta-glucosidase	6	12	3	2	7	0	30
+23976	-	Upstream	lmo0019	hypothetical protein	51	0	10	8	23	45	137
+24147	+	Upstream	lmo0020	transcriptional regulator GntR family	8	12	0	0	5	0	25
+24167	+	Upstream	lmo0020	transcriptional regulator GntR family	3	2	0	0	0	0	5
+27497	+	Middle	lmo0025	phosphoheptose isomerase	28	0	16	11	6	18	79
+28964	+	Upstream	lmo0027	PTS system- beta-glucosides specific enzyme IIABC	55	14	9	7	5	0	90
+31064	+	Upstream	lmo0028	similar microcin C7 self-immunity protein MccF	0	2	0	0	4	0	6
+32161	+	Upstream	lmo0029	hypothetical protein	179	148	63	34	169	224	817
+32167	+	Upstream	lmo0029	hypothetical protein	8	3	0	0	6	0	17
+34484	-	Upstream	lmo0031	LacI family transcription regulator	0	2	0	2	0	0	4
+34595	+	Upstream	lmo0032	xylose repressor	2	0	0	2	0	0	4
+40639	+	Upstream	lmo0036	putrescine carbamoyltransferase	8	17	17	13	15	10	80
+45300	+	Upstream	lmo0040	agmatine deiminase	24	37	15	12	30	13	131
+46126	+	Middle	lmo0040	agmatine deiminase	3	6	0	0	2	0	11
+47300	+	Upstream	lmo0042	similar DedA protein	3	0	0	5	8	0	16
+48066	+	Upstream	lmo0043	arginine deiminase	7	0	3	0	0	2	12
+49453	+	Upstream	lmo0044	30S ribosomal protein S6	58	33	21	29	16	2	159
+49882	+	Upstream	lmo0045	highly single-strand binding protein SSB	5	5	2	7	18	9	46
+49914	+	Upstream	lmo0045	highly single-strand binding protein SSB	6	11	12	114	64	9	216
+50474	+	Upstream	lmo0046	30S ribosomal protein S18	2	2	2	10	11	3	30
+50483	+	Upstream	lmo0046	30S ribosomal protein S18	0	3	0	6	93	3	105
+50491	+	Upstream	lmo0046	30S ribosomal protein S18	6	15	5	27	10	7	70
+50876	+	Upstream	lmo0047	hypothetical protein	3	24	9	8	22	50	116
+51762	+	Upstream	lmo0048	putative accessory gene regulator protein	2004	2197	879	2666	5119	480	13345
+51775	+	Upstream	lmo0048	putative accessory gene regulator protein	0	2	2	0	6	2	12
+52577	+	Upstream	lmo0050	sensor histidine kinase AgrC from Staphylococcus	0	5	0	3	3	3	14
+52607	+	Upstream	lmo0050	sensor histidine kinase AgrC from Staphylococcus	13	7	0	0	2	0	22
+54791	+	Upstream	lmo0052	YybT protein	9	20	9	0	3	0	41
+55725	+	Middle	lmo0052	YybT protein	3	0	0	4	2	4	13
+58835	+	Upstream	lmo0055	adenylosuccinate synthetase	63	45	30	265	216	54	673
+60463	+	Upstream	lmo0056	a small heat shock protein of Clostridium acetobutylicum	2	3	0	11	10	11	37
+73659	+	Middle	lmo0066	toxin components	8	7	3	0	0	0	18
+74087	+	Middle	lmo0066	toxin components	28	40	10	2	0	2	82
+77597	+	Intergenic	NA	NA	2	0	0	0	0	0	2
+77830	+	Upstream	lmo0072	hypothetical protein	8	15	11	2	4	7	47
+81548	-	Upstream	lmo0077	hypothetical protein	0	5	0	17	11	4	37
+81629	+	Upstream	lmo0078	phosphoglycerate dehydrogenase	98	89	33	43	62	4	329
+81638	+	Upstream	lmo0078	phosphoglycerate dehydrogenase	4	0	0	0	2	0	6
+82705	+	Upstream	lmot01	tRNA-Lys	262	815	366	285	208	150	2086
+83662	+	Middle	lmo0079	hypothetical protein	6	8	2	3	7	2	28
+85920	+	Middle	lmo0082	hypothetical protein	31	64	39	34	28	56	252
+87782	-	Upstream	lmo0084	oxidoreductases	0	0	2	2	0	0	4
+103156	+	Upstream	lmo0095	hypothetical protein	0	2	0	0	4	0	6
+104111	+	Upstream	lmo0096	PTS system mannose-specific- factor IIAB	28	10	9	5	2	3	57
+104131	+	Upstream	lmo0096	PTS system mannose-specific- factor IIAB	4	2	0	2	2	0	10
+106929	+	Upstream	lmo0099	hypothetical protein	2	0	0	2	0	2	6
+106955	+	Upstream	lmo0099	hypothetical protein	11	20	4	6	2	0	43
+107478	+	Upstream	lmo0100	hypothetical protein	6	16	12	0	0	2	36
+108208	-	Upstream	lmo0101	transcription regulator	3	0	0	0	0	0	3
+109321	+	Upstream	lmo0104	hypothetical protein	288	336	87	11	11	8	741
+109866	+	Upstream	lmo0105	highly chitinase B	29	32	6	99	337	11	514
+110133	+	Middle	lmo0105	highly chitinase B	5	6	0	0	0	0	11
+112359	+	Upstream	lmo0106	transcription regulator	14	15	2	0	4	2	37
+116938	+	Upstream	lmo0109	transcriptional regulatory proteins- AraC family	6	7	5	2	6	3	29
+119045	+	Upstream	lmo0111	hypothetical protein	7	8	0	2	14	0	31
+121152	-	Middle	lmo0114	putative repressor C1 from lactococcal bacteriophage Tuc2009	4	0	3	0	0	0	7
+121471	-	Upstream	lmo0114	putative repressor C1 from lactococcal bacteriophage Tuc2009	48	38	17	32	23	17	175
+121570	+	Upstream	lmo0115	Antigen D	2	0	2	0	2	2	8
+122577	+	Upstream	lmo0117	antigen B	10	16	2	107	14	0	149
+123196	+	Upstream	lmo0118	antigen A	24	10	0	12	0	0	46
+133827	-	Upstream	lmo0130	5-nucleotidase- putative peptidoglycan bound protein LPXTG motif	55	40	24	15	6	6	146
+133908	+	Upstream	lmo0131	hypothetical protein	33	16	5	5	17	8	84
+133945	+	Upstream	lmo0131	hypothetical protein	18	14	9	4	13	28	86
+136332	-	Upstream	lmo0132	inosine 5-monophosphate dehydrogenase	9	5	3	0	9	0	26
+136438	+	Upstream	lmo0133	E. coli YjdI protein	90	0	33	3	7	51	184
+136710	+	Upstream	lmo0134	E. coli YjdJ protein	5	0	0	0	0	2	7
+137100	+	Upstream	NA	NA	169	235	62	113	54	12	645
+137130	+	Upstream	NA	NA	8	15	3	16	6	10	58
+141013	+	Upstream	lmo0138	hypothetical protein	4	0	0	0	0	0	4
+142430	+	Middle	lmo0140	hypothetical protein	13	21	5	0	2	6	47
+143795	+	Intergenic	NA	NA	0	0	0	2	0	0	2
+146799	+	Middle	lmo0149	hypothetical protein	11	16	9	10	9	13	68
+150037	-	Upstream	lmo0152	oligopeptide ABC transporter-binding protein	6	3	0	7	0	0	16
+152041	+	Middle	lmo0155	high-affinity zinc ABC transporter membrane protein	0	0	2	0	0	0	2
+153586	+	Upstream	lmo0157	ATP dependent helicase	3	10	4	26	36	18	97
+155968	+	Upstream	lmo0158	hypothetical protein	8	13	5	16	8	3	53
+162292	-	Upstream	lmo0161	hypothetical protein	3	8	0	3	16	0	30
+162441	+	Upstream	lmo0162	DNA polymerase III subunit delta	48	36	27	13	36	0	160
+163664	+	Middle	lmo0163	hypothetical protein	4	5	3	0	0	0	12
+166995	-	Upstream	lmo0168	AbrB transcription regulatory protein	9	8	4	0	3	0	24
+167060	+	Upstream	lmo0169	glucose uptake protein	131	0	37	51	19	79	317
+169473	+	Upstream	lmo0171	internalin proteins- putative peptidoglycan bound protein LPXTG motif	12	3	3	0	2	0	20
+174793	+	Upstream	lmo0176	glucose uptake protein	9	8	9	10	68	15	119
+175736	+	Upstream	lmo0177	methionyl-tRNA synthetase	19	9	4	16	59	6	113
+177865	+	Upstream	lmo0178	xylose repressor	0	4	0	0	0	0	4
+189598	+	Upstream	lmo0185	hypothetical protein	11	8	3	0	0	0	22
+190668	+	Upstream	lmo0186	YabE protein	3	3	0	21	199	7	233
+191988	+	Upstream	lmo0187	YabF protein	3	11	3	4	8	0	29
+193576	+	Upstream	lmo0189	Veg protein	35	48	13	71	77	45	289
+193960	+	Upstream	lmo0190	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	13	12	2	6	12	4	49
+195727	+	Upstream	lmo0192	pur operon repressor	3	4	2	0	0	0	9
+196729	+	Upstream	lmo0193	hypothetical protein	2	0	0	0	0	0	2
+199775	+	Intergenic	NA	NA	2	0	0	0	0	0	2
+199884	+	Upstream	lmo0196	SpoV	7	4	0	0	0	0	11
+199957	+	Upstream	lmo0196	SpoV	3141	2514	769	1876	3355	947	12602
+199972	+	Upstream	lmo0196	SpoV	10	14	3	3	5	8	43
+199996	+	Upstream	lmo0196	SpoV	4	6	2	3	10	3	28
+200025	+	Upstream	lmo0196	SpoV	12	19	8	4	6	2	51
+200052	+	Upstream	lmo0196	SpoV	4	6	2	2	2	2	18
+200076	+	Upstream	lmo0196	SpoV	10	9	0	3	3	4	29
+200082	+	Upstream	lmo0196	SpoV	9	12	6	3	13	4	47
+200407	+	Upstream	lmo0197	SpoG	172	321	129	164	227	241	1254
+200410	+	Upstream	lmo0197	SpoG	635	1796	1512	1197	1203	3645	9988
+200418	+	Upstream	lmo0197	SpoG	9	20	14	18	14	103	178
+200437	+	Upstream	lmo0197	SpoG	3	2	2	2	2	0	11
+200450	+	Upstream	lmo0197	SpoG	2	4	0	0	3	0	9
+200460	+	Upstream	lmo0197	SpoG	12	6	4	0	5	0	27
+200467	+	Upstream	lmo0197	SpoG	10	2	3	0	0	0	15
+200480	+	Upstream	lmo0197	SpoG	0	0	0	2	3	0	5
+200521	+	Upstream	lmo0197	SpoG	15	23	19	0	2	0	59
+200942	+	Intergenic	NA	NA	0	0	2	5	43	2	52
+201185	+	Upstream	lmo0198	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase-glucosamine-1-phosphate acetyltransferase	3	4	2	30	26	2	67
+204467	-	Middle	NA	NA	13	4	21	2	2	3	45
+205604	-	Upstream	lmo0201	phosphatidylinositol-specific phospholipase c	6	0	0	0	0	0	6
+205686	+	Upstream	lmo0202	listeriolysin O precursor	231	232	0	0	2	0	465
+206018	+	Middle	lmo0202	listeriolysin O precursor	0	2	0	0	0	0	2
+207589	+	Upstream	lmo0203	Zinc metalloproteinase precursor	6	2	0	0	0	0	8
+209321	+	Upstream	lmo0204	actin-assembly inducing protein precursor	12	12	0	0	0	0	24
+213694	-	Upstream	lmo0208	hypothetical P	16	9	0	4	4	0	33
+214429	-	Upstream	lmo0209	hypothetical P	39	57	26	33	209	51	415
+215448	-	Upstream	lmo0210	L-lactate dehydrogenase	4	2	0	2	0	2	10
+215458	-	Upstream	lmo0210	L-lactate dehydrogenase	885	743	158	493	1323	234	3836
+215587	-	Intergenic	NA	NA	7	0	0	0	0	0	7
+215689	+	Upstream	lmo0211	50S ribosomal protein L25-general stress protein Ctc	192	137	45	49	220	125	768
+215803	+	Middle	lmo0211	50S ribosomal protein L25-general stress protein Ctc	7	4	0	0	0	0	11
+216417	+	Upstream	lmo0212	hypothetical protein	82	83	23	4	30	6	228
+217060	+	Upstream	lmo0213	peptidyl-tRNA hydrolase	7	2	3	2	7	0	21
+217779	+	Upstream	lmo0214	transcription-repair coupling factor	9	22	7	14	9	6	67
+222584	+	Middle	lmo0215	conserved membrane-spanning protein	4	6	2	0	3	4	19
+223422	+	Upstream	lmo0217	DivIC protein	129	135	40	8	34	5	351
+223450	+	Upstream	lmo0217	DivIC protein	4	5	0	0	0	0	9
+223995	+	Upstream	lmo0218	hypothetical protein	10	4	0	5	10	0	29
+224473	+	Upstream	lmo0219	hypothetical protein	18	11	0	3	44	0	76
+226546	+	Intergenic	NA	NA	2	0	0	0	0	0	2
+226640	+	Upstream	lmo0220	highly cell division protein ftsH	13	7	0	2	6	0	28
+226692	+	Upstream	lmo0220	highly cell division protein ftsH	2	7	0	0	0	2	11
+226739	+	Upstream	lmo0220	highly cell division protein ftsH	3	2	0	0	2	0	7
+229013	+	Upstream	lmo0221	pantothenate kinase	0	0	0	5	5	2	12
+230808	+	Upstream	lmo0223	highly cysteine synthase	186	162	43	32	56	25	504
+230814	+	Upstream	lmo0223	highly cysteine synthase	3	6	2	0	0	0	11
+232492	+	Intergenic	NA	NA	49	15	49	102	142	60	417
+232644	+	Upstream	lmo0224	dihydropteroate synthases	11	9	12	73	222	61	388
+235447	+	Upstream	lmo0228	lysyl-tRNA synthetase	4	2	2	0	0	0	8
+235453	+	Upstream	lmo0228	lysyl-tRNA synthetase	3	4	0	0	0	0	7
+235489	+	Upstream	lmo0228	lysyl-tRNA synthetase	321	551	248	119	218	203	1660
+235499	+	Upstream	lmo0228	lysyl-tRNA synthetase	6	14	3	2	0	2	27
+235519	+	Upstream	lmo0228	lysyl-tRNA synthetase	2	6	2	0	2	0	12
+237153	+	Intergenic	NA	NA	2110	1740	511	296	200	23	4880
+237216	+	Upstream	lmor01	16S rRNA	3	6	2	0	0	0	11
+237236	+	Upstream	lmor01	16S rRNA	8	7	5	2	0	0	22
+237242	+	Upstream	lmor01	16S rRNA	2	0	0	4	2	0	8
+243218	+	Intergenic	NA	NA	15	16	8	8	6	0	53
+243249	+	Intergenic	NA	NA	6	14	10	8	3	0	41
+243263	+	Intergenic	NA	NA	5	7	3	10	8	0	33
+243287	+	Intergenic	NA	NA	0	7	5	3	2	2	19
+248502	+	Upstream	lmo0229	CtsR  repressor  of transcription class III stress genes	2	9	2	0	2	3	18
+250133	+	Middle	lmo0231	ATP:guanido phosphotransferase	35	0	9	0	2	6	52
+250591	+	Upstream	lmo0232	endopeptidase Clp ATP-binding chain C	2	0	2	0	0	2	6
+252952	+	Middle	lmo0232	endopeptidase Clp ATP-binding chain C	0	0	0	0	7	4	11
+253178	+	Upstream	lmo0233	DNA repair protein RadA	20	28	6	10	13	30	107
+254641	+	Upstream	lmo0234	YacL protein	85	56	22	7	14	2	186
+254679	+	Upstream	lmo0234	YacL protein	4	0	0	0	0	0	4
+255978	+	Middle	lmo0235	ispD 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	2	7	2	0	0	0	11
+258644	+	Upstream	lmo0238	serine O-acetyltransferase	0	0	0	0	3	0	3
+258656	+	Upstream	lmo0238	serine O-acetyltransferase	0	0	0	0	6	0	6
+258676	+	Upstream	lmo0238	serine O-acetyltransferase	7	5	3	0	9	4	28
+258683	+	Upstream	lmo0238	serine O-acetyltransferase	0	4	0	3	9	6	22
+261817	+	Middle	lmo0241	YacO protein	3	3	2	4	13	0	25
+262064	+	Upstream	lmo0242	Yacp protein	10	9	0	0	5	4	28
+263306	+	Upstream	lmo0244	50S ribosomal protein L33	34	39	13	78	77	3	244
+263754	+	Upstream	lmo0246	transcription antitermination protein NusG	7	4	2	9	24	0	46
+264945	+	Upstream	lmo0248	50S ribosomal protein L11	36	24	40	25	181	16	322
+264964	+	Upstream	lmo0248	50S ribosomal protein L11	4	0	0	4	0	5	13
+266237	+	Middle	NA	NA	100	104	46	130	87	25	492
+266406	+	Upstream	lmo0250	50S ribosomal protein L10	3	5	3	0	2	2	15
+267503	+	Upstream	lmo0252	repressor penicilinase repressor	11	19	4	8	15	6	63
+270348	+	Upstream	lmo0256	hypothetical protein	3	3	0	29	96	6	137
+271014	+	Intergenic	NA	NA	49	53	19	45	79	3	248
+272765	+	Upstream	lmo0258	DNA-directed RNA polymerase subunit beta	74	111	42	87	119	87	520
+272827	+	Upstream	lmo0258	DNA-directed RNA polymerase subunit beta	3	0	0	4	12	0	19
+272908	+	Upstream	lmo0258	DNA-directed RNA polymerase subunit beta	0	0	0	2	7	0	9
+272952	+	Upstream	lmo0258	DNA-directed RNA polymerase subunit beta	0	0	0	0	5	0	5
+280386	+	Upstream	lmo0260	hypothetical protein	2	5	0	0	2	0	9
+280392	+	Upstream	lmo0260	hypothetical protein	5	2	2	0	5	0	14
+280989	+	Upstream	lmo0261	phospho-beta-glucosidase	11	9	8	9	20	3	60
+284308	+	Upstream	lmo0263	internalin H	73	0	28	37	45	36	219
+287826	+	Upstream	lmo0265	succinyl-diaminopimelate desuccinylase	406	2	395	484	437	882	2606
+287832	+	Upstream	lmo0265	succinyl-diaminopimelate desuccinylase	5	0	0	0	0	0	5
+288225	+	Middle	lmo0265	succinyl-diaminopimelate desuccinylase	10	0	3	0	0	3	16
+289119	+	Upstream	lmo0266	transcriptional regulators	36	53	39	47	60	58	293
+290567	+	Upstream	lmo0268	phosphoglycerate mutase	35	39	14	30	54	2	174
+295324	-	Upstream	lmo0271	highly phospho-beta-glucosidase	6	8	3	5	7	0	29
+296241	-	Upstream	lmo0272	YxeH protein	8	7	0	23	16	3	57
+296320	+	Upstream	lmo0273	hypothetical protein	11	16	0	27	42	13	109
+297658	-	Upstream	lmo0274	hypothetical protein	4	0	2	0	0	0	6
+298784	-	Middle	lmo0276	hypothetical protein	17	14	6	0	5	0	42
+299514	-	Upstream	lmo0276	hypothetical protein	2	0	0	0	3	0	5
+299570	+	Upstream	lmo0277	oxidoreductase	28	9	5	13	29	0	84
+300052	+	Middle	lmo0277	oxidoreductase	0	2	4	5	7	0	18
+301747	-	Upstream	lmo0278	sugar ABC transporter- ATP-binding protein	3	5	28	4	10	209	259
+301975	+	Upstream	lmo0279	anaerobic ribonucleoside triphosphate reductase	77	69	75	10	48	36	315
+306578	-	Upstream	lmo0282	hypothetical protein	34	53	19	12	7	4	129
+309385	-	Upstream	NA	NA	34	86	20	83	64	67	354
+309408	-	Upstream	NA	NA	17	31	4	15	74	10	151
+309510	+	Upstream	lmo0286	transaminase	4	7	0	4	12	0	27
+310794	+	Upstream	lmo0287	two-component response regulator	44	39	7	32	79	41	242
+311796	+	Upstream	lmo0288	two-component sensor histidine kinase	0	2	0	0	0	0	2
+315916	+	Upstream	lmo0291	YycJ protein	6	10	5	4	4	0	29
+316838	+	Upstream	lmo0292	heat-shock protein htrA serine protease	35	31	30	41	11	63	211
+316845	+	Upstream	lmo0292	heat-shock protein htrA serine protease	5	0	0	0	2	7	14
+316852	+	Upstream	lmo0292	heat-shock protein htrA serine protease	7	0	3	0	0	7	17
+318784	+	Intergenic	NA	NA	8	7	4	4	2	0	25
+318889	+	Upstream	lmo0293	rRNA large subunit methyltransferase	5	3	4	3	0	0	15
+319024	+	Upstream	lmo0293	rRNA large subunit methyltransferase	51	57	17	29	25	5	184
+324033	-	Upstream	lmo0297	transcriptional antiterminator BglG family	5	0	0	0	2	0	7
+327476	-	Upstream	lmo0301	PTS beta-glucoside-specific enzyme IIA component	8	17	0	2	9	0	36
+327586	+	Upstream	lmo0302	hypothetical protein	5	4	0	0	0	2	11
+327598	+	Upstream	lmo0302	hypothetical protein	3	2	0	0	0	0	5
+327615	+	Upstream	lmo0302	hypothetical protein	4	0	0	0	0	0	4
+327889	+	Middle	lmo0302	hypothetical protein	45	59	15	33	60	62	274
+328662	+	Upstream	lmo0304	hypothetical protein	13	16	7	6	10	2	54
+333492	+	Upstream	lmo0309	hypothetical protein	0	5	0	2	4	2	13
+340078	+	Upstream	NA	NA	25	20	15	10	8	3	81
+340093	+	Middle	NA	NA	47	32	44	427	78	25	653
+344771	-	Intergenic	NA	NA	6	9	7	5	14	10	51
+346317	+	Upstream	lmo0321	hypothetical protein	0	0	0	3	4	6	13
+348463	-	Upstream	lmo0323	hypothetical protein	6	0	2	0	0	0	8
+348568	+	Upstream	lmo0324	hypothetical protein	0	2	0	0	5	0	7
+349202	+	Upstream	lmo0325	transcriptional regulators	4	0	2	2	0	0	8
+349222	+	Upstream	lmo0325	transcriptional regulators	18	0	4	3	5	2	32
+351361	+	Upstream	lmo0327	cell surface proteins LPXTG motif	37	63	4	3	10	11	128
+360971	+	Middle	lmo0333	internalin proteins- putative peptidoglycan bound protein LPXTG motif	11	8	4	0	2	0	25
+366465	+	Upstream	lmo0334	hypothetical protein	3	14	9	14	43	14	97
+367218	+	Upstream	lmo0335	hypothetical P	0	2	0	0	3	2	7
+368630	+	Middle	lmo0337	hypothetical protein	2	10	0	0	22	4	38
+369106	+	Middle	lmo0337	hypothetical protein	0	3	0	0	15	3	21
+371093	-	Upstream	lmo0341	hypothetical P	12	7	3	10	109	5	146
+378820	-	Upstream	lmo0351	phosphotransferase (mannnose) - specific family component IIA	5	5	3	3	0	0	16
+378924	+	Upstream	lmo0352	regulatory protein DeoR family	55	51	19	7	11	0	143
+381805	-	Upstream	lmo0354	fatty-acid--CoA ligase	71	56	21	9	71	4	232
+381961	+	Upstream	lmo0355	fumarate reductase flavoprotein subunit	863	945	268	100	808	170	3154
+381972	+	Upstream	lmo0355	fumarate reductase flavoprotein subunit	16	18	6	2	40	4	86
+381989	+	Upstream	lmo0355	fumarate reductase flavoprotein subunit	12	19	0	0	4	0	35
+382002	+	Upstream	lmo0355	fumarate reductase flavoprotein subunit	82	89	21	0	0	0	192
+382016	+	Upstream	lmo0355	fumarate reductase flavoprotein subunit	12	21	14	4	4	4	59
+383659	+	Upstream	lmo0356	oxidoreductase	17	11	3	4	24	0	59
+384883	+	Upstream	lmo0357	PTS system- enzyme IIA component	0	2	2	0	3	0	7
+386789	+	Middle	lmo0359	D-fructose-1-6-biphosphate aldolase	14	13	4	0	2	0	33
+389759	-	Upstream	lmo0362	hypothetical	0	0	0	27	2	0	29
+395573	+	Upstream	lmo0368	hypothetical protein	18	17	6	5	31	8	85
+396154	+	Upstream	lmo0369	YeeI protein	2	9	2	0	0	0	13
+396169	+	Upstream	lmo0369	YeeI protein	26	34	23	13	21	5	122
+396183	+	Upstream	lmo0369	YeeI protein	2	4	2	6	0	0	14
+396198	+	Upstream	lmo0369	YeeI protein	2	4	2	0	0	0	8
+396928	+	Upstream	lmo0370	hypothetical P	6	7	2	0	0	0	15
+396936	+	Upstream	lmo0370	hypothetical P	23	16	7	5	2	0	53
+396942	+	Upstream	lmo0370	hypothetical P	3	0	2	0	3	0	8
+398079	-	Upstream	lmo0371	GntR transcription reg ulator	7	8	7	5	6	0	33
+401367	+	Upstream	lmo0375	hypothetical protein	25	30	18	17	28	0	118
+402595	-	Upstream	lmo0376	putative transcription regulator	0	4	2	0	4	0	10
+402605	+	Upstream	lmo0377	hypothetical protein	15	20	2	5	11	4	57
+406585	+	Upstream	lmo0383	IolA methylmalonate-semialdehyde dehydrogenase IolA	8	7	0	0	0	0	15
+411958	+	Upstream	lmo0387	YhdG protein	32	23	5	5	69	14	148
+412423	+	Upstream	lmo0388	hypothetical protein	4	3	0	0	5	0	12
+413992	-	Upstream	lmo0389	low temperature requirement protein A	0	0	0	0	0	4	4
+414058	+	Upstream	lmo0390	uracil-DNA glycosylase	21	18	5	0	3	0	47
+414897	+	Upstream	lmo0391	hypothetical protein	8	0	0	0	0	0	8
+416774	+	Upstream	lmo0394	L. monocytogenes extracellular P60 protein	22	103	14	8	41	16	204
+418795	-	Upstream	lmo0396	pyrroline-5-carboxylate reductase	6	10	2	4	10	0	32
+418869	+	Upstream	lmo0397	hypothetical protein	6	8	5	7	25	2	53
+419509	+	Upstream	lmo0398	phosphotransferase system enzyme IIA	285	976	455	201	252	107	2276
+426163	+	Upstream	lmo0403	hypothetical protein	2	10	3	10	19	0	44
+427071	+	Upstream	lmo0405	phosphate transport protein	0	0	0	0	4	0	4
+428551	+	Upstream	lmo0407	hypothetical protein	9	4	0	0	0	0	13
+435846	-	Upstream	lmo0412	hypothetical protein	64	82	36	7	46	4	239
+436132	+	Upstream	lmo0413	hypothetical protein	26	35	7	14	36	3	121
+437438	+	Upstream	lmo0415	endo-1-4-beta-xylanase	283	412	135	330	4053	437	5650
+438981	+	Upstream	lmo0416	putative transcription regulator	2	0	0	0	5	0	7
+439999	-	Upstream	lmo0418	hypothetical protein	11	17	13	0	2	0	43
+440653	-	Upstream	lmo0419	hypothetical protein	0	6	0	2	0	0	8
+440729	+	Upstream	lmo0420	hypothetical protein	3	4	0	0	0	0	7
+443870	-	Upstream	lmo0423	RNA polymerase factor sigma C	2	3	0	0	12	6	23
+444918	-	Upstream	lmo0424	Staphylococcus xylosus glucose uptake protein	3	3	0	0	0	0	6
+445030	+	Upstream	lmo0425	transcription antiterminator BglG family	2	0	2	16	13	5	38
+447478	+	Middle	lmo0427	PTS fructose-specific enzyme IIB component	4	4	2	0	0	0	10
+452461	-	Upstream	lmo0430	transcriptional regulator LysR family	4	0	0	0	0	0	4
+452497	+	Upstream	lmo0431	acetyltransferase	27	20	27	7	12	4	97
+454095	+	Intergenic	NA	NA	424	0	72	59	100	45	700
+454124	+	Intergenic	NA	NA	4	0	4	0	0	7	15
+454138	+	Intergenic	NA	NA	20	30	5	12	52	56	175
+454144	+	Intergenic	NA	NA	14	0	9	0	17	70	110
+454324	+	Upstream	lmo0433	internalin A	8	0	0	0	0	2	10
+456999	+	Upstream	lmo0434	internalin B	3	2	0	0	0	4	9
+457012	+	Upstream	lmo0434	internalin B	2	2	0	5	19	35	63
+469543	+	Upstream	lmo0440	hypothetical protein	5	3	3	2	5	0	18
+472178	-	Upstream	lmo0441	penicillin-binding protein D-alanyl-D-alanine carboxypeptidase	3	0	2	0	0	0	5
+472187	-	Upstream	lmo0441	penicillin-binding protein D-alanyl-D-alanine carboxypeptidase	14	12	6	9	13	5	59
+472311	+	Upstream	lmo0442	hypothetical protein	0	0	0	0	3	0	3
+472755	+	Upstream	lmo0443	LytR transcription regulator LytR	179	320	169	51	233	185	1137
+476901	+	Upstream	lmo0445	transcription regulator	5	0	0	0	0	4	9
+483139	+	Upstream	lmo0449	hypothetical protein	82	92	26	65	177	15	457
+485399	-	Upstream	lmo0451	hypothetical protein	15	21	6	3	44	2	91
+489801	-	Upstream	lmo0454	YeaC	0	7	0	2	7	5	21
+489887	+	Upstream	lmo0455	hypothetical protein	6	8	3	3	20	0	40
+491595	+	Upstream	lmo0456	permeases	0	8	0	0	0	0	8
+502780	+	Upstream	lmo0466	hypothetical protein	19	11	8	3	9	0	50
+506334	+	Upstream	lmo0470	weakly site-specific DNA-methyltransferase	6	8	18	44	17	14	107
+507068	+	Intergenic	NA	NA	3	2	2	2	9	0	18
+507161	-	Intergenic	NA	NA	11	51	25	3	2	3	95
+507372	-	Intergenic	NA	NA	9	14	13	43	148	52	279
+507476	-	Intergenic	NA	NA	0	8	2	0	29	3	42
+507542	-	Intergenic	NA	NA	0	4	2	4	2	2	14
+507544	+	Upstream	lmo0471	hypothetical protein	10	7	2	0	2	4	25
+507548	-	Intergenic	NA	NA	0	2	2	0	3	0	7
+509222	+	Upstream	lmo0472	hypothetical protein	0	0	0	0	5	0	5
+513287	-	Upstream	lmo0476	oxetanocin A resistance protein oxrB	0	5	0	0	0	3	8
+513848	+	Upstream	lmo0477	putative secreted protein	46	24	9	7	19	2	107
+513982	+	Upstream	lmo0477	putative secreted protein	3	3	0	0	0	0	6
+513992	+	Upstream	lmo0477	putative secreted protein	2	2	0	0	0	2	6
+514655	+	Upstream	lmo0478	putative secreted protein	0	3	0	0	3	0	6
+516050	+	Upstream	lmo0480	putative transcriptional regulator	0	5	2	0	0	0	7
+516722	+	Upstream	lmo0481	myosin-cross-reactive antigen	6	6	11	89	11	12	135
+518564	+	Upstream	lmo0482	ribosomal RNA large subunit methyltransferase N	4	11	3	3	5	0	26
+519759	+	Upstream	lmo0483	hypothetical protein	344	187	35	7	15	2	590
+519768	+	Upstream	lmo0483	hypothetical protein	4	2	0	0	0	0	6
+520378	+	Upstream	lmo0484	heme-degrading monooxygenase IsdG	36	26	53	310	11	0	436
+520927	+	Upstream	lmo0485	hypothetical protein	0	0	2	8	0	0	10
+521574	+	Upstream	lmo0486	50S ribosomal protein L32	114	132	145	93	399	868	1751
+521825	+	Upstream	lmo0487	hypothetical protein	19	14	4	3	7	0	47
+526728	+	Upstream	lmo0491	3-dehydroquinate dehydratase	15	15	6	0	2	0	38
+530486	+	Upstream	lmo0494	weakly esterase	49	56	11	5	37	2	160
+531148	+	Intergenic	NA	NA	12	4	7	37	112	12	184
+531199	+	Upstream	lmo0495	transmembrane protein	0	0	0	0	8	2	10
+531210	+	Upstream	lmo0495	transmembrane protein	0	0	0	0	6	0	6
+536169	+	Upstream	lmo0501	transcription antiterminator BglG family	3	0	0	0	0	0	3
+543169	+	Upstream	lmo0509	phosphoribosyl pyrophosphate synthetase	55	140	75	35	64	44	413
+544214	+	Intergenic	NA	NA	0	3	0	0	0	0	3
+544238	+	Intergenic	NA	NA	2	6	5	13	2	4	32
+544357	+	Intergenic	NA	NA	2	2	0	9	7	2	22
+544698	+	Upstream	lmo0510	hypothetical protein	0	0	0	0	10	0	10
+544883	+	Upstream	lmo0510	hypothetical protein	11	7	4	0	2	0	24
+545583	+	Upstream	lmo0511	hypothetical protein	0	2	0	0	0	0	2
+547162	-	Upstream	lmo0513	weakly transcription regulator	55	45	9	10	27	8	154
+549409	+	Upstream	lmo0515	hypothetical protein	99	0	50	36	19	40	244
+552417	-	Upstream	lmo0517	phosphoglycerate mutase	5	8	0	3	3	0	19
+552949	-	Upstream	lmo0518	hypothetical protein	2	0	0	0	0	0	2
+553040	+	Upstream	lmo0519	multidrug resistance protein	4	6	4	11	8	0	33
+554571	+	Upstream	lmo0520	transcription regulator	2	5	0	0	0	0	7
+557042	-	Upstream	lmo0521	6-phospho-beta-glucosidase	0	3	4	3	2	0	12
+557162	+	Upstream	lmo0522	transcription regulator	0	0	0	6	9	0	15
+558025	+	Upstream	lmo0523	YybC protein	0	0	0	0	4	0	4
+560253	-	Upstream	lmo0524	putative sulfate transporter	3	0	0	0	0	0	3
+560402	+	Upstream	lmo0525	hypothetical protein	16	39	17	55	113	68	308
+562733	+	Upstream	lmo0527	transmembrane protein	5	6	4	4	8	0	27
+569978	+	Upstream	lmo0532	hypothetical protein	4	6	0	6	18	2	36
+570890	+	Upstream	lmo0533	ACT domain-containing protein	63	81	22	29	46	19	260
+573598	-	Upstream	lmo0535	transcription regulator LacI family	11	19	8	4	7	6	55
+573697	+	Upstream	lmo0536	6-phospho-beta-glucosidase	7	2	3	21	30	7	70
+575152	+	Upstream	lmo0537	allantoate amidohydrolase	4	4	0	4	7	0	19
+578658	-	Upstream	lmo0539	tagatose 1-6-diphosphate aldolase	0	0	3	2	0	0	5
+578699	-	Upstream	lmo0539	tagatose 1-6-diphosphate aldolase	93	3	51	45	121	142	455
+578846	+	Upstream	lmo0540	penicillin-binding protein	0	4	2	0	2	0	8
+578860	+	Upstream	lmo0540	penicillin-binding protein	5	5	5	3	4	0	22
+578867	+	Upstream	lmo0540	penicillin-binding protein	0	6	2	2	5	2	17
+578882	+	Upstream	lmo0540	penicillin-binding protein	0	2	0	0	2	0	4
+581083	-	Upstream	lmo0541	ABC transporter binding protein	0	0	0	40	3	0	43
+586023	-	Upstream	lmo0547	DeoR transcriptional regulator	0	5	0	0	0	0	5
+592069	-	Upstream	lmo0553	hypothetical protein	203	200	91	103	334	154	1085
+592218	+	Upstream	lmo0554	NADH-dependent butanol dehydrogenase	77	0	9	8	10	39	143
+593447	+	Upstream	lmo0555	di-tripeptide transporter	3	0	0	0	6	0	9
+593925	+	Middle	lmo0555	di-tripeptide transporter	0	0	0	0	0	9	9
+595106	+	Upstream	lmo0556	phosphoglycerate mutase	21	18	23	14	51	24	151
+597649	-	Upstream	lmo0558	hypothetical protein	7	4	4	0	3	3	21
+597806	+	Intergenic	NA	NA	427	170	259	3479	31289	466	36090
+597815	+	Upstream	lmo0559	hypothetical protein	46	20	16	16	137	8	243
+597823	+	Upstream	lmo0559	hypothetical protein	2	7	0	7	27	6	49
+600476	-	Upstream	lmo0560	glutamate dehydrogenase	6	6	0	10	18	17	57
+600750	-	Intergenic	NA	NA	518	1246	410	4144	14059	2452	22829
+607326	+	Upstream	lmo0570	histidinol-phosphatase	27	33	11	20	137	19	247
+607338	+	Upstream	lmo0570	histidinol-phosphatase	0	0	0	0	2	5	7
+608504	-	Upstream	lmo0571	methyltransferase	6	7	5	4	16	8	46
+611100	-	Middle	NA	NA	10	10	2	26	304	17	369
+611216	+	Upstream	lmo0574	beta-glucosidase	24	24	6	11	14	0	79
+612653	+	Upstream	lmo0575	transcription regulator GntR family	14	29	4	28	40	15	130
+616604	-	Upstream	lmo0578	hypothetical protein	170	186	150	192	246	269	1213
+616703	+	Upstream	lmo0579	hypothetical protein	177	0	94	50	38	76	435
+616713	+	Upstream	lmo0579	hypothetical protein	6	16	13	7	4	3	49
+616854	+	Middle	lmo0579	hypothetical protein	4	0	5	0	0	0	9
+616857	+	Middle	lmo0579	hypothetical protein	3	0	3	0	2	3	11
+620418	-	Upstream	lmo0582	invasion associated secreted endopeptidase	0	3	0	0	0	12	15
+620426	-	Upstream	lmo0582	invasion associated secreted endopeptidase	3	2	0	0	4	2	11
+620449	-	Upstream	lmo0582	invasion associated secreted endopeptidase	9	0	0	0	0	0	9
+620456	-	Upstream	lmo0582	invasion associated secreted endopeptidase	126	140	31	12	104	32	445
+620782	+	Upstream	lmo0583	preprotein translocase subunit SecA	13	10	13	13	19	24	92
+620788	+	Upstream	lmo0583	preprotein translocase subunit SecA	28	89	29	18	23	15	202
+623204	+	Upstream	lmo0584	hypothetical protein	15	0	0	12	19	20	66
+623214	+	Upstream	lmo0584	hypothetical protein	0	0	0	0	3	2	5
+629058	+	Upstream	lmo0588	DNA photolyase	2	4	5	5	11	8	35
+630494	+	Upstream	lmo0589	hypothetical protein	15	0	5	2	0	2	24
+630605	+	Upstream	lmo0589	hypothetical protein	12	4	0	0	2	0	18
+633652	+	Upstream	lmo0592	hypothetical protein	20	45	26	3	9	7	110
+634434	+	Upstream	lmo0593	transport proteins formate	2	0	0	4	36	0	42
+637940	-	Upstream	NA	NA	28	32	5	10	4	2	81
+638100	+	Upstream	lmo0596	hypothetical protein	123	0	19	63	147	128	480
+638116	+	Upstream	lmo0596	hypothetical protein	9	0	4	0	2	61	76
+638122	+	Upstream	lmo0596	hypothetical protein	0	0	0	0	3	41	44
+638138	+	Upstream	lmo0596	hypothetical protein	0	0	0	0	3	8	11
+639512	-	Upstream	lmo0597	transcription regulator CRP-FNR family	0	0	0	20	4	0	24
+640138	-	Intergenic	NA	NA	3	5	0	3	0	0	11
+640232	+	Upstream	lmo0599	hypothetical protein	14	16	9	12	6	5	62
+642372	+	Upstream	lmo0602	weakly transcription regulator	20	0	4	5	6	2	37
+643366	-	Upstream	lmo0603	hypothetical protein	4	2	0	2	0	2	10
+643771	-	Upstream	lmo0604	YvlA protein	3	3	0	3	6	0	15
+645261	-	Upstream	lmo0605	hypothetical protein	4	5	6	4	9	0	28
+645363	+	Upstream	lmo0606	MarR regulator family	5	8	2	6	35	10	66
+649494	+	Upstream	lmo0609	phage shock P E. coli	21	25	13	31	42	45	177
+651656	-	Upstream	lmo0610	internalin proteins - putative peptidoglycan bound protein LPXTG motif	0	0	0	0	2	3	5
+652450	-	Upstream	lmo0611	azoreductase	9	18	4	6	2	0	39
+652568	+	Upstream	lmo0612	transcription regulator MarR family	4	10	2	0	4	2	22
+654059	+	Upstream	lmo0614	hypothetical protein	9	14	8	3	12	8	54
+654881	-	Upstream	lmo0615	hypothetical protein	0	3	0	0	0	0	3
+657269	-	Upstream	lmo0617	hypothetical protein	9	4	2	7	0	0	22
+658492	-	Upstream	lmo0618	protein kinase	9	8	5	12	47	48	129
+658549	+	Upstream	lmo0619	hypothetical protein	4	5	0	0	0	0	9
+659058	+	Upstream	lmo0620	hypothetical protein	6	13	3	5	15	0	42
+660381	+	Upstream	lmo0622	hypothetical protein	13	14	6	13	27	47	120
+662186	-	Upstream	lmo0625	hypothetical protein	6	8	0	4	23	4	45
+663961	-	Upstream	lmo0626	hypothetical protein	2	0	0	2	13	7	24
+663985	-	Upstream	lmo0626	hypothetical protein	27	22	12	18	25	11	115
+669062	+	Upstream	lmo0628	hypothetical protein	25	0	7	3	6	9	50
+669389	+	Upstream	lmo0629	hypothetical protein	3	5	2	0	0	0	10
+677616	-	Upstream	lmot11	tRNA-Ser	0	0	0	21	122	12	155
+679724	+	Upstream	lmo0639	a transcription regulator surface protein PAg negative regulator par	5	9	0	3	5	0	22
+680335	+	Upstream	lmo0640	oxidoreductase	93	52	25	15	21	0	206
+681412	+	Upstream	lmo0641	heavy metal-transporting ATPase	34	12	2	0	15	9	72
+681448	+	Upstream	lmo0641	heavy metal-transporting ATPase	3	5	0	0	2	2	12
+681517	+	Upstream	lmo0641	heavy metal-transporting ATPase	10	12	2	0	2	0	26
+681523	+	Upstream	lmo0641	heavy metal-transporting ATPase	8	20	3	0	6	10	47
+681540	+	Upstream	lmo0641	heavy metal-transporting ATPase	10	10	5	0	0	0	25
+683465	+	Upstream	lmo0642	hypothetical protein	5	4	0	0	0	0	9
+683502	+	Upstream	lmo0642	hypothetical protein	39	0	40	50	21	68	218
+684361	+	Upstream	lmo0643	putative transaldolase	9	29	5	7	28	2	80
+686954	-	Upstream	lmo0644	hypothetical protein	0	0	0	7	10	4	21
+687113	+	Upstream	lmo0645	amino acid transporter	0	3	0	3	11	2	19
+688593	+	Upstream	lmo0646	hypothetical protein	17	25	11	13	11	0	77
+689860	-	Upstream	lmo0647	hypothetical protein	8	0	3	3	7	2	23
+689972	+	Middle	lmo0648	membrane proteins	2	0	0	0	3	19	24
+690595	+	Middle	lmo0648	membrane proteins	0	9	4	0	3	2	18
+694299	+	Upstream	lmo0651	transcription regulator	3	2	0	0	0	0	5
+696433	-	Upstream	lmo0653	hypothetical protein	16	6	3	4	0	0	29
+696575	+	Upstream	lmo0654	hypothetical protein	931	2	320	976	333	1228	3790
+696588	+	Upstream	lmo0654	hypothetical protein	2	0	0	3	0	4	9
+698235	-	Upstream	lmo0656	hypothetical protein	0	2	0	2	11	22	37
+698302	+	Upstream	lmo0657	hypothetical protein	2	3	2	4	16	7	34
+700478	+	Upstream	lmo0660	transposases	4	2	0	0	3	0	9
+702984	-	Upstream	lmo0663	hypothetical protein	3	0	0	6	11	5	25
+703100	+	Upstream	lmo0664	acetyl transferase	70	90	50	108	146	65	529
+704423	+	Upstream	lmo0667	ABC transporter ATP-binding protein	17	23	8	12	3	0	63
+705287	+	Middle	lmo0667	ABC transporter ATP-binding protein	5	4	0	0	2	0	11
+706268	+	Upstream	lmo0669	oxidoreductase	13	0	6	6	6	25	56
+707578	+	Upstream	lmo0671	hypothetical protein	17	25	5	17	134	7	205
+708618	+	Intergenic	NA	NA	5	0	0	4	6	4	19
+708717	+	Intergenic	NA	NA	3	3	0	3	5	0	14
+709104	+	Upstream	lmo0672	hypothetical protein	8	8	0	7	6	0	29
+710795	-	Upstream	lmo0674	hypothetical protein	38	32	20	17	3	0	110
+724848	+	Upstream	lmo0690	flagellin	14	31	8	1190	4	5	1252
+725982	+	Upstream	lmo0691	chemotaxis response regulator CheY	5	3	0	27	0	0	35
+737221	+	Upstream	lmo0703	hypothetical protein	5	0	2	6	5	0	18
+749950	+	Upstream	lmo0719	hypothetical protein	12	7	9	3	12	5	48
+751476	-	Upstream	lmo0721	putative fibronectin-binding protein	23	18	2	0	0	5	48
+751557	+	Upstream	lmo0722	pyruvate oxidase	38	0	19	10	31	50	148
+753463	+	Upstream	lmo0723	metyl-accepting chemotaxis protein	0	0	0	7	0	0	7
+756315	-	Upstream	lmo0725	peptidoglycan binding protein	18	31	8	15	72	6	150
+756425	+	Upstream	NA	NA	1106	1163	615	205	442	65	3596
+756437	+	Upstream	NA	NA	6	6	3	4	0	2	21
+756449	+	Upstream	NA	NA	9	8	7	0	0	0	24
+756738	+	Upstream	lmo0727	glucosamine--fructose-6-phosphate aminotransferase	4	5	0	4	5	0	18
+758636	+	Upstream	lmo0728	riboflavin kinase - FAD synthase	5	9	5	4	0	8	31
+758637	+	Upstream	lmo0728	riboflavin kinase - FAD synthase	0	2	2	0	0	4	8
+759447	+	Upstream	lmo0729	hypothetical protein	0	0	0	4	3	0	7
+760425	+	Upstream	lmo0731	hypothetical protein	223	156	64	129	911	100	1583
+777182	+	Upstream	lmo0748	hypothetical protein	10	9	5	0	4	0	28
+781067	+	Upstream	lmo0755	hypothetical protein	2	7	0	0	4	2	15
+787038	+	Intergenic	NA	NA	7	5	3	29	104	8	156
+788610	+	Upstream	lmo0763	hypothetical protein	5	5	0	0	11	0	21
+797219	-	Upstream	lmo0770	transcriptional regulator LacI family	8	14	2	10	7	5	46
+797329	+	Upstream	lmo0771	hypothetical protein	0	0	0	4	25	14	43
+798109	+	Upstream	lmo0772	transcription regulator	4	10	0	0	0	2	16
+798122	+	Upstream	lmo0772	transcription regulator	6	0	2	0	2	0	10
+799851	-	Upstream	lmo0773	alcohol dehydrogenase	7	5	0	3	27	2	44
+799930	+	Upstream	lmo0774	hypothetical protein	7	8	2	5	4	14	40
+799931	+	Upstream	lmo0774	hypothetical protein	88	96	43	98	93	136	554
+799948	+	Upstream	lmo0774	hypothetical protein	3	5	0	0	0	0	8
+799958	+	Upstream	lmo0774	hypothetical protein	6	5	3	0	0	0	14
+799971	+	Upstream	lmo0774	hypothetical protein	17	18	6	0	5	0	46
+802227	-	Upstream	lmo0776	transcription regulator repressor	4	2	3	0	4	0	13
+802327	+	Upstream	lmo0777	hypothetical protein	47	62	27	20	42	6	204
+803123	+	Upstream	lmo0778	hypothetical protein	11	28	16	12	9	0	76
+803133	+	Upstream	lmo0778	hypothetical protein	2	3	0	0	2	0	7
+804233	-	Upstream	lmo0779	hypothetical protein	0	0	0	2	2	3	7
+804249	-	Upstream	lmo0779	hypothetical protein	121	117	22	37	45	18	360
+807287	-	Middle	lmo0784	mannose-specific phosphotransferase system PTS component IIA	7	0	0	3	2	0	12
+807724	-	Upstream	lmo0784	mannose-specific phosphotransferase system PTS component IIA	10	4	8	0	0	4	26
+807886	-	Upstream	lmo0784	mannose-specific phosphotransferase system PTS component IIA	108	0	15	12	15	33	183
+810955	+	Upstream	lmo0786	acyl-carrier protein phosphodiesterase and to NADPH dehydrogenase	39	35	7	15	39	0	135
+811739	+	Upstream	lmo0787	amino acid transporter	12	12	5	15	14	4	62
+813304	+	Upstream	lmo0788	hypothetical protein	3	3	0	0	2	0	8
+813305	+	Upstream	lmo0788	hypothetical protein	291	166	65	184	303	84	1093
+813314	+	Upstream	lmo0788	hypothetical protein	5	3	0	0	0	0	8
+813324	+	Upstream	lmo0788	hypothetical protein	0	5	0	0	2	0	7
+813353	+	Upstream	lmo0788	hypothetical protein	4	0	0	0	0	0	4
+813366	+	Upstream	lmo0788	hypothetical protein	21	23	10	13	6	0	73
+813378	+	Upstream	lmo0788	hypothetical protein	10	13	6	6	3	10	48
+813410	+	Upstream	lmo0788	hypothetical protein	10	17	3	9	5	2	46
+819325	-	Upstream	lmo0790	transcription regulator EbsC from Enterococcus faecalis	4	5	2	0	0	0	11
+819360	+	Upstream	lmo0791	hypothetical protein	871	715	394	221	161	98	2460
+819369	+	Upstream	lmo0791	hypothetical protein	8	5	0	2	3	5	23
+819387	+	Upstream	lmo0791	hypothetical protein	2	3	0	0	0	0	5
+820120	+	Upstream	lmo0792	conserved hypothetical protein	17	21	7	2	8	4	59
+822573	-	Upstream	lmo0794	YwnB protein	192	0	46	9	18	69	334
+823560	-	Upstream	lmo0795	hypothetical protein	12	11	0	10	20	0	53
+824169	-	Upstream	lmo0796	hypothetical protein	3	2	3	0	0	4	12
+824207	-	Upstream	lmo0796	hypothetical protein	183	0	58	28	93	137	499
+824293	-	Upstream	lmo0796	hypothetical protein	28	21	0	2	3	0	54
+824407	+	Upstream	lmo0797	hypothetical protein	124	150	57	11	19	7	368
+826699	-	Upstream	NA	NA	0	8	3	10	9	11	41
+826710	-	Upstream	NA	NA	2	0	0	12	11	3	28
+827541	-	Upstream	lmo0799	hypothetical protein	38	47	15	32	50	31	213
+827652	+	Upstream	lmo0800	YqkB protein	9	23	3	8	11	8	62
+830228	+	Upstream	lmo0802	weakly GTP-pyrophosphokinase	4	5	5	5	5	0	24
+830998	+	Upstream	lmo0803	putative Na+-H+ antiporter	0	0	0	0	8	6	14
+834105	-	Upstream	lmo0805	hypothetical protein	5	3	0	0	0	0	8
+838720	+	Upstream	lmo0811	carbonic anhydrase	12	8	9	40	34	33	136
+839493	+	Upstream	lmo0812	hypothetical protein	50	51	15	21	82	11	230
+840166	+	Upstream	lmo0813	fructokinases	322	333	210	35	206	124	1230
+840175	+	Upstream	lmo0813	fructokinases	0	2	2	0	0	2	6
+841125	+	Upstream	lmo0814	oxidoreductases	8	25	9	5	4	0	51
+842275	+	Upstream	lmo0815	transcription regulators	0	0	0	0	9	0	9
+843748	-	Upstream	lmo0817	E. coli PhnB protein	80	54	4	17	12	0	167
+845547	+	Middle	lmo0818	cation transporting ATPase	41	0	10	4	0	19	74
+847526	+	Upstream	lmo0820	some similarity to acatyltransferases	3	3	2	0	4	0	12
+849288	+	Upstream	lmo0823	oxydoreductases	44	28	16	30	26	16	160
+852664	+	Upstream	lmo0826	transport protein	12	17	9	6	67	2	113
+855722	+	Upstream	lmo0829	highly pyruvate-flavodoxin oxidoreductase	161	223	119	206	533	111	1353
+855732	+	Upstream	lmo0829	highly pyruvate-flavodoxin oxidoreductase	4	7	7	3	25	0	46
+859521	-	Intergenic	NA	NA	15	38	14	84	49	79	279
+861644	-	Upstream	lmo0830	highly fructose-1-6-bisphosphatase	0	3	2	0	0	0	5
+862938	+	Intergenic	NA	NA	0	2	0	2	0	0	4
+867026	-	Upstream	lmo0836	phosphate-starvation-inducible protein PsiE	2	0	0	2	2	0	6
+872436	-	Upstream	lmo0840	hypothetical protein	29	30	15	3	5	0	82
+872588	+	Upstream	lmo0841	cation calcium transporting ATPase	86	79	52	31	15	8	271
+882292	-	Upstream	lmo0843	YsdA	22	40	12	10	0	4	88
+882302	+	Upstream	lmo0844	hypothetical protein	10	17	6	9	8	4	54
+882759	+	Upstream	NA	NA	5	3	0	11	31	0	50
+883991	+	Middle	lmo0845	YxjH and YxjG proteins	3	7	0	0	2	0	12
+884150	+	Upstream	lmo0846	excinuclease ABC- chain C UvrC	2	0	0	0	5	0	7
+885371	+	Upstream	lmo0847	Glutamine ABC transporter binding and transport protein	14	9	7	23	34	9	96
+889995	+	Upstream	lmo0850	hypothetical protein	159	0	73	146	211	214	803
+890010	+	Upstream	lmo0850	hypothetical protein	4	0	0	2	0	5	11
+890017	+	Upstream	lmo0850	hypothetical protein	26	28	28	63	241	26	412
+890027	+	Upstream	lmo0850	hypothetical protein	8	0	2	3	0	2	15
+890034	+	Upstream	lmo0850	hypothetical protein	10	5	6	0	6	2	29
+890043	+	Upstream	lmo0850	hypothetical protein	3	2	0	2	6	2	15
+890049	+	Upstream	lmo0850	hypothetical protein	2	2	0	2	0	2	8
+890392	+	Upstream	lmo0851	hypothetical protein	9	48	14	87	325	62	545
+891250	+	Upstream	lmo0852	transcription regulator TetR-AcrR family	3	0	2	2	6	3	16
+892638	+	Upstream	lmo0855	D-alanyl-alanine synthetase A	8	5	2	2	7	0	24
+895210	+	Middle	lmo0856	UDP-N-acetylmuramoylalanyl-D-glutamyl-2-6-diamino pimelate-D-alanyl-D-alanyl ligase	7	6	0	0	8	0	21
+897053	-	Upstream	lmo0858	transcription regulator lacI family	12	14	12	9	18	19	84
+897222	+	Upstream	lmo0859	putative sugar ABC transporter- periplasmic sugar-binding protein	2	2	0	0	0	0	4
+905685	+	Intergenic	NA	NA	3	2	0	18	19	0	42
+907526	+	Intergenic	NA	NA	0	3	2	3	2	0	10
+909145	+	Upstream	lmo0869	hypothetical protein	13	2	3	2	5	10	35
+910942	-	Upstream	lmo0871	YtcD protein	4	5	0	0	0	0	9
+910944	-	Upstream	lmo0871	YtcD protein	6	6	0	0	0	0	12
+918993	+	Upstream	lmo0880	wall associated protein precursor LPXTG motif	13	0	6	63	185	265	532
+921040	+	Upstream	lmo0882	YdbS protein	4	5	2	6	6	0	23
+923124	+	Upstream	lmo0884	protoporphyrinogen oxidase	134	220	91	83	32	72	632
+923130	+	Upstream	lmo0884	protoporphyrinogen oxidase	11	18	6	0	0	0	35
+926072	+	Upstream	lmo0887	YdcD protein	26	28	4	11	13	6	88
+926171	+	Upstream	lmo0887	YdcD protein	2	8	0	0	0	0	10
+926193	+	Upstream	lmo0887	YdcD protein	2223	3572	1234	935	626	1032	9622
+926228	+	Upstream	lmo0887	YdcD protein	0	0	0	4	40	28	72
+927079	+	Upstream	lmo0889	highly positive regulator of sigma-B activity	4	9	2	10	11	3	39
+928738	+	Upstream	lmo0892	highly serine phosphatase RsbU	6	2	0	2	0	0	10
+929823	+	Upstream	lmo0893	anti-anti-sigma factor antagonist of RsbW	4	5	0	2	0	0	11
+929830	+	Upstream	lmo0893	anti-anti-sigma factor antagonist of RsbW	6	14	0	7	3	2	32
+929838	+	Upstream	lmo0893	anti-anti-sigma factor antagonist of RsbW	7	9	2	6	0	7	31
+929863	+	Upstream	lmo0893	anti-anti-sigma factor antagonist of RsbW	551	9	222	177	146	495	1600
+929891	+	Upstream	lmo0893	anti-anti-sigma factor antagonist of RsbW	29	49	11	4	0	6	99
+931149	+	Middle	lmo0895	RNA polymerase sigma factor SigB	7	0	2	0	3	0	12
+932139	+	Upstream	lmo0897	transport proteins	9	5	2	4	10	4	34
+933931	+	Upstream	lmo0898	hypothetical protein	9	14	8	2	9	0	42
+936645	+	Upstream	lmot12	tRNA-Asn	2	2	3	16	3	0	26
+936729	+	Upstream	lmot13	tRNA-Ser	7	7	11	51	23	17	116
+937176	+	Upstream	lmo0900	hypothetical protein	12	10	2	11	23	4	62
+939062	+	Upstream	lmo0902	transcription regulator GntR family	615	532	104	112	213	63	1639
+939070	+	Upstream	lmo0902	transcription regulator GntR family	5	0	0	0	2	0	7
+939082	+	Upstream	lmo0902	transcription regulator GntR family	4	2	0	2	2	0	10
+940274	+	Upstream	lmo0903	hypothetical protein	31	16	6	14	8	11	86
+940783	+	Upstream	lmo0904	hypothetical protein	164	195	68	4	6	2	439
+940789	+	Upstream	lmo0904	hypothetical protein	2	6	0	0	0	0	8
+940796	+	Upstream	lmo0904	hypothetical protein	5	5	2	0	0	0	12
+941565	+	Upstream	lmo0905	hypothetical protein	10	14	7	63	186	140	420
+942065	+	Middle	lmo0905	hypothetical protein	75	116	63	117	148	209	728
+943497	+	Middle	lmo0906	glutathione reductase	47	22	14	7	6	7	103
+945410	-	Upstream	lmo0908	membrane proteins	0	11	3	5	15	14	48
+945496	+	Upstream	lmo0909	GntR regulator - (transcription) family	56	67	16	25	15	9	188
+947047	+	Upstream	lmo0911	hypothetical protein	35	0	24	167	134	630	990
+947102	+	Middle	lmo0911	hypothetical protein	0	0	0	2	0	0	2
+947678	+	Upstream	lmo0912	transporters formate	300	457	158	33	326	13	1287
+947688	+	Upstream	lmo0912	transporters formate	7	8	2	0	4	0	21
+947700	+	Upstream	lmo0912	transporters formate	3	2	0	0	2	0	7
+948706	+	Upstream	lmo0913	succinate semialdehyde dehydrogenase	471	0	58	107	230	153	1019
+948734	+	Upstream	lmo0913	succinate semialdehyde dehydrogenase	0	0	0	0	6	2	8
+950338	+	Upstream	lmo0914	PTS system IIB component	138	60	101	112	86	99	596
+950339	+	Upstream	lmo0914	PTS system IIB component	4	2	0	0	0	0	6
+955824	+	Intergenic	NA	NA	25	24	3	15	40	5	112
+957691	+	Upstream	lmo0920	YcgR protein	0	0	0	0	5	0	5
+959665	+	Upstream	lmo0922	pantothenate kinase	10	5	4	5	34	2	60
+960712	+	Upstream	lmo0923	ABC transporter- ATP-binding protein N-terminal part	21	36	6	14	43	15	135
+965360	-	Upstream	lmo0927	hypothetical protein	14	11	4	2	6	0	37
+966173	+	Upstream	lmo0929	sortase	2	4	2	0	0	0	8
+966227	+	Upstream	lmo0929	sortase	5	7	2	4	18	2	38
+966999	+	Upstream	lmo0930	YhfI protein	50	30	12	20	49	18	179
+969454	-	Upstream	lmo0932	hypothetical protein	0	0	0	0	3	5	8
+970656	-	Upstream	lmo0933	sugar transferase	42	46	7	25	38	10	168
+970975	+	Upstream	lmo0934	YhbA protein	0	0	0	2	7	0	9
+972184	+	Upstream	lmo0935	CspR protein- rRNA methylase homolog	4	2	0	0	0	0	6
+973704	-	Upstream	lmo0937	hypothetical P	206	0	25	402	392	289	1314
+974989	-	Upstream	lmo0939	hypothetical protein	14	19	3	60	141	89	326
+978885	-	Upstream	lmo0942	HSP90 family protein	36	17	7	12	10	8	90
+978908	+	Upstream	lmo0943	non-heme iron-binding ferritin	5	6	2	2	7	4	26
+978973	+	Upstream	lmo0943	non-heme iron-binding ferritin	232	0	36	34	59	44	405
+979023	+	Upstream	lmo0943	non-heme iron-binding ferritin	3989	7330	3546	191	1520	4062	20638
+979034	+	Upstream	lmo0943	non-heme iron-binding ferritin	17	28	14	0	4	12	75
+979042	+	Upstream	lmo0943	non-heme iron-binding ferritin	11	11	6	0	7	15	50
+979059	+	Upstream	lmo0943	non-heme iron-binding ferritin	12	18	11	5	11	4	61
+979668	+	Upstream	lmo0944	YneR protein	31	0	6	2	2	0	41
+979722	+	Upstream	lmo0944	YneR protein	63	56	23	15	33	7	197
+979738	+	Upstream	lmo0944	YneR protein	4	0	0	2	0	3	9
+980160	+	Upstream	lmo0945	ComEC protein and to ComEA	2	0	0	0	2	0	4
+981486	+	Middle	lmo0946	hypothetical protein	0	0	0	2	14	6	22
+983679	-	Upstream	lmo0948	transcription regulator	3	4	0	0	0	0	7
+983737	+	Upstream	lmo0949	hypothetical protein	0	0	0	0	2	3	5
+983748	+	Upstream	lmo0949	hypothetical protein	3	0	4	17	56	11	91
+986592	-	Upstream	lmo0951	hypothetical protein	5	0	0	0	4	0	9
+986694	+	Upstream	lmo0952	hypothetical protein	157	162	38	107	155	19	638
+987250	+	Upstream	lmo0953	hypothetical protein	423	0	343	522	365	959	2612
+987604	+	Upstream	lmo0954	hypothetical protein	3	5	0	9	13	7	37
+989027	+	Upstream	lmo0956	N-acetylglucosamine-6P-phosphate deacetylase EC 3.5.1.25	6	0	2	0	0	0	8
+991781	+	Upstream	lmo0959	undacaprenyl-phosphate N-acetylglucosaminyltransferase	2	0	0	8	3	4	17
+992947	+	Upstream	lmo0960	proteases	243	330	121	65	525	15	1299
+995131	+	Upstream	lmo0962	epitope LemA	74	85	32	5	2	4	202
+995137	+	Upstream	lmo0962	epitope LemA	2	3	0	0	0	0	5
+995171	+	Upstream	lmo0962	epitope LemA	0	0	2	0	4	11	17
+997682	-	Upstream	lmo0964	YjbH protein	0	4	0	0	0	0	4
+998898	-	Upstream	lmo0966	hypothetical protein	2	11	0	2	9	16	40
+998978	+	Upstream	lmo0967	YjbM protein	18	11	5	9	23	15	81
+998997	+	Upstream	lmo0967	YjbM protein	5	0	0	0	0	0	5
+999143	+	Middle	lmo0967	YjbM protein	9	17	5	2	2	0	35
+1001431	+	Upstream	lmo0970	enoyl-acyl carrier protein reductase	3	2	0	0	0	0	5
+1001441	+	Upstream	lmo0970	enoyl-acyl carrier protein reductase	8	3	0	0	3	0	14
+1001467	+	Upstream	lmo0970	enoyl-acyl carrier protein reductase	175	163	96	115	77	30	656
+1001478	+	Upstream	lmo0970	enoyl-acyl carrier protein reductase	2	0	0	2	3	0	7
+1001487	+	Upstream	lmo0970	enoyl-acyl carrier protein reductase	6	0	0	3	4	3	16
+1003609	-	Middle	lmo0972	D-alanine--polyphosphoribitol ligase subunit 2	0	0	0	0	5	0	5
+1006613	-	Upstream	lmo0974	D-alanine--polyphosphoribitol ligase subunit 1	0	0	0	0	7	0	7
+1006810	-	Upstream	lmo0974	D-alanine--polyphosphoribitol ligase subunit 1	6	0	0	0	12	0	18
+1006917	+	Upstream	lmo0975	ribose-5-phosphate isomerase A	43	52	11	9	12	3	130
+1008937	-	Upstream	lmo0977	YjcH protein	13	4	3	3	15	3	41
+1009058	+	Upstream	lmo0978	branched-chain amino acid aminotransferase	251	303	140	21	112	17	844
+1010237	+	Upstream	lmo0979	daunorubicin resistance ATP-binding proteins	16	14	5	2	2	3	42
+1013356	-	Upstream	lmo0981	efflux transporter	5	0	2	16	47	0	70
+1013446	+	Upstream	lmo0982	glucanase and peptidase	33	35	12	40	170	26	316
+1013447	+	Upstream	lmo0982	glucanase and peptidase	3	0	0	0	5	0	8
+1015135	+	Upstream	lmo0984	weakly two-component response regulator	4	8	3	3	2	0	20
+1017841	+	Upstream	lmo0988	peptide chain release factor 3	0	10	3	32	50	10	105
+1019517	+	Upstream	lmo0989	regulatory proteins MarR family	21	20	2	8	17	0	68
+1021442	+	Upstream	NA	NA	3	3	6	24	3	16	55
+1022521	+	Upstream	lmo0992	hypothetical protein	2	6	5	9	123	123	268
+1025156	-	Upstream	lmo0994	hypothetical protein	10	0	3	16	50	121	200
+1026349	+	Upstream	lmo0996	methylated-DNA-protein-cystein methyltransferase	11	22	10	7	10	4	64
+1029110	-	Upstream	lmo0997	ATP-dependent protease	2	5	0	0	0	0	7
+1029852	-	Upstream	lmo0998	hypothetical protein	5	8	5	21	48	16	103
+1029948	+	Upstream	lmo0999	hypothetical protein	0	0	0	2	3	0	5
+1032253	-	Upstream	lmo1000	phytoene dehydrogenase	3	10	6	12	4	14	49
+1032628	-	Upstream	lmo1001	YkvS	15	5	3	0	8	0	31
+1032846	+	Upstream	lmo1002	phosphocarrier protein HPr	769	563	184	308	405	91	2320
+1032895	+	Upstream	lmo1002	phosphocarrier protein HPr	3	0	2	0	4	0	9
+1032910	+	Upstream	lmo1002	phosphocarrier protein HPr	9	16	9	3	5	5	47
+1034992	+	Upstream	lmo1004	hypothetical protein	0	0	0	0	3	0	3
+1038276	+	Upstream	lmo1007	hypothetical protein	4	0	3	2	4	0	13
+1038728	+	Upstream	lmo1008	YkuJ protein	31	42	18	40	94	125	350
+1038736	+	Upstream	lmo1008	YkuJ protein	31	29	21	75	247	93	496
+1039220	+	Upstream	lmo1009	YkuL protein	4	3	0	9	66	3	85
+1040644	+	Upstream	lmo1011	tetrahydrodipicolinate succinylase	65	27	33	33	60	30	248
+1043506	-	Upstream	lmo1013	YkuT protein	2	0	0	4	0	2	8
+1043515	-	Upstream	lmo1013	YkuT protein	30	105	47	142	709	324	1357
+1043739	+	Upstream	lmo1014	highly glycine betaine ABC transporter ATP-binding protein	27	19	2	44	41	11	144
+1043754	+	Upstream	lmo1014	highly glycine betaine ABC transporter ATP-binding protein	5	0	2	0	0	0	7
+1046857	+	Upstream	lmo1017	phosphotransferase system glucose-specific enzyme IIA	24	20	4	20	57	22	147
+1047462	+	Upstream	lmo1018	E. coli copper homeostasis protein CutC	146	147	46	21	14	25	399
+1050345	+	Middle	lmo1021	YvqE two-component sensor histidine kinase in particular YvqE protein	0	6	2	0	5	0	13
+1052472	+	Upstream	lmo1024	hypothetical protein	45	104	60	323	1182	492	2206
+1057348	-	Upstream	lmo1028	YkzG protein	9	17	3	3	29	0	61
+1057503	-	Upstream	lmo1028	YkzG protein	0	0	0	0	2	5	7
+1057621	-	Intergenic	NA	NA	13	22	5	10	39	13	102
+1057719	+	Upstream	lmo1029	hypothetical protein	14	7	3	4	16	3	47
+1059639	-	Upstream	lmo1030	transcriptional regulator- LacI family	0	0	0	4	4	0	8
+1070519	-	Upstream	lmo1040	molybdenum ABC transporters permease	0	4	0	7	4	3	18
+1070575	+	Upstream	lmo1041	molybdate ABC transporter binding protein	4	4	0	2	9	3	22
+1071419	+	Upstream	lmo1042	molybdopterin biosynthesis protein moeA	9	21	4	4	14	18	70
+1076875	-	Upstream	lmo1049	MoeE   molybdopterin biosynthesis protein	5	4	2	22	10	41	84
+1076964	+	Upstream	lmo1050	YdfE protein	8	8	0	0	0	0	16
+1076975	+	Upstream	lmo1050	YdfE protein	4	12	3	0	0	0	19
+1078174	-	Upstream	lmo1051	peptide deformylase	69	80	35	23	44	17	268
+1078743	+	Upstream	lmo1052	pdhA alpha sub pyruvate dehydrogenase E1 alpha subunit	9	0	0	0	0	0	9
+1078929	+	Upstream	lmo1052	pdhA alpha sub pyruvate dehydrogenase E1 alpha subunit	2	0	0	2	0	0	4
+1081085	+	Upstream	lmo1054	pdhC di-hydrolipoamide acetyltransferase	4	0	0	0	0	0	4
+1084371	+	Upstream	lmo1056	hypothetical protein	3	2	0	5	26	0	36
+1084826	+	Upstream	lmo1057	L-lactate dehydrogenase	57	65	19	83	69	175	468
+1084827	+	Upstream	lmo1057	L-lactate dehydrogenase	4	0	0	0	0	2	6
+1086755	+	Upstream	lmo1060	transcription response regulator	0	3	0	0	3	0	6
+1092204	-	Upstream	lmo1064	membrane and transport proteins	0	0	0	2	4	0	6
+1092215	-	Upstream	lmo1064	membrane and transport proteins	11	10	3	58	166	10	258
+1092896	-	Upstream	lmo1065	YktB protein	8	7	4	6	3	5	33
+1092974	+	Upstream	lmo1066	extragenic suppressor protein SuhB and to myo-inositol-1or 4-monophosphatase	27	42	25	22	65	8	189
+1093855	+	Upstream	lmo1067	GTP-binding elongation factor	2	3	2	10	43	0	60
+1095902	+	Upstream	lmo1068	hypothetical protein	493	0	229	66	71	95	954
+1095935	+	Upstream	lmo1068	hypothetical protein	6	0	0	0	0	4	10
+1095952	+	Upstream	lmo1068	hypothetical protein	527	477	149	138	461	278	2030
+1097132	-	Upstream	lmo1069	YlaI protein	30	30	15	20	52	19	166
+1097240	+	Upstream	lmo1070	YlaN protein  depletion of this protein in Bacillus subtilis results in defects in cell morphology crystal structure of Staphylococcus protein shows homodimer putative ligand binding protein	114	93	17	22	41	2	289
+1097738	+	Upstream	lmo1071	cell-division protein RodA and FtsW	4	14	6	0	13	8	45
+1099148	+	Upstream	lmo1072	pyruvate carboxylase	139	150	34	27	61	29	440
+1099184	+	Upstream	lmo1072	pyruvate carboxylase	2	7	0	2	0	0	11
+1099208	+	Upstream	lmo1072	pyruvate carboxylase	0	0	0	0	0	3	3
+1101798	+	Middle	lmo1072	pyruvate carboxylase	2	3	2	0	0	2	9
+1102148	+	Middle	lmo1072	pyruvate carboxylase	0	0	0	2	6	19	27
+1106006	+	Upstream	lmo1076	autolysin EC 3.5.1.28 N-acetylmuramoyl-L-alanine amidase	16	24	9	9	16	4	78
+1110601	-	Upstream	lmo1078	putative UDP-glucose pyrophosphorylases	8	11	5	4	38	8	74
+1110743	+	Upstream	lmo1079	YfhO protein	23	27	19	151	683	45	948
+1113735	+	Upstream	lmo1080	minor teichoic acids biosynthesis protein GgaB	3	0	0	2	15	0	20
+1118992	+	Middle	lmo1085	teichoic acid biosynthesis protein B	2	3	0	2	17	15	39
+1121064	+	Upstream	lmo1086	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	146	134	37	47	90	31	485
+1121081	+	Upstream	lmo1086	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	8	0	0	0	2	0	10
+1121098	+	Upstream	lmo1086	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	4	6	0	0	3	0	13
+1126655	+	Upstream	lmo1092	nicotinate phosphoribosyltransferase	9	4	4	3	0	0	20
+1127929	+	Middle	lmo1092	nicotinate phosphoribosyltransferase	7	10	2	0	0	0	19
+1129898	+	Upstream	lmo1096	GMP synthase	76	76	21	234	224	21	652
+1133029	-	Intergenic	NA	NA	15	16	4	0	24	7	66
+1136642	-	Upstream	lmo1100	cadmium resistance protein	31	41	4	9	9	7	101
+1137917	-	Upstream	lmo1102	cadmium efflux system accessory proteins	5	5	0	2	4	0	16
+1152963	+	Upstream	lmo1116	regulatory proteins	17	32	9	9	17	7	91
+1153822	+	Upstream	lmo1117	hypothetical protein	10	4	0	0	3	0	17
+1157289	-	Upstream	lmo1119	methylases	3	6	2	0	3	0	14
+1159877	+	Intergenic	NA	NA	2	0	0	2	0	0	4
+1160115	+	Upstream	lmo1125	hypothetical protein	105	187	66	43	79	54	534
+1164117	+	Upstream	lmo1131	ABC transporters- ATP-binding proteins	42	26	27	263	5	3	366
+1167989	+	Upstream	lmo1134	regulatory proteins	19	22	2	0	5	4	52
+1172688	-	Upstream	lmo1138	ATP-dependent Clp protease proteolytic subunit	217	205	29	35	73	33	592
+1173620	+	Upstream	lmo1141	uroporphyrin-III C-methyltransferase	2	7	0	2	3	0	14
+1174216	+	Upstream	lmo1142	Salmonella enterica PduS protein	3	2	0	0	0	0	5
+1176272	+	Upstream	lmo1144	Salmonelle enterica PduU protein	2	4	2	3	4	0	15
+1179807	+	Intergenic	NA	NA	24	37	12	328	713	60	1174
+1181075	-	Upstream	lmo1150	transcriptional regulator PocR	5	3	8	0	3	0	19
+1195985	+	Middle	lmo1168	acetate kinase	0	6	0	0	2	0	8
+1198094	+	Intergenic	NA	NA	8	12	5	51	94	20	190
+1198108	+	Intergenic	NA	NA	54	144	19	89	134	88	528
+1198118	+	Intergenic	NA	NA	0	2	2	37	68	19	128
+1199848	+	Intergenic	NA	NA	26	71	67	222	175	143	704
+1215705	-	Upstream	lmo1189	transcriptional regulator	286	218	76	35	84	10	709
+1231165	+	Middle	lmo1208	cobyric acid synthase	3	11	5	9	23	29	80
+1233372	-	Middle	lmo1211	hypothetical protein	0	0	0	3	7	2	12
+1233398	-	Middle	lmo1211	hypothetical protein	0	0	0	7	12	0	19
+1233840	-	Upstream	lmo1211	hypothetical protein	3	0	0	3	3	0	9
+1234437	+	Upstream	lmo1213	hypothetical protein	20	23	5	0	2	2	52
+1235634	+	Upstream	lmo1215	N-acetylmuramoyl-L-alanine amidase autolysin	23	36	32	11	45	11	158
+1237909	+	Upstream	lmo1217	endo-1-4-beta-glucanase and to aminopeptidase	112	149	71	104	9	64	509
+1237910	+	Upstream	lmo1217	endo-1-4-beta-glucanase and to aminopeptidase	10	26	7	10	0	8	61
+1239035	+	Upstream	lmo1218	rRNA methylase	2	2	2	0	0	0	6
+1240230	-	Upstream	lmo1219	hypothetical protein	6	5	0	0	3	0	14
+1240345	+	Upstream	lmo1220	hypothetical protein	14	22	16	7	9	17	85
+1240764	+	Upstream	NA	NA	69	38	15	40	24	27	213
+1244641	+	Upstream	lmo1223	ABC transporter- ATP-binding proteins	56	93	44	15	20	18	246
+1248871	+	Upstream	lmo1225	transcriptional regulator MarR family.	5	6	4	5	21	7	48
+1252639	+	Upstream	lmo1227	uracil-DNA glycosylase	21	12	5	9	25	27	99
+1254325	-	Upstream	lmo1228	ribonuclease HIII	3	0	0	0	0	0	3
+1254419	+	Upstream	lmo1229	YshA protein	56	65	40	31	71	27	290
+1259502	+	Upstream	lmo1233	thioredoxin	962	937	306	117	34	41	2397
+1259529	+	Upstream	lmo1233	thioredoxin	0	4	0	0	0	0	4
+1261879	+	Upstream	lmo1235	aspartate kinase	23	63	20	14	61	19	200
+1263663	-	Middle	lmo1236	YslB protein	61	71	32	47	64	36	311
+1263784	+	Upstream	lmo1237	glutamate racemase	81	153	50	120	221	73	698
+1263793	+	Upstream	lmo1237	glutamate racemase	3	3	0	0	3	0	9
+1263827	+	Upstream	lmo1237	glutamate racemase	0	2	0	0	4	0	6
+1266040	+	Upstream	lmo1240	YsnB protein	3	3	0	0	0	0	6
+1266675	+	Upstream	lmot17	tRNA-Arg	35	62	65	527	507	206	1402
+1267078	+	Upstream	lmo1241	hypothetical protein	0	0	0	2	0	10	12
+1267080	+	Upstream	lmo1241	hypothetical protein	35	0	12	70	43	144	304
+1269158	-	Upstream	lmo1242	YdeI protein	2	3	0	0	8	0	13
+1269717	-	Upstream	lmo1243	hypothetical protein	0	2	0	0	7	0	9
+1269809	+	Upstream	lmo1244	weakly phosphoglycerate mutase 1	28	29	12	10	63	10	152
+1270832	+	Upstream	lmo1246	ATP-dependent RNA helicase DEAD motif	0	0	0	4	10	3	17
+1272592	+	Intergenic	NA	NA	0	0	0	0	4	0	4
+1272690	+	Upstream	lmo1248	weakly 8-oxo-dGTPase mutT	0	2	0	0	2	0	4
+1274835	+	Upstream	lmo1251	regulator of the Fnr CRP family including PrfA	17	0	0	0	3	5	25
+1274848	+	Upstream	lmo1251	regulator of the Fnr CRP family including PrfA	5	2	0	3	2	0	12
+1275794	-	Intergenic	NA	NA	2	0	0	0	7	0	9
+1276834	-	Upstream	lmo1252	YxkD protein	2	0	2	19	36	5	64
+1277206	-	Intergenic	NA	NA	95	81	31	37	279	171	694
+1277846	+	Middle	lmo1253	transcription regulator GntR family	0	4	3	0	2	3	12
+1281244	-	Upstream	lmo1255	PTS system trehalose specific enzyme IIBC	375	276	451	168	122	210	1602
+1281306	+	Upstream	lmo1256	hypothetical protein	21	50	21	7	8	6	113
+1282301	-	Upstream	lmo1257	hypothetical protein	410	507	187	49	145	60	1358
+1282450	+	Upstream	lmo1258	hypothetical protein	73	137	104	32	56	90	492
+1284706	-	Middle	lmo1260	gamma-glutamyl kinase	0	2	2	0	2	0	6
+1285503	-	Upstream	lmo1260	gamma-glutamyl kinase	32	49	19	15	33	8	156
+1286783	-	Upstream	lmo1261	hypothetical protein	48	3	34	36	40	114	275
+1287242	-	Upstream	lmo1262	transcriptional regulator phage-related	2	0	0	2	5	0	9
+1287341	+	Upstream	lmo1263	transcriptional regulator	0	4	0	0	0	0	4
+1289148	+	Upstream	lmo1266	hypothetical protein	4	0	0	0	2	6	12
+1290175	+	Upstream	lmo1267	trigger factor	253	391	177	1986	965	982	4754
+1290181	+	Upstream	lmo1267	trigger factor	0	0	0	0	3	2	5
+1290195	+	Upstream	lmo1267	trigger factor	3	2	0	0	0	2	7
+1290208	+	Upstream	lmo1267	trigger factor	17	8	2	2	10	2	41
+1291651	+	Upstream	lmo1268	ATP-dependent protease ATP-binding subunit ClpX	23	47	28	5	8	11	122
+1293062	+	Upstream	lmo1269	type-I signal peptidase	8	4	0	11	32	6	61
+1294331	+	Upstream	lmo1271	signal peptidase I	2	6	0	12	40	3	63
+1297621	+	Upstream	lmo1275	DNA topoisomerase I	5	4	0	4	4	0	17
+1297706	+	Upstream	lmo1275	DNA topoisomerase I	9	7	5	9	10	4	44
+1297774	+	Upstream	lmo1275	DNA topoisomerase I	0	0	0	0	0	3	3
+1300028	+	Middle	lmo1276	tRNA uracil-5--methyltransferase Gid	2	3	0	8	0	0	13
+1301287	+	Intergenic	NA	NA	0	3	4	12	48	18	85
+1301532	+	Upstream	lmo1277	integrase-recombinase	73	76	45	67	180	132	573
+1305306	+	Upstream	lmo1281	YneP protein	0	3	0	0	3	0	6
+1305309	+	Upstream	lmo1281	YneP protein	7	6	4	21	31	47	116
+1305376	+	Upstream	lmo1281	YneP protein	17	18	9	2	0	0	46
+1307640	-	Upstream	lmo1284	YneS protein	4	0	2	0	3	5	14
+1307739	+	Upstream	lmo1285	YneT protein	35	89	50	126	286	325	911
+1307741	+	Upstream	lmo1285	YneT protein	39	48	30	13	43	77	250
+1308288	+	Upstream	lmo1286	DNA topoisomerase IV subunit B	18	19	19	61	58	45	220
+1308310	+	Upstream	lmo1286	DNA topoisomerase IV subunit B	0	0	0	2	2	2	6
+1312837	+	Upstream	lmo1288	S-ribosylhomocysteinase	178	212	128	96	179	118	911
+1319544	-	Upstream	lmo1291	acyltransferase to YrhL protein	6	3	3	0	2	0	14
+1319651	+	Upstream	lmo1292	glycerophosphodiester phosphodiesterase	2	0	0	0	5	0	7
+1320429	+	Intergenic	NA	NA	28	18	2	26	73	55	202
+1322389	+	Upstream	lmo1294	tRNA delta2-isopentenylpyrophosphate transferase	31	23	8	35	60	4	161
+1323371	+	Upstream	lmo1295	host factor-1 protein	1117	3	145	98	125	77	1565
+1323382	+	Upstream	lmo1295	host factor-1 protein	0	0	0	3	3	0	6
+1323415	+	Upstream	lmo1295	host factor-1 protein	23	8	9	4	3	0	47
+1323423	+	Upstream	lmo1295	host factor-1 protein	24	10	7	6	0	5	52
+1323431	+	Upstream	lmo1295	host factor-1 protein	4	4	0	2	3	2	15
+1323448	+	Upstream	lmo1295	host factor-1 protein	14	5	2	2	0	0	23
+1323771	+	Upstream	lmo1296	YnbA protein	8	6	7	13	42	29	105
+1326401	+	Upstream	lmo1298	glutamine synthetase repressor	3	18	7	85	141	26	280
+1326412	+	Upstream	lmo1298	glutamine synthetase repressor	0	2	0	3	7	2	14
+1326418	+	Upstream	lmo1298	glutamine synthetase repressor	0	0	0	5	5	0	10
+1328314	+	Upstream	lmo1300	arsenic efflux pump protein	2	0	0	3	19	13	37
+1328316	+	Upstream	lmo1300	arsenic efflux pump protein	0	0	2	87	129	123	341
+1330877	-	Upstream	lmo1302	LexA repressor	0	4	0	0	0	0	4
+1330884	-	Upstream	lmo1302	LexA repressor	0	6	0	0	2	0	8
+1330894	-	Upstream	lmo1302	LexA repressor	129	276	79	38	77	113	712
+1330896	-	Upstream	lmo1302	LexA repressor	5	2	3	0	0	0	10
+1330981	+	Upstream	lmo1303	cell division suppressor protein YneA	18	33	12	2	3	0	68
+1331383	+	Upstream	lmo1304	YnzC protein	4	0	0	2	8	0	14
+1331780	+	Upstream	lmo1305	highly transketolase	15	27	9	66	128	19	264
+1331788	+	Upstream	lmo1305	highly transketolase	0	0	0	0	3	0	3
+1333977	+	Upstream	lmo1306	YneF protein	3	0	0	2	0	0	5
+1333997	+	Upstream	lmo1306	YneF protein	458	321	137	96	404	35	1451
+1336244	-	Middle	lmo1309	E. coli YbdM protein	0	0	0	4	12	0	16
+1339539	+	Upstream	lmo1313	uridylate kinase	182	274	170	711	1061	1072	3470
+1339540	+	Upstream	lmo1313	uridylate kinase	0	5	0	5	8	10	28
+1339574	+	Upstream	lmo1313	uridylate kinase	0	7	2	9	13	4	35
+1341068	+	Upstream	lmo1315	undecaprenyl pyrophosphate synthase	0	0	0	0	7	0	7
+1346927	+	Upstream	lmo1320	DNA polymerase III PolC	0	2	0	2	6	0	10
+1351334	+	Upstream	lmo1321	conserved hypothetical protein- B. subtilis YlxS protein in Streptococcus pneumoniae this gene was found to be essential structure determination of the Streptococcus protein shows that it is similar to a number of other proteins	9	10	2	8	13	4	46
+1356314	+	Upstream	lmo1327	ribosome-binding factor A	7	0	3	0	7	0	17
+1357722	+	Upstream	lmo1329	highly riboflavin kinase and FAD synthase	8	7	7	48	82	43	195
+1358748	+	Upstream	lmo1330	30S ribosomal protein S15	709	598	360	370	433	56	2526
+1359249	+	Upstream	lmo1331	polynucleotide phosphorylase-polyadenylase	74	73	17	972	224	73	1433
+1362710	-	Upstream	lmo1332	Probable GTPase engC 2	36	38	18	6	8	3	109
+1363265	-	Upstream	lmo1333	YqzC protein	2	2	0	2	4	0	10
+1363661	-	Upstream	lmo1334	YqzD protein	111	91	43	91	242	186	764
+1363782	+	Upstream	lmo1335	50S ribosomal protein L33	1434	1755	683	1070	575	408	5925
+1363783	+	Upstream	lmo1335	50S ribosomal protein L33	223	270	89	115	57	70	824
+1363794	+	Upstream	lmo1335	50S ribosomal protein L33	14	17	4	5	2	4	46
+1364641	+	Upstream	lmo1337	yqgP	0	2	0	13	22	2	39
+1366436	+	Upstream	lmo1339	glucose kinase	3	4	0	0	0	2	9
+1366457	+	Upstream	lmo1339	glucose kinase	3	2	0	0	3	2	10
+1367537	+	Upstream	lmo1340	YqgU protein	286	0	38	90	53	71	538
+1372810	+	Upstream	NA	NA	37	38	10	16	17	54	172
+1377395	-	Upstream	lmo1351	hypothetical protein	102	74	22	35	38	5	276
+1378688	-	Upstream	lmo1353	YqhQ protein	0	0	0	0	3	2	5
+1378779	+	Upstream	lmo1354	aminopeptidase P	42	71	26	29	228	93	489
+1379944	+	Upstream	lmo1355	elongation factor P	9	3	2	7	37	0	58
+1380665	+	Upstream	lmo1356	acetyl-CoA carboxylase subunit biotin carboxyl carrier subunit	110	69	25	28	32	9	273
+1381201	+	Upstream	lmo1357	acetyl-CoA carboxylase biotin carboxylase subunit	14	17	5	2	3	3	44
+1382979	+	Upstream	lmo1359	transcription antitermination protein NusB	0	3	0	0	0	2	5
+1382993	+	Upstream	lmo1359	transcription antitermination protein NusB	3	6	0	0	0	0	9
+1383001	+	Upstream	lmo1359	transcription antitermination protein NusB	6	3	0	6	5	2	22
+1386904	+	Upstream	lmo1364	cold shock protein	1734	2588	855	3754	1592	300	10823
+1386977	+	Upstream	lmo1364	cold shock protein	0	8	0	9	8	3	28
+1387008	+	Upstream	lmo1364	cold shock protein	3	7	0	0	0	0	10
+1387014	+	Upstream	lmo1364	cold shock protein	9	13	2	3	0	0	27
+1387327	+	Upstream	lmo1365	1-deoxy-D-xylulose-5-phosphate synthase	3	2	0	0	2	0	7
+1390195	+	Upstream	lmo1367	arginine repressor	56	68	28	169	176	155	652
+1392436	+	Upstream	lmo1369	phosphotransbutyrylase	10	9	0	2	22	0	43
+1397730	+	Middle	lmo1373	branched-chain alpha-keto acid dehydrogenase E1 subunit 2-oxoisovalerate dehydrogenase beta subunit	9	4	2	2	0	0	17
+1399333	+	Intergenic	NA	NA	0	0	0	0	6	0	6
+1399365	+	Intergenic	NA	NA	28	0	56	4	26	32	146
+1399535	-	Intergenic	NA	NA	0	2	2	2	2	0	8
+1399616	-	Intergenic	NA	NA	84	75	13	66	193	21	452
+1400862	+	Upstream	lmo1376	6-phosphogluconate dehydrogenase	14	16	6	22	45	9	112
+1402510	+	Upstream	lmo1377	two-component response regulator	75	114	43	38	57	100	427
+1402511	+	Upstream	lmo1377	two-component response regulator	6	10	7	2	9	8	42
+1405892	-	Upstream	lmo1380	hypothetical protein	5	0	0	0	16	4	25
+1406255	-	Upstream	lmo1381	acylphosphatase	13	16	11	5	35	80	160
+1406338	+	Upstream	lmo1382	hypothetical protein	4	6	0	3	34	13	60
+1406643	+	Middle	lmo1382	hypothetical protein	0	2	0	2	0	8	12
+1408878	-	Upstream	lmo1384	hypothetical protein	52	20	28	95	11	7	213
+1408992	+	Upstream	lmo1385	hypothetical protein	4	4	2	0	5	0	15
+1409052	+	Upstream	lmo1385	hypothetical protein	0	4	2	0	2	0	8
+1410067	+	Upstream	lmo1386	DNA translocase	0	2	4	0	0	0	6
+1410076	+	Upstream	lmo1386	DNA translocase	27	69	20	7	13	23	159
+1410119	+	Upstream	lmo1386	DNA translocase	16	24	8	10	53	16	127
+1413316	-	Upstream	lmo1387	pyrroline-5-carboxylate reductase	2	0	0	0	2	5	9
+1413513	+	Upstream	lmo1388	CD4+ T cell-stimulating antigen- lipoprotein	743	295	159	243	877	53	2370
+1413600	+	Upstream	lmo1388	CD4+ T cell-stimulating antigen- lipoprotein	2	2	5	0	0	0	9
+1413619	+	Upstream	lmo1388	CD4+ T cell-stimulating antigen- lipoprotein	16	19	8	0	0	0	43
+1414916	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	3	6	0	3	4	0	16
+1414980	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	19	11	5	4	0	3	42
+1415002	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	5	8	4	0	0	0	17
+1415011	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	2	3	0	0	0	0	5
+1415026	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	0	5	3	0	0	0	8
+1415034	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	43	32	10	4	10	0	99
+1415044	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	12	11	2	6	6	0	37
+1415055	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	3	2	0	0	0	2	7
+1415070	+	Upstream	lmo1389	sugar ABC transporter- ATP-binding protein	0	2	0	2	2	3	9
+1418773	+	Upstream	lmo1392	putative proteases	8	9	6	4	30	0	57
+1421426	+	Upstream	lmo1394	3-ketoacyl-acyl carrier protein reductase	41	31	7	25	119	12	235
+1425248	+	Upstream	lmo1398	recombinase A	6	5	0	0	0	0	11
+1425339	+	Upstream	lmo1398	recombinase A	54	31	12	70	270	68	505
+1425365	+	Upstream	lmo1398	recombinase A	0	0	0	5	0	2	7
+1426598	+	Upstream	lmo1399	phosphodiesterase	397	464	120	446	1224	160	2811
+1426609	+	Upstream	lmo1399	phosphodiesterase	4	8	2	2	3	2	21
+1428416	+	Upstream	lmo1400	N-acetyltransferase	80	72	22	52	402	37	665
+1430208	+	Upstream	lmo1403	DNA mismatch repair protein MutS	12	11	11	18	32	9	93
+1435565	+	Upstream	lmo1406	pyruvate formate-lyase	49	58	53	112	54	78	404
+1437880	+	Upstream	lmo1407	pyruvate-formate lyase activating enzyme	0	5	3	0	6	2	16
+1437937	+	Upstream	lmo1407	pyruvate-formate lyase activating enzyme	0	6	0	0	0	0	6
+1439387	+	Upstream	lmo1409	multidrug-efflux transporter	7	5	4	14	9	6	45
+1445066	-	Upstream	lmo1414	Acetyl-CoA:acetyltransferase	6	6	2	13	8	2	37
+1451239	-	Middle	lmo1420	UDP-N-acetylenolpyruvoylglucosamine reductase	2	2	3	6	7	0	20
+1451780	+	Upstream	lmo1421	glycine betaine-carnitine-choline ABC transporter ATP-binding protein	3	3	0	2	10	0	18
+1455215	-	Upstream	lmo1423	hypothetical protein	81	143	61	14	48	40	387
+1456686	-	Upstream	lmo1424	manganese transport protein MntH	905	2069	1021	967	2366	2766	10094
+1460291	-	Upstream	lmo1428	glycine betaine-carnitine-choline ABC transporter ATP-binding protein	248	0	41	151	209	276	925
+1461291	-	Upstream	NA	NA	40	27	25	34	53	78	257
+1461743	-	Upstream	lmo1430	hypothetical protein	14	15	6	3	2	3	43
+1461813	+	Upstream	lmo1431	ABC transporter ATP-binding protein	0	0	0	3	4	0	7
+1464183	-	Upstream	lmo1432	hypothetical protein	92	44	9	116	75	50	386
+1465564	-	Upstream	lmo1433	glutathione reductase	60	0	28	55	42	208	393
+1470560	-	Upstream	lmo1437	aspartate-semialdehyde dehydrogenase	14	11	6	3	50	5	89
+1472870	-	Upstream	lmo1438	penicillin-binding protein	0	0	0	3	2	5	10
+1472880	-	Upstream	lmo1438	penicillin-binding protein	0	2	0	3	39	8	52
+1473701	-	Upstream	lmo1439	superoxide dismutase	40	18	6	4	10	7	85
+1473829	-	Intergenic	NA	NA	95	0	15	14	40	31	195
+1474773	+	Upstream	lmo1441	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	0	7	0	0	19	2	28
+1481183	-	Upstream	lmo1448	putative manganese-dependent inorganic pyrophosphatase	0	4	2	7	2	17	32
+1482131	-	Middle	lmo1450	ATP-dependent RNA helicase- DEAD-box family deaD	3	2	0	0	0	0	5
+1483430	-	Upstream	lmo1450	ATP-dependent RNA helicase- DEAD-box family deaD	5	3	2	7	95	45	157
+1487659	-	Upstream	lmo1454	RNA polymerase sigma factor RpoD	97	3	26	11	22	21	180
+1491082	-	Upstream	lmo1457	hypothetical protein	19	28	17	10	41	14	129
+1491095	-	Middle	lmo1458	glycyl-tRNA synthetase subunit beta	0	2	0	0	0	5	7
+1494197	-	Upstream	lmo1459	glycyl-tRNA synthetase subunit alpha	2	0	0	0	3	0	5
+1494278	-	Upstream	lmo1459	glycyl-tRNA synthetase subunit alpha	5	5	0	2	2	0	14
+1494284	-	Upstream	lmo1459	glycyl-tRNA synthetase subunit alpha	187	172	51	57	75	15	557
+1495106	-	Upstream	lmo1460	DNA repair protein RecO	51	90	72	82	118	76	489
+1495191	+	Upstream	lmo1461	hypothetical protein	15	14	0	5	4	0	38
+1496257	-	Middle	lmo1462	GTP-binding protein Era	8	7	0	0	0	0	15
+1500290	-	Middle	lmo1467	phosphate starvation induced protein PhoH	0	0	0	0	9	7	16
+1501263	-	Upstream	lmo1467	phosphate starvation induced protein PhoH	43	38	11	9	6	5	112
+1502084	-	Upstream	lmo1469	30S ribosomal protein S21	4	2	3	4	3	0	16
+1502102	-	Upstream	lmo1469	30S ribosomal protein S21	3	8	4	5	18	5	43
+1502178	-	Upstream	lmo1469	30S ribosomal protein S21	571	340	157	273	465	42	1848
+1504034	-	Upstream	lmo1471	ribosomal protein L11 methyltransferase	9	17	3	7	11	12	59
+1505195	-	Upstream	lmo1472	chaperone protein DnaJ	0	7	4	0	0	0	11
+1505209	-	Upstream	lmo1472	chaperone protein DnaJ	15	20	14	5	11	5	70
+1507159	-	Upstream	lmo1473	molecular chaperone DnaK	6	12	0	0	3	0	21
+1507174	-	Upstream	lmo1473	molecular chaperone DnaK	3	11	3	2	3	4	26
+1507181	-	Upstream	lmo1473	molecular chaperone DnaK	24	37	9	2	18	9	99
+1507192	-	Middle	lmo1474	heat shock protein GrpE	12	18	3	0	0	2	35
+1507198	-	Middle	lmo1474	heat shock protein GrpE	12	18	5	2	2	6	45
+1507812	-	Middle	lmo1475	heat-inducible transcription repressor	5	3	0	0	3	0	11
+1508886	-	Upstream	lmo1475	heat-inducible transcription repressor	59	99	30	44	167	105	504
+1510185	-	Upstream	lmo1476	coproporphyrinogen III oxidase	5	0	0	3	2	0	10
+1511325	+	Upstream	lmo1478	transcriptional regulator MerR family	0	2	0	0	2	2	6
+1513732	-	Upstream	lmo1479	GTP-binding protein LepA	57	72	63	57	109	11	369
+1513843	+	Upstream	lmo1480	30S ribosomal protein S20	776	1140	589	633	412	173	3723
+1513849	+	Upstream	lmo1480	30S ribosomal protein S20	12	13	7	3	3	6	44
+1513875	+	Upstream	lmo1480	30S ribosomal protein S20	5	18	16	8	2	9	58
+1513890	+	Upstream	lmo1480	30S ribosomal protein S20	2	4	3	4	4	2	19
+1515317	-	Upstream	lmo1481	DNA polymerase III subunit delta	18	48	26	40	79	43	254
+1518198	-	Upstream	lmo1483	ComEB protein	62	87	18	6	11	4	188
+1518863	-	Upstream	lmo1484	integral membrane protein ComEA	0	2	0	0	0	0	2
+1520862	-	Middle	lmo1488	nicotinic acid mononucleotide adenylyltransferase	5	6	0	3	11	0	25
+1520882	-	Middle	lmo1488	nicotinic acid mononucleotide adenylyltransferase	4	2	0	0	2	0	8
+1524020	-	Upstream	lmo1492	hypothetical protein	3	8	2	11	121	8	153
+1524026	-	Upstream	lmo1492	hypothetical protein	7	11	5	35	276	24	358
+1524037	-	Upstream	lmo1492	hypothetical protein	0	2	0	2	4	2	10
+1524058	-	Upstream	lmo1492	hypothetical protein	23	34	11	15	79	0	162
+1524125	+	Upstream	lmo1493	oligopeptidase	0	3	2	6	9	0	20
+1527031	-	Middle	lmo1495	hypothetical protein	5	5	0	0	0	0	10
+1527409	-	Upstream	lmo1495	hypothetical protein	2	0	2	0	0	0	4
+1527991	-	Upstream	lmo1496	transcription elongation factor GreA	11	26	11	12	33	22	115
+1528048	-	Upstream	lmo1496	transcription elongation factor GreA	33	14	7	2	31	3	90
+1530553	-	Upstream	lmo1499	hypothetical protein	4	2	0	0	11	0	17
+1532431	-	Upstream	lmo1503	hypothetical protein	40	30	23	45	203	66	407
+1535245	-	Upstream	lmo1504	alanyl-tRNA synthetase	2	2	0	2	11	2	19
+1535250	-	Upstream	lmo1504	alanyl-tRNA synthetase	364	478	88	171	548	46	1695
+1535406	-	Intergenic	NA	NA	70	37	9	16	25	3	160
+1537795	+	Upstream	lmo1507	two-component response regulators	0	0	0	3	3	2	8
+1543845	-	Upstream	lmo1511	hypothetical protein	5	5	9	0	12	4	35
+1545056	-	Upstream	lmo1512	tRNA-specific 2-thiouridylase MnmA	0	5	0	0	0	0	5
+1545078	-	Middle	lmo1513	iron-sulfur cofactor synthesis protein	2	4	2	0	0	0	8
+1546269	-	Upstream	lmo1513	iron-sulfur cofactor synthesis protein	6	7	3	10	8	0	34
+1546531	-	Upstream	NA	NA	0	0	0	0	5	2	7
+1546537	-	Intergenic	NA	NA	104	45	39	96	870	72	1226
+1547909	-	Upstream	lmo1514	recombination factor protein RarA	18	13	4	2	9	0	46
+1547995	+	Upstream	lmo1515	hypothetical protein	0	4	2	14	45	42	107
+1548651	+	Upstream	lmo1516	ammonium transporter NrgA	3	5	0	0	0	0	8
+1552629	-	Upstream	lmo1519	aspartyl-tRNA synthetase	0	4	2	0	0	0	6
+1553924	-	Upstream	lmo1520	histidyl-tRNA synthetase	7	5	0	0	0	0	12
+1554209	-	Upstream	NA	NA	34	28	9	4	37	3	115
+1554317	+	Upstream	lmo1521	N-acetylmuramoyl-L-alanine amidase	92	51	29	20	30	12	234
+1556177	-	Middle	lmo1523	pppGpp synthetase	3	6	0	2	0	4	15
+1558443	-	Upstream	lmo1523	pppGpp synthetase	2	2	2	0	10	0	16
+1561450	-	Upstream	lmo1525	single-stranded-DNA-specific exonuclease RecJ	181	182	89	750	897	154	2253
+1561882	-	Upstream	lmo1526	hypothetical protein	4	3	0	0	0	4	11
+1561906	-	Upstream	lmo1526	hypothetical protein	354	2	258	63	97	385	1159
+1564286	-	Upstream	lmo1527	bifunctional preprotein translocase subunit SecD-SecF	0	0	0	0	0	11	11
+1564298	-	Upstream	lmo1527	bifunctional preprotein translocase subunit SecD-SecF	0	2	0	0	5	0	7
+1564305	-	Upstream	lmo1527	bifunctional preprotein translocase subunit SecD-SecF	2	0	0	0	4	0	6
+1564656	-	Upstream	lmo1528	hypothetical protein	5	0	0	0	3	0	8
+1564666	-	Upstream	lmo1528	hypothetical protein	73	68	10	58	283	181	673
+1565129	-	Upstream	lmo1529	hypothetical protein	0	3	2	4	2	11	22
+1565136	-	Upstream	lmo1529	hypothetical protein	4	4	0	0	2	0	10
+1565146	-	Middle	lmo1530	queuine tRNA-ribosyltransferase	0	2	3	0	0	4	9
+1566303	-	Upstream	lmo1530	queuine tRNA-ribosyltransferase	41	24	14	18	53	19	169
+1569028	-	Upstream	lmo1533	Holliday junction DNA helicase RuvA	3	2	0	0	0	0	5
+1569055	-	Upstream	lmo1533	Holliday junction DNA helicase RuvA	42	54	15	26	79	19	235
+1570084	-	Upstream	lmo1534	L-lactate dehydrogenase	3	0	0	0	0	0	3
+1570102	-	Upstream	lmo1534	L-lactate dehydrogenase	3	4	0	0	0	0	7
+1570916	-	Upstream	lmo1535	hypothetical protein	26	28	9	17	66	17	163
+1573227	-	Upstream	lmo1537	GTPase ObgE	6	16	4	13	11	6	56
+1574912	-	Upstream	lmo1538	glycerol kinase	14	4	2	6	5	8	39
+1575785	-	Upstream	lmo1539	glycerol uptake facilitator	0	0	2	0	0	5	7
+1575917	-	Upstream	lmo1539	glycerol uptake facilitator	40	11	9	18	12	8	98
+1575995	-	Intergenic	NA	NA	40	0	13	13	10	30	106
+1577055	-	Upstream	lmo1542	50S ribosomal protein L21	0	4	3	14	8	8	37
+1577162	-	Upstream	NA	NA	6240	8301	3724	6479	1865	1728	28337
+1580114	-	Upstream	lmo1545	septum formation inhibitor	2	2	2	2	3	2	13
+1580125	-	Upstream	lmo1545	septum formation inhibitor	2	6	0	0	3	3	14
+1580137	-	Upstream	lmo1545	septum formation inhibitor	93	143	77	24	39	9	385
+1582815	-	Upstream	lmo1548	rod shape-determining protein MreB	5	6	4	9	17	7	48
+1589138	-	Upstream	NA	NA	12	10	7	163	280	29	501
+1594438	-	Upstream	lmo1557	glutamyl-tRNA reductase	7	0	0	10	38	12	67
+1595148	-	Upstream	lmo1558	ribosome biogenesis GTP-binding protein YsxC	39	48	28	18	46	8	187
+1597149	-	Upstream	lmo1559	threonyl-tRNA synthetase	3	2	0	0	0	0	5
+1597176	-	Upstream	lmo1559	threonyl-tRNA synthetase	5	0	0	0	3	2	10
+1597416	-	Middle	NA	NA	0	0	0	0	10	0	10
+1597455	-	Upstream	NA	NA	25	67	23	21	85	11	232
+1599815	-	Middle	lmo1562	transcriptional regulator NrdR	0	0	0	0	0	2	2
+1599835	-	Middle	lmo1562	transcriptional regulator NrdR	0	0	0	0	5	2	7
+1599842	-	Middle	lmo1562	transcriptional regulator NrdR	0	0	0	0	5	0	5
+1600299	-	Upstream	lmo1562	transcriptional regulator NrdR	5	3	0	0	0	0	8
+1600324	-	Upstream	lmo1562	transcriptional regulator NrdR	107	118	30	12	7	2	276
+1604479	-	Upstream	lmo1565	DNA polymerase I	3	2	0	0	4	0	9
+1609923	-	Upstream	lmo1570	pyruvate kinase	6	5	3	0	0	0	14
+1609957	-	Upstream	lmo1570	pyruvate kinase	174	178	57	95	163	82	749
+1610105	-	Upstream	lmo1570	pyruvate kinase	4	0	0	0	0	0	4
+1611207	-	Upstream	lmo1571	6-phosphofructokinase	318	206	128	52	57	52	813
+1612429	-	Middle	lmo1573	acetyl-CoA carboxylase subunit beta	8	8	5	20	40	22	103
+1612437	-	Middle	lmo1573	acetyl-CoA carboxylase subunit beta	2	4	0	5	7	3	21
+1612443	-	Middle	lmo1573	acetyl-CoA carboxylase subunit beta	4	5	5	2	7	2	25
+1612454	-	Middle	lmo1573	acetyl-CoA carboxylase subunit beta	0	0	0	0	6	0	6
+1613300	-	Upstream	lmo1573	acetyl-CoA carboxylase subunit beta	0	0	0	0	0	9	9
+1613451	-	Intergenic	NA	NA	4	2	0	5	45	0	56
+1616849	-	Upstream	lmo1574	highly DNA polymerase III alpha subunit DnaE	3	0	0	14	39	49	105
+1619243	-	Middle	lmo1577	metal-dependent hydrolase	6	6	2	0	0	0	14
+1619960	-	Upstream	lmo1577	metal-dependent hydrolase	17	13	4	6	13	0	53
+1620064	+	Upstream	lmo1578	X-Pro dipeptidase	19	18	17	37	80	68	239
+1622365	-	Upstream	lmo1579	alanine dehydrogenase	0	0	0	0	3	2	5
+1622374	-	Upstream	lmo1579	alanine dehydrogenase	0	2	2	0	2	2	8
+1622384	-	Upstream	lmo1579	alanine dehydrogenase	6	6	5	0	2	2	21
+1622393	-	Upstream	lmo1579	alanine dehydrogenase	106	121	75	46	123	67	538
+1622547	+	Upstream	lmo1580	hypothetical protein	907	315	279	239	342	386	2468
+1622554	+	Upstream	lmo1580	hypothetical protein	11	3	4	3	4	0	25
+1622577	+	Upstream	lmo1580	hypothetical protein	4	3	4	2	0	0	13
+1625349	-	Upstream	lmo1582	weakly site specific DNA-methyltransferase	3	5	3	35	53	32	131
+1626030	-	Upstream	lmo1583	thiol peroxidase	3	3	0	3	3	0	12
+1626031	-	Upstream	lmo1583	thiol peroxidase	84	67	33	140	93	164	581
+1627660	-	Upstream	lmo1585	proteases	158	155	75	113	160	43	704
+1627777	+	Upstream	lmo1586	inorganic polyphosphate-ATP-NAD kinase	198	194	57	23	121	25	618
+1633790	-	Upstream	lmo1591	N-acetyl-gamma-glutamyl-phosphate reductase	3	13	4	0	0	0	20
+1636313	-	Upstream	lmo1593	iron-sulfur cofactor synthesis protein nifS	13	4	5	18	13	0	53
+1638259	-	Upstream	lmo1594	septation ring formation regulator EzrA	8	11	6	6	16	2	49
+1638390	+	Upstream	lmo1595	hypothetical protein	54	109	39	196	300	114	812
+1638942	+	Upstream	lmo1596	30S ribosomal protein S4	591	762	604	7138	4649	3025	16769
+1638943	+	Upstream	lmo1596	30S ribosomal protein S4	5	15	16	152	100	63	351
+1638956	+	Upstream	lmo1596	30S ribosomal protein S4	0	3	4	147	215	25	394
+1638965	+	Upstream	lmo1596	30S ribosomal protein S4	0	3	2	33	59	11	108
+1639078	+	Upstream	lmo1596	30S ribosomal protein S4	0	0	0	3	5	0	8
+1639092	+	Upstream	lmo1596	30S ribosomal protein S4	3	0	6	2	0	0	11
+1639098	+	Upstream	lmo1596	30S ribosomal protein S4	61	43	30	25	3	0	162
+1639107	+	Upstream	lmo1596	30S ribosomal protein S4	16	6	4	6	0	0	32
+1640029	-	Intergenic	NA	NA	4	5	7	0	0	0	16
+1640039	-	Intergenic	NA	NA	2	2	0	0	2	0	6
+1640132	-	Intergenic	NA	NA	25	37	9	11	4	0	86
+1641004	-	Upstream	lmo1597	hypothetical protein	0	2	2	0	4	0	8
+1641072	-	Upstream	lmo1597	hypothetical protein	0	5	0	0	0	0	5
+1641109	-	Upstream	lmo1597	hypothetical protein	11	4	8	6	0	5	34
+1641120	-	Upstream	lmo1597	hypothetical protein	179	360	179	49	93	64	924
+1642826	-	Upstream	NA	NA	67	77	20	130	220	29	543
+1643896	-	Upstream	lmo1599	catabolite control protein A	6	0	0	0	0	0	6
+1643922	-	Upstream	lmo1599	catabolite control protein A	3	4	0	0	0	2	9
+1643942	-	Upstream	lmo1599	catabolite control protein A	41	46	28	26	36	24	201
+1645227	-	Upstream	lmo1600	bifunctional 3-deoxy-7-phosphoheptulonate synthase-chorismate mutase	34	15	6	40	103	7	205
+1646433	-	Upstream	lmo1602	hypothetical protein	64	2	19	33	18	20	156
+1646450	-	Upstream	lmo1602	hypothetical protein	0	0	0	0	0	5	5
+1646486	-	Upstream	lmo1602	hypothetical protein	0	0	0	0	5	10	15
+1646505	-	Upstream	lmo1602	hypothetical protein	5	0	0	0	0	0	5
+1646515	-	Upstream	lmo1602	hypothetical protein	93	41	6	50	495	127	812
+1646622	+	Upstream	lmo1603	aminopeptidase	8	11	11	14	13	5	62
+1648390	-	Upstream	lmo1604	2-cys peroxiredoxin	4	6	3	3	0	0	16
+1648397	-	Upstream	lmo1604	2-cys peroxiredoxin	5	8	2	2	0	0	17
+1648407	-	Upstream	lmo1604	2-cys peroxiredoxin	465	829	611	246	336	118	2605
+1650023	-	Upstream	lmo1605	UDP-N-acetylmuramate--L-alanine ligase	3	2	0	0	5	0	10
+1652527	-	Upstream	lmo1606	DNA translocase	10	5	3	4	22	5	49
+1652597	-	Upstream	lmo1606	DNA translocase	8	0	0	0	3	0	11
+1653457	-	Middle	lmo1608	hypothetical protein	3	0	2	0	0	0	5
+1653469	-	Middle	lmo1608	hypothetical protein	13	20	6	19	13	6	77
+1654607	-	Upstream	lmo1609	thioredoxin	0	5	0	5	5	6	21
+1654910	-	Middle	lmo1611	aminopeptidase	3	0	0	0	0	0	3
+1656003	-	Upstream	lmo1611	aminopeptidase	108	96	41	42	152	50	489
+1656112	+	Upstream	lmo1612	hypothetical protein	76	96	36	22	47	10	287
+1656148	+	Upstream	lmo1612	hypothetical protein	4	5	2	2	0	0	13
+1656156	+	Upstream	lmo1612	hypothetical protein	0	0	0	0	3	2	5
+1656810	-	Upstream	lmo1613	hypothetical protein	0	0	2	0	0	4	6
+1656843	-	Upstream	lmo1613	hypothetical protein	104	123	49	10	41	24	351
+1658491	-	Middle	lmo1616	hypothetical protein	6	4	3	5	5	2	25
+1658499	-	Middle	lmo1616	hypothetical protein	4	7	3	0	0	0	14
+1659319	-	Upstream	lmo1616	hypothetical protein	6	6	0	0	0	0	12
+1659325	-	Upstream	lmo1616	hypothetical protein	263	213	85	163	548	53	1325
+1662483	-	Upstream	lmo1619	D-amino acid aminotransferase	2	5	0	0	5	0	12
+1662555	-	Upstream	lmo1619	D-amino acid aminotransferase	5	8	2	0	0	0	15
+1664010	-	Upstream	lmo1620	dipeptidase PepV	357	535	309	142	297	191	1831
+1664019	-	Upstream	lmo1620	dipeptidase PepV	4	2	0	0	0	0	6
+1664026	-	Upstream	lmo1620	dipeptidase PepV	5	3	0	0	0	0	8
+1664496	-	Upstream	lmo1621	weakly E. coli MutT protein dGTP pyrophosphohydrolase	4	0	0	0	0	0	4
+1664514	-	Upstream	lmo1621	weakly E. coli MutT protein dGTP pyrophosphohydrolase	194	135	65	65	27	70	556
+1667737	-	Upstream	lmo1624	putative transporters	4	0	2	0	2	2	10
+1667753	-	Upstream	lmo1624	putative transporters	3	7	0	14	14	6	44
+1669464	-	Upstream	lmo1625	putative transporters	2	4	0	0	2	0	8
+1669993	-	Upstream	lmo1626	hypothetical protein	13	32	14	15	44	8	126
+1672695	-	Middle	lmo1630	indole-3-glycerol-phosphate synthase	8	6	2	0	0	3	19
+1676916	-	Upstream	NA	NA	57	54	28	18	47	4	208
+1677285	+	Upstream	lmo1634	bifunctional acetaldehyde-CoA-alcohol dehydrogenase	16	19	3	0	13	0	51
+1677286	+	Upstream	lmo1634	bifunctional acetaldehyde-CoA-alcohol dehydrogenase	3136	4791	952	972	3722	191	13764
+1677292	+	Upstream	lmo1634	bifunctional acetaldehyde-CoA-alcohol dehydrogenase	13	13	3	0	0	0	29
+1677391	+	Upstream	lmo1634	bifunctional acetaldehyde-CoA-alcohol dehydrogenase	31	68	16	7	42	4	168
+1680115	+	Upstream	lmo1635	hypothetical protein	3	3	0	2	2	2	12
+1680598	+	Upstream	lmo1636	similar to ABC transporter ATP-binding protein	0	3	0	0	0	3	6
+1680618	+	Upstream	lmo1636	similar to ABC transporter ATP-binding protein	0	2	0	3	11	6	22
+1684479	-	Upstream	lmo1640	hypothetical protein	28	21	17	42	30	77	215
+1687305	-	Upstream	lmo1641	aconitate hydratase	11	9	7	13	36	10	86
+1688671	-	Middle	lmo1644	SNF2-type helicase	0	0	0	0	3	0	3
+1688703	-	Middle	lmo1644	SNF2-type helicase	8	9	4	0	10	5	36
+1689165	-	Middle	lmo1644	SNF2-type helicase	10	9	5	0	4	0	28
+1691923	-	Upstream	lmo1644	SNF2-type helicase	12	12	4	7	5	0	40
+1696219	-	Upstream	lmo1646	putative exonucleases SbcD	2	0	0	0	6	2	10
+1696241	+	Upstream	lmo1647	1-acylglycerol-3-phosphate O-acyltransferases	2	0	0	0	10	0	12
+1697318	-	Upstream	lmo1648	hypothetical protein	5	2	0	0	2	0	9
+1697471	-	Upstream	lmo1648	hypothetical protein	0	0	0	0	9	2	11
+1698102	-	Upstream	lmo1649	hypothetical protein	277	552	377	190	415	191	2002
+1702543	-	Intergenic	NA	NA	2	6	2	5	3	2	20
+1704003	-	Upstream	lmo1654	putative cellsurface protein	4	0	0	0	9	0	13
+1705662	-	Upstream	lmo1656	hypothetical protein	4	4	2	0	3	0	13
+1706257	-	Middle	lmo1657	elongation factor Ts	3	4	4	0	0	0	11
+1708039	-	Upstream	lmo1658	30S ribosomal protein S2	2	4	0	0	0	0	6
+1708050	-	Upstream	lmo1658	30S ribosomal protein S2	74	78	40	37	27	9	265
+1711555	-	Upstream	NA	NA	112	152	37	85	143	39	568
+1715146	-	Upstream	lmo1663	asparagine synthetase	5	20	11	23	60	6	125
+1715630	-	Middle	lmo1664	S-adenosylmethionine synthetase	5	0	0	7	5	2	19
+1716651	-	Upstream	NA	NA	0	0	2	18	7	2	29
+1716657	-	Upstream	NA	NA	4	3	0	11	14	3	35
+1716665	-	Upstream	NA	NA	75	92	28	519	771	100	1585
+1716818	+	Upstream	lmo1665	hypothetical protein	2	6	0	8	33	2	51
+1722362	-	Upstream	lmo1666	peptidoglycan linked protein LPXTG	2	3	4	0	4	5	18
+1722377	-	Upstream	lmo1666	peptidoglycan linked protein LPXTG	13	11	7	7	29	44	111
+1722390	-	Upstream	lmo1666	peptidoglycan linked protein LPXTG	81	0	28	28	51	214	402
+1723380	-	Middle	lmo1668	some similarity to hypothetical proteins	3	2	2	0	0	0	7
+1723387	-	Middle	lmo1668	some similarity to hypothetical proteins	0	3	0	0	0	0	3
+1723616	-	Upstream	lmo1668	some similarity to hypothetical proteins	47	28	31	10	19	7	142
+1724202	+	Middle	lmo1670	hypothetical protein	19	21	2	4	5	0	51
+1727827	-	Middle	lmo1674	prolyl aminopetidases	3	3	0	0	0	0	6
+1731806	-	Upstream	lmo1676	menaquinone-specific isochorismate synthase	25	27	18	52	106	54	282
+1731914	+	Upstream	lmo1677	1-4-dihydroxy-2-naphthoate octaprenyltransferase	8	3	11	18	39	19	98
+1739621	-	Upstream	NA	NA	0	3	2	5	4	3	17
+1739634	-	Upstream	NA	NA	7	3	0	0	7	0	17
+1741022	-	Middle	lmot19	tRNA-Ser	0	0	0	3	2	4	9
+1741083	-	Upstream	lmot19	tRNA-Ser	75	135	147	468	331	281	1437
+1741231	-	Middle	lmot21	tRNA-Ile	0	2	0	4	4	0	10
+1741271	-	Upstream	lmot21	tRNA-Ile	0	0	0	2	6	2	10
+1741463	-	Upstream	lmot23	tRNA-His	0	0	0	16	52	0	68
+1741729	-	Upstream	lmot26	tRNA-Met	2	0	0	3	0	0	5
+1741853	-	Upstream	lmot27	tRNA-Ser	155	516	457	857	5083	492	7560
+1741910	-	Middle	lmot28	tRNA-Met	0	3	4	7	2	2	18
+1741998	-	Middle	lmot29	tRNA-Met	22	71	80	166	152	90	581
+1742150	-	Upstream	lmot30	tRNA-Ala	5	19	11	916	493	363	1807
+1742156	-	Upstream	lmot30	tRNA-Ala	0	0	0	3	28	2	33
+1742466	-	Middle	lmot34	tRNA-Gly	0	0	0	0	0	8	8
+1742476	-	Middle	lmot34	tRNA-Gly	0	3	4	2	4	0	13
+1748044	-	Upstream	lmor09	16S rRNA	2	3	2	0	0	0	7
+1748059	-	Upstream	lmor09	16S rRNA	43	62	23	0	9	0	137
+1748153	-	Intergenic	NA	NA	4	2	4	0	2	0	12
+1748734	-	Upstream	lmo1683	PerR Fur family transcription regulators Fur family- PerR in B. subtilis	190	206	52	79	121	35	683
+1749762	-	Upstream	lmo1684	glycerate dehydrogenases	82	60	6	15	30	15	208
+1749850	+	Upstream	lmo1685	glutamate-1-semialdehyde aminotransferase	5	8	6	52	188	31	290
+1751221	+	Upstream	lmo1686	hypothetical protein	10	9	2	0	7	2	30
+1752953	-	Upstream	lmo1687	hypothetical protein	0	0	0	3	0	15	18
+1752975	-	Upstream	lmo1687	hypothetical protein	1950	2461	1593	1558	3173	1751	12486
+1753878	-	Middle	lmo1689	A-G-specific adenine glycosylase	0	0	0	0	0	8	8
+1755008	+	Upstream	lmo1690	hypothetical protein	9	4	3	6	3	8	33
+1755039	-	Upstream	lmo1689	A-G-specific adenine glycosylase	19	27	10	8	15	20	99
+1756906	-	Middle	lmo1693	recombination regulator RecX	8	5	0	9	6	0	28
+1757689	-	Upstream	lmo1693	recombination regulator RecX	24	49	23	7	40	7	150
+1757748	+	Upstream	lmo1694	CDP-abequose synthase	45	0	12	33	79	111	280
+1762052	-	Upstream	lmo1696	hypothetical protein	39	58	19	42	143	17	318
+1762176	+	Upstream	lmo1697	putative transmembrane proteins	3	0	3	7	15	3	31
+1763763	-	Upstream	lmo1698	ribosomal-protein-alanine N-acetyltransferase	2	9	2	6	3	31	53
+1763772	-	Upstream	lmo1698	ribosomal-protein-alanine N-acetyltransferase	51	77	24	29	114	42	337
+1763895	+	Upstream	lmo1699	some similarities to methyl-accepting chemotaxis proteins	0	0	0	11	0	0	11
+1767319	-	Upstream	lmo1703	similar to RNA methyltransferases	14	16	10	14	63	4	121
+1767814	+	Upstream	lmo1705	deoxyguanosine kinase-deoxyadenosine kinaseI subunit	131	179	103	79	70	17	579
+1769456	+	Upstream	lmo1707	hypothetical protein	0	0	0	0	15	6	21
+1771406	-	Upstream	lmo1709	methionine aminopeptidase	3	7	6	2	0	0	18
+1771434	-	Upstream	lmo1709	methionine aminopeptidase	915	1815	1108	1034	1347	807	7026
+1771523	+	Upstream	lmo1710	putative flavodoxin	243	271	83	9	15	0	621
+1771571	+	Upstream	lmo1710	putative flavodoxin	3	2	0	0	0	0	5
+1772149	+	Upstream	lmo1711	highly aminopeptidases	68	81	31	23	31	22	256
+1772176	+	Upstream	lmo1711	highly aminopeptidases	0	5	0	2	3	0	10
+1774942	+	Upstream	lmo1713	rod shape-determining protein MreB	4	2	0	0	0	2	8
+1776877	-	Upstream	lmo1714	hypothetical protein	2	3	2	0	0	0	7
+1777729	+	Upstream	lmo1716	putative transcription regulators	27	29	5	8	5	3	77
+1778256	+	Middle	lmo1716	putative transcription regulators	3	2	0	7	5	2	19
+1779542	-	Upstream	lmo1717	hypothetical protein	16	27	7	3	4	2	59
+1781139	-	Upstream	lmo1719	phosphotransferase system PTS lichenan-specific enzyme IIA component	2	12	3	0	2	2	21
+1781535	-	Upstream	lmo1720	phosphotransferase system PTS lichenan-specific enzyme IIB component	8	14	5	0	5	0	32
+1781898	-	Middle	lmo1721	transcriptional regulator NifA-NtrC family	3	8	0	0	0	0	11
+1784366	-	Upstream	lmo1721	transcriptional regulator NifA-NtrC family	53	49	16	21	55	24	218
+1785822	-	Upstream	lmo1722	ATP-dependent RNA helicases	13	17	2	2	18	0	52
+1788776	-	Upstream	lmo1726	hypothetical protein	12	16	2	5	9	7	51
+1789802	-	Upstream	lmo1727	transcription regulators LacI family	8	10	2	3	2	4	29
+1806443	-	Upstream	lmo1736	hypothetical protein	2	0	0	0	3	3	8
+1806450	-	Middle	lmo1737	glycerol dehydrogenase	0	0	0	4	5	6	15
+1806459	-	Middle	lmo1737	glycerol dehydrogenase	0	0	0	0	12	0	12
+1807601	-	Upstream	lmo1737	glycerol dehydrogenase	69	89	28	19	76	28	309
+1810065	-	Upstream	NA	NA	15	30	4	16	25	11	101
+1815107	-	Upstream	lmo1745	two-component response regulator	16	24	9	3	34	24	110
+1817904	-	Upstream	lmo1747	ABC transporter ATP-binding protein	0	7	4	5	4	0	20
+1818544	-	Upstream	lmo1748	hypothetical protein	8	14	11	13	20	11	77
+1818663	+	Upstream	lmo1749	shikimate kinase	4	3	0	0	3	0	10
+1819829	-	Upstream	lmo1750	hypothetical protein	21	20	8	12	31	6	98
+1822299	-	Upstream	lmo1752	hypothetical protein	2	0	0	0	7	0	9
+1823418	-	Upstream	lmo1753	putative lipid kinase	32	14	9	5	37	0	97
+1826783	-	Upstream	lmo1756	aspartyl-glutamyl-tRNA amidotransferase subunit C	26	18	6	10	25	8	93
+1829984	-	Middle	lmo1759	ATP-dependent DNA helicase	0	2	0	0	6	3	11
+1832212	-	Upstream	lmo1759	ATP-dependent DNA helicase	11	13	4	0	5	6	39
+1832947	-	Upstream	lmo1760	geranylgeranylglyceryl phosphate synthase-like protein	50	70	43	22	48	7	240
+1835124	-	Upstream	lmo1763	hypothetical protein	12	32	16	48	25	32	165
+1842976	-	Middle	lmo1769	phosphoribosylformylglycinamidine synthase II	2	3	3	2	2	16	28
+1847508	-	Middle	lmo1775	phosphoribosylaminoimidazole carboxylase catalytic subunit	6	6	2	0	0	0	14
+1847974	-	Upstream	lmo1775	phosphoribosylaminoimidazole carboxylase catalytic subunit	3	4	0	0	0	0	7
+1847994	-	Upstream	lmo1775	phosphoribosylaminoimidazole carboxylase catalytic subunit	5	2	4	4	28	10	53
+1848732	-	Upstream	lmo1776	hypothetical protein	7	0	0	3	0	2	12
+1853947	-	Upstream	lmor12	16S rRNA	5	8	3	0	2	0	18
+1853998	-	Intergenic	NA	NA	8	3	0	0	0	0	11
+1855538	+	Upstream	lmo1779	hypothetical protein	6	4	3	0	7	0	20
+1857205	-	Upstream	lmo1780	peptidase T	80	63	20	3	2	0	168
+1857209	-	Upstream	lmo1780	peptidase T	268	268	109	228	222	263	1358
+1857793	-	Upstream	lmo1781	hypothetical protein	8	8	0	4	12	5	37
+1857833	+	Upstream	lmo1782	3-exo-deoxyribonuclease exoA	11	4	3	8	16	5	47
+1859010	-	Upstream	lmo1783	50S ribosomal protein L20	2	2	2	5	0	0	11
+1859039	-	Upstream	lmo1783	50S ribosomal protein L20	5	12	0	3	11	0	31
+1859056	-	Middle	lmo1784	50S ribosomal protein L35	5	4	0	5	5	5	24
+1859806	-	Upstream	lmo1785	translation initiation factor IF-3	6	0	4	7	3	0	20
+1860017	-	Intergenic	NA	NA	76	64	9	106	65	21	341
+1861190	-	Upstream	lmo1786	internalin C	6	6	0	0	0	0	12
+1861533	-	Intergenic	NA	NA	3	7	3	2	0	0	15
+1862251	-	Upstream	lmo1787	50S ribosomal protein L19	23	16	19	0	2	0	60
+1862286	-	Upstream	lmo1787	50S ribosomal protein L19	0	0	0	3	0	2	5
+1862335	-	Upstream	lmo1787	50S ribosomal protein L19	99	88	57	77	51	30	402
+1862439	+	Upstream	lmo1788	transcription regulator	8	14	5	5	9	5	46
+1866331	-	Upstream	lmo1794	hypothetical protein	12	13	6	4	25	17	77
+1867087	-	Upstream	lmo1795	hypothetical protein	11	13	7	18	61	50	160
+1867415	-	Upstream	lmo1796	hypothetical protein	0	0	0	4	2	3	9
+1867440	-	Middle	lmo1797	30S ribosomal protein S16	22	14	7	37	28	5	113
+1867730	-	Upstream	lmo1797	30S ribosomal protein S16	185	163	139	87	188	33	795
+1872445	-	Upstream	lmo1799	peptidoglycan binding protein	3	0	0	0	0	0	3
+1873646	-	Upstream	lmo1800	protein-tyrosine phosphatase	0	3	3	0	0	0	6
+1875478	-	Upstream	lmo1802	putative DNA-binding protein	5	5	0	0	15	0	25
+1880883	-	Upstream	lmo1805	ribonuclease III	9	49	6	23	9	0	96
+1881292	-	Upstream	lmo1806	acyl carrier protein	612	698	534	724	1092	448	4108
+1881307	-	Upstream	lmo1806	acyl carrier protein	2	8	0	5	0	0	15
+1881323	-	Upstream	lmo1806	acyl carrier protein	2	6	4	8	6	34	60
+1881331	-	Upstream	lmo1806	acyl carrier protein	0	4	0	0	0	3	7
+1884088	-	Upstream	lmo1809	putative glycerol-3-phosphate acyltransferase PlsX	0	0	0	2	2	2	6
+1884099	-	Middle	lmo1810	fatty acid biosynthesis transcriptional regulator	0	0	0	0	7	0	7
+1884784	-	Upstream	lmo1810	fatty acid biosynthesis transcriptional regulator	3	0	0	0	9	0	12
+1886912	-	Middle	lmo1812	L-serine dehydratase	0	3	0	2	4	2	11
+1887801	-	Upstream	lmo1812	L-serine dehydratase	8	10	5	4	0	0	27
+1890693	-	Upstream	lmo1815	hypothetical protein	0	4	2	2	2	2	12
+1890705	-	Upstream	lmo1815	hypothetical protein	0	5	2	0	0	0	7
+1890729	-	Upstream	lmo1815	hypothetical protein	4	4	4	0	2	0	14
+1890880	+	Upstream	lmo1816	50S ribosomal protein L28	134	129	62	194	160	31	710
+1890896	+	Upstream	lmo1816	50S ribosomal protein L28	2	2	0	5	2	0	11
+1890909	+	Upstream	lmo1816	50S ribosomal protein L28	3	2	2	3	6	0	16
+1890915	+	Upstream	lmo1816	50S ribosomal protein L28	0	2	4	6	4	0	16
+1890944	+	Upstream	lmo1816	50S ribosomal protein L28	0	4	0	2	0	0	6
+1893500	-	Middle	lmo1820	putative serine-threonine-specific protein kinase	0	4	0	0	0	0	4
+1898559	-	Middle	lmo1824	primosome assembly protein PriA	3	2	0	0	0	0	5
+1903281	-	Middle	lmo1828	conserved hypothetical protein	0	3	0	13	11	6	33
+1904056	-	Upstream	lmo1828	conserved hypothetical protein	11	6	8	3	5	0	33
+1905918	+	Upstream	lmo1830	short chain dehydrogenase	57	0	6	15	65	26	169
+1912864	-	Middle	lmo1836	carbamoyl phosphate synthase small subunit	2	5	3	9	4	24	47
+1917466	-	Upstream	lmo1839	highly uracil permease	0	0	0	0	0	5	5
+1917518	-	Middle	NA	NA	0	0	0	0	2	15	17
+1918261	-	Middle	NA	NA	7	5	2	16	3	5	38
+1918271	-	Upstream	NA	NA	10	5	0	5	3	0	23
+1918339	+	Upstream	lmo1841	hypothetical protein	7	6	2	0	0	0	15
+1920977	-	Upstream	lmo1844	lipoprotein signal peptidase	0	0	0	2	4	0	6
+1922326	-	Upstream	lmo1845	hypothetical protein	21	17	12	32	22	0	104
+1922416	+	Upstream	lmo1846	multidrug efflux protein	11	24	15	20	27	14	111
+1926352	-	Upstream	lmo1849	metal cations ABC transporter- ATP-binding proteins	6	15	4	6	11	11	53
+1926359	-	Upstream	lmo1849	metal cations ABC transporter- ATP-binding proteins	9	11	5	7	15	12	59
+1926372	-	Upstream	lmo1849	metal cations ABC transporter- ATP-binding proteins	6	10	0	0	6	0	22
+1926390	-	Upstream	lmo1849	metal cations ABC transporter- ATP-binding proteins	216	223	70	244	954	204	1911
+1928438	-	Upstream	lmo1851	carboxy-terminal processing proteinase	0	0	0	4	5	4	13
+1928444	-	Upstream	lmo1851	carboxy-terminal processing proteinase	0	2	0	3	8	2	15
+1928481	-	Upstream	lmo1851	carboxy-terminal processing proteinase	216	316	119	108	580	38	1377
+1928816	-	Middle	lmo1853	heavy metal-transporting ATPases	6	4	0	0	0	0	10
+1931342	-	Upstream	lmo1854	hypothetical protein	13	23	3	13	25	24	101
+1932292	-	Upstream	lmo1855	similar to D-alanyl-D-alanine carboxypeptidases	3	2	0	0	0	0	5
+1932302	-	Upstream	lmo1855	similar to D-alanyl-D-alanine carboxypeptidases	4	3	0	0	2	0	9
+1933025	-	Upstream	lmo1856	purine nucleoside phosphorylase	16	15	2	2	0	3	38
+1933042	-	Middle	lmo1857	hypoyhetical protein	2	7	2	0	3	0	14
+1933067	-	Middle	lmo1857	hypoyhetical protein	0	0	0	2	2	0	4
+1933296	-	Upstream	lmo1857	hypoyhetical protein	252	266	50	106	330	45	1049
+1933312	-	Upstream	lmo1857	hypoyhetical protein	5	3	0	0	0	0	8
+1933586	-	Middle	lmo1858	dehydogenases and hypothetical proteins	3	5	0	0	2	0	10
+1937630	-	Upstream	lmo1863	hypothetical protein	11	14	2	3	6	0	36
+1937743	+	Upstream	lmo1864	hemolysinIII proteins- putative integral membrane protein	4	4	0	3	0	0	11
+1943113	-	Middle	lmo1869	conserved hypothetical proteins- putative integral membrane protein	2	0	0	3	2	3	10
+1944074	-	Upstream	lmo1869	conserved hypothetical proteins- putative integral membrane protein	6	8	0	4	4	0	22
+1946419	-	Upstream	lmo1871	phosphoglucomutases	3	6	2	0	0	0	11
+1946446	-	Upstream	lmo1871	phosphoglucomutases	67	175	53	41	56	24	416
+1947510	-	Middle	lmo1873	dihydrofolate reductases	2	2	0	3	6	2	15
+1950789	-	Upstream	lmo1875	putative ABC transporters ATP-binding protein	3	8	0	3	19	6	39
+1951331	-	Middle	lmo1877	formyl-tetrahydrofolate synthetase N-terminal part	0	0	0	0	4	3	7
+1952580	-	Upstream	lmo1877	formyl-tetrahydrofolate synthetase N-terminal part	7	10	0	2	2	2	23
+1953179	-	Upstream	lmo1878	manganese transport transcriptional regulator	55	78	56	87	396	94	766
+1953270	-	Upstream	lmo1878	manganese transport transcriptional regulator	0	0	2	2	2	0	6
+1953389	+	Upstream	lmo1879	cold shock P	3	5	0	0	0	0	8
+1953805	+	Upstream	lmo1880	RNase HI	25	30	12	6	2	2	77
+1955153	-	Upstream	lmo1881	5-3 exonuclease	61	70	28	29	23	22	233
+1955507	-	Upstream	lmo1882	30S ribosomal protein S14	2	0	3	13	6	18	42
+1956705	-	Upstream	lmo1883	chitinases	59	0	44	3	8	7	121
+1958913	-	Middle	NA	NA	0	2	0	4	2	0	8
+1960504	-	Middle	lmo1887	hypothetical protein	0	2	2	2	0	0	6
+1962188	-	Upstream	NA	NA	31	53	20	31	38	14	187
+1962197	-	Upstream	NA	NA	42	30	4	45	56	15	192
+1962203	-	Intergenic	NA	NA	62	54	10	43	85	11	265
+1962222	-	Upstream	NA	NA	0	9	0	0	0	0	9
+1962596	-	Upstream	lmo1888	hypothetical protein	3	3	2	0	0	0	8
+1962602	-	Upstream	lmo1888	hypothetical protein	5	9	2	2	2	0	20
+1962619	-	Upstream	lmo1888	hypothetical protein	99	119	63	20	87	48	436
+1963635	-	Upstream	lmo1890	hypothetical protein	3	0	0	0	13	0	16
+1963808	+	Upstream	lmo1891	Holliday junction-specific endonuclease	2	0	0	3	16	0	21
+1968902	-	Upstream	lmo1895	chromosome replication initiation protein	18	14	7	4	6	3	52
+1971524	-	Upstream	lmo1897	aspartate aminotransferase	5	0	0	0	2	3	10
+1971553	-	Middle	lmo1898	hypothetical protein	3	4	0	0	3	0	10
+1972123	-	Middle	lmo1898	hypothetical protein	10	11	0	0	6	0	27
+1974992	-	Upstream	lmo1899	bifunctional ATP-dependent DNA helicase-DNA polymerase III subunit epsilon	24	71	34	81	118	78	406
+1977795	-	Upstream	lmo1903	thioredoxin	6	6	2	9	23	4	50
+1981054	-	Middle	lmo1907	dihydrodipicolinate reductase	10	0	3	2	3	4	22
+1981691	-	Upstream	lmo1908	hypothetical protein	24	12	6	0	4	0	46
+1983773	-	Upstream	lmo1910	oxidoreductases	18	59	14	19	5	8	123
+1984828	+	Middle	lmo1911	unknown proteins hypothetical sensory transduction histidine kinase	0	0	0	6	18	9	33
+1987259	+	Middle	lmo1913	hypothetical protein	0	0	0	0	10	0	10
+1987345	+	Middle	lmo1913	hypothetical protein	0	0	0	10	21	3	34
+1988137	+	Upstream	lmo1915	malate dehydrogenase	2	0	0	6	3	0	11
+1990978	+	Upstream	lmo1917	pyruvate formate-lyase	126	178	83	98	419	49	953
+1994660	-	Upstream	lmo1918	hypothetical protein	2	9	6	8	3	3	31
+1995477	-	Upstream	lmo1919	hypothetical protein	15	14	3	0	9	11	52
+1996772	-	Upstream	lmo1921	hypothetical protein	0	5	2	0	0	0	7
+1996780	-	Upstream	lmo1921	hypothetical protein	3	4	0	0	0	0	7
+1998065	-	Upstream	lmo1922	hypothetical protein	40	38	15	9	5	6	113
+2000601	-	Middle	lmo1925	histidinol-phosphate aminotransferase	3	2	0	0	0	0	5
+2002076	-	Middle	lmo1927	3-dehydroquinate synthase	0	3	3	0	0	4	10
+2002084	-	Middle	lmo1927	3-dehydroquinate synthase	5	0	2	0	0	0	7
+2004313	-	Upstream	lmo1928	chorismate synthase	6	12	2	3	2	0	25
+2004332	-	Upstream	lmo1928	chorismate synthase	0	4	3	2	3	2	14
+2004338	-	Upstream	lmo1928	chorismate synthase	3	2	0	0	3	2	10
+2004347	-	Upstream	lmo1928	chorismate synthase	3	7	2	0	0	0	12
+2004354	-	Upstream	lmo1928	chorismate synthase	0	0	5	0	0	2	7
+2004367	-	Upstream	lmo1928	chorismate synthase	2	4	6	2	0	0	14
+2004381	-	Upstream	lmo1928	chorismate synthase	149	200	86	96	122	46	699
+2004431	-	Upstream	lmo1928	chorismate synthase	145	181	73	23	46	8	476
+2004982	-	Middle	lmo1930	heptaprenyl diphosphate synthase component II menaquinone biosynthesis	6	0	0	0	0	0	6
+2007488	-	Upstream	lmo1932	heptaprenyl diphosphate synthase component I	24	36	11	20	20	4	115
+2008108	-	Upstream	lmo1933	GTP cyclohydrolase I	0	0	0	4	5	6	15
+2008117	-	Upstream	lmo1933	GTP cyclohydrolase I	52	112	64	115	202	130	675
+2008616	-	Upstream	lmo1934	non-specific DNA-binding protein HU	1032	1894	1681	1407	827	895	7736
+2008871	-	Intergenic	NA	NA	8	2	2	3	3	0	18
+2010019	-	Upstream	lmo1935	protein-tyrosine-serine phosphatase	16	18	16	10	36	23	119
+2012478	-	Upstream	lmo1937	GTP-binding protein EngA	19	34	25	74	156	56	364
+2013728	-	Upstream	lmo1938	30S ribosomal protein S1	0	0	0	0	7	0	7
+2013928	-	Upstream	lmo1938	30S ribosomal protein S1	4	5	0	2	25	5	41
+2016635	-	Upstream	lmo1941	hypothetical protein	57	57	20	2	3	3	142
+2018748	-	Middle	lmo1943	hypothetical protein	0	0	0	4	9	16	29
+2019289	-	Upstream	lmo1943	hypothetical protein	3	7	0	0	3	0	13
+2019371	+	Upstream	lmo1944	ferredoxin	0	3	0	2	2	0	7
+2020614	-	Upstream	NA	NA	2	6	0	3	0	0	11
+2020623	-	Upstream	NA	NA	447	582	176	181	248	313	1947
+2023880	-	Upstream	lmo1948	two-component response regulator ResD	0	0	0	0	2	2	4
+2023895	-	Upstream	lmo1948	two-component response regulator ResD	0	2	0	0	2	4	8
+2023928	-	Upstream	lmo1948	two-component response regulator ResD	2	0	2	0	2	0	6
+2027505	-	Upstream	lmo1952	diaminopimelate decarboxylase	0	5	2	3	11	0	21
+2030606	-	Upstream	lmo1955	integrase-recombinase	23	14	10	24	33	2	106
+2031200	-	Upstream	lmo1956	transcriptional regulator Fur family	13	19	3	0	3	0	38
+2031213	-	Upstream	lmo1956	transcriptional regulator Fur family	0	0	0	2	4	2	8
+2031238	-	Upstream	lmo1956	transcriptional regulator Fur family	0	3	0	0	3	2	8
+2031247	-	Upstream	lmo1956	transcriptional regulator Fur family	0	10	0	0	10	4	24
+2031253	-	Upstream	lmo1956	transcriptional regulator Fur family	7	7	0	0	10	3	27
+2031263	-	Upstream	lmo1956	transcriptional regulator Fur family	640	1087	242	112	432	133	2646
+2031354	-	Intergenic	NA	NA	23	16	0	2	5	2	48
+2033547	-	Upstream	lmo1958	ferrichrome ABC transporter permease	0	0	0	12	3	0	15
+2034558	-	Upstream	lmo1959	ferrichrome binding protein	0	0	0	6	0	0	6
+2036950	-	Middle	lmo1962	transcription regulators TetR family	0	7	3	0	16	8	34
+2038875	-	Upstream	lmo1964	ABC transporter- ATP-binding protein	131	185	56	21	42	22	457
+2039087	+	Intergenic	NA	NA	3	2	0	0	5	0	10
+2039375	-	Intergenic	NA	NA	0	15	8	2	20	7	52
+2040024	-	Upstream	lmo1965	hypothetical protein	31	44	23	9	7	3	117
+2048547	-	Upstream	lmo1975	DNA polymerase IV	12	19	9	0	6	5	51
+2050364	-	Upstream	lmo1977	hypothetical protein	4	6	2	0	24	12	48
+2050510	+	Upstream	lmo1978	glucose-6-phosphate 1-dehydrogenase	12	7	3	7	7	0	36
+2052203	+	Upstream	lmo1979	hypothetical protein	24	24	13	25	128	19	233
+2053832	-	Upstream	lmo1982	hypothetical protein	32	64	25	19	47	22	209
+2054110	+	Intergenic	NA	NA	0	0	0	0	8	0	8
+2054160	+	Intergenic	NA	NA	0	0	0	4	10	3	17
+2054162	+	Intergenic	NA	NA	0	5	0	3	9	0	17
+2065622	+	Upstream	lmo1992	alpha-acetolactate decarboxylase	6	0	0	0	0	0	6
+2065633	+	Upstream	lmo1992	alpha-acetolactate decarboxylase	6	6	0	2	3	0	17
+2067774	-	Upstream	lmo1993	pyrimidine-nucleoside phosphorylase	0	2	0	0	5	0	7
+2067783	-	Upstream	lmo1993	pyrimidine-nucleoside phosphorylase	0	0	2	0	5	2	9
+2067796	-	Upstream	lmo1993	pyrimidine-nucleoside phosphorylase	3	3	3	0	0	0	9
+2067864	-	Upstream	lmo1993	pyrimidine-nucleoside phosphorylase	74	46	32	24	27	4	207
+2068926	-	Upstream	lmo1994	transcription regulators LacI family	6	3	0	5	10	0	24
+2069675	-	Upstream	lmo1995	deoxyribose-phosphate aldolase	188	117	33	4	33	2	377
+2070682	-	Upstream	lmo1996	transcription repressor of dra-nupC-pdp operon DeoR	3	0	0	0	2	0	5
+2074903	-	Upstream	lmo2001	PTS mannose-specific enzyme IIC component	0	0	11	0	0	0	11
+2076920	-	Upstream	lmo2004	transcription regulator GntR family	13	2	10	8	10	19	62
+2078043	-	Upstream	lmo2005	oxidoreductase	3	0	0	0	0	0	3
+2079840	-	Upstream	lmo2006	acetolactate synthase	6	32	10	84	27	254	413
+2095077	-	Upstream	lmo2016	major cold-shock protein	15	11	4	0	3	3	36
+2095096	-	Upstream	lmo2016	major cold-shock protein	61	52	16	3	11	2	145
+2095104	-	Upstream	lmo2016	major cold-shock protein	9	10	0	0	2	2	23
+2095179	-	Upstream	lmo2016	major cold-shock protein	4357	4423	812	1292	4870	254	16008
+2095730	-	Middle	lmo2017	hypothetical protein	0	2	2	4	2	0	10
+2097094	-	Upstream	lmo2018	diaminopimelate epimerase	57	40	10	0	5	0	112
+2100775	-	Upstream	lmo2020	cell-division initiation protein septum placement	2	5	0	2	0	2	11
+2100789	-	Upstream	lmo2020	cell-division initiation protein septum placement	159	165	105	101	211	152	893
+2101724	-	Middle	lmo2022	a NifS-like protein required for NAD biosynthesis	10	8	2	37	74	16	147
+2109972	-	Intergenic	NA	NA	0	0	0	0	3	4	7
+2110820	-	Upstream	lmo2028	hypothetical protein	5	5	5	8	14	7	44
+2111682	-	Upstream	lmo2030	hypothetical protein	5	2	0	2	2	0	11
+2113702	-	Upstream	lmo2032	cell division protein FtsZ	18	12	9	0	0	0	39
+2113710	-	Upstream	lmo2032	cell division protein FtsZ	2	4	3	0	3	0	12
+2113731	-	Upstream	lmo2032	cell division protein FtsZ	15	16	5	2	0	4	42
+2115095	-	Upstream	lmo2033	highly cell-division protein FtsA	26	22	5	14	13	10	90
+2117347	-	Middle	lmo2036	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	7	4	0	2	0	0	13
+2119822	-	Upstream	lmo2037	phospho-N-acetylmuramoyl-pentapeptide-transferase	2	9	0	8	23	9	51
+2121344	-	Upstream	lmo2038	UDP-N-acetylmuramoylalanyl-D-glutamate--2-6-diaminopimelate ligase	2	4	0	2	0	3	11
+2121367	-	Upstream	lmo2038	UDP-N-acetylmuramoylalanyl-D-glutamate--2-6-diaminopimelate ligase	27	26	11	5	12	3	84
+2123787	-	Middle	lmo2040	cell-division protein FtsL	2	0	0	0	0	3	5
+2125516	-	Upstream	lmo2042	cell division protein MraZ	164	224	147	156	769	652	2112
+2126979	-	Upstream	lmo2043	integral membrane proteins	0	2	0	0	2	0	4
+2130103	-	Upstream	lmo2046	2-dehydropantoate 2-reductase	24	18	8	8	11	5	74
+2130422	-	Upstream	lmo2047	50S ribosomal protein L32	761	1145	441	1110	1011	263	4731
+2130440	-	Upstream	lmo2047	50S ribosomal protein L32	8	9	8	2	0	0	27
+2131050	-	Upstream	lmo2048	hypothetical protein	81	103	65	415	272	125	1061
+2131055	-	Upstream	lmo2048	hypothetical protein	2	0	0	4	3	0	9
+2131140	+	Upstream	lmo2049	hypothetical protein	0	2	0	4	6	4	16
+2132385	+	Upstream	lmo2050	excinuclease ABC subunit A	23	7	4	2	5	0	41
+2136824	-	Upstream	lmo2053	hypothetical protein	194	311	141	31	140	29	846
+2137678	-	Upstream	lmo2055	hypothetical protein	50	60	31	26	27	13	207
+2138795	-	Upstream	lmo2056	hypothetical protein	24	33	4	3	7	3	74
+2139859	-	Upstream	lmo2057	protoheme IX farnesyltransferase	91	0	27	42	29	79	268
+2139870	-	Upstream	lmo2057	protoheme IX farnesyltransferase	119	348	98	207	139	147	1058
+2139966	+	Upstream	lmo2058	heme O oxygenase	3	5	2	2	0	0	12
+2141042	+	Upstream	lmo2059	potassium channel subunit	2	0	2	0	0	0	4
+2145127	+	Upstream	lmo2064	large-conductance mechanosensitive channel	4	6	0	0	0	0	10
+2145648	-	Intergenic	NA	NA	0	4	0	2	20	3	29
+2146068	-	Upstream	lmo2065	hypothetical protein	0	3	0	0	0	0	3
+2147457	-	Upstream	lmo2067	conjugated bile acid hydrolase	244	0	48	62	113	57	524
+2149312	-	Upstream	lmo2068	chaperonin GroEL	30	45	7	0	6	4	92
+2149318	-	Upstream	lmo2068	chaperonin GroEL	13	15	2	3	0	6	39
+2149338	-	Upstream	lmo2068	chaperonin GroEL	40	57	18	5	12	29	161
+2149346	-	Upstream	lmo2068	chaperonin GroEL	15	12	7	0	2	4	40
+2149357	-	Middle	lmo2069	co-chaperonin GroES	2	2	2	0	2	0	8
+2149633	-	Upstream	lmo2069	co-chaperonin GroES	10	4	0	0	2	2	18
+2149639	-	Upstream	lmo2069	co-chaperonin GroES	3	3	0	0	0	0	6
+2149654	-	Upstream	lmo2069	co-chaperonin GroES	6	6	0	2	2	5	21
+2149660	-	Upstream	lmo2069	co-chaperonin GroES	30	48	10	4	12	10	114
+2149667	-	Upstream	lmo2069	co-chaperonin GroES	6	7	0	0	0	2	15
+2149700	-	Upstream	lmo2069	co-chaperonin GroES	866	1179	428	88	593	1241	4395
+2149701	-	Upstream	lmo2069	co-chaperonin GroES	6	7	2	0	0	9	24
+2151458	-	Upstream	lmo2072	redox-sensing transcriptional repressor Rex	0	4	0	0	0	0	4
+2151510	-	Upstream	lmo2072	redox-sensing transcriptional repressor Rex	195	193	77	65	23	25	578
+2151605	-	Intergenic	NA	NA	12	14	0	0	0	0	26
+2151721	+	Upstream	lmo2073	ABC transporter ATP-binding protein	0	0	0	3	3	3	9
+2154765	+	Intergenic	NA	NA	0	0	0	0	0	2	2
+2155058	-	Intergenic	NA	NA	3	3	0	2	9	2	19
+2155258	-	Middle	lmo2075	putative DNA-binding-iron metalloprotein-AP endonuclease	2	5	0	2	3	8	20
+2156741	-	Middle	lmo2077	glycoprotease	4	0	2	0	0	0	6
+2157868	-	Upstream	lmo2078	hypothetical protein	77	93	26	22	78	13	309
+2159114	-	Upstream	lmo2079	hypothetical protein	14	17	3	9	21	7	71
+2159635	-	Upstream	lmo2080	hypothetical protein	5	3	0	0	5	0	13
+2160445	-	Upstream	lmo2082	camphor resistance protein CrcB	2	4	0	0	0	0	6
+2160505	-	Upstream	lmo2082	camphor resistance protein CrcB	6	4	0	6	17	4	37
+2161355	-	Middle	lmo2084	hypothetical protein	25	10	2	4	9	0	50
+2162187	+	Upstream	lmot40	tRNA-Leu	3	8	7	124	239	10	391
+2164041	-	Upstream	lmo2085	peptidoglycan binding protein	6	0	3	13	9	51	82
+2167978	-	Upstream	lmo2088	transcription regulators	0	0	2	3	18	3	26
+2169125	-	Upstream	lmo2089	lipases	22	14	21	52	110	64	283
+2172006	+	Upstream	lmo2092	glycine betaine transporter BetL	45	49	11	0	65	27	197
+2172027	+	Upstream	lmo2092	glycine betaine transporter BetL	7	7	8	0	7	14	43
+2172044	+	Upstream	lmo2092	glycine betaine transporter BetL	5	0	2	2	7	6	22
+2181269	-	Upstream	lmo2100	transcriptional regulator GntR family and to aminotransferase MocR-like	4	4	0	0	0	0	8
+2181292	+	Upstream	lmo2101	pyridoxal biosynthesis lyase PdxS	8	9	5	2	6	4	34
+2181293	+	Upstream	lmo2101	pyridoxal biosynthesis lyase PdxS	84	117	50	201	347	235	1034
+2181310	+	Upstream	lmo2101	pyridoxal biosynthesis lyase PdxS	0	0	0	0	3	3	6
+2181329	+	Upstream	lmo2101	pyridoxal biosynthesis lyase PdxS	5	12	3	4	4	3	31
+2183800	-	Upstream	lmo2103	phosphotransacetylase	3	3	0	0	0	2	8
+2183832	-	Upstream	lmo2103	phosphotransacetylase	279	413	179	332	56	62	1321
+2184065	+	Upstream	lmo2104	hypothetical protein	0	0	0	23	0	0	23
+2187475	-	Upstream	lmo2106	hypothetical protein	7	6	5	4	2	6	30
+2191487	-	Upstream	lmo2110	mannnose-6 phospate isomerase	18	11	5	0	8	0	42
+2192282	-	Upstream	lmo2111	FMN-containing NADPH-linked nitro-flavin reductase	8	10	3	3	10	0	34
+2192357	+	Upstream	lmo2112	hypothetical protein	0	6	2	3	7	9	27
+2192663	+	Upstream	lmo2113	putative heme peroxidase	18	12	4	9	56	14	113
+2193606	+	Upstream	lmo2114	ABC transporter ATP-binding protein	0	0	2	13	9	3	27
+2199174	-	Upstream	lmo2118	phosphoglucosamine mutase	2	3	0	0	3	0	8
+2199221	-	Upstream	lmo2118	phosphoglucosamine mutase	78	47	17	76	97	63	378
+2201594	-	Upstream	lmo2120	hypothetical protein	24	6	4	5	6	0	45
+2208468	-	Upstream	lmo2125	maltose-maltodextrin ABC-transporter binding protein	5	2	0	0	0	0	7
+2210380	-	Upstream	lmo2126	maltogenic amylase	9	4	4	6	3	3	29
+2210565	+	Upstream	lmo2127	hypothetical protein	0	0	0	10	37	11	58
+2212269	-	Upstream	lmo2128	transcription regulator- LacI family	24	9	7	20	38	5	103
+2212293	-	Upstream	lmo2128	transcription regulator- LacI family	0	4	2	0	0	2	8
+2212660	-	Upstream	lmo2129	hypothetical protein	336	1019	328	757	1600	637	4677
+2213207	-	Intergenic	NA	NA	0	0	2	9	12	12	35
+2213213	-	Intergenic	NA	NA	5	25	16	8	34	80	168
+2215539	+	Upstream	lmot42	tRNA-Thr	6	11	7	18	30	2	74
+2215683	+	Upstream	lmot43	tRNA-Tyr	0	4	4	4	5	3	20
+2217207	+	Upstream	lmo2132	hypothetical protein	34	0	18	7	0	24	83
+2223297	+	Upstream	lmo2139	ABC transporter ATP-binding protein	5	6	2	0	9	4	26
+2226036	+	Intergenic	NA	NA	323	0	92	130	200	185	930
+2226077	+	Intergenic	NA	NA	15	2	2	11	11	423	464
+2226100	+	Intergenic	NA	NA	0	0	0	0	0	6	6
+2226109	+	Intergenic	NA	NA	0	0	0	4	0	21	25
+2226115	+	Intergenic	NA	NA	0	0	0	0	3	9	12
+2226121	+	Intergenic	NA	NA	0	0	0	0	2	9	11
+2226129	+	Intergenic	NA	NA	0	0	0	0	0	3	3
+2226144	+	Intergenic	NA	NA	0	0	0	0	0	2	2
+2226159	+	Intergenic	NA	NA	0	0	0	0	0	6	6
+2226167	+	Intergenic	NA	NA	0	0	0	3	0	8	11
+2227223	-	Upstream	lmo2142	hypothetical protein	8	3	0	0	0	0	11
+2227229	-	Upstream	lmo2142	hypothetical protein	42	34	22	13	33	4	148
+2227381	+	Upstream	lmo2143	weakly mannose-6-phosphate isomerase	10	4	0	0	2	0	16
+2229963	-	Upstream	lmo2144	transcription regulator GntR family	22	15	8	11	14	8	78
+2231084	-	Upstream	lmo2145	hypothetical protein	4	3	0	6	5	0	18
+2232021	-	Upstream	lmo2146	transcription regulator LysR family	0	0	0	0	3	0	3
+2232066	+	Upstream	lmo2147	hypothetical protein	0	0	0	0	4	0	4
+2233134	+	Upstream	lmo2148	hypothetical protein	3	4	0	0	0	2	9
+2234183	-	Upstream	lmo2149	hypothetical protein	9	5	4	8	15	0	41
+2234333	+	Upstream	lmo2150	hypothetical protein	23	31	8	39	63	15	179
+2236807	-	Upstream	lmo2154	ribonucleotide-diphosphate reductase subunit beta	0	5	6	3	14	27	55
+2236814	-	Upstream	lmo2154	ribonucleotide-diphosphate reductase subunit beta	0	4	0	4	5	4	17
+2236829	-	Upstream	lmo2154	ribonucleotide-diphosphate reductase subunit beta	4	3	0	0	0	0	7
+2239147	-	Upstream	lmo2155	ribonucleotide-diphosphate reductase subunit alpha	7	12	9	8	6	6	48
+2239158	-	Upstream	lmo2155	ribonucleotide-diphosphate reductase subunit alpha	4	5	2	0	3	0	14
+2239169	-	Upstream	lmo2155	ribonucleotide-diphosphate reductase subunit alpha	2	4	0	2	4	0	12
+2239295	-	Upstream	lmo2155	ribonucleotide-diphosphate reductase subunit alpha	112	48	26	7	30	0	223
+2239640	+	Upstream	lmo2156	hypothetical protein	44	77	18	36	79	17	271
+2239661	+	Upstream	lmo2156	hypothetical protein	0	2	0	5	9	56	72
+2241994	-	Upstream	lmo2157	hypothetical protein	10	0	0	0	0	3	13
+2242004	-	Upstream	lmo2157	hypothetical protein	122	0	33	38	41	173	407
+2242308	-	Upstream	lmo2158	YwmG protein	36	0	8	10	3	13	70
+2242335	-	Upstream	lmo2158	YwmG protein	11849	3	5140	2521	828	4002	24343
+2242346	-	Upstream	lmo2158	YwmG protein	2	4	3	0	0	0	9
+2250321	-	Upstream	lmo2167	hypothetical protein	134	154	92	128	194	114	816
+2250333	-	Upstream	lmo2167	hypothetical protein	0	7	0	0	0	0	7
+2250407	+	Upstream	lmo2168	glyoxalase I	224	254	156	71	158	74	937
+2256421	-	Upstream	lmo2173	sigma-54-dependent transcriptional activator	11	0	0	0	2	0	13
+2256451	-	Upstream	lmo2173	sigma-54-dependent transcriptional activator	159	192	50	164	210	64	839
+2257604	-	Upstream	lmo2174	hypothetical protein	4	0	0	0	6	2	12
+2257621	-	Upstream	lmo2174	hypothetical protein	0	15	13	2	4	26	60
+2257690	-	Upstream	lmo2174	hypothetical protein	65	56	26	5	13	4	169
+2258516	-	Upstream	lmo2175	3-ketoacyl-acyl-carrier-protein reductase	0	6	0	0	0	2	8
+2258542	-	Upstream	lmo2175	3-ketoacyl-acyl-carrier-protein reductase	2	2	0	0	0	0	4
+2258569	-	Upstream	lmo2175	3-ketoacyl-acyl-carrier-protein reductase	148	208	89	12	16	4	477
+2259344	+	Upstream	lmo2177	hypothetical protein	0	0	0	4	2	2	8
+2274841	-	Upstream	lmo2186	hypothetical protein	0	0	0	11	0	0	11
+2275362	-	Intergenic	NA	NA	82	343	151	89	896	129	1690
+2277354	-	Upstream	lmo2188	oligoendopeptidase	18	12	7	3	16	6	62
+2279322	-	Upstream	lmo2190	adaptor protein	0	3	2	0	3	3	11
+2279334	-	Upstream	lmo2190	adaptor protein	0	0	0	3	3	0	6
+2279350	-	Upstream	lmo2190	adaptor protein	70	51	19	66	111	30	347
+2280008	-	Upstream	lmo2191	transcriptional regulator Spx	0	3	0	0	0	0	3
+2280100	-	Intergenic	NA	NA	4	0	2	2	13	0	21
+2280389	-	Middle	lmo2192	oligopeptide ABC transporter ATP-binding protein	0	6	7	0	0	0	13
+2281231	-	Middle	lmo2193	oligopeptide ABC transporter ATP-binding protein	0	0	3	2	0	0	5
+2282299	-	Middle	lmo2194	oligopeptide ABC transporter permease	0	0	0	0	3	2	5
+2282308	-	Middle	lmo2194	oligopeptide ABC transporter permease	0	0	0	2	4	2	8
+2283335	-	Middle	lmo2195	oligopeptide ABC transporter permease	0	0	0	3	0	2	5
+2283353	-	Middle	lmo2195	oligopeptide ABC transporter permease	0	0	0	2	4	6	12
+2286256	-	Upstream	lmo2196	pheromone ABC transporter binding protein	204	217	67	86	430	197	1201
+2286283	-	Upstream	lmo2196	pheromone ABC transporter binding protein	3	4	0	4	5	6	22
+2286292	-	Upstream	lmo2196	pheromone ABC transporter binding protein	5	2	0	0	0	3	10
+2286586	-	Intergenic	NA	NA	10	8	0	0	10	2	30
+2287220	+	Upstream	NA	NA	84	92	19	37	71	17	320
+2289016	-	Middle	lmo2200	transcription regulator	0	0	0	0	2	0	2
+2289451	-	Upstream	lmo2200	transcription regulator	4	3	5	8	4	16	40
+2290794	-	Upstream	lmo2201	3-oxoacyl-acyl-carrier protein synthase	4	6	2	6	2	0	20
+2290800	-	Upstream	lmo2201	3-oxoacyl-acyl-carrier protein synthase	9	0	3	2	2	0	16
+2290907	-	Upstream	lmo2201	3-oxoacyl-acyl-carrier protein synthase	6	0	0	0	0	0	6
+2291983	-	Upstream	lmo2202	3-oxoacyl-acyl carrier protein synthase III	2	3	0	0	3	0	8
+2291994	-	Upstream	lmo2202	3-oxoacyl-acyl carrier protein synthase III	44	56	18	77	401	10	606
+2293472	+	Upstream	lmo2204	hypothetical protein	3384	2943	751	714	978	647	9417
+2293478	+	Upstream	lmo2204	hypothetical protein	33	39	11	19	20	14	136
+2293486	+	Upstream	lmo2204	hypothetical protein	16	20	12	10	0	21	79
+2294464	-	Upstream	lmo2205	phosphoglyceromutase 1	2	3	0	0	0	2	7
+2294481	-	Upstream	lmo2205	phosphoglyceromutase 1	18	12	5	2	4	4	45
+2294510	-	Upstream	lmo2205	phosphoglyceromutase 1	16	0	13	40	22	68	159
+2294517	-	Upstream	lmo2205	phosphoglyceromutase 1	6	9	4	4	13	7	43
+2294524	-	Upstream	lmo2205	phosphoglyceromutase 1	0	0	0	0	4	3	7
+2294531	-	Upstream	lmo2205	phosphoglyceromutase 1	8	10	2	3	10	6	39
+2297201	-	Upstream	lmo2206	endopeptidase Clp ATP-binding chain B ClpB	17	8	3	0	16	2	46
+2298007	-	Upstream	lmo2207	hypothetical protein	17	33	18	32	94	14	208
+2298888	-	Upstream	lmo2208	hypothetical protein	0	4	0	0	7	2	13
+2300202	-	Upstream	lmo2210	hypothetical protein	4	0	5	20	8	14	51
+2302385	-	Upstream	lmo2212	uroporphyrinogen decarboxylase	11	14	6	98	52	35	216
+2302386	-	Upstream	lmo2212	uroporphyrinogen decarboxylase	2	0	0	2	4	0	8
+2302473	+	Upstream	lmo2213	hypothetical protein	275	0	65	51	86	28	505
+2305044	-	Upstream	lmo2215	ABC transporter ATP-binding protein	18	36	7	34	47	37	179
+2305143	+	Upstream	lmo2216	histidine triad HIT protein	2	0	2	4	5	3	16
+2305532	+	Middle	lmo2216	histidine triad HIT protein	35	56	12	3	0	0	106
+2306124	+	Upstream	lmo2218	hypothetical protein	7	10	4	3	2	0	26
+2306786	+	Upstream	lmo2219	post-translocation molecular chaperone	72	107	32	50	217	91	569
+2308733	-	Upstream	lmo2220	3-5 exoribonuclease YhaM	182	174	57	46	90	25	574
+2312727	-	Upstream	lmo2222	hypothetical protein	2	2	0	0	2	0	6
+2313227	-	Upstream	lmo2223	hypothetical protein	129	153	42	160	217	35	736
+2315895	-	Upstream	lmo2225	fumarate hydratase	5	7	0	0	10	4	26
+2317864	-	Upstream	lmo2228	hypothetical protein	0	5	5	0	2	0	12
+2320145	-	Upstream	lmo2229	penicillin-binding protein	55	17	15	6	12	4	109
+2320306	+	Upstream	lmo2230	arsenate reductase	10	0	16	7	24	17	74
+2321818	+	Intergenic	NA	NA	20	25	13	21	75	34	188
+2321830	+	Upstream	lmo2232	hypothetical protein	3	19	5	14	26	106	173
+2321967	-	Intergenic	NA	NA	0	0	0	0	2	0	2
+2333330	-	Upstream	lmo2241	transcriptional regulators GntR family	26	23	10	21	39	19	138
+2333874	-	Upstream	lmo2242	O6-methylguanine-DNA methyltransferase	45	38	10	32	28	12	165
+2333985	+	Upstream	lmo2243	methylphosphotriester-DNA alkyltransferase and transcriptional regulator	0	0	0	8	43	2	53
+2337434	-	Upstream	lmo2247	oxidoreductase	5	2	0	0	0	0	7
+2337444	-	Upstream	lmo2247	oxidoreductase	22	5	4	7	15	0	53
+2337662	+	Upstream	lmo2248	hypothetical protein	107	49	7	107	166	11	447
+2343709	-	Upstream	lmo2253	phosphoglucomutase	101	82	21	40	47	10	301
+2345229	+	Upstream	lmo2255	hypothetical protein	2	0	0	0	3	0	5
+2346108	-	Upstream	lmo2256	hypothetical protein	175	97	28	103	91	50	544
+2346382	-	Middle	lmo2257	hypothetical protein	74	124	46	185	277	179	885
+2346807	-	Upstream	lmo2258	hypothetical protein	12	11	0	11	13	14	61
+2348569	-	Upstream	lmo2261	hypothetical protein	33	24	29	251	61	8	406
+2349446	-	Upstream	lmo2262	hypothetical protein	2	0	0	0	5	0	7
+2351324	-	Upstream	lmo2264	hypothetical protein	0	0	0	4	7	0	11
+2356350	-	Middle	lmo2268	ATP-dependent deoxyribonuclease subunit B	0	0	0	0	4	0	4
+2359824	-	Upstream	lmo2268	ATP-dependent deoxyribonuclease subunit B	10	19	6	0	0	0	35
+2359926	-	Upstream	lmo2268	ATP-dependent deoxyribonuclease subunit B	22	12	3	2	4	2	45
+2360318	+	Upstream	lmo2270	competence transcription factor ComK- N terminal part	2	0	2	0	0	0	4
+2361155	-	Upstream	lmo2271	hypothetical protein	0	2	2	0	0	0	4
+2361256	+	Intergenic	NA	NA	0	0	0	2	0	4	6
+2361329	+	Intergenic	NA	NA	3	6	2	3	0	2	16
+2361870	+	Upstream	lmo2273	protein gp30	15	25	8	4	5	7	64
+2364439	-	Intergenic	NA	NA	112	312	245	102	63	67	901
+2364449	-	Upstream	lmo2277	hypothetical protein	35	44	34	3	5	5	126
+2364459	-	Upstream	lmo2277	hypothetical protein	6	9	3	2	3	0	23
+2386992	-	Intergenic	NA	NA	0	0	0	2	0	0	2
+2395032	+	Intergenic	NA	NA	15	26	20	25	55	39	180
+2395244	-	Intergenic	NA	NA	2	0	0	4	0	0	6
+2398564	-	Upstream	lmo2328	transcription regulator	5	2	0	4	2	0	13
+2398673	+	Upstream	lmo2329	a putative repressor protein Bacteriophage A118	15	11	17	2	2	6	53
+2399283	+	Intergenic	NA	NA	2	3	0	0	0	0	5
+2399430	+	Upstream	lmo2330	gp33 Bacteriophage A118	311	677	107	64	81	32	1272
+2400246	+	Upstream	lmo2331	gp32	8	0	0	0	2	0	10
+2403252	-	Upstream	lmo2334	transcriptional regulator	291	257	106	277	305	275	1511
+2406929	-	Upstream	lmo2337	regulatory protein DeoR family	10	31	156	11	10	19	237
+2407099	+	Upstream	lmo2338	aminopeptidase C	0	2	0	0	6	0	8
+2408909	-	Upstream	lmo2339	hypothetical protein	29	26	19	10	4	10	98
+2411039	-	Upstream	lmo2341	carbohydrate kinases	18	6	10	21	61	30	146
+2411849	-	Upstream	lmo2342	16S pseudouridylate synthase	4	10	0	0	0	0	14
+2418639	-	Upstream	lmo2351	NADH-dependent FMN reductase	0	0	0	0	0	2	2
+2418653	-	Upstream	lmo2351	NADH-dependent FMN reductase	11	25	14	61	48	69	228
+2418677	-	Upstream	lmo2351	NADH-dependent FMN reductase	9	7	4	20	24	9	73
+2418835	+	Upstream	lmo2352	LysR family transcription regulator	0	0	0	0	0	2	2
+2421787	-	Upstream	lmo2353	putative Na+-H+ antiporter	3	6	5	2	7	23	46
+2421812	-	Upstream	lmo2353	putative Na+-H+ antiporter	0	0	0	0	3	4	7
+2421819	-	Upstream	lmo2353	putative Na+-H+ antiporter	0	0	0	0	5	0	5
+2424752	-	Upstream	lmo2355	Similar to multidrug resistance protein	0	4	0	9	17	2	32
+2424866	-	Intergenic	NA	NA	20	166	27	4	31	12	260
+2427017	-	Upstream	lmo2358	N-acetylglucosamine-6-phosphate isomerase	26	0	14	6	5	5	56
+2427915	-	Upstream	lmo2359	hypothetical protein	14	19	6	7	5	13	64
+2431355	-	Upstream	lmo2361	hypothetical protein	5	15	20	12	28	8	88
+2434901	-	Upstream	lmo2364	hypothetical protein	6	5	2	0	0	0	13
+2434910	-	Upstream	lmo2364	hypothetical protein	4	7	2	0	0	0	13
+2436190	-	Upstream	lmo2365	S. pyogenes RofA regulatory protein	6	6	0	0	0	0	12
+2436786	-	Upstream	lmot48	tRNA-Gly	157	399	228	2780	5446	1451	10461
+2436966	-	Upstream	lmot50	tRNA-His	0	0	0	28	78	3	109
+2437054	-	Upstream	lmot51	tRNA-Trp	43	153	95	1076	3772	1148	6287
+2437192	-	Middle	lmot53	tRNA-Phe	0	0	0	4	5	0	9
+2437198	-	Middle	lmot53	tRNA-Phe	0	0	0	0	12	2	14
+2437200	-	Middle	lmot53	tRNA-Phe	0	40	27	162	445	0	674
+2437323	-	Upstream	lmot54	tRNA-Asp	0	0	0	31	15	6	52
+2437331	-	Middle	lmot55	tRNA-Met	0	0	0	0	51	0	51
+2437745	-	Upstream	lmot58	tRNA-Ser	53	81	93	578	715	181	1701
+2444146	-	Upstream	lmo2366	transcription regulator DeoR family	34	36	14	4	7	6	101
+2445618	-	Upstream	lmo2367	glucose-6-phosphate isomerase	7	8	3	31	37	57	143
+2446092	-	Upstream	lmo2368	hypothetical protein	3	0	2	0	0	0	5
+2446111	-	Upstream	lmo2368	hypothetical protein	2	2	2	3	2	2	13
+2446142	-	Upstream	lmo2368	hypothetical protein	81	0	14	29	10	15	149
+2446625	-	Upstream	lmo2369	general stress protein 13	66	45	19	17	30	27	204
+2446720	+	Upstream	lmo2370	aminotransferase	255	302	125	100	191	26	999
+2448037	+	Upstream	lmo2371	putative ABC-transporter transmembrane subunit	10	0	0	0	0	0	10
+2450197	-	Upstream	lmo2373	phosphotransferase system PTS beta-glucoside-specific enzyme IIB component	8	8	0	0	0	0	16
+2450210	-	Upstream	lmo2373	phosphotransferase system PTS beta-glucoside-specific enzyme IIB component	2	0	2	0	3	0	7
+2450216	-	Upstream	lmo2373	phosphotransferase system PTS beta-glucoside-specific enzyme IIB component	3	4	0	0	5	0	12
+2450232	-	Upstream	lmo2373	phosphotransferase system PTS beta-glucoside-specific enzyme IIB component	513	714	215	220	372	172	2206
+2450348	+	Upstream	lmo2374	aspartate kinase	13	19	4	2	7	0	45
+2452955	-	Upstream	lmo2376	peptidyl-prolyl cis-trans isomerase	2	2	0	0	6	0	10
+2452994	-	Upstream	lmo2376	peptidyl-prolyl cis-trans isomerase	130	99	73	296	359	73	1030
+2453075	-	Upstream	lmo2376	peptidyl-prolyl cis-trans isomerase	16	7	7	8	8	6	52
+2454489	+	Upstream	lmo2378	monovalent cation-H+ antiporter subunit A	2	0	0	3	4	0	9
+2454491	+	Upstream	lmo2378	monovalent cation-H+ antiporter subunit A	3	3	0	0	2	0	8
+2461120	-	Upstream	lmo2385	YuxO protein	49	56	16	3	7	0	131
+2461131	+	Upstream	lmo2386	YuiD protein	23	17	2	8	15	2	67
+2461195	+	Upstream	lmo2386	YuiD protein	49	0	10	20	10	15	104
+2461772	+	Upstream	lmo2387	hypothetical protein	12	0	0	4	0	2	18
+2463909	-	Upstream	lmo2388	YwqG protein	2	4	0	0	2	0	8
+2465190	-	Upstream	lmo2389	NADH dehydrogenase	6	0	3	2	0	0	11
+2465206	-	Upstream	lmo2389	NADH dehydrogenase	0	0	0	4	2	0	6
+2465309	-	Upstream	lmo2389	NADH dehydrogenase	18	0	0	2	2	7	29
+2465577	+	Upstream	lmo2390	hypothetical thioredoxine reductase	1521	1539	1169	1036	1435	843	7543
+2465585	+	Upstream	lmo2390	hypothetical thioredoxine reductase	10	14	12	23	29	25	113
+2465591	+	Upstream	lmo2390	hypothetical thioredoxine reductase	0	0	0	2	6	38	46
+2466685	+	Upstream	lmo2391	YhfK protein	57	0	13	19	19	38	146
+2467982	-	Upstream	lmo2393	YuzD protein	12	17	5	26	15	99	174
+2472055	+	Upstream	lmo2397	NifU protein	110	148	32	31	52	13	386
+2472409	+	Upstream	lmo2398	hypothetical protein	973	0	244	230	90	582	2119
+2472415	+	Upstream	lmo2398	hypothetical protein	13	17	8	8	3	10	59
+2474290	-	Upstream	lmo2399	hypothetical protein	14	0	3	2	3	2	24
+2475887	-	Middle	lmo2403	YunD protein	4	2	0	0	0	0	6
+2475893	-	Middle	lmo2403	YunD protein	4	4	0	2	0	0	10
+2475900	-	Middle	lmo2403	YunD protein	4	6	2	0	0	0	12
+2476375	-	Middle	lmo2403	YunD protein	14	22	5	66	175	20	302
+2477270	-	Upstream	lmo2403	YunD protein	11	3	0	0	3	5	22
+2477357	+	Upstream	lmo2404	hypothetical protein	2	0	0	3	9	0	14
+2479495	-	Upstream	lmo2406	YunF protein	55	113	49	9	23	11	260
+2479947	-	Upstream	lmo2407	hypothetical protein	20	23	15	0	0	0	58
+2480295	+	Upstream	lmo2408	repressor protein	0	4	0	0	2	0	6
+2481213	-	Middle	lmo2410	hypothetical protein	4	8	6	0	2	0	20
+2481602	-	Upstream	lmo2410	hypothetical protein	8	19	2	0	12	0	41
+2483150	-	Middle	lmo2412	hypothetical protein	11	7	2	0	0	3	23
+2483171	-	Middle	lmo2412	hypothetical protein	0	2	0	0	0	5	7
+2483641	-	Middle	lmo2413	aminotransferase	2	8	2	3	0	2	17
+2484834	-	Middle	lmo2414	aminotransferase	0	0	0	0	2	3	5
+2484852	-	Middle	lmo2414	aminotransferase	2	0	3	3	19	5	32
+2484860	-	Middle	lmo2414	aminotransferase	0	0	0	0	2	2	4
+2486952	-	Upstream	lmo2415	ABC transporter- ATP-binding protein	119	81	19	26	53	7	305
+2487016	-	Upstream	lmo2415	ABC transporter- ATP-binding protein	62	38	6	2	17	0	125
+2487194	+	Upstream	lmo2416	hypothetical protein	2	2	0	3	2	0	9
+2489267	-	Upstream	lmo2417	conserved lipoprotein putative ABC transporter binding protein	8	14	3	7	27	9	68
+2491184	-	Upstream	NA	NA	2	0	2	0	0	0	4
+2491227	-	Upstream	NA	NA	32	35	20	0	4	0	91
+2492744	-	Middle	lmo2422	two-component response regulator	4	7	3	0	3	27	44
+2495285	-	Upstream	lmo2425	glycine cleavage system protein H	3	0	0	4	5	5	17
+2495291	-	Upstream	lmo2425	glycine cleavage system protein H	12	8	7	3	9	7	46
+2495297	-	Upstream	lmo2425	glycine cleavage system protein H	12	15	3	5	4	8	47
+2495303	-	Upstream	lmo2425	glycine cleavage system protein H	16	19	3	0	4	0	42
+2495311	-	Middle	lmo2426	hypothetical protein	10	8	7	0	0	4	29
+2495318	-	Middle	lmo2426	hypothetical protein	15	12	5	2	7	4	45
+2495688	-	Upstream	lmo2426	hypothetical protein	116	130	34	33	61	48	422
+2497054	-	Upstream	lmo2427	cell division proteins RodA- FtsW	0	3	0	5	5	0	13
+2501182	-	Upstream	lmo2431	FhuD ferrichrome ABC transporter fhuD precursor ferrichrome-binding protein	17	27	11	55	13	14	137
+2501290	+	Upstream	lmo2432	hypothetical protein	3028	5249	1410	764	498	492	11441
+2503838	-	Upstream	lmo2434	highly glutamate decarboxylases	88	0	23	59	63	129	362
+2503839	-	Upstream	lmo2434	highly glutamate decarboxylases	7	0	0	3	0	3	13
+2504787	-	Middle	lmo2436	transcription antiterminator	10	2	3	0	0	0	15
+2505277	-	Upstream	lmo2436	transcription antiterminator	3	11	0	15	20	3	52
+2506469	+	Upstream	lmo2439	hypothetical protein	2	0	0	0	0	0	2
+2507268	-	Upstream	lmo2440	hypothetical protein	0	5	0	0	2	0	7
+2508225	-	Upstream	lmo2441	transcription regulator	0	2	0	0	16	6	24
+2508840	-	Upstream	lmo2442	hypothetical protein	0	0	0	2	2	3	7
+2509430	-	Upstream	lmo2443	hypothetical protein	5	2	0	0	0	0	7
+2510220	-	Intergenic	NA	NA	2618	5546	3327	47830	35232	69477	164030
+2510221	-	Upstream	NA	NA	30	44	37	286	86	264	747
+2510228	-	Upstream	NA	NA	0	4	2	3	5	2	16
+2510236	-	Upstream	NA	NA	16	18	9	98	396	59	596
+2520443	-	Middle	lmo2449	exoribonuclease RNase-R	0	0	0	2	9	9	20
+2521820	-	Middle	lmo2449	exoribonuclease RNase-R	0	0	0	0	8	5	13
+2522824	-	Upstream	lmo2449	exoribonuclease RNase-R	5	2	0	6	0	0	13
+2522950	-	Middle	lmo2450	carboxylesterase	7	2	2	0	0	0	11
+2524101	-	Upstream	lmo2451	preprotein translocase subunit SecG	71	108	39	45	82	10	355
+2524911	-	Upstream	lmo2452	carboxylesterase	0	4	2	0	0	0	6
+2524939	-	Upstream	lmo2452	carboxylesterase	6	3	2	3	2	0	16
+2524949	-	Upstream	lmo2452	carboxylesterase	56	40	15	41	34	19	205
+2525004	-	Upstream	lmo2452	carboxylesterase	63	70	21	62	33	5	254
+2525844	-	Upstream	lmo2453	lipolytic enzyme	7	0	0	0	4	0	11
+2526130	-	Upstream	lmo2454	hypothetical protein	44	0	19	3	6	7	79
+2527519	-	Upstream	lmo2455	phosphopyruvate hydratase	0	2	0	0	5	0	7
+2527590	-	Upstream	lmo2455	phosphopyruvate hydratase	0	3	0	4	6	2	15
+2527601	-	Upstream	lmo2455	phosphopyruvate hydratase	138	114	34	25	249	11	571
+2532345	-	Upstream	lmo2459	glyceraldehyde-3-phosphate dehydrogenase	2	6	0	0	0	0	8
+2533590	-	Upstream	lmo2460	CggR hypothetical transcriptional regulator	0	0	0	0	8	0	8
+2533597	-	Upstream	lmo2460	CggR hypothetical transcriptional regulator	0	0	0	0	13	0	13
+2533615	-	Upstream	lmo2460	CggR hypothetical transcriptional regulator	12	20	25	277	318	236	888
+2535243	-	Upstream	lmo2461	RNA polymerase factor sigma-54	5	0	0	0	10	0	15
+2536292	-	Upstream	lmo2462	dipeptidases	658	1081	188	264	397	59	2647
+2539630	-	Upstream	lmo2465	hypothetical protein	126	114	44	16	30	2	332
+2539769	+	Upstream	lmo2466	hypothetical protein	2	4	0	2	0	0	8
+2539785	+	Upstream	lmo2466	hypothetical protein	72	104	41	32	8	3	260
+2539813	+	Upstream	lmo2466	hypothetical protein	8	14	3	0	0	0	25
+2539825	+	Upstream	lmo2466	hypothetical protein	6	6	9	2	3	2	28
+2541876	-	Upstream	lmo2467	chitinase and chitin binding protein	14	42	13	11	90	96	266
+2541971	+	Upstream	lmo2468	ATP-dependent Clp protease proteolytic subunit	4	8	2	2	6	2	24
+2544120	-	Upstream	lmo2469	amino acid transporter	28	20	4	4	27	3	86
+2549386	-	Upstream	lmo2474	hypothetical protein	35	30	8	14	31	6	124
+2552295	-	Upstream	lmo2476	aldose 1-epimerase mutarotase	0	0	0	0	9	0	9
+2552307	-	Upstream	lmo2476	aldose 1-epimerase mutarotase	2	0	0	0	4	0	6
+2552808	-	Middle	lmo2477	UDP-glucose 4-epimerase	14	6	5	2	0	0	27
+2553317	-	Upstream	lmo2477	UDP-glucose 4-epimerase	2	4	0	0	0	0	6
+2553323	-	Upstream	lmo2477	UDP-glucose 4-epimerase	73	80	33	17	28	17	248
+2554389	-	Upstream	lmo2478	thioredoxin reductase	2	0	8	0	3	4	17
+2554396	-	Upstream	lmo2478	thioredoxin reductase	2	3	0	2	2	0	9
+2554407	-	Upstream	lmo2478	thioredoxin reductase	0	0	0	0	2	0	2
+2554415	-	Upstream	lmo2478	thioredoxin reductase	58	71	37	100	144	170	580
+2555954	-	Upstream	lmo2479	hypothetical protein	40	54	36	61	100	37	328
+2556530	-	Middle	lmo2481	pyrophosphatase PpaX	0	0	0	7	12	16	35
+2558836	-	Middle	lmo2483	HPr kinase-phosphorylase	6	7	2	0	0	0	15
+2559135	-	Upstream	lmo2483	HPr kinase-phosphorylase	71	106	39	142	129	73	560
+2559137	-	Upstream	lmo2483	HPr kinase-phosphorylase	4	4	0	0	7	2	17
+2561024	-	Middle	lmo2486	hypothetical protein	3	6	3	7	9	4	32
+2561067	-	Upstream	lmo2486	hypothetical protein	0	0	0	4	3	0	7
+2562460	-	Upstream	lmo2487	YvlB protein	5	6	2	0	0	0	13
+2567548	-	Upstream	lmo2489	excinuclease ABC subunit B	101	80	10	4	13	3	211
+2568653	-	Middle	lmo2492	hypothetical protein	7	9	2	0	3	0	21
+2569456	-	Upstream	lmo2493	transcription regulator ArsR family	4	6	4	0	5	0	19
+2569572	+	Intergenic	NA	NA	8	6	4	5	5	0	28
+2577580	-	Upstream	lmo2501	two-component response phosphate regulator	7	5	0	0	0	0	12
+2580377	-	Upstream	lmo2503	cardiolipin synthase	31	79	10	19	52	15	206
+2585032	-	Intergenic	NA	NA	0	3	0	0	4	0	7
+2586135	-	Middle	lmo2509	peptide chain release factor 2	2	0	0	2	2	0	6
+2589896	-	Upstream	lmo2510	preprotein translocase subunit SecA	39	36	10	62	91	21	259
+2590745	-	Upstream	lmo2511	YvyD protein	8	0	0	0	0	0	8
+2592783	-	Upstream	lmo2513	late competence protein comFA	7	0	4	0	0	0	11
+2594650	-	Upstream	lmo2515	two-component response regulator DegU	7	9	0	5	0	0	21
+2594785	-	Intergenic	NA	NA	0	3	0	0	0	0	3
+2596163	+	Upstream	lmo2518	LytR putative transcriptional regulator LytR	11	4	3	0	6	0	24
+2596237	+	Upstream	lmo2518	LytR putative transcriptional regulator LytR	7	12	3	4	7	2	35
+2600309	-	Upstream	lmo2521	TagA protein involved in polyglycerol phosphate biosynthesis	7	10	6	0	3	2	28
+2601270	-	Upstream	lmo2522	hypothetical cell wall binding protein from B. subtilis	2	2	3	3	13	20	43
+2603722	-	Upstream	lmo2525	rod shape-determining protein MreB	0	2	2	3	0	0	7
+2603745	-	Upstream	lmo2525	rod shape-determining protein MreB	279	333	143	124	434	109	1422
+2605232	-	Upstream	lmo2526	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	11	4	0	13	33	2	63
+2606147	-	Middle	lmo2529	F0F1 ATP synthase subunit beta	0	0	0	0	3	2	5
+2608993	-	Middle	lmo2531	F0F1 ATP synthase subunit alpha	0	2	0	3	11	4	20
+2610621	-	Middle	lmo2533	F0F1 ATP synthase subunit B	0	0	0	3	4	9	16
+2610633	-	Middle	lmo2533	F0F1 ATP synthase subunit B	0	0	0	0	8	3	11
+2611434	-	Upstream	lmo2534	F0F1 ATP synthase subunit C	0	4	0	0	0	2	6
+2612647	-	Upstream	lmo2536	highly ATP synthase subunit i	0	0	0	4	23	43	70
+2612654	-	Upstream	lmo2536	highly ATP synthase subunit i	0	0	0	4	39	4	47
+2612669	-	Upstream	lmo2536	highly ATP synthase subunit i	0	0	0	0	9	0	9
+2612675	-	Upstream	lmo2536	highly ATP synthase subunit i	0	2	0	0	13	0	15
+2612731	-	Upstream	lmo2536	highly ATP synthase subunit i	3	0	0	5	5	0	13
+2612753	-	Upstream	lmo2536	highly ATP synthase subunit i	48	22	11	45	12	2	140
+2612817	-	Upstream	lmo2536	highly ATP synthase subunit i	26	11	13	19	23	9	101
+2613300	-	Intergenic	NA	NA	22	44	8	20	89	23	206
+2614691	-	Upstream	lmo2537	UDP-N-acetylglucosamine 2-epimerase	0	0	0	0	11	0	11
+2615349	-	Upstream	lmo2538	uracil phosphoribosyltransferase	8	13	6	2	0	0	29
+2615356	-	Upstream	lmo2538	uracil phosphoribosyltransferase	278	243	171	220	672	81	1665
+2616725	-	Upstream	lmo2539	serine hydroxymethyltransferase	3	3	2	0	0	2	10
+2616751	-	Upstream	lmo2539	serine hydroxymethyltransferase	81	54	29	23	37	10	234
+2618303	-	Upstream	lmo2541	yeast translation initiation protein	8	3	4	4	8	2	29
+2619275	-	Middle	lmo2542	protoporphyrinogen oxidase	8	4	0	0	0	0	12
+2621120	-	Upstream	lmo2544	thymidine kinase	0	3	0	0	3	0	6
+2622629	-	Middle	lmo2546	threonine synthase	8	20	3	0	27	5	63
+2624487	-	Upstream	lmo2547	homoserine dehydrogenase	3	3	0	4	31	4	45
+2624908	-	Upstream	lmo2548	50S ribosomal protein L31 type B	0	0	0	3	4	3	10
+2624916	-	Upstream	lmo2548	50S ribosomal protein L31 type B	0	2	2	3	3	2	12
+2624923	-	Upstream	lmo2548	50S ribosomal protein L31 type B	6	4	2	17	9	6	44
+2624942	-	Upstream	lmo2548	50S ribosomal protein L31 type B	720	845	500	583	1567	167	4382
+2626397	-	Upstream	lmo2550	glycosyl transferases	0	3	4	9	45	48	109
+2629119	-	Upstream	lmo2552	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	15	16	9	14	11	9	74
+2632628	-	Upstream	lmo2555	weakly human N-acetylglucosaminyl-phosphatidylinositol biosynthetic protein	7	3	6	2	3	2	23
+2633862	-	Upstream	lmo2556	fructose-1-6-bisphosphate aldolase	986	700	302	145	1335	98	3566
+2634876	-	Upstream	lmo2557	putative lipid kinase	9	20	7	6	8	18	68
+2635114	+	Upstream	lmo2558	autolysin- amidase	12	6	3	4	11	0	36
+2639562	-	Upstream	lmo2559	CTP synthetase	4	0	0	2	0	0	6
+2639788	-	Upstream	lmo2559	CTP synthetase	2	0	0	3	0	0	5
+2639789	-	Upstream	lmo2559	CTP synthetase	3	0	0	6	4	0	13
+2640486	-	Upstream	lmo2560	DNA-directed RNA polymerase subunit delta	0	5	0	3	4	0	12
+2640497	-	Upstream	lmo2560	DNA-directed RNA polymerase subunit delta	16	11	4	5	10	0	46
+2640506	-	Upstream	lmo2560	DNA-directed RNA polymerase subunit delta	3	4	0	2	3	0	12
+2640522	-	Upstream	lmo2560	DNA-directed RNA polymerase subunit delta	3	3	4	0	0	0	10
+2640531	-	Upstream	lmo2560	DNA-directed RNA polymerase subunit delta	10	9	5	17	33	2	76
+2640546	-	Upstream	lmo2560	DNA-directed RNA polymerase subunit delta	2	2	0	0	0	0	4
+2640772	-	Intergenic	NA	NA	4	7	3	0	6	6	26
+2640819	-	Intergenic	NA	NA	6	22	3	3	7	0	41
+2642985	-	Upstream	lmo2562	hypothetical protein	14	4	4	7	32	6	67
+2643728	+	Upstream	lmo2564	4-oxalocrotonate isomerase	62	38	15	9	9	5	138
+2646173	-	Upstream	lmo2566	hypothetical protein	3	6	2	0	2	0	13
+2646361	-	Upstream	lmo2566	hypothetical protein	3	0	2	49	68	68	190
+2648906	-	Upstream	lmo2569	dipeptide ABC transporter dipeptide-binding protein	75	165	46	152	162	38	638
+2649599	-	Middle	lmo2571	nicotinamidase	8	0	0	0	0	6	14
+2651771	-	Upstream	lmo2573	zinc-binding dehydrogenase	11	0	4	0	4	11	30
+2652148	-	Upstream	lmo2574	hypothetical protein	79	28	14	5	14	10	150
+2653123	-	Upstream	lmo2575	cation transport protein efflux	21	27	9	6	16	27	106
+2658887	-	Upstream	lmo2577	hypothetical protein	51	106	30	23	44	10	264
+2660210	+	Intergenic	NA	NA	4	0	0	0	0	0	4
+2662189	-	Upstream	lmo2581	hypothetical protein	2	0	2	0	3	6	13
+2664326	-	Upstream	lmo2583	two-component response regulator	3	8	2	0	2	0	15
+2668656	-	Upstream	lmo2586	formate dehydrogenase alpha chain	0	0	4	0	0	0	4
+2668692	-	Upstream	lmo2586	formate dehydrogenase alpha chain	200	215	102	19	21	78	635
+2668835	+	Middle	NA	NA	0	3	2	2	11	4	22
+2671562	-	Upstream	lmo2588	drug-export proteins	0	3	0	3	4	0	10
+2672539	-	Upstream	lmo2589	transcription regulator TetR-AcrR family	13	14	6	7	10	0	50
+2672736	-	Upstream	lmot63	tRNA-Thr	8	23	9	93	181	29	343
+2679364	-	Upstream	lmo2590	ATP binding proteins	6	2	0	2	2	2	14
+2679571	+	Upstream	lmo2591	GW repeat-containing surface protein	0	5	0	17	48	3	73
+2682489	-	Upstream	lmo2593	transcription regulators MerR family	24	41	20	7	42	26	160
+2682993	-	Upstream	lmo2594	hypothetical protein	27	72	17	33	64	35	248
+2684647	-	Upstream	lmo2596	30S ribosomal protein S9	0	8	2	2	0	0	12
+2684664	-	Upstream	lmo2596	30S ribosomal protein S9	0	0	3	3	0	0	6
+2684674	-	Middle	lmo2597	50S ribosomal protein L13	0	3	0	2	2	0	7
+2684683	-	Middle	lmo2597	50S ribosomal protein L13	0	2	0	5	2	0	9
+2685104	-	Upstream	lmo2597	50S ribosomal protein L13	2	4	0	0	0	0	6
+2685170	-	Upstream	lmo2597	50S ribosomal protein L13	4	4	0	0	0	0	8
+2685177	-	Upstream	lmo2597	50S ribosomal protein L13	15	15	8	4	6	2	50
+2685233	-	Upstream	NA	NA	373	288	152	2530	573	169	4085
+2688557	-	Upstream	lmo2601	cobalt transporter ATP-binding subunit	64	72	30	50	104	54	374
+2689409	+	Upstream	lmo2603	hypothetical protein	6	5	3	0	0	0	14
+2691488	-	Upstream	lmo2604	hypothetical protein	7	7	0	0	8	0	22
+2693045	-	Upstream	lmo2606	DNA-directed RNA polymerase subunit alpha	5	3	0	2	8	0	18
+2693565	-	Middle	lmo2608	30S ribosomal protein S13	2	4	3	3	0	0	12
+2693954	-	Middle	lmo2609	50S ribosomal protein L36	2	3	0	0	0	0	5
+2693960	-	Middle	lmo2609	50S ribosomal protein L36	5	0	2	0	0	2	9
+2693966	-	Middle	lmo2609	50S ribosomal protein L36	5	6	0	3	0	0	14
+2694384	-	Upstream	lmo2610	translation initiation factor IF-1	7	5	0	7	9	8	36
+2694411	-	Upstream	lmo2610	translation initiation factor IF-1	13	7	9	10	4	6	49
+2694426	-	Upstream	lmo2610	translation initiation factor IF-1	3	11	5	3	4	2	28
+2694444	-	Upstream	lmo2610	translation initiation factor IF-1	4	11	5	6	9	9	44
+2694547	-	Upstream	lmo2610	translation initiation factor IF-1	3	0	0	4	2	0	9
+2694694	-	Intergenic	NA	NA	4	8	8	10	12	3	45
+2694740	-	Intergenic	NA	NA	0	6	0	2	0	0	8
+2696805	-	Middle	lmo2613	50S ribosomal protein L15	0	0	0	4	6	0	10
+2696817	-	Middle	lmo2613	50S ribosomal protein L15	0	2	0	3	5	4	14
+2697238	-	Upstream	lmo2613	50S ribosomal protein L15	7	2	0	6	2	2	19
+2697251	-	Upstream	lmo2613	50S ribosomal protein L15	7	10	6	7	13	5	48
+2697257	-	Upstream	lmo2613	50S ribosomal protein L15	5	3	2	5	0	2	17
+2697487	-	Middle	lmo2615	30S ribosomal protein S5	0	2	0	4	2	0	8
+2697494	-	Middle	lmo2615	30S ribosomal protein S5	3	0	0	6	0	0	9
+2697992	-	Middle	lmo2616	50S ribosomal protein L18	2	2	0	0	11	0	15
+2698378	-	Upstream	lmo2616	50S ribosomal protein L18	6	2	2	3	8	0	21
+2698386	-	Upstream	lmo2616	50S ribosomal protein L18	0	0	0	3	3	4	10
+2698397	-	Middle	lmo2617	50S ribosomal protein L6	8	2	2	2	4	0	18
+2698941	-	Upstream	lmo2617	50S ribosomal protein L6	0	2	0	0	2	0	4
+2698949	-	Upstream	lmo2617	50S ribosomal protein L6	2	6	0	3	0	0	11
+2699352	-	Upstream	lmo2618	30S ribosomal protein S8	2	2	0	0	3	0	7
+2699389	-	Middle	lmo2619	30S ribosomal protein S14	7	10	7	6	13	25	68
+2699593	-	Upstream	lmo2619	30S ribosomal protein S14	27	27	8	78	204	15	359
+2699603	-	Middle	lmo2620	50S ribosomal protein L5	14	10	4	11	20	5	64
+2700167	-	Middle	lmo2621	50S ribosomal protein L24	4	5	4	6	2	0	21
+2700188	-	Middle	lmo2621	50S ribosomal protein L24	3	0	0	9	0	0	12
+2700948	-	Upstream	lmo2622	50S ribosomal protein L14	10	15	5	7	13	4	54
+2700955	-	Upstream	lmo2622	50S ribosomal protein L14	49	22	9	9	30	2	121
+2701261	-	Middle	lmo2624	50S ribosomal protein L29	12	12	0	2	0	0	26
+2701469	-	Middle	lmo2625	50S ribosomal protein L16	9	8	2	3	3	0	25
+2702559	-	Middle	lmo2627	50S ribosomal protein L22	0	0	0	5	3	2	10
+2702913	-	Middle	lmo2628	30S ribosomal protein S19	4	6	0	4	3	2	19
+2702929	-	Middle	lmo2628	30S ribosomal protein S19	4	3	0	2	0	0	9
+2703252	-	Upstream	lmo2628	30S ribosomal protein S19	3	2	0	3	0	0	8
+2703264	-	Upstream	lmo2628	30S ribosomal protein S19	0	4	0	4	0	0	8
+2704138	-	Upstream	lmo2629	50S ribosomal protein L2	0	0	0	0	5	0	5
+2704483	-	Middle	lmo2631	50S ribosomal protein L4	3	0	0	3	2	0	8
+2705083	-	Middle	lmo2632	50S ribosomal protein L3	4	10	2	3	2	0	21
+2706100	-	Upstream	lmo2633	30S ribosomal protein S10	0	0	0	5	7	0	12
+2706233	-	Upstream	lmo2633	30S ribosomal protein S10	8	13	14	15	12	2	64
+2709393	-	Upstream	lmo2636	conserved hypothetical lipoprotein	4	2	0	6	22	0	34
+2710421	-	Upstream	lmo2637	conserved lipoprotein	325	323	95	19	51	57	870
+2710439	-	Upstream	lmo2637	conserved lipoprotein	98	139	21	54	49	56	417
+2710448	-	Upstream	lmo2637	conserved lipoprotein	528	811	123	63	73	56	1654
+2710454	-	Upstream	lmo2637	conserved lipoprotein	451	853	89	92	67	66	1618
+2710506	-	Upstream	lmo2637	conserved lipoprotein	58	93	32	8	5	3	199
+2710512	-	Upstream	lmo2637	conserved lipoprotein	44911	80857	18850	3046	10205	3313	161182
+2710794	+	Upstream	lmo2638	NADH dehydrogenase	64	59	19	62	124	26	354
+2710808	+	Upstream	lmo2638	NADH dehydrogenase	13	3	0	6	13	34	69
+2710825	+	Upstream	lmo2638	NADH dehydrogenase	12	0	2	4	5	2	25
+2712901	+	Upstream	lmo2639	hypothetical protein	0	0	0	0	3	0	3
+2718257	-	Upstream	lmo2644	hypothetical protein	26	33	8	6	6	5	84
+2723640	-	Upstream	lmo2651	mannitol-specific PTS enzyme IIA component	77	8	111	90	53	35	374
+2725899	-	Upstream	lmo2652	transcriptional antiterminator	123	160	69	9	19	13	393
+2727195	-	Upstream	lmo2653	elongation factor Tu	7	0	2	3	2	0	14
+2727206	-	Upstream	lmo2653	elongation factor Tu	7	2	2	2	4	3	20
+2727222	-	Upstream	lmo2653	elongation factor Tu	0	0	0	7	14	2	23
+2727228	-	Upstream	lmo2653	elongation factor Tu	4	2	0	0	4	0	10
+2727246	-	Upstream	lmo2653	elongation factor Tu	2	2	5	0	4	3	16
+2727267	-	Upstream	lmo2653	elongation factor Tu	143	129	63	47	308	46	736
+2727284	-	Upstream	lmo2653	elongation factor Tu	3	5	0	4	6	0	18
+2729448	-	Upstream	lmo2654	elongation factor G	0	2	0	5	4	0	11
+2729961	-	Middle	lmo2656	30S ribosomal protein S12	5	2	2	0	0	0	9
+2729968	-	Middle	lmo2656	30S ribosomal protein S12	3	3	2	0	0	0	8
+2730505	-	Upstream	lmo2656	30S ribosomal protein S12	127	134	98	249	66	116	790
+2732424	-	Middle	lmo2658	spermidine-spermine N1-acetyl transferase	11	7	0	0	0	0	18
+2732482	-	Upstream	lmo2658	spermidine-spermine N1-acetyl transferase	16	30	14	20	41	39	160
+2736457	+	Intergenic	NA	NA	0	0	0	0	8	0	8
+2742974	-	Upstream	lmo2668	BglG antiterminator ( transcriptional ) family	4	8	2	3	11	0	28
+2744173	-	Upstream	lmo2669	hypothetical P	64	118	79	44	810	83	1198
+2744954	-	Upstream	lmo2671	hypothetical P	19	13	5	5	6	3	51
+2745808	-	Upstream	( weakly ) lmo2672	transcription regulator	28	0	2	2	2	9	43
+2745876	+	Upstream	lmo2673	hypothetical protein	210	2	73	13	28	79	405
+2745907	+	Upstream	lmo2673	hypothetical protein	4	0	0	2	0	0	6
+2746396	+	Upstream	lmo2674	ribose-5-phosphate isomerase B	75	56	10	16	15	17	189
+2747032	+	Upstream	lmo2675	hypothetical P	66	134	51	36	104	61	452
+2747046	+	Upstream	lmo2675	hypothetical P	0	4	0	0	0	0	4
+2747052	+	Upstream	lmo2675	hypothetical P	0	3	3	0	0	0	6
+2757574	+	Upstream	lmo2683	cellobiose II B phosphotransferase enzyme component	595	1230	235	288	688	31	3067
+2757953	+	Upstream	lmo2684	cellobiose II C phosphotransferase enzyme component	6	3	2	0	0	0	11
+2760711	-	Upstream	lmo2686	hypothetical protein	19	22	3	41	65	20	170
+2766127	-	Upstream	NA	NA	52	116	26	87	104	24	409
+2766809	-	Upstream	lmo2690	transcription regulator- TetR family	18	31	13	23	32	25	142
+2766904	+	Upstream	lmo2691	autolysin	164	294	74	27	81	65	705
+2769305	-	Upstream	lmo2692	hypothetical protein	129	102	31	16	22	29	329
+2770040	-	Upstream	lmo2693	thymidylate kinase	6	2	0	18	32	9	67
+2771465	-	Upstream	lmo2694	lysine decarboxylase	10	11	3	2	12	0	38
+2771549	+	Upstream	lmo2695	dihydroxyacetone kinase subunit DhaK	25	24	11	10	20	23	113
+2771592	+	Upstream	lmo2695	dihydroxyacetone kinase subunit DhaK	52	0	13	33	37	54	189
+2771607	+	Upstream	lmo2695	dihydroxyacetone kinase subunit DhaK	4	0	0	0	0	0	4
+2775617	+	Upstream	lmo2700	aldo-keto reductase	23	16	15	4	24	8	90
+2776777	-	Upstream	lmo2701	YaaL protein	2	0	0	0	0	3	5
+2776817	-	Middle	lmo2702	recombination protein RecR	7	7	6	4	13	5	42
+2777416	-	Upstream	lmo2702	recombination protein RecR	3	6	2	0	2	0	13
+2777838	-	Upstream	lmo2703	YaaK protein	9	8	4	0	0	0	21
+2777849	-	Middle	lmo2704	highly DNA polymerase III gamma and tau subunits	11	5	3	0	3	0	22
+2779616	-	Upstream	lmo2704	highly DNA polymerase III gamma and tau subunits	83	69	19	26	65	20	282
+2780402	-	Middle	lmo2706	hypothetical protein	0	2	0	0	3	3	8
+2780816	-	Upstream	lmo2707	hypothetical protein	47	40	14	3	42	3	149
+2782496	-	Upstream	lmo2708	PTS system- cellobiose-specific enzyme IIC	3	3	0	0	0	0	6
+2782512	-	Upstream	lmo2708	PTS system- cellobiose-specific enzyme IIC	21	22	8	4	14	0	69
+2782704	+	Upstream	lmo2709	hypothetical protein	1463	1552	825	187	183	162	4372
+2782978	+	Intergenic	NA	NA	9	37	43	27	14	41	171
+2783264	-	Intergenic	NA	NA	10	30	18	50	152	406	666
+2784293	-	Upstream	lmo2710	hypothetical protein	0	0	0	7	8	3	18
+2784302	-	Upstream	lmo2710	hypothetical protein	0	0	3	13	0	60	76
+2784310	-	Upstream	lmo2710	hypothetical protein	2	2	0	7	0	10	21
+2784375	+	Middle	lmo2711	hypothetical protein	19	11	15	4	0	0	49
+2784413	-	Upstream	NA	NA	2	3	0	8	20	24	57
+2784421	-	Intergenic	NA	NA	0	0	3	22	136	27	188
+2784432	-	Intergenic	NA	NA	2	3	2	13	41	12	73
+2784443	-	Intergenic	NA	NA	0	0	0	8	52	4	64
+2784449	-	Intergenic	NA	NA	0	0	0	6	26	11	43
+2784775	-	Intergenic	NA	NA	9	5	8	39	34	15	110
+2786344	-	Upstream	lmo2712	highly gluconate kinase	15	11	4	2	7	0	39
+2786350	-	Upstream	lmo2712	highly gluconate kinase	0	6	3	0	2	0	11
+2788381	-	Upstream	lmo2714	pepdidoglycan bound protein	3	2	0	0	0	0	5
+2788388	-	Upstream	lmo2714	pepdidoglycan bound protein	153	68	44	6	30	6	307
+2791998	-	Middle	lmo2717	highly cytochrome D ubiquinol oxidase subunit II	0	0	0	0	13	4	17
+2792009	-	Middle	lmo2717	highly cytochrome D ubiquinol oxidase subunit II	0	4	0	4	4	5	17
+2794509	-	Upstream	lmo2718	highly cytochrome D ubiquinol oxidase subunit I	2	3	0	2	0	0	7
+2794580	-	Upstream	lmo2718	highly cytochrome D ubiquinol oxidase subunit I	14	5	0	0	0	0	19
+2794741	-	Intergenic	NA	NA	0	0	0	3	6	5	14
+2795253	-	Upstream	lmo2719	hypothetical protein	0	0	0	0	5	0	5
+2795254	-	Upstream	lmo2719	hypothetical protein	26	30	8	39	150	126	379
+2795360	+	Upstream	lmo2720	acetate-CoA ligase	70	57	2	0	2	0	131
+2797782	-	Upstream	lmo2721	putative 6-phosphogluconolactonase	9	6	7	0	13	11	46
+2797806	+	Upstream	lmo2722	merR-family transcriptional regulator	3	2	0	0	0	0	5
+2798603	+	Upstream	lmo2723	hypothetical protein	50	125	55	8	12	19	269
+2798611	+	Upstream	lmo2723	hypothetical protein	0	3	0	0	0	0	3
+2799580	-	Upstream	lmo2724	hypothetical protein	35	0	4	8	14	7	68
+2801459	-	Upstream	lmo2726	transcription regulators	2	4	0	4	4	4	18
+2801556	+	Upstream	lmo2727	hypothetical protein	0	0	3	0	5	4	12
+2804458	-	Upstream	lmo2731	transcription regulator RpiR family	4	3	2	5	4	0	18
+2804464	-	Upstream	lmo2731	transcription regulator RpiR family	76	64	40	33	57	82	352
+2805302	-	Upstream	lmo2732	hypothetical protein	22	15	7	2	0	3	49
+2805401	+	Upstream	lmo2733	PTS system- fructose-specific IIABC component	0	2	0	4	0	0	6
+2815299	-	Upstream	lmo2738	conserved hypothetical protein hypothetical hemolysin	0	0	0	0	2	8	10
+2815361	-	Upstream	lmo2738	conserved hypothetical protein hypothetical hemolysin	68	55	22	6	42	4	197
+2817597	-	Upstream	lmo2741	drug-efflux transporters	35	16	11	9	30	15	116
+2818736	-	Upstream	lmo2743	putative translaldolase	77	37	22	74	86	55	351
+2819818	+	Upstream	lmo2745	ABC transporter ATP-binding protein	0	0	2	0	4	4	10
+2822658	-	Middle	lmo2747	seryl-tRNA synthetase	6	3	0	0	0	0	9
+2823212	-	Upstream	lmo2747	seryl-tRNA synthetase	5	3	0	0	0	0	8
+2823486	-	Upstream	NA	NA	36	47	15	18	49	2	167
+2823974	-	Upstream	lmo2748	stress protein YdaG	129	0	34	37	67	267	534
+2830247	+	Upstream	lmo2753	hypothetical protein	7	10	3	11	33	53	117
+2837807	-	Upstream	lmo2757	ATP-dependent DNA helicases	53	70	60	47	55	37	322
+2839573	-	Upstream	lmo2758	inosine-monophosphate dehydrogenase	11	5	0	0	6	0	22
+2840244	-	Upstream	lmo2759	hypothetical protein	40	56	35	21	29	80	261
+2842199	-	Intergenic	NA	NA	89	57	9	23	108	13	299
+2842362	+	Upstream	lmo2761	beta-glucosidase	0	7	0	0	0	0	7
+2848336	-	Upstream	lmo2767	hypothetical protein	4	3	0	0	0	0	7
+2848360	-	Upstream	lmo2767	hypothetical protein	41	54	31	93	320	55	594
+2848383	-	Upstream	lmo2767	hypothetical protein	2	9	2	0	0	0	13
+2849566	-	Middle	lmo2769	ABC transporter- ATP-binding protein	2	2	0	0	0	0	4
+2849576	-	Middle	lmo2769	ABC transporter- ATP-binding protein	6	7	0	2	4	0	19
+2850464	-	Upstream	lmo2769	ABC transporter- ATP-binding protein	10	16	4	29	104	26	189
+2857320	-	Upstream	lmo2773	transcription antiterminator	11	9	2	6	4	2	34
+2861280	+	Upstream	lmo2777	efflux protein	3	0	0	0	6	0	9
+2864726	-	Upstream	lmo2779	GTP-dependent nucleic acid-binding protein EngD	6	8	4	21	61	0	100
+2871146	-	Upstream	lmo2784	lichenan operon transcription antiterminator licR	18	31	10	21	17	9	106
+2872792	-	Upstream	lmo2785	catalase	3	0	0	0	0	0	3
+2872846	-	Upstream	lmo2785	catalase	20	14	10	5	44	11	104
+2876672	-	Middle	lmo2788	transcription antiterminator	9	8	2	0	0	0	19
+2876803	-	Upstream	lmo2788	transcription antiterminator	228	153	98	99	129	17	724
+2877167	-	Middle	lmo2790	partition protein ParB homolg	4	4	0	0	0	0	8
+2878812	-	Upstream	lmo2791	partition protein- ParA-like protein	75	98	20	11	65	13	282
+2879769	-	Upstream	lmo2792	hypothetical protein	140	84	41	43	105	34	447
+2880301	-	Middle	lmo2794	DNA-binding protein Spo0J-like homolog YyaA	0	7	0	4	10	4	25
+2881138	-	Upstream	lmo2794	DNA-binding protein Spo0J-like homolog YyaA	139	149	93	153	252	96	882
+2882256	-	Middle	lmo2796	transcription regulator	3	6	0	0	5	2	16
+2887344	-	Upstream	lmo2801	N-acetylmannosamine-6-phosphate 2-epimerase	5	2	2	0	0	0	9
+2888321	-	Upstream	lmo2802	16S rRNA methyltransferase GidB	3	6	0	0	6	0	15
+2890699	-	Upstream	lmo2805	hypothetical secreted protein	6	15	4	2	0	2	29
+2892470	-	Upstream	lmo2809	hypothetical secreted protein	3	2	2	0	6	4	17
+2898403	-	Upstream	lmo2814	transcriptional regulator	12	30	10	26	76	31	185
+2898477	+	Upstream	lmo2815	3-ketoacyl-acyl-carrier-protein reductase	14	4	0	0	5	0	23
+2904445	-	Upstream	lmo2819	carboxypeptidase	13	14	4	11	10	15	67
+2906972	-	Upstream	lmo2820	amino-terminal domain-containing protein	15	10	6	0	6	0	37
+2912286	-	Middle	lmo2824	D-3-phosphoglycerate dehydrogenase	0	2	0	0	2	16	20
+2913898	-	Upstream	lmo2825	phosphoserine aminotransferase	10	4	0	0	0	0	14
+2915680	-	Upstream	lmo2827	transcriptional regulator MarR family	3	6	0	3	5	2	19
+2916111	-	Upstream	lmo2828	hypothetical protein	202	385	130	41	79	277	1114
+2917279	-	Upstream	lmo2830	thioredoxin	129	280	101	297	541	659	2007
+2919237	-	Middle	lmo2833	a maltose phosphorylase	25	37	12	7	17	10	108
+2929120	-	Upstream	lmo2841	weakly sucrose phosphorylase	4	3	6	3	2	0	18
+2929260	+	Upstream	lmo2842	transcriptional regulator	120	133	68	58	42	122	543
+2933171	-	Upstream	lmo2844	hypothetical protein	32	86	14	21	100	73	326
+2933271	+	Upstream	lmo2845	transmembrane efflux proteins	8	32	4	5	27	3	79
+2940026	+	Upstream	lmo2851	AraC-type regulatory protein	222	132	39	44	20	23	480
+2940035	+	Upstream	lmo2851	AraC-type regulatory protein	4	0	2	0	0	0	6
+2942254	-	Middle	lmo2854	SpoIIIJ protein	3	3	0	3	3	3	15
+2942262	-	Middle	lmo2854	SpoIIIJ protein	0	5	3	2	2	0	12
+2943376	-	Middle	lmo2855	ribonuclease P	3	5	0	0	6	0	14
+2943771	-	Intergenic	NA	NA	2	6	0	0	0	0	8
+2943777	-	Intergenic	NA	NA	4	12	0	6	0	0	22
+2943784	-	Intergenic	NA	NA	6	0	0	0	0	0	6
+2943821	-	Intergenic	NA	NA	5	7	2	11	34	0	59

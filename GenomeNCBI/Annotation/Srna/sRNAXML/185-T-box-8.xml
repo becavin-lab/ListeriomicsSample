@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>1676392</int>
+  </void>
+  <void property="end">
+   <int>1676617</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>T-box</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>1676392</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>1676617</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>225</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>feature (Toledo-Arana et al. 2009)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string>T-box in tandem with the following one</string>
+   </void>
+   <void method="put">
+    <string>ref (Toledo-Arana et al. 2009)</string>
+    <string>Rfam</string>
+   </void>
+   <void method="put">
+    <string>name (Rfam 2012)</string>
+    <string>T-box 7</string>
+   </void>
+   <void method="put">
+    <string>from (Rfam 2012)</string>
+    <string>1676392</string>
+   </void>
+   <void method="put">
+    <string>to (Rfam 2012)</string>
+    <string>1676617</string>
+   </void>
+   <void method="put">
+    <string>length (Rfam 2012)</string>
+    <string>226</string>
+   </void>
+   <void method="put">
+    <string>strand (Rfam 2012)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Rfam 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Bits score (Rfam 2012)</string>
+    <string>118.71</string>
+   </void>
+   <void method="put">
+    <string>Rfam ID (Rfam 2012)</string>
+    <string>RF00230</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+   <void method="add">
+    <string>Rfam 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>185</string>
+  </void>
+  <void property="length">
+   <int>226</int>
+  </void>
+  <void property="name">
+   <string>T-box-8</string>
+  </void>
+  <void property="ref">
+   <string>Rfam</string>
+  </void>
+  <void property="synonym">
+   <void method="add">
+    <string>T-box</string>
+   </void>
+   <void method="add">
+    <string>T-box 7</string>
+   </void>
+  </void>
+  <void property="typeSrna">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>bacnet.datamodel.sequence.Srna$TypeSrna</class>
+    <string>CisReg</string>
+   </object>
+  </void>
+ </object>
+</java>

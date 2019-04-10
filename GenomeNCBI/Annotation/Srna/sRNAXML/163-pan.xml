@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>1977152</int>
+  </void>
+  <void property="end">
+   <int>1977238</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Rfam 2012)</string>
+    <string>pan</string>
+   </void>
+   <void method="put">
+    <string>from (Rfam 2012)</string>
+    <string>1977152</string>
+   </void>
+   <void method="put">
+    <string>to (Rfam 2012)</string>
+    <string>1977238</string>
+   </void>
+   <void method="put">
+    <string>length (Rfam 2012)</string>
+    <string>87</string>
+   </void>
+   <void method="put">
+    <string>strand (Rfam 2012)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Rfam 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Bits score (Rfam 2012)</string>
+    <string>45.5</string>
+   </void>
+   <void method="put">
+    <string>Rfam ID (Rfam 2012)</string>
+    <string>RF01749</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Rfam 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>163</string>
+  </void>
+  <void property="length">
+   <int>87</int>
+  </void>
+  <void property="name">
+   <string>pan</string>
+  </void>
+  <void property="ref">
+   <string>Rfam</string>
+  </void>
+  <void property="typeSrna">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>bacnet.datamodel.sequence.Srna$TypeSrna</class>
+    <string>CisReg</string>
+   </object>
+  </void>
+ </object>
+</java>

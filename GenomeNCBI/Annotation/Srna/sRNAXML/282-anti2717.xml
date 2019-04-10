@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2792160</int>
+  </void>
+  <void property="end">
+   <int>2792459</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Wurtzel et al. 2012)</string>
+    <string>anti2717</string>
+   </void>
+   <void method="put">
+    <string>from (Wurtzel et al. 2012)</string>
+    <string>2792160</string>
+   </void>
+   <void method="put">
+    <string>to (Wurtzel et al. 2012)</string>
+    <string>-1000000</string>
+   </void>
+   <void method="put">
+    <string>length (Wurtzel et al. 2012)</string>
+    <string>-1000000</string>
+   </void>
+   <void method="put">
+    <string>strand (Wurtzel et al. 2012)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Wurtzel et al. 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Gene from (Wurtzel et al. 2012)</string>
+    <string>2791967</string>
+   </void>
+   <void method="put">
+    <string>Gene to (Wurtzel et al. 2012)</string>
+    <string>2792980</string>
+   </void>
+   <void method="put">
+    <string>Gene strand (Wurtzel et al. 2012)</string>
+    <string>-</string>
+   </void>
+   <void method="put">
+    <string>Gene Locus (Wurtzel et al. 2012)</string>
+    <string>lmo2717</string>
+   </void>
+   <void method="put">
+    <string>Product (Wurtzel et al. 2012)</string>
+    <string>hypothetical protein</string>
+   </void>
+   <void method="put">
+    <string>Expressed? (Wurtzel et al. 2012)</string>
+    <string>present</string>
+   </void>
+   <void method="put">
+    <string>L.inocua locus (Wurtzel et al. 2012)</string>
+    <string>lin2865</string>
+   </void>
+   <void method="put">
+    <string>Already known (Wurtzel et al. 2012)</string>
+    <string>No</string>
+   </void>
+   <void method="put">
+    <string>note (Wurtzel et al. 2012)</string>
+    <string></string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Wurtzel et al. 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>282</string>
+  </void>
+  <void property="length">
+   <int>300</int>
+  </void>
+  <void property="name">
+   <string>anti2717</string>
+  </void>
+  <void property="ref">
+   <string>Wurtzel et al. 2012</string>
+  </void>
+  <void property="typeSrna">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>bacnet.datamodel.sequence.Srna$TypeSrna</class>
+    <string>ASrna</string>
+   </object>
+  </void>
+ </object>
+</java>

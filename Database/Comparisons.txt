@@ -1,0 +1,8 @@
+BioCondName	RefBioCondName	FileName	ArrayExpressId
+EGD_WT	EGDe_280212		E-MTAB-1677
+EGD_WT	EGDe_280212		E-MEXP-2138
+prfA_Star	EGDe_280212		E-MTAB-1676
+prfA_Star	EGDe_280212		E-MTAB-1677
+Macrophages_2014_EGDe	BHI_2014_EGDe		
+Extracellular_UGiessen_2010	IFN_Intracellular_UGiessen_2010	589.txt	E-TABM-663
+Extracellular_UGiessen_2010	Intracellular_UGiessen_2010	587.txt	E-TABM-663	

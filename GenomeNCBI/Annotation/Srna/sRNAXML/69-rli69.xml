@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2468115</int>
+  </void>
+  <void property="end">
+   <int>2468289</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Oliver et al. 2009)</string>
+    <string>rli69</string>
+   </void>
+   <void method="put">
+    <string>from (Oliver et al. 2009)</string>
+    <string>2468115</string>
+   </void>
+   <void method="put">
+    <string>to (Oliver et al. 2009)</string>
+    <string>2468289</string>
+   </void>
+   <void method="put">
+    <string>length (Oliver et al. 2009)</string>
+    <string>175</string>
+   </void>
+   <void method="put">
+    <string>strand (Oliver et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Oliver et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>10403S Average GEI (Oliver et al. 2009)</string>
+    <string>20.62</string>
+   </void>
+   <void method="put">
+    <string>Delta_sigB Average GEI (Oliver et al. 2009)</string>
+    <string>49.18</string>
+   </void>
+   <void method="put">
+    <string>FC range (10403S/Delta_sigB) (Oliver et al. 2009)</string>
+    <string>0.33-0.53</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Oliver et al. 2009</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>69</string>
+  </void>
+  <void property="length">
+   <int>175</int>
+  </void>
+  <void property="name">
+   <string>rli69</string>
+  </void>
+  <void property="ref">
+   <string>Oliver et al. 2009</string>
+  </void>
+ </object>
+</java>

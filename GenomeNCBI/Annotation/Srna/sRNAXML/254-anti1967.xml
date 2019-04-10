@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2041537</int>
+  </void>
+  <void property="end">
+   <int>2041655</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Mraheil et al. 2011)</string>
+    <string>anti1967</string>
+   </void>
+   <void method="put">
+    <string>from (Mraheil et al. 2011)</string>
+    <string>2041537</string>
+   </void>
+   <void method="put">
+    <string>to (Mraheil et al. 2011)</string>
+    <string>2041655</string>
+   </void>
+   <void method="put">
+    <string>length (Mraheil et al. 2011)</string>
+    <string>119</string>
+   </void>
+   <void method="put">
+    <string>strand (Mraheil et al. 2011)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Mraheil et al. 2011)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Nb read Intracellular (Mraheil et al. 2011)</string>
+    <string>11</string>
+   </void>
+   <void method="put">
+    <string>Nb read Extracellular (Mraheil et al. 2011)</string>
+    <string>0</string>
+   </void>
+   <void method="put">
+    <string>Terminator in Intracellular (Mraheil et al. 2011)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>Terminator in Extracellular (Mraheil et al. 2011)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>Rfam Name (Mraheil et al. 2011)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>note (Mraheil et al. 2011)</string>
+    <string></string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Mraheil et al. 2011</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>254</string>
+  </void>
+  <void property="length">
+   <int>119</int>
+  </void>
+  <void property="name">
+   <string>anti1967</string>
+  </void>
+  <void property="ref">
+   <string>Mraheil et al. 2011</string>
+  </void>
+  <void property="typeSrna">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>bacnet.datamodel.sequence.Srna$TypeSrna</class>
+    <string>ASrna</string>
+   </object>
+  </void>
+ </object>
+</java>

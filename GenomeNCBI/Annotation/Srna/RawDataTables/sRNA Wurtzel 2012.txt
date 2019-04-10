@@ -1,0 +1,114 @@
+Name	From	To	Strand	inocua	comment	initial report
+rli71	28964	29061	+	2		Mraheil et al
+rli115	77597	77863	+	0		Here
+rli116	143795	144000	+	0		Here
+rli117	145571	145841	+	0		Here
+rli118	199775	199884	+	2	SigB dependent	Here
+rli72	200410	200519	+	2	A likely 5' UTR	Mraheil et al
+rli73	200942	201217	+	2		Mraheil et al
+rli74	209321	209453	+	0	Might represent a 5' UTR	Mraheil et al
+rli119	215458	215587	-	0	SigB dependent	Here
+rli120	226546	226640	+	0		Here
+LhrC-1	231884	231994	+	2		Christiansen et al
+LhrC-2	232086	232197	+	2		Christiansen et al
+LhrC-3	232289	232400	+	2		Christiansen et al
+LhrC-4	232492	232605	+	2		Christiansen et al
+rli24	271014	271186	+	0		Toledo-Arana et al
+rli146	318784	318834	+	1		Here
+rli76	344675	344771	-	2	Might represent a 5' UTR	Mraheil et al
+rli26	388590	388707	-	0		Toledo-Arana et al
+rli27	434817	434929	+	2		Toledo-Arana et al
+rli121	495786	496381	+	0		Here
+rli122	507021	507161	-	0		Here
+rli78	507068	507473	+	2		Mraheil et al
+rli28	507141	507372	-	0		Toledo-Arana et al
+rli29	507450	507632	-	0		Toledo-Arana et al
+rli65	531148	531266	+	2		Oliver et al
+rliB	544238	544716	+	0		Mandin et al
+rli52	552313	552417	-	1		Toledo-Arana et al
+rli31	597806	597926	+	2		Toledo-Arana et al
+rli32	600604	600750	-	2		Toledo-Arana et al
+rli33-2	708618	708860	+	1	SigB dependent	Toledo-Arana et al
+rli80	787038	787254	+	2		Mraheil et al
+rli36	859412	859521	-	1		Toledo-Arana et al
+rli123	862938	863241	+	0		Here
+rli81	905685	905801	+	2	A likely 5' UTR	Mraheil et al
+rli37	907526	907832	+	2		Toledo-Arana et al
+rli82	910875	910942	-	2	A likely 5' UTR	Mraheil et al
+rli53	955824	956021	+	2		Toledo-Arana et al
+LhrC-5	981621	981731	+	2		Christiansen et al
+rli124	1057361	1057621	-	2		Here
+rli84	1093855	1093954	+	2	A likely 5' UTR	Mraheil et al
+rli38	1152549	1152917	+	0		Toledo-Arana et al
+rli125	1154319	1154671	-	0		Here
+rli126	1159877	1160115	+	1		Here
+rli55	1198108	1198561	+	2		Toledo-Arana et al
+rli56	1199848	1199937	+	2	Might represent a 5' UTR	Toledo-Arana et al
+rli86	1272592	1272662	+	1		Mraheil et al
+rli40	1275547	1275794	-	2	Possible ORF	Toledo-Arana et al
+rli41	1276713	1277206	-	2	Possible ORF	Toledo-Arana et al
+rli87	1301287	1301551	+	1		Mraheil et al
+rli88	1320429	1320501	+	2		Mraheil et al
+Rli11-sbrA	1399365	1399616	+	2	SigB dependent	Nielsen et al
+rli42	1399461	1399616	-	2		Toledo-Arana et al
+rli127	1473701	1473829	-	2	SigB dependent	Here
+rli90	1527941	1528048	-	2	A likely 5' UTR	Mraheil et al
+ssrS-6S	1546336	1546531	-	2		
+rli91	1575830	1575917	-	2	A likely 5' UTR	Mraheil et al
+rli128	1575917	1575995	-	2	SigB dependent	Here
+rli129	1613300	1613451	-	2		Here
+rli92	1638942	1639091	+	2	A likely 5' UTR	Mraheil et al
+rli58	1639915	1640132	-	0		Toledo-Arana et al
+rli59	1702361	1702543	-	2	Might represent a 5' UTR	Toledo-Arana et al
+LhrB-L20	1859870	1860017	-	2		Christiansen et al
+rli43	1861377	1861533	-	0		Toledo-Arana et al
+rnpB-RNase P	1961807	1962188	-	2		
+rli130	2008753	2008871	-	2		Here
+rli131	2031272	2031354	-	2		Here
+rli94	2039079	2039375	-	2		Mraheil et al
+rli44	2039087	2039375	+	1		Toledo-Arana et al
+rli60	2054162	2054501	+	2		Toledo-Arana et al
+rli132	2109721	2109972	-	0		Here
+rli133	2145524	2145648	-	0		Here
+rli134	2151510	2151605	-	2		Here
+rli45	2154765	2154852	+	2		Toledo-Arana et al
+rli46	2154765	2155058	-	0		Toledo-Arana et al
+rli135	2213168	2213213	-	2		Here
+rli47	2226036	2226481	+	2	SigB dependent	Toledo-Arana et al
+rli96	2239222	2239295	-	2	A likely 5' UTR	Mraheil et al
+rli61	2275297	2275362	-	2	A likely 5' UTR	Toledo-Arana et al
+rli97	2279995	2280110	-	2	A likely 5' UTR	Mraheil et al
+rli136	2286256	2286586	-	2		Here
+rli137	2293286	2293472	+	1		Here
+rli138	2321818	2322026	+	2		Here
+rli139	2321818	2321967	-	2		Here
+LhrA	2346166	2346382	-	2		Christiansen et al
+rli48	2361274	2361405	-	2	Processing site at 2361343	Toledo-Arana et al
+rli98	2361329	2361581	+	2		Mraheil et al
+rli62	2364321	2364439	-	0		Toledo-Arana et al
+rliG	2386715	2386992	-	2		Mandin et al
+rli140	2395032	2395244	-	1		Here
+rli99	2395032	2395236	+	2		Mraheil et al
+rli141	2399283	2399512	+	1		Here
+rli100	2424807	2424866	-	2	Might represent a 5' UTR	Mraheil et al
+rli101	2452913	2452994	-	2	A likely 5' UTR	Mraheil et al
+rli102	2454489	2454690	+	2	A likely 5' UTR	Mraheil et al
+ssrA-tmRNA	2509852	2510220	-	2		
+rli105	2533481	2533615	-	2		Mraheil et al
+rli142	2569572	2569681	+	2		Here
+rli143	2584861	2585032	-	1		Here
+rli106	2594561	2594785	-	2		Mraheil et al
+rli63	2612921	2613300	-	2		Toledo-Arana et al
+rli108	2639710	2639789	-	2	A likely 5' UTR	Mraheil et al
+rli144	2640531	2640819	-	2		Here
+rli49	2660210	2660364	+	0		Toledo-Arana et al
+rli109	2694509	2694694	-	1		Mraheil et al
+rli111	2736457	2736640	+	2		Mraheil et al
+rli112	2782978	2783221	+	0		Mraheil et al
+rli50	2782981	2783264	-	0		Toledo-Arana et al
+SRP	2784311	2784413	-	2		
+rli147	2784594	2784775	-	2	Partially antisense to lmo2711	Here
+rli145	2794580	2794741	-	1		Here
+rli113	2839401	2839573	-	2	A likely 5' UTR	Mraheil et al
+rliI	2841962	2842199	-	2		Mandin et al
+rli114	2857252	2857320	-	2	A likely 5' UTR	Mraheil et al

@@ -1,0 +1,4 @@
+PhyloID	Name	Serotype	Sequence Type	Clone Type	Lineage	Isolate source	Year	Country	Isolation comments	Reference	Chr	Chr Length	CDS	Database	Release Date	Sequence ID	Comments
+1	Listeria monocytogenes EGD-e	1/2a	II	CC9	ST35	Guinea Pig	1926	UK		Glaser et al., Science 2001 (PubMed:11679669)	1	2944528	2867	RefSeq	08/11/2001	NC_003210.1	None
+2	Listeria monocytogenes EGD	1/2a	II	CC7	ST12	Guinea Pig	1926	UK		Becavin et al., MBio 2014  (PubMed:24667708)	1	2907193	2848	GenBank	15/09/2013	NC_022568.1	None
+3	Listeria monocytogenes 10403S	1/2a	II	CC7	ST85	Human, skin lesions	1964	USA		Becavin et al., MBio 2014  (PubMed:24667708)	1	2903106	2814	RefSeq	07/09/2011	NC_017544.1	None

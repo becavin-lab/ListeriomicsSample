@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2039087</int>
+  </void>
+  <void property="end">
+   <int>2039375</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Wurtzel et al. 2012)</string>
+    <string>rli44</string>
+   </void>
+   <void method="put">
+    <string>from (Wurtzel et al. 2012)</string>
+    <string>2039087</string>
+   </void>
+   <void method="put">
+    <string>to (Wurtzel et al. 2012)</string>
+    <string>2039375</string>
+   </void>
+   <void method="put">
+    <string>length (Wurtzel et al. 2012)</string>
+    <string>289</string>
+   </void>
+   <void method="put">
+    <string>strand (Wurtzel et al. 2012)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Wurtzel et al. 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Inocua presence (Wurtzel et al. 2012)</string>
+    <string>1</string>
+   </void>
+   <void method="put">
+    <string>note (Wurtzel et al. 2012)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>ref (Wurtzel et al. 2012)</string>
+    <string>Toledo-Arana et al</string>
+   </void>
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>rli44</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>2039087</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>2039375</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>289</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>feature (Toledo-Arana et al. 2009)</string>
+    <string>ORF</string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string>ORF of 28aa. RBS region: GGAAAGGATAACCCATG</string>
+   </void>
+   <void method="put">
+    <string>ref (Toledo-Arana et al. 2009)</string>
+    <string>Toledo, 2009</string>
+   </void>
+   <void method="put">
+    <string>name (Mraheil et al. 2011)</string>
+    <string>rli44</string>
+   </void>
+   <void method="put">
+    <string>from (Mraheil et al. 2011)</string>
+    <string>2039087</string>
+   </void>
+   <void method="put">
+    <string>to (Mraheil et al. 2011)</string>
+    <string>2039362</string>
+   </void>
+   <void method="put">
+    <string>length (Mraheil et al. 2011)</string>
+    <string>276</string>
+   </void>
+   <void method="put">
+    <string>strand (Mraheil et al. 2011)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Mraheil et al. 2011)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Nb read Intracellular (Mraheil et al. 2011)</string>
+    <string>47</string>
+   </void>
+   <void method="put">
+    <string>Nb read Extracellular (Mraheil et al. 2011)</string>
+    <string>33</string>
+   </void>
+   <void method="put">
+    <string>Promoter Name (Mraheil et al. 2011)</string>
+    <string>sigA</string>
+   </void>
+   <void method="put">
+    <string>Promoter in Intracellular (Mraheil et al. 2011)</string>
+    <string>x</string>
+   </void>
+   <void method="put">
+    <string>Promoter in Extracellular (Mraheil et al. 2011)</string>
+    <string>x</string>
+   </void>
+   <void method="put">
+    <string>Terminator in Intracellular (Mraheil et al. 2011)</string>
+    <string>x</string>
+   </void>
+   <void method="put">
+    <string>Terminator in Extracellular (Mraheil et al. 2011)</string>
+    <string>x</string>
+   </void>
+   <void method="put">
+    <string>Rfam Name (Mraheil et al. 2011)</string>
+    <string>rli28</string>
+   </void>
+   <void method="put">
+    <string>New (Mraheil et al. 2011)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>note (Mraheil et al. 2011)</string>
+    <string>Small ORF</string>
+   </void>
+   <void method="put">
+    <string>name (Oliver et al. 2009)</string>
+    <string>rli44</string>
+   </void>
+   <void method="put">
+    <string>from (Oliver et al. 2009)</string>
+    <string>2039093</string>
+   </void>
+   <void method="put">
+    <string>to (Oliver et al. 2009)</string>
+    <string>2039372</string>
+   </void>
+   <void method="put">
+    <string>length (Oliver et al. 2009)</string>
+    <string>280</string>
+   </void>
+   <void method="put">
+    <string>strand (Oliver et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Oliver et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>10403S Average GEI (Oliver et al. 2009)</string>
+    <string>25.2</string>
+   </void>
+   <void method="put">
+    <string>Delta_sigB Average GEI (Oliver et al. 2009)</string>
+    <string>45.98</string>
+   </void>
+   <void method="put">
+    <string>FC range (10403S/Delta_sigB) (Oliver et al. 2009)</string>
+    <string>0.34-0.89</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Wurtzel et al. 2012</string>
+   </void>
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+   <void method="add">
+    <string>Mraheil et al. 2011</string>
+   </void>
+   <void method="add">
+    <string>Oliver et al. 2009</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>44</string>
+  </void>
+  <void property="length">
+   <int>289</int>
+  </void>
+  <void property="name">
+   <string>rli44</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+ </object>
+</java>

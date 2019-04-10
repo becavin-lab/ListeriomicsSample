@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.expdesign.BioCondition" id="BioCondition0">
+  <void property="antiComparisons">
+   <void method="add">
+    <string>Extracellular_UGiessen_2010</string>
+   </void>
+  </void>
+  <void property="arrayExpressId">
+   <string>E-TABM-663</string>
+  </void>
+  <void property="arrayExpressTechnoId">
+   <string>A-MEXP-752</string>
+  </void>
+  <void property="date">
+   <string>11/03/2010</string>
+  </void>
+  <void property="genomeName">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="genomeUsed">
+   <string>Listeria monocytogenes EGD-e</string>
+  </void>
+  <void property="growth">
+   <void method="add">
+    <string>Exp phase</string>
+   </void>
+  </void>
+  <void property="localization">
+   <void method="add">
+    <string></string>
+   </void>
+  </void>
+  <void property="media">
+   <void method="add">
+    <string>Mouse macrophages cells</string>
+   </void>
+   <void method="add">
+    <string>IFN gamma</string>
+   </void>
+  </void>
+  <void property="mediaGrowthProperties">
+   <void method="add">
+    <string>Mouse macrophages cells P388D1</string>
+   </void>
+   <void method="add">
+    <string>Interferon gamma 100 U/ml</string>
+   </void>
+  </void>
+  <void property="name">
+   <string>IFN_Intracellular_UGiessen_2010</string>
+  </void>
+  <void property="reference">
+   <string>Mhraeil et al., N.A.R. 2011 (Pubmed:21278422)</string>
+  </void>
+  <void property="time">
+   <string>45min</string>
+  </void>
+  <void property="typeDataContained">
+   <void method="add">
+    <object class="java.lang.Enum" method="valueOf">
+     <class>bacnet.datamodel.dataset.OmicsData$TypeData</class>
+     <string>ExpressionMatrix</string>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

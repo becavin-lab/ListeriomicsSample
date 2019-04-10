@@ -1,0 +1,71 @@
+Name	5' end	Strand asRNA	From	To	Strand	Locus	Product	Expressed?	L. innocua locus	Known?	comment
+anti0387	412094	-	411992	412363	+	lmo0387	amino acid transporter	present	lin0405	No	
+anti0421	441667	+	441622	442872	-	lmo0421	hypothetical protein	present	lin0441	No	
+anti0424	444354	+	444031	444888	-	lmo0424	Xylosus glucose uptake protein	present	lin0444	No	
+anti0441	471939	+	470122	472158	-	lmo0441	hypothetical protein	absent	lin0461	No	
+anti0470	506968	-	506368	506997	+	lmo0470	hypothetical protein	absent	No homolog	No	
+anti0570	607849	-	607372	608199	+	lmo0570	histidinol-phosphatase	absent	lin0579	No	
+anti0571	608233	+	608184	608480	-	lmo0571	hypothetical protein	absent	lin0580	No	
+anti0605	643800	+	643891	645231	-	lmo0605	Na+-driven multidrug efflux pump	present	lin0614	No	SigB dependent
+anti0667	705124	-	704452	705387	+	lmo0667	hypothetical protein	absent	lin0762	No	
+anti0671	707869	-	707612	708220	+	lmo0671	hypothetical protein	absent	lin0676	No	SigB dependent
+anti0799	827498	+	826752	827513	-	lmo0799	hypothetical protein	absent	lin0792	No	
+anti0811	838843	-	838751	839452	+	lmo0811	Carbonic anhydrase	present	lin0807	No	
+anti0887	926280	-	926229	926507	+	lmo0887	hypothetical protein	present	lin0886	No	
+anti0968	1000409	-	999722	1000516	+	lmo0968	inorganic polyphosphate/ATP-NAD kinase	absent	lin0967	No	
+anti1023	1051778	-	1051695	1052354	+	lmo1023	hypothetical protein,  CheY-like receiver domain	absent	lin1022	No	
+anti1079	1112017	-	1110769	1113627	+	lmo1079	hypothetical protein, 6-pyruvoyl-tetrahydropterin synthase	absent	No homolog	No	
+anti1096	1130253	-	1129945	1131501	+	lmo1096	GMP synthase	absent	lin1081	No	
+anti1188	1213983	-	1213636	1215087	+	lmo1188	hypothetical protein	absent	No homolog	No	
+anti1236	1263477	+	1263187	1263681	-	lmo1236	glycine/serine hydroxymethyltransferase	absent	lin1199	No	
+anti1255	1279827	+	1279721	1281205	-	lmo1255	phosphotransferase system (PTS) component	present	lin1223	No	SigB dependent
+anti1278	1302913	-	1302474	1303013	+	lmo1278	ATP-dependent protease peptidase subunit	absent	lin1317	No	
+anti1279	1303985	-	1303027	1304436	+	lmo1279	ATP-dependent protease ATP-binding subunit	absent	lin1318	No	
+anti1284	1307098	+	1307009	1307605	-	lmo1284	hypothetical protein	absent	lin1323	No	
+anti1399	1426971	-	1426766	1428328	+	lmo1399	phosphodiesterase	present	lin1436	No	
+anti1461	1495433	-	1495221	1495850	+	lmo1461	hypothetical protein, Putative beta-glucosidase	absent	lin1498	No	
+anti1655	1704657	+	1704618	1705181	-	lmo1655	hypothetical protein	absent	lin1900	No	
+anti1677	1732471	-	1731955	1732893	+	lmo1677	1,4-dihydroxy-2-naphthoate	absent	lin1785	No	
+anti1707	1769524	-	1769479	1769700	+	lmo1707	hypothetical protein	present	lin1819	No	
+anti1708	1770069	+	1769720	1770526	-	lmo1708	aminoglycoside N3'-acetyltransferases, antibiotic resistance gene	present	lin1820	No	
+anti1734	1800500	+	1800256	1804848	-	lmo1734	hypothetical protein, glutamate synthase (GltS) FMN-binding domain	absent	lin1845	No	
+anti1751	1820461	+	1820133	1821494	-	lmo1751	hypothetical protein	absent but there is a pilar in the IGR region that can drive as transcription	lin1863	No	
+anti1777	1854469	+	1854077	1854682	-	lmo1777	Metal dependent phosphohydrolases	absent	lin1889	No	
+anti1816	1890969	-	1890951	1891139	+	lmo1816	50S ribosomal protein L28	absent	lin1930	No	
+anti1830	1906099	-	1905952	1906551	+	lmo1830	short chain dehydrogenase	absent	lin1944	No	
+anti1846	1923362	-	1922439	1923809	+	lmo1846	multidrug efflux protein	present	lin1960	No	
+anti1909	1982299	-	1981774	1982640	+	lmo1909	hypothetical protein	present	lin2023	No	Overlapping 3'UTR
+anti2046	2129647	+	2129185	2130078	-	lmo2046	2-dehydropantoate 2-reductase	absent	lin2152	No	
+anti2057	2139794	+	2138904	2139809	-	lmo2057	protoheme IX farnesyltransferase	present	lin2163	No	
+anti2092	2172517	-	2172068	2173591	+	lmo2092	glycine betaine transporter BetL	absent	lin2197	No	
+anti2114	2194624	-	2193645	2194412	+	lmo2114	hypothetical protein	present	lin2220	No	
+anti2115	2194478	-	2194399	2196339	+	lmo2115	FtsX	present	lin2220	No	
+anti2241	2333247	+	2332888	2333283	-	lmo2241	hypothetical protein	present	lin2343	No	
+anti2418	2489486	+	2489274	2489948	-	lmo2418	D-methionine ABC transporter, permease protein	"present in the upstream gene lin2512; probably continues"	lin2513	No	
+anti2558	2637680	-	2635167	2637920	+	lmo2558	autolysin, amidase	present	lin2703	No	
+anti2678	2749549	+	2749538	2750233	-	lmo2678	DNA-binding transcriptional activator KdpE	present	lin2826	No	
+anti2700	2775792	-	2775644	2776486	+	lmo2700	hypothetical protein	present	lin2848	No	
+anti2717	2792160	+	2791967	2792980	-	lmo2717	hypothetical protein	present	lin2865	No	
+anti2722	2798064	-	2797838	2798572	+	lmo2722	hypothetical protein	absent	lin2870	No	
+anti2745	2820726	-	2819860	2821587	+	lmo2745	hypothetical protein	present	lin2888	No	
+anti2749	2824111	-	2824079	2824651	+	lmo2749	hypothetical protein	absent but there is a pilar in the upstream gene	lin2892	No	
+anti0043	48637	-	48074	49306	+	lmo0043	arginine deiminase	absent	lin0036	Yes	Very low expression
+anti0172-rli23	172186	+	172072	172458	-	lmo0172	pseudogene	absent	No homolog	Yes	
+anti0330-rli25	357591	-	356890	357705	+	lmo0330	hypothetical protein	absent	No homolog	Yes	
+anti0506-rli30	540769	-	540421	541467	+	lmo0506	hypothetical protein	present	lin0506	Yes	
+anti0647-1	689529	+	689541	689825	-	lmo0647	hypothetical protein	present	lin0650	Yes	Overlapping 5' UTR, SigB dependent
+anti0647-2	689786	+	689541	689825	-	lmo0647	hypothetical protein	present	lin0650	Yes	Overlapping 5' UTR, a likely processed product of anti0647-1
+anti0675-677	712447	-	712208	712480	+	lmo0677	flagellar biosynthesis protein FliQ	present	lin0685	Yes	Overlapping 5' UTR (5'UTR of MogR), SigB dependent
+anti0828-rli35	855467	-	854745	855581	+	lmo0828	hypothetical protein	absent	No homolog	Yes	
+anti0946-anti-LhrC-5	981666	-	981621	981731	+	LhrC-5 / lmo0946	sRNA	present	LhrC-5 homolog	Yes	The sRNA is not annotated in L. innocua
+anti1670	1724454	-	1724196	1724462	+	lmo1670	hypothetical protein	present	lin1778	Yes	
+anti1980	2052744	-	2052696	2052833	+	lmo1980	hypothetical protein	present	lin2088	Yes	Overlapping 3'UTR
+anti1981	2052941	+	2052816	2053301	-	lmo1981	hypothetical protein	present	lin2087	Yes	Overlapping 3'UTR
+anti2095-rli65	2174997	+	2174488	2175420	-	lmo2095	hypothetical protein	present	lin2199	Yes	
+anti2260	2347318	+	2347276	2348151	-	lmo2260	hypothetical protein	absent	lin2361	Yes	Overlapping 3' UTR of lmo2259 (Toledo-Arana et al.)
+anti2263	2350055	-	2349475	2350320	+	lmo2263	hypothetical protein	present	lin2364	Yes	
+anti2270	2360554	-	2360435	2360713	+	lmo2270	hypothetical protein	present	lin2371	Yes	SigB dependent
+anti2325-2327	2397277	+	2397212	2397487	-	lmo2325	hypothetical protein	absent	No homolog	Yes	
+anti2394	2468166	+	2468210	2468392	-	lmo2394	hypothetical protein	absent	lin2493	Yes	
+anti2428	2497360	+	2497069	2498238	-	lmo2428	hypothetical protein	absent	lin2522	Yes	
+anti0977	1007804	+	1007669	1008879	-	lmo976-977	hypothetical protein (both loci)	present	lin0975-976	Yes, for lmo0977	Long asRNA, which overlaps lmo976-977

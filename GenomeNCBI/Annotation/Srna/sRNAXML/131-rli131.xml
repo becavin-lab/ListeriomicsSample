@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>2031272</int>
+  </void>
+  <void property="end">
+   <int>2031354</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Wurtzel et al. 2012)</string>
+    <string>rli131</string>
+   </void>
+   <void method="put">
+    <string>from (Wurtzel et al. 2012)</string>
+    <string>2031272</string>
+   </void>
+   <void method="put">
+    <string>to (Wurtzel et al. 2012)</string>
+    <string>2031354</string>
+   </void>
+   <void method="put">
+    <string>length (Wurtzel et al. 2012)</string>
+    <string>83</string>
+   </void>
+   <void method="put">
+    <string>strand (Wurtzel et al. 2012)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Wurtzel et al. 2012)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Inocua presence (Wurtzel et al. 2012)</string>
+    <string>2</string>
+   </void>
+   <void method="put">
+    <string>note (Wurtzel et al. 2012)</string>
+    <string></string>
+   </void>
+   <void method="put">
+    <string>ref (Wurtzel et al. 2012)</string>
+    <string>Here</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Wurtzel et al. 2012</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>131</string>
+  </void>
+  <void property="length">
+   <int>83</int>
+  </void>
+  <void property="name">
+   <string>rli131</string>
+  </void>
+  <void property="ref">
+   <string>Wurtzel et al. 2012</string>
+  </void>
+ </object>
+</java>

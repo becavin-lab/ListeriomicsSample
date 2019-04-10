@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>689825</int>
+  </void>
+  <void property="end">
+   <int>690364</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>lmo0647-T1</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>690364</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>689825</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>539</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>false</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>Transcript (Toledo-Arana et al. 2009)</string>
+    <string>T1</string>
+   </void>
+   <void method="put">
+    <string>Min transcript coverage (Toledo-Arana et al. 2009)</string>
+    <string>834</string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string>SigB box:gtttgtttgatgatttgatttaagtat, Increased in stationary phase, Decreased in blood, Decreased in sigB mutant</string>
+   </void>
+   <void method="put">
+    <string>Figure (Toledo-Arana et al. 2009)</string>
+    <string>Fig.S15</string>
+   </void>
+   <void method="put">
+    <string>Type (Toledo-Arana et al. 2009)</string>
+    <string>Overlapping 5&apos;-UTR</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>211</string>
+  </void>
+  <void property="length">
+   <int>540</int>
+  </void>
+  <void property="name">
+   <string>anti0648-T1</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+  <void property="synonym">
+   <void method="add">
+    <string>lmo0647-T1</string>
+   </void>
+  </void>
+  <void property="typeSrna">
+   <object class="java.lang.Enum" method="valueOf">
+    <class>bacnet.datamodel.sequence.Srna$TypeSrna</class>
+    <string>ASrna</string>
+   </object>
+  </void>
+ </object>
+</java>

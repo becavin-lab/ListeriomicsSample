@@ -1,0 +1,38 @@
+name	start	end	comment
+rli22	2811952	2812062	low/no coverage (10403S GEI = 0.0)
+rli23	72147	72184	antisense
+rli25	-1000000	-1000000	no homolog in 10403S
+rli26	286877	287064	overlaps with LMRG_00052
+rli27	333212	333310	did not match criteia of 100 bp of contiguous coverage
+rli28	-1000000	-1000000	no homolog in10403S
+rli29	-1000000	-1000000	no homolog in 10403S
+rli33	589718	590253	overlaps with LMRG_02876 (antisense)
+rli34	684374	684457	low/no coverage (10403S GEI = 0.0)
+rli35	-1000000	-1000000	no homolog in 10403S
+rli36	739623	739706	antisense
+rli37	787724	787980	overlaps with LMRG_02290
+rli38	-1000000	-1000000	no homolog in 10403S
+rli40	1133681	1133944	overlaps with LMRG_00698
+rli41	1134850	1135342	overlaps with LMRG_00701
+rli43	1706735	1707038	did not match criteia of 100 bp of contiguous coverage
+rli45	2000113	2000190	overlaps with LMRG_02927
+rli46	2000103	2000396	antisense
+rli48	-1000000	-1000000	no homolog in 10403S
+rli49	2496996	2497181	antisense
+rli50	-1000000	-1000000	no homolog in EGD-e
+rli52	431565	431659	did not match criteia of 100 bp of contiguous coverage
+rli54	959555	960082	partial overlap with LMRG_00514
+rli55	1056234	1056513	partial overlap with LMRG_00616
+rli56	1057985	1058084	did not match criteia of 100 bp of contiguous coverage
+rli58	1498087	1498260	overlaps with LMRG_02946
+rli60	1899464	1899647	low/no coverage (10403S GEI = 0.54)
+rli61	2122298	2122403	low/no coverage (10403S GEI = 0.0)
+rli62	-1000000	-1000000	no homolog in 10403S
+rli63	-1000000	2450017	"overlap with LMRG_02910 (antisense); and overlaps with sbrD"
+rliA	392435	392658	low/no coverage (10403S GEI = 0.0)
+sbrC	1406547	1406619	low/no coverage (10403S GEI = 0.0)
+rliE	1442719	1442941	low/no coverage (10403S GEI = 0.0)
+rliF	1951412	1951631	low/no coverage (10403S GEI = 0.0)
+rliG	2232543	2232820	low/no coverage (10403S GEI = 0.39)
+rliC	-1000000	-1000000	no homolog in 10403S
+LhrC-1	-1000000	-1000000	region not sequenced in 10403S

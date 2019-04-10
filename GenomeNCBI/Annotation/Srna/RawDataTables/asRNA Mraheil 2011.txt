@@ -1,0 +1,30 @@
+No	ID	Start	End	Strand	Intracellular nb read	Extracellular nb read	Intracellulaire	Extracellulaire	Name	IC	EC	Rfam	Description
+89	anti0043	48500	48637	-	16	0				x			
+90	anti0360	388392	388640	-	13	17				x	x		"rli26; 3' overlap"
+91	anti0469	506019	506103	-	16	0							
+92	anti0647-1	689600	689666	+	20	0							
+93	anti0647-2	689792	689865	+	10	0				x			
+94	anti0648-1	689932	689996	-	49	0							
+95	anti0648-2	690044	690350	-	59	0				x			
+96	anti0796	823682	823884	+	23	0							
+97	anti0943	979023	979137	-	26	0				x			5' overlap
+98	anti0945	981201	981315	-	6	13							3' overlap
+99	anti0946	981423	981635	-	20	17	x	x	sigB	x	x		3' overlap
+100	anti0977	1008851	1008902	+	12	9							5' overlap
+101	anti1457	1490369	1490461	+	0	13							
+102	anti1479	1513590	1513639	+	14	0							
+103	anti1670	1724308	1724381	-	0	16					x		
+104	anti1749	1819048	1819127	-	15	0				x			
+105	anti1758	1829176	1829234	+	23	0							
+106	anti1967	2041537	2041655	-	11	0							
+107	anti1974	2047165	2047238	+	13	0							
+108	anti2095	2175053	2175248	+	18	17							"rli68; NB verification"
+109	anti2224	2314340	2314423	+	11	0							5' overlap
+110	anti2260	2347506	2347705	+	0	13							3' overlap
+111	anti2263	2349964	2350025	-	17	11							
+112	anti2270	2360500	2360555	-	13	0	x		sigB	x			
+113	anti2271	2360820	2360930	+	23	0							
+114	anti2394	2468111	2468342	+	14	19	x	x	sigA	x	x		"rli69; 3' overlap;NB verification"
+115	anti2415	2486369	2486419	+	20	0							
+116	anti2428	2497968	2498018	+	0	14					x		
+117	anti2530	2608022	2608077	+	13	0							

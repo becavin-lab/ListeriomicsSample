@@ -1,0 +1,101 @@
+ID	Start	Stop	Strand	ref	comment	Mellin comment	NB Verification
+rli22	31997	32107	0	Toledo-Arana et al	Seen in a previous study but no TSS seen in our study		
+rli115	77597	77863	0	Here	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	only present in one condition, low reads	
+rli116	143795	144000	0	Here			
+rli117	145571	145841	0	Here	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	only present in one condition, low reads	
+rli118	199775	199884	0	Here	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	only present in one condition, low reads	
+rli72	200410	200519	0	Mraheil et al	TSS seen, but not listed in our study	Intergenic region of bicistronic lmo0196 and lmo0197 transcript.  Likely an alternative start site for lmo0197	
+rli120	226546	226640	0	Here		only present in one condition, low reads	
+LhrC-1	231884	231994	0	Christiansen et al, Mraheil			X
+LhrC-2	232086	232197	0	Christiansen et al, Mraheil			X
+LhrC-3	232289	232400	0	Christiansen et al, Mraheil			X
+LhrC-4	232492	232605	0	Christiansen et al, Mraheil			X
+rli24	271014	271160	0	Toledo-Arana et al, Mraheil			
+rli75	321290	321363	0	Mraheil et al	Seen in a previous study but no TSS seen in our study		
+rli26	388590	388707	-0	Toledo-Arana et al	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	I believe this one, but it doesn't meet the strict criteria	
+rli27	434817	434929	0	Toledo-Arana et al, Mraheil	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	I believe this one, but it doesn't meet the strict criteria	
+rli122	507080	507161	-0	Here			
+rli78	507068	507473	0	Mraheil et al		RatA homologue in Rfam, homologue of Rli112, possibly derived from the rli28 transcript	X
+rli28	507190	507372	-0	Toledo-Arana et al, Mraheil		Homolog of rli50	
+rli29	507450	507632	-0	Toledo-Arana et al, Mraheil	Potential Small ORF		X
+rliA	513584	513807	0	Mandin et al., Toledo-Arana et al	Seen in a previous study but no TSS seen in our study		X
+rli65	531148	531266	0	Oliver et al, Mraheil			
+rliB	544238	544716	0	Mandin et al, Toledo-Arana			X
+rli52	552313	552417	-0	Toledo-Arana et al			
+rli31	597806	597926	0	Toledo-Arana et al			X
+rli32	600620	600750	-0	Toledo-Arana et al			X
+rli79	696818	696880	0	Mraheil et al	Seen in a previous study but no TSS seen in our study	Likely an intergenic region of the bicistronic lmo0654-lmo0655 transcript	
+rli33-1	708309	708494	0	Toledo-Arana et al, Mraheil	Seen in a previous study but no TSS seen in our study		X
+rli33-2	708618	708860	0	Toledo-Arana et al, Mraheil	Potential Small ORF		
+rli80	787038	787254	0	Mraheil et al			X
+rli34	803031	802948	-0	Toledo-Arana et al			
+rli36	859425	859521	-0	Toledo-Arana et al			
+rli123	862938	863241	0	Here			
+rli37	907526	907832	0	Toledo-Arana et al	Potential Small ORF	Identified as a Ldr/Fst toxin homologue by Fozo et al.	
+rli83	926922	927039	0	Mraheil et al	Seen in a previous study but no TSS seen in our study	Likely an intergenic region of multicistronic transcript	
+LhrC-5	981621	981731	0	Christiansen et al			X
+rli124	1057361	1057621	-0	Here			
+rli38	1152549	1152890	0	Toledo-Arana et al	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	I believe this one, but it doesn't meet the strict criteria	
+rliC	1154414	1154674	0	Toledo-Arana et al, Mraheil	Seen in a previous study but no TSS seen in our study		X
+rli125	1154319	1154671	-0	Here	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	This also overlaps rli85	
+rli85	1154617	1154762	-0	Mraheil et al	Seen in a previous study but no TSS seen in our study	This is partially included in rli125	
+rli126	1159877	1160115	0	Here			
+rli86	1272592	1272662	0	Mraheil et al			
+rli40	1275575	1275794	-0	Toledo-Arana et al	Potential Small ORF	This is a 64 AA annotated ORF in L. innocua	X
+rli41	1276713	1277206	-0	Toledo-Arana et al, Mraheil	Potential Small ORF		
+rli87	1301287	1301551	0	Mraheil et al			
+rliD	1359529	1359202	-0	Mandin et al., Toledo-Arana et al	Seen in a previous study but no TSS seen in our study	Potential asRNA	X
+sbrA	1399365	1399616	0	Nielsen et al, Toledo-Arana, Mraheil		sense/antisense pair with rli42	X
+rli42	1399461	1399616	-0	Toledo-Arana et al, Mraheil		sense/antisense pair with sbrA	
+rli89	1399490	1399656	0	Mraheil et al	Seen in a previous study but no TSS seen in our study	This is  likely a breakdown product of sbrA	
+rli127	1473701	1473829	-0	Here			
+ssrS-6S	1546336	1546531	-0				X
+rliE	1584586	1584808	0	Mandin et al., Toledo-Arana et al	Seen in a previous study but no TSS seen in our study	Potential asRNA	X
+rli129	1613300	1613451	-0	Here		There is a terminator in the middle of this sRNA transcript	
+rli58	1639915	1640132	-0	Toledo-Arana et al, Mraheil			
+rli93	1641179	1641239	0	Mraheil et al	Seen in a previous study but no TSS seen in our study	Potential asRNA	
+rli43	1861377	1861533	-0	Toledo-Arana et al	Potential Small ORF		
+rnpB-RNase P	1961807	1962188	-0				X
+rli130	2008753	2008871	-0	Here			
+rli94	2039079	2039300	-0	Mraheil et al		rli94 is a RatA homologue in Rfam, sense/antisense pair with rli44	
+rli44	2039087	2039375	0	Toledo-Arana et al, Mraheil	Potential Small ORF	rli44 is a RatA homologue in Rfam, sense/antisense pair with rli94	
+rli60	2054162	2054501	0	Toledo-Arana et al, Mraheil			
+rliF	2106292	2106073	-0	Mandin et al., Toledo-Arana et al	Seen in a previous study but no TSS seen in our study		X
+rli95	2106222	2106324	-0	Mraheil et al	Seen in a previous study but no TSS seen in our study	Overlaps with RliF	
+rli132	2109721	2109972	-0	Here			
+rli133	2145524	2145648	-0	Here			
+rli45	2154765	2154852	0	Toledo-Arana et al, Mraheil		Rli45 is a RatA homologue in Rfam, sense/antisense pair with rli46	
+rli46	2154850	2155058	-0	Toledo-Arana et al, Mraheil	Potential Small ORF	Rli46 is a RatA homologue in Rfam, sense/antisense pair with rli45	
+rli135	2213168	2213213	-0	Here			
+rli47	2226036	2226481	0	Toledo-Arana et al, Mraheil			
+rli138	2286256	2286586	-0	Here			
+rli139	2293286	2293472	0	Here	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	I see no TSS for this	
+rli140	2321818	2322026	0	Here		sense/antisense pair with rli140	
+rli141	2321818	2321967	-0	Here		sense/antisense pair with rli141	
+LhrA	2346166	2346382	-0	Christiansen et al	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	I see no TSS for this	X
+rli48	2361274	2361405	-0	Toledo-Arana et al, Mraheil		sense/antisense pair with rli98	
+rli98	2361329	2361581	0	Mraheil et al	Potential Small ORF	sense/antisense pair with rli48	
+rliG	2386785	2386992	-0	Mandin et al, Toledo-Arana, Mraheil	Potential Small ORF, Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)		X
+rli142	2395032	2395244	-0	Here		sense/antisense pair with rli99	
+rli99	2395032	2395236	0	Mraheil et al		sense/antisense pair with rli142	
+rli143	2399283	2399512	0	Here			
+rli100	2424807	2424866	-0	Mraheil et al	Potential Small ORF, Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	I see no TSS for this	
+ssrA-tmRNA	2509852	2510220	-0				X
+rli105	2533481	2533615	-0	Mraheil et al			
+rli144	2569572	2569681	0	Here			
+rli145	2584861	2585032	-0	Here			
+rli106	2594561	2594785	-0	Mraheil et al	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	only present in one condition, low reads	
+rli63	2612921	2613300	-0	Toledo-Arana et al, Mraheil			
+rli107	2632700	2632770	-0	Mraheil et al	Seen in a previous study but no TSS seen in our study		
+rli108	2639710	2639789	-0	Mraheil et al			
+rli146	2640531	2640819	-0	Here			
+rli49	2660210	2660350	0	Toledo-Arana et al	Doesn't appear to meet our criteria in the browser (>10 reads or present in 2 or more conditions)	only present in one condition, low reads	
+rli109	2694509	2694694	-0	Mraheil et al			
+rli110	2730489	2730555	0	Mraheil et al	Seen in a previous study but no TSS seen in our study	Potential asRNA	
+rli111	2736457	2736640	0	Mraheil et al		Potential asRNA	
+rli112	2782978	2783221	0	Mraheil et al		Not noted, but Rli112 is a likely RatA homologues as Rli78 is, sense/antisense pair with rli50	X
+rli50	2783050	2783264	-0	Toledo-Arana et al, Mraheil		Not noted, but Rli50 is a likely RatA homologues as Rli78 is, sense/antisense pair with rli112	X
+small SRP	2784311	2784413	-0				
+large SRP	2784413	2784775	-0				
+rli147	2794580	2794741	-0	Here			
+rliI	2841980	2842199	-0	Mandin et al			X

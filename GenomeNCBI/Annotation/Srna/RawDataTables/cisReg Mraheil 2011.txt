@@ -1,0 +1,34 @@
+No	ID	Start	End	Strand	Intracellular nb read	Extracellular nb read	Intracellulaire	Extracellulaire	Name	IC	EC	Rfam
+118	SAM	137099	137205	+	10	2				x	x	SAM
+119	T-box	258552	258802	+	6	16	x	x	sigA	x	x	
+120	L10	266236	266368	+	7	160						L10_leader
+121	SAM	309210	309408	-	115	165				x	x	SAM
+122	TPP1	340078	340255	+	28	208				x	x	TPP
+123	Purine	610929	611100	-	5	15						Purine
+124	SAM	637762	637942	-	70	88				x	x	SAM
+125	glms	756425	756482	+	11	2	x	x	sigA			
+126	Lysine	826431	826710	-	0	27		x	sigB		x	Lysine
+127	SAM	882758	882925	+	16	43	x	x	sigA	x	x	SAM
+128	yybP-ykoY	1021442	1021618	+	5	15	x	x	sigA	x	x	yybP-ykoY
+129	T-box	1240764	1241019	+	241	130	x	x	sigA			T-box
+130	TPP	1461102	1461291	-	61	148						TPP
+131	T-box	1494067	1494286	-	197	293				x	x	T-box
+132	T-box	1535161	1535409	-	86	49				x	x	T-box
+133	T-box	1553943	1554209	-	197	457				x	x	T-box
+134	L21	1577076	1577162	-	17	95						L21_leader
+135	T-box	1588879	1589139	-	12	30				x	x	T-box
+136	T-box	1597192	1597455	-	40	88				x	x	T-box
+137	T-box	1642569	1642828	-	262	598						T-box
+138	T-box	1676622	1676916	-	68	401						T-box
+139	T-box	1711308	1711555	-	27	100				x	x	T-box
+140	SAM	1716475	1716665	-	5	226				x	x	SAM
+141	SAM	1739418	1739635	-	157	160				x	x	SAM
+142	PyrR	1917472	1917580	-	3	11						PyrR
+143	PyrR	1918173	1918271	-	6	25						PyrR
+144	Purine	1958760	1958922	-	7	43				x	x	Purine
+145	FMN	2020365	2020623	-	38	243				x	x	FMN
+146	T-box	2099978	2100218	-	21	132				x	x	T-box
+147	T-box	2287219	2287483	+	54	307	x	x	sigA	x	x	T-box
+148	SAM	2491006	2491227	-	15	48				x	x	SAM
+149	ykoK	2765879	2766128	-	182	261				x	x	ykoK
+150	T-box	2823222	2823485	-	127	299				x	x	T-box

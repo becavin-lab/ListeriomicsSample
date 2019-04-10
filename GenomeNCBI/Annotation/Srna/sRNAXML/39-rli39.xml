@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_73" class="java.beans.XMLDecoder">
+ <object class="bacnet.datamodel.sequence.Srna" id="Srna0">
+  <void property="begin">
+   <int>1179807</int>
+  </void>
+  <void property="end">
+   <int>1179993</int>
+  </void>
+  <void property="features">
+   <void method="put">
+    <string>name (Toledo-Arana et al. 2009)</string>
+    <string>rli39</string>
+   </void>
+   <void method="put">
+    <string>from (Toledo-Arana et al. 2009)</string>
+    <string>1179807</string>
+   </void>
+   <void method="put">
+    <string>to (Toledo-Arana et al. 2009)</string>
+    <string>1179993</string>
+   </void>
+   <void method="put">
+    <string>length (Toledo-Arana et al. 2009)</string>
+    <string>187</string>
+   </void>
+   <void method="put">
+    <string>strand (Toledo-Arana et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Toledo-Arana et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>feature (Toledo-Arana et al. 2009)</string>
+    <string>sRNA</string>
+   </void>
+   <void method="put">
+    <string>note (Toledo-Arana et al. 2009)</string>
+    <string>In Rfam Annotated as Cobalamin riboswitch.</string>
+   </void>
+   <void method="put">
+    <string>ref (Toledo-Arana et al. 2009)</string>
+    <string>Toledo, 2009</string>
+   </void>
+   <void method="put">
+    <string>name (Oliver et al. 2009)</string>
+    <string>rli39</string>
+   </void>
+   <void method="put">
+    <string>from (Oliver et al. 2009)</string>
+    <string>1179809</string>
+   </void>
+   <void method="put">
+    <string>to (Oliver et al. 2009)</string>
+    <string>1179999</string>
+   </void>
+   <void method="put">
+    <string>length (Oliver et al. 2009)</string>
+    <string>191</string>
+   </void>
+   <void method="put">
+    <string>strand (Oliver et al. 2009)</string>
+    <string>true</string>
+   </void>
+   <void method="put">
+    <string>type (Oliver et al. 2009)</string>
+    <string>Srna</string>
+   </void>
+   <void method="put">
+    <string>10403S Average GEI (Oliver et al. 2009)</string>
+    <string>3.94</string>
+   </void>
+   <void method="put">
+    <string>Delta_sigB Average GEI (Oliver et al. 2009)</string>
+    <string>1.99</string>
+   </void>
+   <void method="put">
+    <string>FC range (10403S/Delta_sigB) (Oliver et al. 2009)</string>
+    <string>1.75-2</string>
+   </void>
+  </void>
+  <void property="foundIn">
+   <void method="add">
+    <string>Toledo-Arana et al. 2009</string>
+   </void>
+   <void method="add">
+    <string>Oliver et al. 2009</string>
+   </void>
+  </void>
+  <void property="id">
+   <string>39</string>
+  </void>
+  <void property="length">
+   <int>187</int>
+  </void>
+  <void property="name">
+   <string>rli39</string>
+  </void>
+  <void property="ref">
+   <string>Toledo-Arana et al. 2009</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,2 @@
+Genome	NetworkName	NbData
+Listeria monocytogenes EGD-e	Network_CoExpr_ListData_Listeria monocytogenes EGD-e	5

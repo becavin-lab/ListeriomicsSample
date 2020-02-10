@@ -1,0 +1,3 @@
+"blastp" -query /pasteur/homes/cbecavin/ListeriomicsSample/BLASTDB/_fileGenomePivot -db /pasteur/homes/cbecavin/ListeriomicsSample/BLASTDB/_databaseTarget -out /pasteur/homes/cbecavin/ListeriomicsSample/Results/_blastP_VS_T -evalue 0.01 -max_target_seqs 1 -outfmt "6 qseqid sseqid qlen slen length nident positive evalue bitscore"
+"blastp" -query /pasteur/homes/cbecavin/ListeriomicsSample/BLASTDB/_fileGenomeTarget -db /pasteur/homes/cbecavin/ListeriomicsSample/BLASTDB/_databasePivot -out /pasteur/homes/cbecavin/ListeriomicsSample/Results/_blastT_VS_P -evalue 0.01 -max_target_seqs 1 -outfmt "6 qseqid sseqid qlen slen length nident positive evalue bitscore"
+echo _fileGenomePivot VS _fileGenomeTarget Blast search completed

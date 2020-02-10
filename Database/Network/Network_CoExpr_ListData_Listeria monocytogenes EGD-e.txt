@@ -1,0 +1,5 @@
+BHI_2014_EGDe[RNASeq]
+EGD_WT[Tiling]
+EGDe_280212[Tiling]
+Macrophages_2014_EGDe[RNASeq]
+prfA_Star[Tiling]

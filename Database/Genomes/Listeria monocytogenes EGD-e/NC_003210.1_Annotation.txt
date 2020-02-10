@@ -1149,8 +1149,8 @@ Term_lmo0646	689467.0	689495.0	29.0	+	terminator		lmo0646
 anti0647-1	689529.0	689828.0	300.0	+	Srna	Mraheil et al. 2011	
 anti0647-2	689530.0	689922.0	393.0	+	Srna	Toledo-Arana et al. 2009	
 lmo0647	689541.0	689825.0	285.0	-	Gene		
-anti0648-T2	689825.0	689861.0	37.0	-	Srna	Toledo-Arana et al. 2009	
 anti0648-T1	689825.0	690364.0	540.0	-	Srna	Toledo-Arana et al. 2009	
+anti0648-T2	689825.0	689861.0	37.0	-	Srna	Toledo-Arana et al. 2009	
 lmo0648	689923.0	690873.0	951.0	+	Gene		
 anti0648-1	689932.0	689996.0	65.0	-	Srna	Mraheil et al. 2011	
 anti0648-2	690044.0	690350.0	307.0	-	Srna	Mraheil et al. 2011	
@@ -1203,8 +1203,8 @@ Term_lmo0672	709571.0	709595.0	25.0	+	terminator		lmo0672
 Term_lmo0673	709571.0	709595.0	25.0	-	terminator		lmo0673
 lmo0673	709601.0	709810.0	210.0	-	Gene		
 lmo0674	709829.0	710749.0	921.0	-	Gene		
-MogR-T2	710749.0	710794.0	46.0	-	Srna	Toledo-Arana et al. 2009	
 MogR-T1	710749.0	712446.0	1698.0	-	Srna	Toledo-Arana et al. 2009	
+MogR-T2	710749.0	710794.0	46.0	-	Srna	Toledo-Arana et al. 2009	
 lmo0675	711121.0	711435.0	315.0	+	Gene		
 lmo0676	711428.0	712195.0	768.0	+	Gene		fliP
 anti0675	712148.0	712447.0	300.0	-	Srna	Wurtzel et al. 2012	
@@ -3870,8 +3870,8 @@ lmo2323	2395798.0	2396331.0	534.0	-	Gene
 Term_lmo2324	2396371.0	2396386.0	16.0	-	terminator		lmo2324
 lmo2324	2396454.0	2397230.0	777.0	-	Gene		
 lmo2325	2397212.0	2397487.0	276.0	-	Gene		
-anti2325-2	2397280.0	2398275.0	996.0	+	Srna	Toledo-Arana et al. 2009	
 anti2325-1	2397280.0	2397544.0	265.0	+	Srna	Toledo-Arana et al. 2009	
+anti2325-2	2397280.0	2398275.0	996.0	+	Srna	Toledo-Arana et al. 2009	
 lmo2325a	2397294.0	2397491.0	198.0	+	Gene		
 lmo2326	2397493.0	2397774.0	282.0	-	Gene		
 lmo2327	2397800.0	2398084.0	285.0	-	Gene		

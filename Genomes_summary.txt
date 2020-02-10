@@ -1,0 +1,4 @@
+Strain	Length	Nb Chromosomes	CDS	rRNA and tRNA	
+Listeria monocytogenes EGD-e	2944528	1	2867	85	
+Listeria monocytogenes EGD	2907193	1	2877	88	
+Listeria monocytogenes 10403S	2903106	1	2867	88	

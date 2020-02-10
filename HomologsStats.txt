@@ -1,0 +1,4 @@
+Nb of protein Id not found in query genome in: 0
+Nb of protein Id with no homolog in target genome: 509
+Nb of protein Id with low similarity (<20%) in target genome: 74
+Nb of genomes in which homolog search was added: 3/3

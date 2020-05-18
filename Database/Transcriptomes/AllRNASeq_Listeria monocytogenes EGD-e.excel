@@ -1,4 +1,1648 @@
 GenomeElements	BHI_2014_EGDe[RNASeq]	Macrophages_2014_EGDe[RNASeq]	Strand	Begin	End	Length (bp)	Info	Description	Note	Supp Note	Operon	COG	StartCodon	SD energy
+AdoCbl_riboswitch	4.3976500497165	2.8189530429074754	+	1198103	1198252	150	CisReg	Rfam		Rfam 2012;				
+Cobalamin	-1.932887358684586	-2.337012016689997	+	1179809	1179999	191	CisReg	Rfam	Cobalamin 1, 	Rfam 2012;				
+Cobalamin 2	-3.0664230239504575	-3.2080635881379833	+	1216481	1216658	178	CisReg	Rfam		Rfam 2012;				
+FMN	5.815190315593613	4.678302162987258	-	2020487	2020609	123	CisReg	Rfam		Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+Glycine	1.3773192665539353	0.9392472766251876	+	1372840	1372931	92	CisReg	Rfam		Toledo-Arana et al. 2009;Rfam 2012;				
+L10	7.4423230647019665	8.093158693611253	+	266232	266375	144	CisReg	Rfam	L10_leader, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+L13	6.0033180473401035	5.06708520846019	-	2685181	2685233	53	CisReg	Rfam	L13_leader, 	Toledo-Arana et al. 2009;Rfam 2012;				
+L17DE	2.724716867902835	4.377294334002913	-	2691575	2691650	76	CisReg	Rfam		Rfam 2012;				
+L19	9.868609792713384	9.575658746757904	-	1862270	1862308	39	CisReg	Rfam		Toledo-Arana et al. 2009;				
+L20	6.697017222294265	7.862115285041938	-	1859870	1860008	139	CisReg	Rfam	L20_leader, 	Rfam 2012;				
+L21	8.449455597515316	8.800728454400028	-	1577068	1577146	79	CisReg	Rfam	L21_leader, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+Lysine	5.405662630000796	4.2713084198917635	-	826486	826683	198	CisReg	Rfam		Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+M-box	3.2292525180207807	2.409142268781295	-	2765940	2766104	165	CisReg	Rfam	ykoK, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+MogR-T1	1.674043100321759	2.663925826692047	-	710749	712446	1698	ASrna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;				
+MogR-T2	1.3882487914881105	2.5242097773463446	-	710749	710794	46	ASrna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;				
+Operon_001	0.0	0.0	+	318	3012	2695	2 genes	lmo0001(dnaA) lmo0002(dnaN) 						
+Operon_002	0.0	0.0	+	4644	10593	5950	4 genes	lmo0004() lmo0005(recF) lmo0006(gyrB) lmo0007(gyrA) 						
+Operon_003	0.0	0.0	+	10728	12776	2049	2 genes	lmo0008() lmo0009() 						
+Operon_004	0.0	0.0	+	12918	15874	2957	3 genes	lmo0010() lmo0011() lmo0012() 						
+Operon_005	0.0	0.0	+	16219	20256	4038	4 genes	lmo0013(qoxA) lmo0014(qoxB) lmo0015(qoxC) lmo0016(qoxD) 						
+Operon_006	0.0	0.0	+	24194	28895	4702	7 genes	lmo0020() lmo0021() lmo0022() lmo0023() lmo0024() lmo0025() lmo0026() 						
+Operon_007	0.0	0.0	-	32571	34452	1882	2 genes	lmo0030() lmo0031() 						
+Operon_008	0.0	0.0	+	43175	45223	2049	2 genes	lmo0038() lmo0039() 						
+Operon_009	0.0	0.0	+	49585	50753	1169	3 genes	lmo0044(rpsF) lmo0045(ssb) lmo0046(rpsR) 						
+Operon_010	0.0	0.0	+	51775	54672	2898	4 genes	lmo0048() lmo0049() lmo0050() lmo0051() 						
+Operon_011	0.0	0.0	+	54839	58638	3800	3 genes	lmo0052() lmo0053(rplI) lmo0054(dnaC) 						
+Operon_012	0.0	0.0	+	74239	76125	1887	3 genes	lmo0067() lmo0068() lmo0069() 						
+Operon_013	0.0	0.0	+	76262	78811	2550	5 genes	lmo0070() lmo0071() lmo0072() lmo0073() lmo0074() 						
+Operon_014	0.0	0.0	+	82959	86228	3270	4 genes	lmo0079() lmo0080() lmo0081() lmo0082() 						
+Operon_015	0.0	0.0	-	86323	87730	1408	2 genes	lmo0083() lmo0084() 						
+Operon_016	0.0	0.0	+	104134	106862	2729	3 genes	lmo0096() lmo0097() lmo0098() 						
+Operon_017	0.0	0.0	-	113313	116829	3517	2 genes	lmo0107() lmo0108() 						
+Operon_018	0.0	0.0	+	116972	118956	1985	2 genes	lmo0109() lmo0110() 						
+Operon_019	0.0	0.0	-	120654	121447	794	2 genes	lmo0113() lmo0114() 						
+Operon_020	0.0	0.0	+	121664	131380	9717	15 genes	lmo0115(lmaD) lmo0116(lmaC) lmo0117(lmaB) lmo0118(lmaA) lmo0119() lmo0120() lmo0121() lmo0122() lmo0123() lmo0124() lmo0125() lmo0126() lmo0127() lmo0128() lmo0129() 						
+Operon_021	0.0	0.0	+	136469	136992	524	2 genes	lmo0133() lmo0134() 						
+Operon_022	0.0	0.0	+	137323	140853	3531	3 genes	lmo0135() lmo0136() lmo0137() 						
+Operon_023	0.0	0.0	+	153608	156805	3198	2 genes	lmo0157() lmo0158() 						
+Operon_024	0.0	0.0	+	162467	166642	4176	6 genes	lmo0162() lmo0163() lmo0164() lmo0165() lmo0166() lmo0167() 						
+Operon_025	0.0	0.0	+	167086	169270	2185	2 genes	lmo0169() lmo0170() 						
+Operon_026	0.0	0.0	+	174834	177760	2927	2 genes	lmo0176() lmo0177(metS) 						
+Operon_027	0.0	0.0	+	192018	193473	1456	2 genes	lmo0187() lmo0188(ksgA) 						
+Operon_028	0.0	0.0	+	193989	195629	1641	2 genes	lmo0190(ipk) lmo0191() 						
+Operon_029	0.0	0.0	+	196786	199409	2624	3 genes	lmo0193() lmo0194() lmo0195() 						
+Operon_030	0.0	0.0	+	200094	200830	737	2 genes	lmo0196() lmo0197() 						
+Operon_031	0.0	0.0	+	201217	203597	2381	2 genes	lmo0198(glmU) lmo0199(prs) 						
+Operon_033	0.0	0.0	+	207739	213285	5547	5 genes	lmo0203(mpl) lmo0204(actA) lmo0205(plcB) lmo0206() lmo0207() 						
+Operon_034	0.0	0.0	+	216434	223261	6828	5 genes	lmo0212() lmo0213(pth) lmo0214(mfd) lmo0215() lmo0216() 						
+Operon_035	0.0	0.0	+	223490	224455	966	2 genes	lmo0217() lmo0218() 						
+Operon_036	0.0	0.0	+	229045	230724	1680	2 genes	lmo0221() lmo0222(hslO) 						
+Operon_037	0.0	0.0	+	232662	237020	4359	5 genes	lmo0224(sul) lmo0225(folA) lmo0226(folK) lmo0227() lmo0228(lysS) 						
+Operon_038	0.0	0.0	+	248555	253054	4500	4 genes	lmo0229() lmo0230() lmo0231() lmo0232(clpC) 						
+Operon_039	0.0	0.0	+	254707	258458	3752	4 genes	lmo0234() lmo0235(ispD) lmo0236(ispF) lmo0237(gltX) 						
+Operon_040	0.0	0.0	+	258856	263262	4407	6 genes	lmo0238(cysE) lmo0239(cysS) lmo0240() lmo0241() lmo0242() lmo0243(sigH) 						
+Operon_041	0.0	0.0	+	263366	263714	349	2 genes	lmo0244(rpmG) lmo0245(secE) 						
+Operon_042	0.0	0.0	+	265029	266183	1155	2 genes	lmo0248(rplK) lmo0249(rplA) 						
+Operon_043	0.0	0.0	+	266431	267372	942	2 genes	lmo0250(rplJ) lmo0251(rplL) 						
+Operon_044	0.0	0.0	+	267530	268949	1420	2 genes	lmo0252() lmo0253() 						
+Operon_045	0.0	0.0	+	273003	280333	7331	2 genes	lmo0258(rpoB) lmo0259(rpoC) 						
+Operon_046	0.0	0.0	+	289139	291228	2090	3 genes	lmo0266() lmo0267() lmo0268() 						
+Operon_047	0.0	0.0	-	293212	295281	2070	2 genes	lmo0270() lmo0271() 						
+Operon_048	0.0	0.0	-	297810	299490	1681	2 genes	lmo0275() lmo0276() 						
+Operon_049	0.0	0.0	+	302008	304684	2677	2 genes	lmo0279() lmo0280() 						
+Operon_050	0.0	0.0	-	305775	309155	3381	4 genes	lmo0282() lmo0283() lmo0284() lmo0285() 						
+Operon_051	0.0	0.0	+	311830	315823	3994	3 genes	lmo0288() lmo0289() lmo0290() 						
+Operon_052	0.0	0.0	+	315945	318375	2431	2 genes	lmo0291() lmo0292() 						
+Operon_053	0.0	0.0	+	327621	328495	875	2 genes	lmo0302() lmo0303() 						
+Operon_054	0.0	0.0	+	328701	330999	2299	2 genes	lmo0304() lmo0305() 						
+Operon_055	0.0	0.0	+	340278	343195	2918	4 genes	lmo0315() lmo0316() lmo0317() lmo0318(thiE) 						
+Operon_056	0.0	0.0	+	367248	369757	2510	4 genes	lmo0335() lmo0336() lmo0337() lmo0338() 						
+Operon_057	0.0	0.0	+	370032	370634	603	2 genes	lmo0339() lmo0340() 						
+Operon_058	0.0	0.0	-	371130	378781	7652	10 genes	lmo0342() lmo0343() lmo0344() lmo0345() lmo0346() lmo0347() lmo0348() lmo0349() lmo0350() lmo0351() 						
+Operon_059	0.0	0.0	+	384926	386780	1855	2 genes	lmo0357() lmo0358() 						
+Operon_060	0.0	0.0	+	386780	388467	1688	2 genes	lmo0359() lmo0360() 						
+Operon_061	0.0	0.0	-	388807	389717	911	2 genes	lmo0361() lmo0362() 						
+Operon_062	0.0	0.0	+	391604	395529	3926	3 genes	lmo0365() lmo0366() lmo0367() 						
+Operon_063	0.0	0.0	+	395602	397299	1698	3 genes	lmo0368() lmo0369() lmo0370() 						
+Operon_064	0.0	0.0	+	398210	401299	3090	3 genes	lmo0372() lmo0373() lmo0374() 						
+Operon_065	0.0	0.0	+	406637	411860	5224	4 genes	lmo0383() lmo0384() lmo0385() lmo0386() 						
+Operon_066	0.0	0.0	+	411992	412825	834	2 genes	lmo0387() lmo0388() 						
+Operon_067	0.0	0.0	+	414928	416652	1725	3 genes	lmo0391() lmo0392() lmo0393() 						
+Operon_068	0.0	0.0	+	419544	426064	6521	5 genes	lmo0398() lmo0399() lmo0400() lmo0401() lmo0402() 						
+Operon_069	0.0	0.0	+	426190	426995	806	2 genes	lmo0403() lmo0404() 						
+Operon_070	0.0	0.0	+	427104	429403	2300	4 genes	lmo0405() lmo0406() lmo0407() lmo0408() 						
+PreQ1	2.1130595005162585	1.3924199047908017	+	907926	907973	48	CisReg	Rfam		Toledo-Arana et al. 2009;Rfam 2012;				
+PrfA	0.8894429345166683	3.9640033757107584	-	204339	204468	130	CisReg	Johansson et al. 2002		Toledo-Arana et al. 2009;Rfam 2012;				
+Purine-1	-0.03578424072416109	-1.4460837158374664	-	611017	611119	103	CisReg	Rfam	Purine, Purine 1, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+Purine-2	0.2413253503213557	-1.432008530625744	-	1958821	1958922	102	CisReg	Rfam	Purine, Purine 2, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+PyrR-1	3.3740895919548866	1.0266617433246195	-	1917471	1917574	104	CisReg	Rfam	PyrR, PyrR 1, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+PyrR-2	3.223568879517197	1.1351974992912552	-	1918154	1918262	109	CisReg	Rfam	PyrR, PyrR 2, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreA	2.605061620894686	0.8606446418861058	-	2490998	2491226	229	CisReg	Johansson et al. 2009	SAM, SAM 7, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreB	-0.8521129489118682	-2.2161459344358425	-	637762	637940	179	CisReg	Johansson et al. 2009	SAM, SAM 3, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreC	2.5028175913467443	0.39189031233843874	-	1716478	1716659	182	CisReg	Johansson et al. 2009	SAM, SAM 5, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreD	0.7197289657453814	0.9390470953670436	-	1739418	1739633	216	CisReg	Johansson et al. 2009	SAM, SAM 6, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreE	3.340523572321567	-0.6737779748164732	+	882759	882927	169	CisReg	Johansson et al. 2009	SAM, SAM 4, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreF	5.3381144680039885	4.263873310320227	-	309211	309408	198	CisReg	Johansson et al. 2009	SAM, SAM 2, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+SAM-SreG	4.283779524932081	4.770401935592169	+	137135	137294	160	CisReg	Johansson et al. 2009	SAM, SAM 1, 	Johansson 2009;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-1	3.512941808620452	2.3531391850177634	+	258548	258760	213	CisReg	KEGG DAS	T-box, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+T-box-10	3.2551968377353173	4.477023091901902	-	1711342	1711543	202	CisReg	Rfam	T-box, T-box 9, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-11	0.7378269502290955	1.8510894311728032	-	1809817	1810057	241	CisReg	Rfam	T-box, T-box 10, 	Toledo-Arana et al. 2009;Rfam 2012;				
+T-box-12	4.918685397952432	3.222481069062159	-	2100001	2100227	227	CisReg	Rfam	T-box, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+T-box-13	1.8741009414918839	2.0046354369946204	+	2287226	2287453	228	CisReg	Rfam	T-box, T-box 11, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-14	3.5982203686036396	1.2560818685532027	+	2668833	2669082	250	CisReg	Rfam	T-box, 	Toledo-Arana et al. 2009;				
+T-box-15	2.954153046353488	4.839635003020698	-	2823255	2823477	223	CisReg	Rfam	T-box, T-box 12, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-2	3.044173255152389	1.6379194203604195	+	1240774	1241002	229	CisReg	Rfam	T-box, T-box 1, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-3	2.0286729270442923	1.2208260829878714	-	1494104	1494276	173	CisReg	Rfam	T-box, T-box 2, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-4	3.2566071461022155	4.093801971916648	-	1553972	1554200	229	CisReg	Rfam	T-box, T-box 3, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Mraheil et al. 2011-2;Rfam 2012;				
+T-box-5	3.517435671847082	2.6210304455524334	-	1588901	1589127	227	CisReg	Rfam	T-box, T-box 4, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-6	3.3919225365176864	2.1841051261892837	-	1597218	1597448	231	CisReg	Rfam	T-box, T-box 5, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-7	3.2556350792318174	3.577118998434086	-	1642603	1642811	209	CisReg	Rfam	T-box, T-box 6, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+T-box-8	-0.34556249450633736	0.9645583651543745	-	1676392	1676617	226	CisReg	Rfam	T-box, T-box 7, 	Toledo-Arana et al. 2009;Rfam 2012;				
+T-box-9	5.165227932710971	3.8605592593211995	-	1676666	1676907	242	CisReg	Rfam	T-box, T-box 8, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+TPP-1	1.539467192344353	-0.265111221880999	+	340086	340191	106	CisReg	Rfam	TPP, TPP 1, TPP1, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+TPP-2	8.617475181316498	6.773927780504451	-	1461163	1461273	111	CisReg	Rfam	TPP, TPP 2, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+Term_accA	0.0	0.0												
+Term_ackA	0.0	0.0												
+Term_acpA	0.0	0.0												
+Term_acpD	0.0	0.0												
+Term_adk	0.0	0.0												
+Term_alsS	0.0	0.0												
+Term_ami	0.0	0.0												
+Term_ansB	0.0	0.0												
+Term_apt	0.0	0.0												
+Term_argF	0.0	0.0												
+Term_argH	0.0	0.0												
+Term_argS	0.0	0.0												
+Term_aroA	0.0	0.0												
+Term_aroD	0.0	0.0												
+Term_aroE	0.0	0.0												
+Term_aspS	0.0	0.0												
+Term_atpC	0.0	0.0												
+Term_atpE	0.0	0.0												
+Term_atpG	0.0	0.0												
+Term_betL	0.0	0.0												
+Term_birA	0.0	0.0												
+Term_bvrA	0.0	0.0												
+Term_bvrC	0.0	0.0												
+Term_cadA	0.0	0.0												
+Term_ccpA	0.0	0.0												
+Term_cinA	0.0	0.0												
+Term_citB	0.0	0.0												
+Term_citC	0.0	0.0												
+Term_citG	0.0	0.0												
+Term_clpC	0.0	0.0												
+Term_clpE	0.0	0.0												
+Term_clpP	0.0	0.0												
+Term_clpX	0.0	0.0												
+Term_cmk	0.0	0.0												
+Term_codY	0.0	0.0												
+Term_comEB	0.0	0.0												
+Term_comFA	0.0	0.0												
+Term_comFC	0.0	0.0												
+Term_comK'	0.0	0.0												
+Term_cspB	0.0	0.0												
+Term_cspD	0.0	0.0												
+Term_cspL	0.0	0.0												
+Term_ctaA	0.0	0.0												
+Term_ctaB	0.0	0.0												
+Term_ctc	0.0	0.0												
+Term_cydD	0.0	0.0												
+Term_cysE	0.0	0.0												
+Term_cysK	0.0	0.0												
+Term_daaA	0.0	0.0												
+Term_dal	0.0	0.0												
+Term_ddl	0.0	0.0												
+Term_def	0.0	0.0												
+Term_deoD	0.0	0.0												
+Term_divIB	0.0	0.0												
+Term_divIVA	0.0	0.0												
+Term_dltD	0.0	0.0												
+Term_dnaA	0.0	0.0												
+Term_dnaC	0.0	0.0												
+Term_dnaE	0.0	0.0												
+Term_dnaI	0.0	0.0												
+Term_dnaJ	0.0	0.0												
+Term_dnaK	0.0	0.0												
+Term_dnaN	0.0	0.0												
+Term_efp	0.0	0.0												
+Term_eno	0.0	0.0												
+Term_fabG	0.0	0.0												
+Term_fbaA	0.0	0.0												
+Term_fbp	0.0	0.0												
+Term_ffh	0.0	0.0												
+Term_fhuG	0.0	0.0												
+Term_flaA	0.0	0.0												
+Term_folC	0.0	0.0												
+Term_folE	0.0	0.0												
+Term_fri	0.0	0.0												
+Term_frr	0.0	0.0												
+Term_fruA	0.0	0.0												
+Term_ftsH	0.0	0.0												
+Term_ftsZ	0.0	0.0												
+Term_fur	0.0	0.0												
+Term_gap	0.0	0.0												
+Term_gatB	0.0	0.0												
+Term_gbuC	0.0	0.0												
+Term_gid	0.0	0.0												
+Term_gidA	0.0	0.0												
+Term_gidB	0.0	0.0												
+Term_glnA	0.0	0.0												
+Term_glnR	0.0	0.0												
+Term_glpD	0.0	0.0												
+Term_glpF	0.0	0.0												
+Term_gltC	0.0	0.0												
+Term_gltX	0.0	0.0												
+Term_glyA	0.0	0.0												
+Term_gpsA	0.0	0.0												
+Term_groEL	0.0	0.0												
+Term_gsaB	0.0	0.0												
+Term_gtcA	0.0	0.0												
+Term_guaA	0.0	0.0												
+Term_guaB	0.0	0.0												
+Term_gyrA	0.0	0.0												
+Term_gyrB	0.0	0.0												
+Term_hemB	0.0	0.0												
+Term_hemH	0.0	0.0												
+Term_hemL	0.0	0.0												
+Term_hemN	0.0	0.0												
+Term_hisC	0.0	0.0												
+Term_hisJ	0.0	0.0												
+Term_hly	0.0	0.0												
+Term_hup	0.0	0.0												
+Term_iap	0.0	0.0												
+Term_ileS	0.0	0.0												
+Term_ilvA	0.0	0.0												
+Term_ilvC	0.0	0.0												
+Term_ilvN	0.0	0.0												
+Term_inlA	0.0	0.0												
+Term_inlB	0.0	0.0												
+Term_inlC	0.0	0.0												
+Term_inlE	0.0	0.0												
+Term_inlG	0.0	0.0												
+Term_inlH	0.0	0.0												
+Term_int	0.0	0.0												
+Term_kat	0.0	0.0												
+Term_ldh	0.0	0.0												
+Term_lepA	0.0	0.0												
+Term_leuS	0.0	0.0												
+Term_lisK	0.0	0.0												
+Term_lmaA	0.0	0.0												
+Term_lmaC	0.0	0.0												
+Term_lmo0003	0.0	0.0												
+Term_lmo0009	0.0	0.0												
+Term_lmo0012	0.0	0.0												
+Term_lmo0017	0.0	0.0												
+Term_lmo0018	0.0	0.0												
+Term_lmo0019	0.0	0.0												
+Term_lmo0025	0.0	0.0												
+Term_lmo0026	0.0	0.0												
+Term_lmo0027	0.0	0.0												
+Term_lmo0028	0.0	0.0												
+Term_lmo0029	0.0	0.0												
+Term_lmo0030	0.0	0.0												
+Term_lmo0035	0.0	0.0												
+Term_lmo0039	0.0	0.0												
+Term_lmo0041	0.0	0.0												
+Term_lmo0042	0.0	0.0												
+Term_lmo0043	0.0	0.0												
+Term_lmo0047	0.0	0.0												
+Term_lmo0051	0.0	0.0												
+Term_lmo0056	0.0	0.0												
+Term_lmo0070	0.0	0.0												
+Term_lmo0071	0.0	0.0												
+Term_lmo0076	0.0	0.0												
+Term_lmo0077	0.0	0.0												
+Term_lmo0078	0.0	0.0												
+Term_lmo0081	0.0	0.0												
+Term_lmo0082	0.0	0.0												
+Term_lmo0083	0.0	0.0												
+Term_lmo0094	0.0	0.0												
+Term_lmo0095	0.0	0.0												
+Term_lmo0098	0.0	0.0												
+Term_lmo0099	0.0	0.0												
+Term_lmo0100	0.0	0.0												
+Term_lmo0101	0.0	0.0												
+Term_lmo0103	0.0	0.0												
+Term_lmo0104	0.0	0.0												
+Term_lmo0105	0.0	0.0												
+Term_lmo0106	0.0	0.0												
+Term_lmo0107	0.0	0.0												
+Term_lmo0110	0.0	0.0												
+Term_lmo0111	0.0	0.0												
+Term_lmo0112	0.0	0.0												
+Term_lmo0113	0.0	0.0												
+Term_lmo0114	0.0	0.0												
+Term_lmo0129	0.0	0.0												
+Term_lmo0130	0.0	0.0												
+Term_lmo0131	0.0	0.0												
+Term_lmo0132	0.0	0.0												
+Term_lmo0134	0.0	0.0												
+Term_lmo0135	0.0	0.0												
+Term_lmo0137	0.0	0.0												
+Term_lmo0144	0.0	0.0												
+Term_lmo0145	0.0	0.0												
+Term_lmo0148	0.0	0.0												
+Term_lmo0151	0.0	0.0												
+Term_lmo0152	0.0	0.0												
+Term_lmo0155	0.0	0.0												
+Term_lmo0158	0.0	0.0												
+Term_lmo0159	0.0	0.0												
+Term_lmo0160	0.0	0.0												
+Term_lmo0161	0.0	0.0												
+Term_lmo0164	0.0	0.0												
+Term_lmo0167	0.0	0.0												
+Term_lmo0168	0.0	0.0												
+Term_lmo0170	0.0	0.0												
+Term_lmo0171	0.0	0.0												
+Term_lmo0174	0.0	0.0												
+Term_lmo0175	0.0	0.0												
+Term_lmo0181	0.0	0.0												
+Term_lmo0184	0.0	0.0												
+Term_lmo0185	0.0	0.0												
+Term_lmo0186	0.0	0.0												
+Term_lmo0189	0.0	0.0												
+Term_lmo0191	0.0	0.0												
+Term_lmo0192	0.0	0.0												
+Term_lmo0195	0.0	0.0												
+Term_lmo0197	0.0	0.0												
+Term_lmo0206	0.0	0.0												
+Term_lmo0207	0.0	0.0												
+Term_lmo0208	0.0	0.0												
+Term_lmo0212	0.0	0.0												
+Term_lmo0216	0.0	0.0												
+Term_lmo0217	0.0	0.0												
+Term_lmo0218	0.0	0.0												
+Term_lmo0219	0.0	0.0												
+Term_lmo0221	0.0	0.0												
+Term_lmo0222	0.0	0.0												
+Term_lmo0227	0.0	0.0												
+Term_lmo0233	0.0	0.0												
+Term_lmo0247	0.0	0.0												
+Term_lmo0253	0.0	0.0												
+Term_lmo0255	0.0	0.0												
+Term_lmo0256	0.0	0.0												
+Term_lmo0257	0.0	0.0												
+Term_lmo0261	0.0	0.0												
+Term_lmo0265	0.0	0.0												
+Term_lmo0268	0.0	0.0												
+Term_lmo0269	0.0	0.0												
+Term_lmo0270	0.0	0.0												
+Term_lmo0272	0.0	0.0												
+Term_lmo0273	0.0	0.0												
+Term_lmo0274	0.0	0.0												
+Term_lmo0275	0.0	0.0												
+Term_lmo0276	0.0	0.0												
+Term_lmo0277	0.0	0.0												
+Term_lmo0278	0.0	0.0												
+Term_lmo0280	0.0	0.0												
+Term_lmo0281	0.0	0.0												
+Term_lmo0282	0.0	0.0												
+Term_lmo0283	0.0	0.0												
+Term_lmo0285	0.0	0.0												
+Term_lmo0287	0.0	0.0												
+Term_lmo0290	0.0	0.0												
+Term_lmo0291	0.0	0.0												
+Term_lmo0292	0.0	0.0												
+Term_lmo0293	0.0	0.0												
+Term_lmo0294	0.0	0.0												
+Term_lmo0295	0.0	0.0												
+Term_lmo0296	0.0	0.0												
+Term_lmo0297	0.0	0.0												
+Term_lmo0298	0.0	0.0												
+Term_lmo0302	0.0	0.0												
+Term_lmo0303	0.0	0.0												
+Term_lmo0305	0.0	0.0												
+Term_lmo0306	0.0	0.0												
+Term_lmo0307	0.0	0.0												
+Term_lmo0309	0.0	0.0												
+Term_lmo0310	0.0	0.0												
+Term_lmo0313	0.0	0.0												
+Term_lmo0314	0.0	0.0												
+Term_lmo0318	0.0	0.0												
+Term_lmo0319	0.0	0.0												
+Term_lmo0320	0.0	0.0												
+Term_lmo0321	0.0	0.0												
+Term_lmo0322	0.0	0.0												
+Term_lmo0323	0.0	0.0												
+Term_lmo0324	0.0	0.0												
+Term_lmo0325	0.0	0.0												
+Term_lmo0326	0.0	0.0												
+Term_lmo0327	0.0	0.0												
+Term_lmo0328	0.0	0.0												
+Term_lmo0330	0.0	0.0												
+Term_lmo0331	0.0	0.0												
+Term_lmo0332	0.0	0.0												
+Term_lmo0333	0.0	0.0												
+Term_lmo0334	0.0	0.0												
+Term_lmo0338	0.0	0.0												
+Term_lmo0340	0.0	0.0												
+Term_lmo0341	0.0	0.0												
+Term_lmo0352	0.0	0.0												
+Term_lmo0353	0.0	0.0												
+Term_lmo0354	0.0	0.0												
+Term_lmo0355	0.0	0.0												
+Term_lmo0356	0.0	0.0												
+Term_lmo0359	0.0	0.0												
+Term_lmo0360	0.0	0.0												
+Term_lmo0361	0.0	0.0												
+Term_lmo0363	0.0	0.0												
+Term_lmo0364	0.0	0.0												
+Term_lmo0367	0.0	0.0												
+Term_lmo0370	0.0	0.0												
+Term_lmo0371	0.0	0.0												
+Term_lmo0374	0.0	0.0												
+Term_lmo0375	0.0	0.0												
+Term_lmo0376	0.0	0.0												
+Term_lmo0377	0.0	0.0												
+Term_lmo0381	0.0	0.0												
+Term_lmo0382	0.0	0.0												
+Term_lmo0386	0.0	0.0												
+Term_lmo0387	0.0	0.0												
+Term_lmo0388	0.0	0.0												
+Term_lmo0393	0.0	0.0												
+Term_lmo0394	0.0	0.0												
+Term_lmo0395	0.0	0.0												
+Term_lmo0397	0.0	0.0												
+Term_lmo0402	0.0	0.0												
+Term_lmo0404	0.0	0.0												
+Term_lmo0406	0.0	0.0												
+Term_lmo0407	0.0	0.0												
+Term_lmo0408	0.0	0.0												
+Term_lmo0409	0.0	0.0												
+Term_lmo0411	0.0	0.0												
+Term_lmo0412	0.0	0.0												
+Term_lmo0414	0.0	0.0												
+Term_lmo0415	0.0	0.0												
+Term_lmo0417	0.0	0.0												
+Term_lmo0418	0.0	0.0												
+Term_lmo0419	0.0	0.0												
+Term_lmo0420	0.0	0.0												
+Term_lmo0421	0.0	0.0												
+Term_lmo0424	0.0	0.0												
+Term_lmo0429	0.0	0.0												
+Term_lmo0430	0.0	0.0												
+Term_lmo0432	0.0	0.0												
+Term_lmo0435	0.0	0.0												
+Term_lmo0436	0.0	0.0												
+Term_lmo0437	0.0	0.0												
+Term_lmo0438	0.0	0.0												
+Term_lmo0439	0.0	0.0												
+Term_lmo0440	0.0	0.0												
+Term_lmo0441	0.0	0.0												
+Term_lmo0442	0.0	0.0												
+Term_lmo0443	0.0	0.0												
+Term_lmo0444	0.0	0.0												
+Term_lmo0445	0.0	0.0												
+Term_lmo0448	0.0	0.0												
+Term_lmo0449	0.0	0.0												
+Term_lmo0450	0.0	0.0												
+Term_lmo0452	0.0	0.0												
+Term_lmo0455	0.0	0.0												
+Term_lmo0458	0.0	0.0												
+Term_lmo0459	0.0	0.0												
+Term_lmo0462	0.0	0.0												
+Term_lmo0464	0.0	0.0												
+Term_lmo0465	0.0	0.0												
+Term_lmo0470	0.0	0.0												
+Term_lmo0471	0.0	0.0												
+Term_lmo0472	0.0	0.0												
+Term_lmo0474	0.0	0.0												
+Term_lmo0475	0.0	0.0												
+Term_lmo0476	0.0	0.0												
+Term_lmo0477	0.0	0.0												
+Term_lmo0478	0.0	0.0												
+Term_lmo0479	0.0	0.0												
+Term_lmo0481	0.0	0.0												
+Term_lmo0482	0.0	0.0												
+Term_lmo0483	0.0	0.0												
+Term_lmo0484	0.0	0.0												
+Term_lmo0487	0.0	0.0												
+Term_lmo0488	0.0	0.0												
+Term_lmo0489	0.0	0.0												
+Term_lmo0492	0.0	0.0												
+Term_lmo0493	0.0	0.0												
+Term_lmo0494	0.0	0.0												
+Term_lmo0495	0.0	0.0												
+Term_lmo0496	0.0	0.0												
+Term_lmo0497	0.0	0.0												
+Term_lmo0508	0.0	0.0												
+Term_lmo0510	0.0	0.0												
+Term_lmo0511	0.0	0.0												
+Term_lmo0512	0.0	0.0												
+Term_lmo0515	0.0	0.0												
+Term_lmo0516	0.0	0.0												
+Term_lmo0517	0.0	0.0												
+Term_lmo0518	0.0	0.0												
+Term_lmo0519	0.0	0.0												
+Term_lmo0520	0.0	0.0												
+Term_lmo0521	0.0	0.0												
+Term_lmo0522	0.0	0.0												
+Term_lmo0523	0.0	0.0												
+Term_lmo0524	0.0	0.0												
+Term_lmo0525	0.0	0.0												
+Term_lmo0526	0.0	0.0												
+Term_lmo0531	0.0	0.0												
+Term_lmo0532	0.0	0.0												
+Term_lmo0534	0.0	0.0												
+Term_lmo0535	0.0	0.0												
+Term_lmo0536	0.0	0.0												
+Term_lmo0538	0.0	0.0												
+Term_lmo0539	0.0	0.0												
+Term_lmo0540	0.0	0.0												
+Term_lmo0541	0.0	0.0												
+Term_lmo0542	0.0	0.0												
+Term_lmo0547	0.0	0.0												
+Term_lmo0551	0.0	0.0												
+Term_lmo0552	0.0	0.0												
+Term_lmo0553	0.0	0.0												
+Term_lmo0554	0.0	0.0												
+Term_lmo0555	0.0	0.0												
+Term_lmo0557	0.0	0.0												
+Term_lmo0558	0.0	0.0												
+Term_lmo0559	0.0	0.0												
+Term_lmo0560	0.0	0.0												
+Term_lmo0561	0.0	0.0												
+Term_lmo0572	0.0	0.0												
+Term_lmo0573	0.0	0.0												
+Term_lmo0575	0.0	0.0												
+Term_lmo0576	0.0	0.0												
+Term_lmo0577	0.0	0.0												
+Term_lmo0580	0.0	0.0												
+Term_lmo0581	0.0	0.0												
+Term_lmo0584	0.0	0.0												
+Term_lmo0585	0.0	0.0												
+Term_lmo0587	0.0	0.0												
+Term_lmo0588	0.0	0.0												
+Term_lmo0591	0.0	0.0												
+Term_lmo0592	0.0	0.0												
+Term_lmo0593	0.0	0.0												
+Term_lmo0594	0.0	0.0												
+Term_lmo0596	0.0	0.0												
+Term_lmo0597	0.0	0.0												
+Term_lmo0601	0.0	0.0												
+Term_lmo0602	0.0	0.0												
+Term_lmo0603	0.0	0.0												
+Term_lmo0604	0.0	0.0												
+Term_lmo0605	0.0	0.0												
+Term_lmo0608	0.0	0.0												
+Term_lmo0609	0.0	0.0												
+Term_lmo0610	0.0	0.0												
+Term_lmo0613	0.0	0.0												
+Term_lmo0614	0.0	0.0												
+Term_lmo0615	0.0	0.0												
+Term_lmo0616	0.0	0.0												
+Term_lmo0617	0.0	0.0												
+Term_lmo0618	0.0	0.0												
+Term_lmo0619	0.0	0.0												
+Term_lmo0620	0.0	0.0												
+Term_lmo0621	0.0	0.0												
+Term_lmo0623	0.0	0.0												
+Term_lmo0624	0.0	0.0												
+Term_lmo0626	0.0	0.0												
+Term_lmo0627	0.0	0.0												
+Term_lmo0629	0.0	0.0												
+Term_lmo0634	0.0	0.0												
+Term_lmo0635	0.0	0.0												
+Term_lmo0637	0.0	0.0												
+Term_lmo0638	0.0	0.0												
+Term_lmo0640	0.0	0.0												
+Term_lmo0641	0.0	0.0												
+Term_lmo0642	0.0	0.0												
+Term_lmo0643	0.0	0.0												
+Term_lmo0644	0.0	0.0												
+Term_lmo0645	0.0	0.0												
+Term_lmo0646	0.0	0.0												
+Term_lmo0647	0.0	0.0												
+Term_lmo0649	0.0	0.0												
+Term_lmo0650	0.0	0.0												
+Term_lmo0651	0.0	0.0												
+Term_lmo0652	0.0	0.0												
+Term_lmo0655	0.0	0.0												
+Term_lmo0656	0.0	0.0												
+Term_lmo0658	0.0	0.0												
+Term_lmo0659	0.0	0.0												
+Term_lmo0660	0.0	0.0												
+Term_lmo0661	0.0	0.0												
+Term_lmo0666	0.0	0.0												
+Term_lmo0668	0.0	0.0												
+Term_lmo0669	0.0	0.0												
+Term_lmo0670	0.0	0.0												
+Term_lmo0671	0.0	0.0												
+Term_lmo0672	0.0	0.0												
+Term_lmo0673	0.0	0.0												
+Term_lmo0689	0.0	0.0												
+Term_lmo0702	0.0	0.0												
+Term_lmo0718	0.0	0.0												
+Term_lmo0720	0.0	0.0												
+Term_lmo0721	0.0	0.0												
+Term_lmo0724	0.0	0.0												
+Term_lmo0725	0.0	0.0												
+Term_lmo0727	0.0	0.0												
+Term_lmo0728	0.0	0.0												
+Term_lmo0730	0.0	0.0												
+Term_lmo0731	0.0	0.0												
+Term_lmo0732	0.0	0.0												
+Term_lmo0733	0.0	0.0												
+Term_lmo0734	0.0	0.0												
+Term_lmo0739	0.0	0.0												
+Term_lmo0740	0.0	0.0												
+Term_lmo0745	0.0	0.0												
+Term_lmo0746	0.0	0.0												
+Term_lmo0747	0.0	0.0												
+Term_lmo0750	0.0	0.0												
+Term_lmo0752	0.0	0.0												
+Term_lmo0753	0.0	0.0												
+Term_lmo0754	0.0	0.0												
+Term_lmo0757	0.0	0.0												
+Term_lmo0761	0.0	0.0												
+Term_lmo0762	0.0	0.0												
+Term_lmo0764	0.0	0.0												
+Term_lmo0769	0.0	0.0												
+Term_lmo0770	0.0	0.0												
+Term_lmo0772	0.0	0.0												
+Term_lmo0773	0.0	0.0												
+Term_lmo0775	0.0	0.0												
+Term_lmo0776	0.0	0.0												
+Term_lmo0777	0.0	0.0												
+Term_lmo0778	0.0	0.0												
+Term_lmo0779	0.0	0.0												
+Term_lmo0780	0.0	0.0												
+Term_lmo0781	0.0	0.0												
+Term_lmo0783	0.0	0.0												
+Term_lmo0785	0.0	0.0												
+Term_lmo0786	0.0	0.0												
+Term_lmo0787	0.0	0.0												
+Term_lmo0788	0.0	0.0												
+Term_lmo0789	0.0	0.0												
+Term_lmo0791	0.0	0.0												
+Term_lmo0792	0.0	0.0												
+Term_lmo0793	0.0	0.0												
+Term_lmo0794	0.0	0.0												
+Term_lmo0795	0.0	0.0												
+Term_lmo0796	0.0	0.0												
+Term_lmo0797	0.0	0.0												
+Term_lmo0798	0.0	0.0												
+Term_lmo0799	0.0	0.0												
+Term_lmo0800	0.0	0.0												
+Term_lmo0801	0.0	0.0												
+Term_lmo0802	0.0	0.0												
+Term_lmo0803	0.0	0.0												
+Term_lmo0804	0.0	0.0												
+Term_lmo0811	0.0	0.0												
+Term_lmo0812	0.0	0.0												
+Term_lmo0813	0.0	0.0												
+Term_lmo0814	0.0	0.0												
+Term_lmo0816	0.0	0.0												
+Term_lmo0817	0.0	0.0												
+Term_lmo0819	0.0	0.0												
+Term_lmo0821	0.0	0.0												
+Term_lmo0822	0.0	0.0												
+Term_lmo0823	0.0	0.0												
+Term_lmo0826	0.0	0.0												
+Term_lmo0831	0.0	0.0												
+Term_lmo0832	0.0	0.0												
+Term_lmo0833	0.0	0.0												
+Term_lmo0835	0.0	0.0												
+Term_lmo0836	0.0	0.0												
+Term_lmo0839	0.0	0.0												
+Term_lmo0841	0.0	0.0												
+Term_lmo0842	0.0	0.0												
+Term_lmo0843	0.0	0.0												
+Term_lmo0844	0.0	0.0												
+Term_lmo0845	0.0	0.0												
+Term_lmo0846	0.0	0.0												
+Term_lmo0848	0.0	0.0												
+Term_lmo0849	0.0	0.0												
+Term_lmo0850	0.0	0.0												
+Term_lmo0851	0.0	0.0												
+Term_lmo0854	0.0	0.0												
+Term_lmo0857	0.0	0.0												
+Term_lmo0858	0.0	0.0												
+Term_lmo0865	0.0	0.0												
+Term_lmo0866	0.0	0.0												
+Term_lmo0867	0.0	0.0												
+Term_lmo0868	0.0	0.0												
+Term_lmo0870	0.0	0.0												
+Term_lmo0871	0.0	0.0												
+Term_lmo0872	0.0	0.0												
+Term_lmo0879	0.0	0.0												
+Term_lmo0880	0.0	0.0												
+Term_lmo0881	0.0	0.0												
+Term_lmo0899	0.0	0.0												
+Term_lmo0900	0.0	0.0												
+Term_lmo0901	0.0	0.0												
+Term_lmo0902	0.0	0.0												
+Term_lmo0903	0.0	0.0												
+Term_lmo0904	0.0	0.0												
+Term_lmo0907	0.0	0.0												
+Term_lmo0908	0.0	0.0												
+Term_lmo0910	0.0	0.0												
+Term_lmo0911	0.0	0.0												
+Term_lmo0912	0.0	0.0												
+Term_lmo0913	0.0	0.0												
+Term_lmo0917	0.0	0.0												
+Term_lmo0918	0.0	0.0												
+Term_lmo0919	0.0	0.0												
+Term_lmo0921	0.0	0.0												
+Term_lmo0922	0.0	0.0												
+Term_lmo0923	0.0	0.0												
+Term_lmo0926	0.0	0.0												
+Term_lmo0927	0.0	0.0												
+Term_lmo0929	0.0	0.0												
+Term_lmo0931	0.0	0.0												
+Term_lmo0932	0.0	0.0												
+Term_lmo0933	0.0	0.0												
+Term_lmo0936	0.0	0.0												
+Term_lmo0937	0.0	0.0												
+Term_lmo0940	0.0	0.0												
+Term_lmo0944	0.0	0.0												
+Term_lmo0946	0.0	0.0												
+Term_lmo0947	0.0	0.0												
+Term_lmo0949	0.0	0.0												
+Term_lmo0950	0.0	0.0												
+Term_lmo0952	0.0	0.0												
+Term_lmo0953	0.0	0.0												
+Term_lmo0955	0.0	0.0												
+Term_lmo0958	0.0	0.0												
+Term_lmo0959	0.0	0.0												
+Term_lmo0963	0.0	0.0												
+Term_lmo0964	0.0	0.0												
+Term_lmo0965	0.0	0.0												
+Term_lmo0970	0.0	0.0												
+Term_lmo0975	0.0	0.0												
+Term_lmo0976	0.0	0.0												
+Term_lmo0978	0.0	0.0												
+Term_lmo0980	0.0	0.0												
+Term_lmo0981	0.0	0.0												
+Term_lmo0983	0.0	0.0												
+Term_lmo0988	0.0	0.0												
+Term_lmo0989	0.0	0.0												
+Term_lmo0990	0.0	0.0												
+Term_lmo0991	0.0	0.0												
+Term_lmo0993	0.0	0.0												
+Term_lmo0994	0.0	0.0												
+Term_lmo0996	0.0	0.0												
+Term_lmo0998	0.0	0.0												
+Term_lmo0999	0.0	0.0												
+Term_lmo1000	0.0	0.0												
+Term_lmo1001	0.0	0.0												
+Term_lmo1003	0.0	0.0												
+Term_lmo1005	0.0	0.0												
+Term_lmo1006	0.0	0.0												
+Term_lmo1007	0.0	0.0												
+Term_lmo1008	0.0	0.0												
+Term_lmo1011	0.0	0.0												
+Term_lmo1012	0.0	0.0												
+Term_lmo1013	0.0	0.0												
+Term_lmo1017	0.0	0.0												
+Term_lmo1018	0.0	0.0												
+Term_lmo1019	0.0	0.0												
+Term_lmo1023	0.0	0.0												
+Term_lmo1025	0.0	0.0												
+Term_lmo1026	0.0	0.0												
+Term_lmo1027	0.0	0.0												
+Term_lmo1029	0.0	0.0												
+Term_lmo1030	0.0	0.0												
+Term_lmo1036	0.0	0.0												
+Term_lmo1037	0.0	0.0												
+Term_lmo1038	0.0	0.0												
+Term_lmo1047	0.0	0.0												
+Term_lmo1048	0.0	0.0												
+Term_lmo1050	0.0	0.0												
+Term_lmo1056	0.0	0.0												
+Term_lmo1059	0.0	0.0												
+Term_lmo1061	0.0	0.0												
+Term_lmo1063	0.0	0.0												
+Term_lmo1064	0.0	0.0												
+Term_lmo1066	0.0	0.0												
+Term_lmo1067	0.0	0.0												
+Term_lmo1068	0.0	0.0												
+Term_lmo1069	0.0	0.0												
+Term_lmo1070	0.0	0.0												
+Term_lmo1071	0.0	0.0												
+Term_lmo1073	0.0	0.0												
+Term_lmo1075	0.0	0.0												
+Term_lmo1076	0.0	0.0												
+Term_lmo1077	0.0	0.0												
+Term_lmo1078	0.0	0.0												
+Term_lmo1079	0.0	0.0												
+Term_lmo1081	0.0	0.0												
+Term_lmo1084	0.0	0.0												
+Term_lmo1091	0.0	0.0												
+Term_lmo1094	0.0	0.0												
+Term_lmo1095	0.0	0.0												
+Term_lmo1097	0.0	0.0												
+Term_lmo1098	0.0	0.0												
+Term_lmo1101	0.0	0.0												
+Term_lmo1102	0.0	0.0												
+Term_lmo1103	0.0	0.0												
+Term_lmo1108	0.0	0.0												
+Term_lmo1112	0.0	0.0												
+Term_lmo1115	0.0	0.0												
+Term_lmo1117	0.0	0.0												
+Term_lmo1118	0.0	0.0												
+Term_lmo1124	0.0	0.0												
+Term_lmo1127	0.0	0.0												
+Term_lmo1128	0.0	0.0												
+Term_lmo1132	0.0	0.0												
+Term_lmo1133	0.0	0.0												
+Term_lmo1135	0.0	0.0												
+Term_lmo1136	0.0	0.0												
+Term_lmo1137	0.0	0.0												
+Term_lmo1138	0.0	0.0												
+Term_lmo1139	0.0	0.0												
+Term_lmo1140	0.0	0.0												
+Term_lmo1141	0.0	0.0												
+Term_lmo1143	0.0	0.0												
+Term_lmo1148	0.0	0.0												
+Term_lmo1149	0.0	0.0												
+Term_lmo1150	0.0	0.0												
+Term_lmo1166	0.0	0.0												
+Term_lmo1170	0.0	0.0												
+Term_lmo1173	0.0	0.0												
+Term_lmo1180	0.0	0.0												
+Term_lmo1181	0.0	0.0												
+Term_lmo1187	0.0	0.0												
+Term_lmo1188	0.0	0.0												
+Term_lmo1189	0.0	0.0												
+Term_lmo1190	0.0	0.0												
+Term_lmo1209	0.0	0.0												
+Term_lmo1210	0.0	0.0												
+Term_lmo1212	0.0	0.0												
+Term_lmo1214	0.0	0.0												
+Term_lmo1215	0.0	0.0												
+Term_lmo1216	0.0	0.0												
+Term_lmo1218	0.0	0.0												
+Term_lmo1219	0.0	0.0												
+Term_lmo1220	0.0	0.0												
+Term_lmo1224	0.0	0.0												
+Term_lmo1226	0.0	0.0												
+Term_lmo1227	0.0	0.0												
+Term_lmo1230	0.0	0.0												
+Term_lmo1232	0.0	0.0												
+Term_lmo1235	0.0	0.0												
+Term_lmo1236	0.0	0.0												
+Term_lmo1240	0.0	0.0												
+Term_lmo1241	0.0	0.0												
+Term_lmo1242	0.0	0.0												
+Term_lmo1243	0.0	0.0												
+Term_lmo1244	0.0	0.0												
+Term_lmo1245	0.0	0.0												
+Term_lmo1247	0.0	0.0												
+Term_lmo1248	0.0	0.0												
+Term_lmo1249	0.0	0.0												
+Term_lmo1251	0.0	0.0												
+Term_lmo1252	0.0	0.0												
+Term_lmo1253	0.0	0.0												
+Term_lmo1254	0.0	0.0												
+Term_lmo1256	0.0	0.0												
+Term_lmo1257	0.0	0.0												
+Term_lmo1258	0.0	0.0												
+Term_lmo1261	0.0	0.0												
+Term_lmo1262	0.0	0.0												
+Term_lmo1265	0.0	0.0												
+Term_lmo1266	0.0	0.0												
+Term_lmo1270	0.0	0.0												
+Term_lmo1283	0.0	0.0												
+Term_lmo1284	0.0	0.0												
+Term_lmo1285	0.0	0.0												
+Term_lmo1288	0.0	0.0												
+Term_lmo1289	0.0	0.0												
+Term_lmo1290	0.0	0.0												
+Term_lmo1291	0.0	0.0												
+Term_lmo1292	0.0	0.0												
+Term_lmo1295	0.0	0.0												
+Term_lmo1297	0.0	0.0												
+Term_lmo1300	0.0	0.0												
+Term_lmo1301	0.0	0.0												
+Term_lmo1302	0.0	0.0												
+Term_lmo1303	0.0	0.0												
+Term_lmo1304	0.0	0.0												
+Term_lmo1306	0.0	0.0												
+Term_lmo1307	0.0	0.0												
+Term_lmo1332	0.0	0.0												
+Term_lmo1333	0.0	0.0												
+Term_lmo1334	0.0	0.0												
+Term_lmo1338	0.0	0.0												
+Term_lmo1339	0.0	0.0												
+Term_lmo1340	0.0	0.0												
+Term_lmo1341	0.0	0.0												
+Term_lmo1350	0.0	0.0												
+Term_lmo1351	0.0	0.0												
+Term_lmo1352	0.0	0.0												
+Term_lmo1363	0.0	0.0												
+Term_lmo1366	0.0	0.0												
+Term_lmo1374	0.0	0.0												
+Term_lmo1375	0.0	0.0												
+Term_lmo1376	0.0	0.0												
+Term_lmo1379	0.0	0.0												
+Term_lmo1383	0.0	0.0												
+Term_lmo1384	0.0	0.0												
+Term_lmo1385	0.0	0.0												
+Term_lmo1386	0.0	0.0												
+Term_lmo1387	0.0	0.0												
+Term_lmo1391	0.0	0.0												
+Term_lmo1395	0.0	0.0												
+Term_lmo1396	0.0	0.0												
+Term_lmo1399	0.0	0.0												
+Term_lmo1402	0.0	0.0												
+Term_lmo1405	0.0	0.0												
+Term_lmo1408	0.0	0.0												
+Term_lmo1409	0.0	0.0												
+Term_lmo1410	0.0	0.0												
+Term_lmo1412	0.0	0.0												
+Term_lmo1413	0.0	0.0												
+Term_lmo1414	0.0	0.0												
+Term_lmo1415	0.0	0.0												
+Term_lmo1416	0.0	0.0												
+Term_lmo1417	0.0	0.0												
+Term_lmo1419	0.0	0.0												
+Term_lmo1422	0.0	0.0												
+Term_lmo1423	0.0	0.0												
+Term_lmo1424	0.0	0.0												
+Term_lmo1429	0.0	0.0												
+Term_lmo1430	0.0	0.0												
+Term_lmo1431	0.0	0.0												
+Term_lmo1432	0.0	0.0												
+Term_lmo1434	0.0	0.0												
+Term_lmo1438	0.0	0.0												
+Term_lmo1440	0.0	0.0												
+Term_lmo1441	0.0	0.0												
+Term_lmo1443	0.0	0.0												
+Term_lmo1444	0.0	0.0												
+Term_lmo1448	0.0	0.0												
+Term_lmo1451	0.0	0.0												
+Term_lmo1452	0.0	0.0												
+Term_lmo1457	0.0	0.0												
+Term_lmo1461	0.0	0.0												
+Term_lmo1462	0.0	0.0												
+Term_lmo1468	0.0	0.0												
+Term_lmo1478	0.0	0.0												
+Term_lmo1481	0.0	0.0												
+Term_lmo1485	0.0	0.0												
+Term_lmo1486	0.0	0.0												
+Term_lmo1493	0.0	0.0												
+Term_lmo1494	0.0	0.0												
+Term_lmo1495	0.0	0.0												
+Term_lmo1499	0.0	0.0												
+Term_lmo1500	0.0	0.0												
+Term_lmo1501	0.0	0.0												
+Term_lmo1505	0.0	0.0												
+Term_lmo1508	0.0	0.0												
+Term_lmo1509	0.0	0.0												
+Term_lmo1512	0.0	0.0												
+Term_lmo1514	0.0	0.0												
+Term_lmo1515	0.0	0.0												
+Term_lmo1518	0.0	0.0												
+Term_lmo1521	0.0	0.0												
+Term_lmo1522	0.0	0.0												
+Term_lmo1526	0.0	0.0												
+Term_lmo1527	0.0	0.0												
+Term_lmo1529	0.0	0.0												
+Term_lmo1531	0.0	0.0												
+Term_lmo1534	0.0	0.0												
+Term_lmo1535	0.0	0.0												
+Term_lmo1536	0.0	0.0												
+Term_lmo1537	0.0	0.0												
+Term_lmo1538	0.0	0.0												
+Term_lmo1539	0.0	0.0												
+Term_lmo1543	0.0	0.0												
+Term_lmo1549	0.0	0.0												
+Term_lmo1558	0.0	0.0												
+Term_lmo1568	0.0	0.0												
+Term_lmo1569	0.0	0.0												
+Term_lmo1575	0.0	0.0												
+Term_lmo1578	0.0	0.0												
+Term_lmo1579	0.0	0.0												
+Term_lmo1580	0.0	0.0												
+Term_lmo1583	0.0	0.0												
+Term_lmo1592	0.0	0.0												
+Term_lmo1594	0.0	0.0												
+Term_lmo1595	0.0	0.0												
+Term_lmo1597	0.0	0.0												
+Term_lmo1601	0.0	0.0												
+Term_lmo1603	0.0	0.0												
+Term_lmo1604	0.0	0.0												
+Term_lmo1606	0.0	0.0												
+Term_lmo1610	0.0	0.0												
+Term_lmo1612	0.0	0.0												
+Term_lmo1613	0.0	0.0												
+Term_lmo1614	0.0	0.0												
+Term_lmo1615	0.0	0.0												
+Term_lmo1617	0.0	0.0												
+Term_lmo1620	0.0	0.0												
+Term_lmo1622	0.0	0.0												
+Term_lmo1623	0.0	0.0												
+Term_lmo1625	0.0	0.0												
+Term_lmo1634	0.0	0.0												
+Term_lmo1635	0.0	0.0												
+Term_lmo1637	0.0	0.0												
+Term_lmo1638	0.0	0.0												
+Term_lmo1642	0.0	0.0												
+Term_lmo1645	0.0	0.0												
+Term_lmo1647	0.0	0.0												
+Term_lmo1648	0.0	0.0												
+Term_lmo1649	0.0	0.0												
+Term_lmo1650	0.0	0.0												
+Term_lmo1653	0.0	0.0												
+Term_lmo1655	0.0	0.0												
+Term_lmo1659	0.0	0.0												
+Term_lmo1662	0.0	0.0												
+Term_lmo1665	0.0	0.0												
+Term_lmo1666	0.0	0.0												
+Term_lmo1669	0.0	0.0												
+Term_lmo1670	0.0	0.0												
+Term_lmo1671	0.0	0.0												
+Term_lmo1677	0.0	0.0												
+Term_lmo1678	0.0	0.0												
+Term_lmo1682	0.0	0.0												
+Term_lmo1683	0.0	0.0												
+Term_lmo1684	0.0	0.0												
+Term_lmo1686	0.0	0.0												
+Term_lmo1687	0.0	0.0												
+Term_lmo1688	0.0	0.0												
+Term_lmo1690	0.0	0.0												
+Term_lmo1691	0.0	0.0												
+Term_lmo1694	0.0	0.0												
+Term_lmo1695	0.0	0.0												
+Term_lmo1697	0.0	0.0												
+Term_lmo1698	0.0	0.0												
+Term_lmo1700	0.0	0.0												
+Term_lmo1701	0.0	0.0												
+Term_lmo1705	0.0	0.0												
+Term_lmo1706	0.0	0.0												
+Term_lmo1707	0.0	0.0												
+Term_lmo1708	0.0	0.0												
+Term_lmo1709	0.0	0.0												
+Term_lmo1710	0.0	0.0												
+Term_lmo1711	0.0	0.0												
+Term_lmo1712	0.0	0.0												
+Term_lmo1713	0.0	0.0												
+Term_lmo1714	0.0	0.0												
+Term_lmo1716	0.0	0.0												
+Term_lmo1717	0.0	0.0												
+Term_lmo1718	0.0	0.0												
+Term_lmo1720	0.0	0.0												
+Term_lmo1721	0.0	0.0												
+Term_lmo1722	0.0	0.0												
+Term_lmo1726	0.0	0.0												
+Term_lmo1727	0.0	0.0												
+Term_lmo1730	0.0	0.0												
+Term_lmo1732	0.0	0.0												
+Term_lmo1733	0.0	0.0												
+Term_lmo1736	0.0	0.0												
+Term_lmo1741	0.0	0.0												
+Term_lmo1743	0.0	0.0												
+Term_lmo1745	0.0	0.0												
+Term_lmo1746	0.0	0.0												
+Term_lmo1748	0.0	0.0												
+Term_lmo1749	0.0	0.0												
+Term_lmo1750	0.0	0.0												
+Term_lmo1751	0.0	0.0												
+Term_lmo1753	0.0	0.0												
+Term_lmo1757	0.0	0.0												
+Term_lmo1761	0.0	0.0												
+Term_lmo1762	0.0	0.0												
+Term_lmo1776	0.0	0.0												
+Term_lmo1777	0.0	0.0												
+Term_lmo1779	0.0	0.0												
+Term_lmo1780	0.0	0.0												
+Term_lmo1782	0.0	0.0												
+Term_lmo1790	0.0	0.0												
+Term_lmo1791	0.0	0.0												
+Term_lmo1796	0.0	0.0												
+Term_lmo1799	0.0	0.0												
+Term_lmo1800	0.0	0.0												
+Term_lmo1802	0.0	0.0												
+Term_lmo1803	0.0	0.0												
+Term_lmo1811	0.0	0.0												
+Term_lmo1813	0.0	0.0												
+Term_lmo1817	0.0	0.0												
+Term_lmo1818	0.0	0.0												
+Term_lmo1826	0.0	0.0												
+Term_lmo1827	0.0	0.0												
+Term_lmo1829	0.0	0.0												
+Term_lmo1830	0.0	0.0												
+Term_lmo1841	0.0	0.0												
+Term_lmo1842	0.0	0.0												
+Term_lmo1843	0.0	0.0												
+Term_lmo1845	0.0	0.0												
+Term_lmo1846	0.0	0.0												
+Term_lmo1847	0.0	0.0												
+Term_lmo1850	0.0	0.0												
+Term_lmo1852	0.0	0.0												
+Term_lmo1855	0.0	0.0												
+Term_lmo1864	0.0	0.0												
+Term_lmo1867	0.0	0.0												
+Term_lmo1868	0.0	0.0												
+Term_lmo1870	0.0	0.0												
+Term_lmo1871	0.0	0.0												
+Term_lmo1873	0.0	0.0												
+Term_lmo1877	0.0	0.0												
+Term_lmo1878	0.0	0.0												
+Term_lmo1880	0.0	0.0												
+Term_lmo1881	0.0	0.0												
+Term_lmo1883	0.0	0.0												
+Term_lmo1884	0.0	0.0												
+Term_lmo1886	0.0	0.0												
+Term_lmo1888	0.0	0.0												
+Term_lmo1893	0.0	0.0												
+Term_lmo1903	0.0	0.0												
+Term_lmo1909	0.0	0.0												
+Term_lmo1910	0.0	0.0												
+Term_lmo1912	0.0	0.0												
+Term_lmo1914	0.0	0.0												
+Term_lmo1916	0.0	0.0												
+Term_lmo1918	0.0	0.0												
+Term_lmo1919	0.0	0.0												
+Term_lmo1921	0.0	0.0												
+Term_lmo1935	0.0	0.0												
+Term_lmo1938	0.0	0.0												
+Term_lmo1940	0.0	0.0												
+Term_lmo1941	0.0	0.0												
+Term_lmo1944	0.0	0.0												
+Term_lmo1945	0.0	0.0												
+Term_lmo1946	0.0	0.0												
+Term_lmo1949	0.0	0.0												
+Term_lmo1961	0.0	0.0												
+Term_lmo1962	0.0	0.0												
+Term_lmo1965	0.0	0.0												
+Term_lmo1967	0.0	0.0												
+Term_lmo1968	0.0	0.0												
+Term_lmo1975	0.0	0.0												
+Term_lmo1976	0.0	0.0												
+Term_lmo1978	0.0	0.0												
+Term_lmo1980	0.0	0.0												
+Term_lmo1981	0.0	0.0												
+Term_lmo1992	0.0	0.0												
+Term_lmo1994	0.0	0.0												
+Term_lmo1997	0.0	0.0												
+Term_lmo2005	0.0	0.0												
+Term_lmo2007	0.0	0.0												
+Term_lmo2010	0.0	0.0												
+Term_lmo2012	0.0	0.0												
+Term_lmo2013	0.0	0.0												
+Term_lmo2014	0.0	0.0												
+Term_lmo2015	0.0	0.0												
+Term_lmo2017	0.0	0.0												
+Term_lmo2021	0.0	0.0												
+Term_lmo2026	0.0	0.0												
+Term_lmo2027	0.0	0.0												
+Term_lmo2028	0.0	0.0												
+Term_lmo2029	0.0	0.0												
+Term_lmo2043	0.0	0.0												
+Term_lmo2044	0.0	0.0												
+Term_lmo2045	0.0	0.0												
+Term_lmo2049	0.0	0.0												
+Term_lmo2050	0.0	0.0												
+Term_lmo2051	0.0	0.0												
+Term_lmo2054	0.0	0.0												
+Term_lmo2056	0.0	0.0												
+Term_lmo2059	0.0	0.0												
+Term_lmo2060	0.0	0.0												
+Term_lmo2064	0.0	0.0												
+Term_lmo2065	0.0	0.0												
+Term_lmo2067	0.0	0.0												
+Term_lmo2071	0.0	0.0												
+Term_lmo2072	0.0	0.0												
+Term_lmo2074	0.0	0.0												
+Term_lmo2075	0.0	0.0												
+Term_lmo2079	0.0	0.0												
+Term_lmo2080	0.0	0.0												
+Term_lmo2082	0.0	0.0												
+Term_lmo2083	0.0	0.0												
+Term_lmo2085	0.0	0.0												
+Term_lmo2086	0.0	0.0												
+Term_lmo2087	0.0	0.0												
+Term_lmo2089	0.0	0.0												
+Term_lmo2093	0.0	0.0												
+Term_lmo2099	0.0	0.0												
+Term_lmo2100	0.0	0.0												
+Term_lmo2102	0.0	0.0												
+Term_lmo2105	0.0	0.0												
+Term_lmo2106	0.0	0.0												
+Term_lmo2109	0.0	0.0												
+Term_lmo2110	0.0	0.0												
+Term_lmo2112	0.0	0.0												
+Term_lmo2113	0.0	0.0												
+Term_lmo2115	0.0	0.0												
+Term_lmo2116	0.0	0.0												
+Term_lmo2117	0.0	0.0												
+Term_lmo2118	0.0	0.0												
+Term_lmo2119	0.0	0.0												
+Term_lmo2121	0.0	0.0												
+Term_lmo2125	0.0	0.0												
+Term_lmo2126	0.0	0.0												
+Term_lmo2127	0.0	0.0												
+Term_lmo2128	0.0	0.0												
+Term_lmo2130	0.0	0.0												
+Term_lmo2131	0.0	0.0												
+Term_lmo2132	0.0	0.0												
+Term_lmo2133	0.0	0.0												
+Term_lmo2141	0.0	0.0												
+Term_lmo2142	0.0	0.0												
+Term_lmo2143	0.0	0.0												
+Term_lmo2144	0.0	0.0												
+Term_lmo2145	0.0	0.0												
+Term_lmo2147	0.0	0.0												
+Term_lmo2148	0.0	0.0												
+Term_lmo2149	0.0	0.0												
+Term_lmo2150	0.0	0.0												
+Term_lmo2151	0.0	0.0												
+Term_lmo2152	0.0	0.0												
+Term_lmo2156	0.0	0.0												
+Term_lmo2158	0.0	0.0												
+Term_lmo2164	0.0	0.0												
+Term_lmo2165	0.0	0.0												
+Term_lmo2167	0.0	0.0												
+Term_lmo2169	0.0	0.0												
+Term_lmo2170	0.0	0.0												
+Term_lmo2173	0.0	0.0												
+Term_lmo2174	0.0	0.0												
+Term_lmo2175	0.0	0.0												
+Term_lmo2176	0.0	0.0												
+Term_lmo2177	0.0	0.0												
+Term_lmo2178	0.0	0.0												
+Term_lmo2179	0.0	0.0												
+Term_lmo2180	0.0	0.0												
+Term_lmo2181	0.0	0.0												
+Term_lmo2185	0.0	0.0												
+Term_lmo2187	0.0	0.0												
+Term_lmo2188	0.0	0.0												
+Term_lmo2192	0.0	0.0												
+Term_lmo2196	0.0	0.0												
+Term_lmo2197	0.0	0.0												
+Term_lmo2199	0.0	0.0												
+Term_lmo2201	0.0	0.0												
+Term_lmo2202	0.0	0.0												
+Term_lmo2203	0.0	0.0												
+Term_lmo2204	0.0	0.0												
+Term_lmo2205	0.0	0.0												
+Term_lmo2207	0.0	0.0												
+Term_lmo2208	0.0	0.0												
+Term_lmo2210	0.0	0.0												
+Term_lmo2213	0.0	0.0												
+Term_lmo2214	0.0	0.0												
+Term_lmo2217	0.0	0.0												
+Term_lmo2219	0.0	0.0												
+Term_lmo2220	0.0	0.0												
+Term_lmo2221	0.0	0.0												
+Term_lmo2223	0.0	0.0												
+Term_lmo2226	0.0	0.0												
+Term_lmo2229	0.0	0.0												
+Term_lmo2230	0.0	0.0												
+Term_lmo2231	0.0	0.0												
+Term_lmo2232	0.0	0.0												
+Term_lmo2233	0.0	0.0												
+Term_lmo2235	0.0	0.0												
+Term_lmo2237	0.0	0.0												
+Term_lmo2238	0.0	0.0												
+Term_lmo2239	0.0	0.0												
+Term_lmo2242	0.0	0.0												
+Term_lmo2244	0.0	0.0												
+Term_lmo2245	0.0	0.0												
+Term_lmo2249	0.0	0.0												
+Term_lmo2251	0.0	0.0												
+Term_lmo2252	0.0	0.0												
+Term_lmo2253	0.0	0.0												
+Term_lmo2254	0.0	0.0												
+Term_lmo2255	0.0	0.0												
+Term_lmo2256	0.0	0.0												
+Term_lmo2257	0.0	0.0												
+Term_lmo2258	0.0	0.0												
+Term_lmo2259	0.0	0.0												
+Term_lmo2260	0.0	0.0												
+Term_lmo2261	0.0	0.0												
+Term_lmo2263	0.0	0.0												
+Term_lmo2264	0.0	0.0												
+Term_lmo2265	0.0	0.0												
+Term_lmo2269	0.0	0.0												
+Term_lmo2271	0.0	0.0												
+Term_lmo2272	0.0	0.0												
+Term_lmo2276	0.0	0.0												
+Term_lmo2277	0.0	0.0												
+Term_lmo2281	0.0	0.0												
+Term_lmo2290	0.0	0.0												
+Term_lmo2293	0.0	0.0												
+Term_lmo2302	0.0	0.0												
+Term_lmo2303	0.0	0.0												
+Term_lmo2322	0.0	0.0												
+Term_lmo2324	0.0	0.0												
+Term_lmo2329	0.0	0.0												
+Term_lmo2334	0.0	0.0												
+Term_lmo2339	0.0	0.0												
+Term_lmo2340	0.0	0.0												
+Term_lmo2342	0.0	0.0												
+Term_lmo2343	0.0	0.0												
+Term_lmo2348	0.0	0.0												
+Term_lmo2352	0.0	0.0												
+Term_lmo2353	0.0	0.0												
+Term_lmo2354	0.0	0.0												
+Term_lmo2356	0.0	0.0												
+Term_lmo2357	0.0	0.0												
+Term_lmo2360	0.0	0.0												
+Term_lmo2363	0.0	0.0												
+Term_lmo2364	0.0	0.0												
+Term_lmo2366	0.0	0.0												
+Term_lmo2368	0.0	0.0												
+Term_lmo2369	0.0	0.0												
+Term_lmo2370	0.0	0.0												
+Term_lmo2372	0.0	0.0												
+Term_lmo2373	0.0	0.0												
+Term_lmo2374	0.0	0.0												
+Term_lmo2375	0.0	0.0												
+Term_lmo2376	0.0	0.0												
+Term_lmo2377	0.0	0.0												
+Term_lmo2384	0.0	0.0												
+Term_lmo2385	0.0	0.0												
+Term_lmo2386	0.0	0.0												
+Term_lmo2387	0.0	0.0												
+Term_lmo2388	0.0	0.0												
+Term_lmo2389	0.0	0.0												
+Term_lmo2390	0.0	0.0												
+Term_lmo2391	0.0	0.0												
+Term_lmo2392	0.0	0.0												
+Term_lmo2394	0.0	0.0												
+Term_lmo2395	0.0	0.0												
+Term_lmo2396	0.0	0.0												
+Term_lmo2397	0.0	0.0												
+Term_lmo2399	0.0	0.0												
+Term_lmo2401	0.0	0.0												
+Term_lmo2405	0.0	0.0												
+Term_lmo2406	0.0	0.0												
+Term_lmo2407	0.0	0.0												
+Term_lmo2409	0.0	0.0												
+Term_lmo2410	0.0	0.0												
+Term_lmo2411	0.0	0.0												
+Term_lmo2416	0.0	0.0												
+Term_lmo2417	0.0	0.0												
+Term_lmo2420	0.0	0.0												
+Term_lmo2424	0.0	0.0												
+Term_lmo2425	0.0	0.0												
+Term_lmo2427	0.0	0.0												
+Term_lmo2428	0.0	0.0												
+Term_lmo2429	0.0	0.0												
+Term_lmo2432	0.0	0.0												
+Term_lmo2433	0.0	0.0												
+Term_lmo2434	0.0	0.0												
+Term_lmo2435	0.0	0.0												
+Term_lmo2436	0.0	0.0												
+Term_lmo2437	0.0	0.0												
+Term_lmo2438	0.0	0.0												
+Term_lmo2439	0.0	0.0												
+Term_lmo2440	0.0	0.0												
+Term_lmo2441	0.0	0.0												
+Term_lmo2443	0.0	0.0												
+Term_lmo2444	0.0	0.0												
+Term_lmo2446	0.0	0.0												
+Term_lmo2447	0.0	0.0												
+Term_lmo2448	0.0	0.0												
+Term_lmo2451	0.0	0.0												
+Term_lmo2453	0.0	0.0												
+Term_lmo2454	0.0	0.0												
+Term_lmo2462	0.0	0.0												
+Term_lmo2466	0.0	0.0												
+Term_lmo2467	0.0	0.0												
+Term_lmo2469	0.0	0.0												
+Term_lmo2470	0.0	0.0												
+Term_lmo2471	0.0	0.0												
+Term_lmo2475	0.0	0.0												
+Term_lmo2480	0.0	0.0												
+Term_lmo2483	0.0	0.0												
+Term_lmo2484	0.0	0.0												
+Term_lmo2487	0.0	0.0												
+Term_lmo2490	0.0	0.0												
+Term_lmo2494	0.0	0.0												
+Term_lmo2502	0.0	0.0												
+Term_lmo2504	0.0	0.0												
+Term_lmo2508	0.0	0.0												
+Term_lmo2511	0.0	0.0												
+Term_lmo2514	0.0	0.0												
+Term_lmo2518	0.0	0.0												
+Term_lmo2519	0.0	0.0												
+Term_lmo2522	0.0	0.0												
+Term_lmo2523	0.0	0.0												
+Term_lmo2524	0.0	0.0												
+Term_lmo2527	0.0	0.0												
+Term_lmo2537	0.0	0.0												
+Term_lmo2540	0.0	0.0												
+Term_lmo2542	0.0	0.0												
+Term_lmo2553	0.0	0.0												
+Term_lmo2555	0.0	0.0												
+Term_lmo2557	0.0	0.0												
+Term_lmo2560	0.0	0.0												
+Term_lmo2564	0.0	0.0												
+Term_lmo2565	0.0	0.0												
+Term_lmo2567	0.0	0.0												
+Term_lmo2569	0.0	0.0												
+Term_lmo2570	0.0	0.0												
+Term_lmo2574	0.0	0.0												
+Term_lmo2576	0.0	0.0												
+Term_lmo2577	0.0	0.0												
+Term_lmo2579	0.0	0.0												
+Term_lmo2580	0.0	0.0												
+Term_lmo2582	0.0	0.0												
+Term_lmo2585	0.0	0.0												
+Term_lmo2587	0.0	0.0												
+Term_lmo2588	0.0	0.0												
+Term_lmo2589	0.0	0.0												
+Term_lmo2590	0.0	0.0												
+Term_lmo2591	0.0	0.0												
+Term_lmo2592	0.0	0.0												
+Term_lmo2594	0.0	0.0												
+Term_lmo2595	0.0	0.0												
+Term_lmo2602	0.0	0.0												
+Term_lmo2603	0.0	0.0												
+Term_lmo2604	0.0	0.0												
+Term_lmo2634	0.0	0.0												
+Term_lmo2636	0.0	0.0												
+Term_lmo2637	0.0	0.0												
+Term_lmo2638	0.0	0.0												
+Term_lmo2639	0.0	0.0												
+Term_lmo2641	0.0	0.0												
+Term_lmo2642	0.0	0.0												
+Term_lmo2643	0.0	0.0												
+Term_lmo2646	0.0	0.0												
+Term_lmo2652	0.0	0.0												
+Term_lmo2657	0.0	0.0												
+Term_lmo2658	0.0	0.0												
+Term_lmo2659	0.0	0.0												
+Term_lmo2660	0.0	0.0												
+Term_lmo2663	0.0	0.0												
+Term_lmo2666	0.0	0.0												
+Term_lmo2667	0.0	0.0												
+Term_lmo2669	0.0	0.0												
+Term_lmo2670	0.0	0.0												
+Term_lmo2674	0.0	0.0												
+Term_lmo2675	0.0	0.0												
+Term_lmo2676	0.0	0.0												
+Term_lmo2677	0.0	0.0												
+Term_lmo2683	0.0	0.0												
+Term_lmo2685	0.0	0.0												
+Term_lmo2686	0.0	0.0												
+Term_lmo2687	0.0	0.0												
+Term_lmo2689	0.0	0.0												
+Term_lmo2690	0.0	0.0												
+Term_lmo2691	0.0	0.0												
+Term_lmo2692	0.0	0.0												
+Term_lmo2693	0.0	0.0												
+Term_lmo2697	0.0	0.0												
+Term_lmo2699	0.0	0.0												
+Term_lmo2700	0.0	0.0												
+Term_lmo2701	0.0	0.0												
+Term_lmo2703	0.0	0.0												
+Term_lmo2708	0.0	0.0												
+Term_lmo2709	0.0	0.0												
+Term_lmo2710	0.0	0.0												
+Term_lmo2711	0.0	0.0												
+Term_lmo2712	0.0	0.0												
+Term_lmo2713	0.0	0.0												
+Term_lmo2719	0.0	0.0												
+Term_lmo2720	0.0	0.0												
+Term_lmo2721	0.0	0.0												
+Term_lmo2723	0.0	0.0												
+Term_lmo2724	0.0	0.0												
+Term_lmo2727	0.0	0.0												
+Term_lmo2729	0.0	0.0												
+Term_lmo2730	0.0	0.0												
+Term_lmo2732	0.0	0.0												
+Term_lmo2733	0.0	0.0												
+Term_lmo2736	0.0	0.0												
+Term_lmo2737	0.0	0.0												
+Term_lmo2738	0.0	0.0												
+Term_lmo2742	0.0	0.0												
+Term_lmo2744	0.0	0.0												
+Term_lmo2745	0.0	0.0												
+Term_lmo2746	0.0	0.0												
+Term_lmo2748	0.0	0.0												
+Term_lmo2750	0.0	0.0												
+Term_lmo2752	0.0	0.0												
+Term_lmo2753	0.0	0.0												
+Term_lmo2754	0.0	0.0												
+Term_lmo2755	0.0	0.0												
+Term_lmo2759	0.0	0.0												
+Term_lmo2761	0.0	0.0												
+Term_lmo2765	0.0	0.0												
+Term_lmo2766	0.0	0.0												
+Term_lmo2767	0.0	0.0												
+Term_lmo2770	0.0	0.0												
+Term_lmo2771	0.0	0.0												
+Term_lmo2774	0.0	0.0												
+Term_lmo2776	0.0	0.0												
+Term_lmo2777	0.0	0.0												
+Term_lmo2778	0.0	0.0												
+Term_lmo2779	0.0	0.0												
+Term_lmo2780	0.0	0.0												
+Term_lmo2783	0.0	0.0												
+Term_lmo2784	0.0	0.0												
+Term_lmo2789	0.0	0.0												
+Term_lmo2792	0.0	0.0												
+Term_lmo2793	0.0	0.0												
+Term_lmo2795	0.0	0.0												
+Term_lmo2799	0.0	0.0												
+Term_lmo2812	0.0	0.0												
+Term_lmo2813	0.0	0.0												
+Term_lmo2815	0.0	0.0												
+Term_lmo2816	0.0	0.0												
+Term_lmo2817	0.0	0.0												
+Term_lmo2820	0.0	0.0												
+Term_lmo2821	0.0	0.0												
+Term_lmo2822	0.0	0.0												
+Term_lmo2824	0.0	0.0												
+Term_lmo2826	0.0	0.0												
+Term_lmo2828	0.0	0.0												
+Term_lmo2829	0.0	0.0												
+Term_lmo2830	0.0	0.0												
+Term_lmo2831	0.0	0.0												
+Term_lmo2835	0.0	0.0												
+Term_lmo2839	0.0	0.0												
+Term_lmo2842	0.0	0.0												
+Term_lmo2843	0.0	0.0												
+Term_lmo2844	0.0	0.0												
+Term_lmo2845	0.0	0.0												
+Term_lmo2846	0.0	0.0												
+Term_lmo2851	0.0	0.0												
+Term_lmo2852	0.0	0.0												
+Term_lmo2853	0.0	0.0												
+Term_lmo2857	0.0	0.0												
+Term_lstR	0.0	0.0												
+Term_ltrA	0.0	0.0												
+Term_ltrC	0.0	0.0												
+Term_lysA	0.0	0.0												
+Term_lysS	0.0	0.0												
+Term_mecA	0.0	0.0												
+Term_menE	0.0	0.0												
+Term_metK	0.0	0.0												
+Term_metS	0.0	0.0												
+Term_miaA	0.0	0.0												
+Term_minD	0.0	0.0												
+Term_motB	0.0	0.0												
+Term_mraY	0.0	0.0												
+Term_mreD	0.0	0.0												
+Term_murA	0.0	0.0												
+Term_murC	0.0	0.0												
+Term_murF	0.0	0.0												
+Term_murZ	0.0	0.0												
+Term_nadA	0.0	0.0												
+Term_ndk	0.0	0.0												
+Term_nifJ	0.0	0.0												
+Term_nusB	0.0	0.0												
+Term_nusG	0.0	0.0												
+anti0043	-3.1692397218658743	-5.721451160737506	-	48338	48637	300	ASrna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti0112	-1.4674832313568924	-2.36320953364044	+	120158	120546	389	ASrna	Toledo-Arana et al. 2009	lmo0111, 	Toledo-Arana et al. 2009;				
+anti0172-rli23	-1.9468473005294262	-2.9611488476674666	+	172186	172485	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0307	-1.8807084399166785	-4.197688816453088	-	331446	331758	313	ASrna	Toledo-Arana et al. 2009	lmo0306, 	Toledo-Arana et al. 2009;				
+anti0330-rli25	-2.0537625044459387	-2.721451160737506	-	357292	357591	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0360	0.006467632170444659	-1.1346226200011724	-	388392	388640	249	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0387	-4.169239721865875	-3.573364379871285	-	411795	412094	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0421	-4.169239721865875	-3.9611488476674666	+	441667	441966	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0424	-0.8195082834799408	-3.721451160737506	+	444354	444653	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0441	-4.484992999645343	-4.9611488476674666	+	471939	472238	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0469	-4.5767406811057665	-2.7539366255131057	-	506019	506103	85	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0470	-3.0825426893137347	-1.3761863469463105	-	506669	506968	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0506-rli30	0.3118869678707421	0.5639510581247427	-	540470	540769	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0570	-2.2345457827587847	-4.721451160737506	-	607550	607849	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0571	-1.2345457827587847	-1.4034393784289731	+	608233	608532	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0605	2.572809139298821	2.1948199449056407	+	643800	644099	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0647-1	-1.2345457827587847	-0.7660094578136807	+	689529	689828	300	ASrna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti0647-2	-1.0391500938003544	-0.8754683503836711	+	689530	689922	393	ASrna	Toledo-Arana et al. 2009	lmo0648, 	Toledo-Arana et al. 2009;Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti0648-1	1.3255420493233432	2.9768528130595957	-	689932	689996	65	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0648-2	1.0051965567733339	3.5632844666967287	-	690044	690350	307	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0648-T1	0.4617778269100761	3.0462442636567637	-	689825	690364	540	ASrna	Toledo-Arana et al. 2009	lmo0647-T1, 	Toledo-Arana et al. 2009;				
+anti0648-T2	1.521785136274353	3.8035529496137297	-	689825	689861	37	ASrna	Toledo-Arana et al. 2009	lmo0647-T2, 	Toledo-Arana et al. 2009;				
+anti0667	-4.754202222587031	-3.3761863469463105	-	704825	705124	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0671	-4.5767406811057665	-1.9884018791501288	-	707570	707869	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0675	3.5927086967365245	4.315378869026974	-	712148	712447	300	ASrna	Wurtzel et al. 2012	anti0675-677, 	Wurtzel et al. 2012;				
+anti0733	-4.632950881032444	-3.43103482394193	-	762804	763634	831	ASrna	Toledo-Arana et al. 2009	lmo0734, 	Toledo-Arana et al. 2009;				
+anti0796	-4.5767406811057665	-4.907631805932429	+	823682	823884	203	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0799	-0.5062747091434456	0.5140984613790547	+	827498	827797	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0811	-4.5767406811057665	-4.907631805932429	-	838544	838843	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0828-rli35	-2.0537625044459387	-2.721451160737506	-	855168	855467	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0887	-4.5767406811057665	-4.907631805932429	-	925981	926280	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0943	-4.5767406811057665	-4.907631805932429	-	979023	979137	115	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0945	-4.021142144649591	-4.3381225211859995	-	981201	981315	115	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti0946-LhrC-5	-2.7542022225870304	-3.573364379871285	-	981367	981666	300	ASrna	Mraheil et al. 2011	anti0946, anti0946-anti-LhrC-5, 	Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti0968	-3.819508283479941	-4.573364379871285	-	1000110	1000409	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti0977-1	-2.7542022225870304	-1.260709129526374	+	1007804	1008103	300	ASrna	Wurtzel et al. 2012	anti0977, 	Wurtzel et al. 2012;				
+anti0977-2	-4.5767406811057665	-4.907631805932429	+	1008851	1008902	52	ASrna	Mraheil et al. 2011	anti0977, 	Mraheil et al. 2011;				
+anti1023	-4.5767406811057665	-4.907631805932429	-	1051479	1051778	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1079	-3.0825426893137347	-4.907631805932429	-	1111718	1112017	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1096	-2.7542022225870304	0.07049180990343906	-	1129954	1130253	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1188	-4.5767406811057665	-4.907631805932429	-	1213684	1213983	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1236	-4.484992999645343	-4.907631805932429	+	1263477	1263776	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1255	-0.497580188592579	-0.049802423814272245	+	1279827	1280126	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1278	-4.5767406811057665	-5.721451160737506	-	1302614	1302913	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1279	-4.5767406811057665	-4.907631805932429	-	1303686	1303985	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1284	-2.8195082834799408	-4.9611488476674666	+	1307098	1307397	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1399	-4.5767406811057665	-4.907631805932429	-	1426672	1426971	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1457	-4.5767406811057665	-4.907631805932429	+	1490369	1490461	93	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti1461	-2.484992999645342	-1.9884018791501288	-	1495134	1495433	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1479	-4.5767406811057665	-4.907631805932429	+	1513590	1513639	50	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti1655	-3.4044707842010973	-2.9611488476674666	+	1704657	1704956	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1670-1	-0.3851054593341656	-1.3568210220793793	-	1724308	1724381	74	ASrna	Wurtzel et al. 2012	anti1670, 	Mraheil et al. 2011;				
+anti1670-2	-2.0825426893137347	-2.9611488476674666	-	1724155	1724454	300	ASrna	Mraheil et al. 2011	anti1670, 	Wurtzel et al. 2012;				
+anti1677	-5.484992999645343	-5.721451160737506	-	1732172	1732471	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1707	-0.5971158621434931	0.8189530429074754	-	1769225	1769524	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1708	-1.5062747091434447	-0.3254368664276992	+	1770069	1770368	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1734	-3.484992999645342	-3.573364379871285	+	1800500	1800799	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1749	-2.5781024040368234	-4.907631805932429	-	1819048	1819127	80	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti1751	-4.5767406811057665	-5.721451160737506	+	1820461	1820760	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1758	-4.5767406811057665	-4.907631805932429	+	1829176	1829234	59	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti1777	-3.819508283479941	-2.721451160737506	+	1854469	1854768	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1816	0.42841922996364534	-0.8729246617301927	-	1890670	1890969	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1830	-4.5767406811057665	-4.136488660016349	-	1905800	1906099	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1846	-2.597115862143493	-1.260709129526374	-	1923063	1923362	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1909	-1.4975801885925781	-2.251436284983923	-	1982000	1982299	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti1910	-1.3455770951475285	-3.4699123937415415	+	1982891	1983142	252	ASrna	Toledo-Arana et al. 2009	lmo1909, 	Toledo-Arana et al. 2009;				
+anti1967	-4.5767406811057665	-4.907631805932429	-	2041537	2041655	119	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti1974	-4.5767406811057665	-4.907631805932429	+	2047165	2047238	74	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti1980-1	-2.3253992132098986	-1.8820772766762675	-	2052533	2052674	142	ASrna	Wurtzel et al. 2012	lmo1981, 	Toledo-Arana et al. 2009;				
+anti1980-2	-3.4044707842010973	-2.153793925609863	-	2052445	2052744	300	ASrna	Toledo-Arana et al. 2009	anti1980, 	Wurtzel et al. 2012;				
+anti1981	-0.1103460328123056	0.00486718922919227	+	2052934	2053035	102	ASrna	Toledo-Arana et al. 2009	lmo1980, 	Toledo-Arana et al. 2009;Wurtzel et al. 2012;				
+anti2044	-2.000335404719871	-2.2367935658120346	-	2128539	2128672	134	ASrna	Toledo-Arana et al. 2009	lmo2045, 	Toledo-Arana et al. 2009;				
+anti2045	-2.957011807229876	-4.273992183766285	+	2129095	2129314	220	ASrna	Toledo-Arana et al. 2009	lmo2044, 	Toledo-Arana et al. 2009;				
+anti2046	-3.819508283479941	-3.721451160737506	+	2129647	2129946	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2057	-0.2370654862017565	-0.3761863469463105	+	2139794	2140093	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2092	-3.0825426893137347	-2.37618634694631	-	2172218	2172517	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2095-1	3.053434980205239	4.016929689216191	+	2174999	2177148	2150	ASrna	Toledo-Arana et al. 2009	anti2095-RNA2, 	Toledo-Arana et al. 2009;				
+anti2095-rli65	5.858192715802538	6.838942139957528	+	2174997	2175296	300	ASrna	Toledo-Arana et al. 2009	anti2095, anti2095-RNA1, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+anti2114	-4.5767406811057665	-4.136488660016349	-	2194325	2194624	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2115	-4.5767406811057665	-4.721451160737506	-	2194179	2194478	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2224	-3.567969516483976	-3.884949893020385	+	2314340	2314423	84	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti2241	-4.5767406811057665	-3.573364379871285	+	2333247	2333546	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2260-1	-1.704031066060005	-1.113932761233988	+	2347318	2347617	300	ASrna	Wurtzel et al. 2012	anti2260, 	Wurtzel et al. 2012;				
+anti2260-2	-2.5514458286773456	-4.518694766827821	+	2347675	2348065	391	ASrna	Toledo-Arana et al. 2009	anti2260, lmo2259, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+anti2263	-1.8473116269785121	-0.9884018791501292	-	2349756	2350055	300	ASrna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti2270	-2.16306490475798	1.9813656576717733	-	2360255	2360554	300	ASrna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti2271	-4.5767406811057665	-4.907631805932429	+	2360820	2360930	111	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti2325-1	-0.21856001734968356	-3.782178706622147	+	2397280	2397544	265	ASrna	Toledo-Arana et al. 2009	anti2325-RNA1, 	Toledo-Arana et al. 2009;				
+anti2325-2	-2.0063710088283306	-4.107369588518511	+	2397280	2398275	996	ASrna	Toledo-Arana et al. 2009	anti2325-2327, anti2325-RNA2, 	Toledo-Arana et al. 2009;Wurtzel et al. 2012;				
+anti2394-1	1.840255453533631	1.6558657298886175	+	2468058	2468274	217	ASrna	Toledo-Arana et al. 2009	anti2394, anti2394-RNA1, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+anti2394-2	0.30503383827227726	0.018702549130170887	+	2468058	2468751	694	ASrna	Toledo-Arana et al. 2009	anti2394, anti2394-RNA2, 	Toledo-Arana et al. 2009;Wurtzel et al. 2012;				
+anti2415	-4.5767406811057665	-3.1650578122131208	+	2486369	2486419	51	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti2418	-3.754202222587031	-3.9611488476674666	+	2489486	2489785	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2428	-4.404470784201097	-3.3761863469463105	+	2497360	2497659	300	ASrna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+anti2530	-4.5767406811057665	-4.907631805932429	+	2608022	2608077	56	ASrna	Mraheil et al. 2011		Mraheil et al. 2011;				
+anti2558	-4.5767406811057665	-4.9611488476674666	-	2637381	2637680	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2678	-1.5971158621434927	1.4266356201287147	+	2749549	2749848	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2700	-4.169239721865875	-2.721451160737506	-	2775493	2775792	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2717	-5.404470784201097	-4.9611488476674666	+	2792160	2792459	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2722	-4.5767406811057665	-2.6392207527801044	-	2797765	2798064	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2745	-3.0825426893137347	-3.721451160737506	-	2820427	2820726	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+anti2749	1.8900464317015828	3.6535609964477427	-	2823812	2824111	300	ASrna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+glmS	4.379669360573878	3.1917209895951153	+	756458	756652	195	CisReg	Rfam	glms, 	Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
 lmo0001	3.7149753775789485	2.218979640683461	+	318	1673	1356	dnaA		chromosome replication initiator DnaA				GTG	 
 lmo0002	1.8243479062947836	1.5429115313182526	+	1867	3012	1146	dnaN		DNA polymerase III subunit beta				ATG	 
 lmo0003	-2.2104175118658924	-4.124647579950346	+	3121	4464	1344			hypothetical protein				ATG	 
@@ -507,7 +2151,7 @@ lmo0505	-4.017725541593941	-4.078843890337222	+	539774	540424	651			ribulose-5-p
 lmo0506	-4.622735319914868	-2.917159797668915	+	540421	541467	1047			sorbitol dehydrogenase				ATG	 
 lmo0507	-4.375324438541581	-3.6923048150779896	+	541483	541776	294			PTS galactitol transporter subunit IIB				ATG	 
 lmo0508	-3.581644453381053	-2.265111221880999	+	541791	543062	1272			PTS galactitol transporter subunit IIC				ATG	 
-lmo0509	3.261183995852189	2.6570483869357915	+	543202	544137	936	prs		phosphoribosyl pyrophosphate synthetase				ATG	 
+lmo0509	3.261183995852189	2.6570483869357915	+	543202	544137	936			phosphoribosyl pyrophosphate synthetase				ATG	 
 lmo0510	-2.0311435368070905	-3.500127006788549	+	544923	545501	579			hypothetical protein				TTG	 
 lmo0511	-1.4172380802749753	-1.388953643020188	+	545609	546289	681			hypothetical protein				TTG	 
 lmo0512	3.499912955796848	3.0750247648860185	-	546314	546673	360			hypothetical protein				ATG	 
@@ -1053,7 +2697,7 @@ lmo1051	2.3490855858249917	2.572773315074418	-	1077592	1078143	552	def		peptide 
 lmo1052	5.220108516963023	4.665117407975316	+	1078977	1080092	1116	pdhA		pyruvate dehydrogenase subunit E1 alpha				ATG	 
 lmo1053	4.346498160468949	4.310478291254626	+	1080095	1081072	978	PdhB		pyruvate dehydrogenase subunit E1 beta				ATG	 
 lmo1054	5.084253818563171	4.407692234374116	+	1081183	1082817	1635	pdhC		dihydrolipoamide acetyltransferase				ATG	 
-lmo1055	6.177079877059075	5.404392546456879	+	1082822	1084225	1404	PdhD		dihydrolipoamide dehydrogenase				ATG	 
+lmo1055	6.177079877059073	5.404392546456879	+	1082822	1084225	1404	PdhD		dihydrolipoamide dehydrogenase				ATG	 
 lmo1056	-0.8977203382369856	-1.2103774539762293	+	1084413	1084724	312			hypothetical protein				ATG	 
 lmo1057	1.461777826910076	2.0613896027961873	+	1084853	1085806	954			L-lactate dehydrogenase				ATG	 
 lmo1058	2.626408528682875	1.6984746579655745	+	1085806	1086078	273			hypothetical protein				ATG	 
@@ -1084,7 +2728,7 @@ lmo1082	2.769306542736821	1.0934529583467514	+	1116532	1117092	561			dTDP-sugar 
 lmo1083	2.2172916347230114	1.0922523286422505	+	1117093	1118079	987			dTDP-D-glucose 4,6-dehydratase				ATG	 
 lmo1084	2.100057829329966	0.9791174568827063	+	1118082	1118912	831			DTDP-L-rhamnose synthetase				ATG	 
 lmo1085	-1.3954895419023394	-1.4676324403564651	+	1118932	1121022	2091			teichoic acid biosynthesis protein B				ATG	 
-lmo1086	2.6602888974313075	2.1417504930732623	+	1121098	1121808	711	ispD		2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase				ATG	 
+lmo1086	2.6602888974313075	2.1417504930732623	+	1121098	1121808	711			2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase				ATG	 
 lmo1087	2.835088360915389	2.524598090912141	+	1121805	1122830	1026			glucitol dehydrogenase				ATG	 
 lmo1088	-0.9383514641797897	-1.7708104440775019	+	1122918	1124078	1161	tagB		teichoic acid biosynthesis protein B				ATG	 
 lmo1089	-0.20345543720378778	-2.92950819009656	+	1124079	1124462	384	tagD		glycerol-3-phosphate cytidylyltransferase				ATG	 
@@ -1191,7 +2835,7 @@ lmo1188	-0.6907931449288007	-0.8260036143427003	+	1213636	1215087	1452			hypothe
 lmo1189	1.2352140762594965	-0.32378712920860675	-	1215128	1215679	552			transcriptional regulator				TTG	 
 lmo1190	-3.805008713784826	-4.907631805932429	+	1215993	1216487	495			hypothetical protein				TTG	 
 lmo1191	-4.999019333751452	-4.907631805932429	+	1216820	1218178	1359	cbiA		cobyrinic acid a,c-diamide synthase				ATG	 
-lmo1192	-5.559955057326564	-4.907631805932429	+	1218175	1219122	948	cobD		cobalamin biosynthesis protein				ATG	 
+lmo1192	-5.559955057326564	-4.907631805932429	+	1218175	1219122	948			cobalamin biosynthesis protein				ATG	 
 lmo1193	-4.481713783133557	-4.907631805932429	+	1219135	1219767	633	cbiC		cobalt-precorrin-8X methylmutase				ATG	 
 lmo1194	-4.5767406811057665	-4.89144014926304	+	1219783	1220904	1122	cbiD		cobalt-precorrin-6A synthase				ATG	 
 lmo1195	-5.397239214970021	-5.7142195915064296	+	1220901	1221497	597	cbiE		cobalt-precorrin-6Y C(5)-methyltransferase				ATG	 
@@ -1335,7 +2979,7 @@ lmo1332	1.343625373250605	1.347203297941019	-	1361564	1362604	1041			GTPase EngC
 lmo1333	2.7878220302696697	2.469303703998065	-	1362765	1363244	480			hypothetical protein				GTG	 
 lmo1333a	2.0383678979428224	1.9671607315759578	-	1363272	1363739	468			hypothetical protein				ATG	 
 lmo1334	2.423916763599829	2.327048389907347	-	1363272	1363628	357			hypothetical protein				ATG	 
-lmo1335	5.094322937934672	3.178402504731327	+	1363826	1363975	150	rpmG		50S ribosomal protein L33				ATG	 
+lmo1335	5.094322937934672	3.178402504731327	+	1363826	1363975	150			50S ribosomal protein L33				ATG	 
 lmo1336	0.5024198114074219	-1.1734337729826496	+	1364031	1364570	540			5-formyltetrahydrofolate cyclo-ligase				ATG	 
 lmo1337	0.5808662978823902	0.5595298906260604	+	1364669	1366207	1539			hypothetical protein				TTG	 
 lmo1338	-0.20992199578996207	-1.642379589746307	+	1366220	1366432	213			hypothetical protein				GTG	 
@@ -1587,7 +3231,7 @@ lmo1582	3.5123873765962834	3.762575805388801	-	1624316	1625314	999			hypothetica
 lmo1583	3.1098986804823863	3.287909415824595	-	1625505	1626002	498	tpx		thiol peroxidase				ATG	 
 lmo1584	-0.4043372511965444	-1.2394826533396754	-	1626064	1626600	537			hypothetical protein				ATG	 
 lmo1585	-0.6657354181501152	-1.4724066312511725	-	1626620	1627633	1014			peptidase				ATG	 
-lmo1586	1.1261970012090599	1.906636998582104	+	1627812	1628615	804	ppnK		inorganic polyphosphate/ATP-NAD kinase				ATG	 
+lmo1586	1.1261970012090599	1.906636998582104	+	1627812	1628615	804			inorganic polyphosphate/ATP-NAD kinase				ATG	 
 lmo1587	0.2886740691291694	-2.150384378985628	-	1628647	1629597	951	argF		ornithine carbamoyltransferase				ATG	 
 lmo1588	-0.8022154988931449	-3.718343024183367	-	1629594	1630754	1161	argD		acetylornithine aminotransferase				ATG	 
 lmo1589	-0.6660689579193724	-3.9669081169561515	-	1630751	1631503	753	argB		acetylglutamate kinase				GTG	 
@@ -1609,7 +3253,7 @@ lmo1603	1.0439600318374485	-0.9101947150397258	+	1646669	1647781	1113			aminopep
 lmo1604	2.084737590873014	0.4695877653132614	-	1647821	1648366	546			2-cys peroxiredoxin				GTG	 
 lmo1605	3.443956549822831	2.644679839030422	-	1648511	1649854	1344	murC		UDP-N-acetylmuramate--L-alanine ligase				ATG	 
 lmo1606	3.4711905147344684	1.9871634263045435	-	1650149	1652500	2352			DNA translocase				ATG	 
-lmo1607	1.7029993270876815	1.8290968290887823	-	1652810	1653427	618	pheT		phenylalanyl-tRNA synthetase subunit beta				GTG	 
+lmo1607	1.7029993270876815	1.8290968290887823	-	1652810	1653427	618			phenylalanyl-tRNA synthetase subunit beta				GTG	 
 lmo1608	2.1386914059541553	2.2577233916594714	-	1653433	1654233	801			hypothetical protein				ATG	 
 lmo1609	-0.055898248789929106	0.0033250244207865265	-	1654268	1654579	312			thioredoxin				ATG	 
 lmo1610	0.5837484753645743	0.8348635614102973	-	1654691	1654909	219			hypothetical protein				ATG	 
@@ -1809,7 +3453,7 @@ lmo1803	2.9462199098237996	1.3809733781396947	-	1875574	1876560	987			cell divis
 lmo1804	1.483662065004256	-0.04458032677794055	-	1876575	1880135	3561	smc		chromosome condensation protein Smc				ATG	 
 lmo1805	1.465357717185876	-0.38268081826217504	-	1880158	1880847	690	rnc		ribonuclease III				ATG	 
 lmo1806	8.2109289595244	5.974914149921208	-	1881041	1881274	234	acpP		acyl carrier protein				ATG	 
-lmo1807	2.5589846944010173	2.711504606414694	-	1881381	1882124	744	fabG		3-ketoacyl-ACP reductase				ATG	 
+lmo1807	2.5589846944010173	2.711504606414694	-	1881381	1882124	744			3-ketoacyl-ACP reductase				ATG	 
 lmo1808	2.652123788762884	2.1638883463569467	-	1882128	1883069	942	fabD		ACP S-malonyltransferase				ATG	 
 lmo1809	2.151388924575799	0.9457367788954922	-	1883062	1884075	1014	plsX		glycerol-3-phosphate acyltransferase PlsX				ATG	 
 lmo1810	1.814188040074562	0.5230040146009465	-	1884096	1884665	570			fatty acid biosynthesis transcriptional regulator				ATG	 
@@ -2048,7 +3692,7 @@ lmo2043	-3.4610543125674647	-2.382020394794067	-	2125699	2126946	1248			MFS tran
 lmo2044	-2.541974307951032	-1.2161032118716424	+	2127062	2128876	1815			peptide ABC transporter substrate-binding protein				ATG	 
 lmo2045	-0.8736457747919744	-0.19923689637102981	-	2128806	2129192	387			hypothetical protein				ATG	 
 lmo2046	-0.2518626603253349	-0.892604988580179	-	2129185	2130078	894			2-dehydropantoate 2-reductase				ATG	 
-lmo2047	8.040873709686037	7.940420299176699	-	2130228	2130401	174	rpmF		50S ribosomal protein L32				ATG	 
+lmo2047	8.040873709686037	7.940420299176699	-	2130228	2130401	174			50S ribosomal protein L32				ATG	 
 lmo2048	5.899271705167301	6.007453594800525	-	2130492	2131028	537			hypothetical protein				ATG	 
 lmo2049	-0.8823059988470217	-0.8400932692628205	+	2131158	2132330	1173			hypothetical protein				ATG	 
 lmo2050	-0.8877265123297118	1.0566061465926149	+	2132412	2134652	2241			excinuclease ABC subunit A				ATG	 
@@ -2280,7 +3924,7 @@ lmo2274	-0.34557709514752855	0.28758993157037427	+	2362306	2362656	351			protein
 lmo2275	-1.5300016662849556	0.3335262157372334	+	2362661	2363110	450			protein gp28				ATG	 
 lmo2276	0.07379933985565224	0.39589209669760717	+	2363135	2363632	498			hypothetical protein				GTG	 
 lmo2277	0.9114256393466071	-0.09551814153549021	-	2363709	2364260	552			hypothetical protein				GTG	 
-lmo2278	-4.658760067382048	-5.069059542495354	-	2364754	2365599	846	A118 phage - lysA		L-alanoyl-D-glutamate peptidase				ATG	 
+lmo2278	-4.658760067382048	-5.069059542495354	-	2364754	2365599	846			L-alanoyl-D-glutamate peptidase				ATG	 
 lmo2279	-5.395725661548255	-3.2869190088492233	-	2365599	2365880	282			holin				ATG	 
 lmo2280	-4.5767406811057665	-4.907631805932429	-	2365893	2366258	366			protein gp23				ATG	 
 lmo2281	-4.569057264433817	-4.907631805932429	-	2366288	2366446	159			protein gp22				ATG	 
@@ -2547,7 +4191,7 @@ lmo2539	3.835341023762634	2.36852669847981	-	2615458	2616699	1242	glyA		serine h
 lmo2540	0.15192256432328843	1.9717136554252663	-	2616835	2617242	408			phosphatase				ATG	 
 lmo2541	1.6121120999945076	0.02818100504547516	-	2617239	2618276	1038			tRNA threonylcarbamoyladenosine biosynthesis protein				ATG	 
 lmo2542	0.9783815349672045	0.7280996124563615	-	2618577	2619428	852			protoporphyrinogen oxidase				ATG	 
-lmo2543	2.6881833107531463	1.8447466214505672	-	2619415	2620491	1077	prfA		peptide chain release factor 1				ATG	 
+lmo2543	2.6881833107531463	1.8447466214505672	-	2619415	2620491	1077			peptide chain release factor 1				ATG	 
 lmo2544	1.0806876595545702	-0.1925425959303535	-	2620514	2621089	576			thymidine kinase				ATG	 
 lmo2545	3.175595393307656	2.7566530333981554	-	2621201	2622067	867	thrB		homoserine kinase				ATG	 
 lmo2546	2.6238748382253654	2.684755170756116	-	2622067	2623122	1056	thrC		threonine synthase				ATG	 
@@ -2606,7 +4250,7 @@ lmo2597	6.514485812927461	6.07296006549419	-	2684665	2685102	438	rplM		50S ribos
 lmo2598	0.8718405107736276	-0.6800567565356914	-	2685297	2686043	747	truA		tRNA pseudouridine synthase A				ATG	 
 lmo2599	0.3739275289524553	0.30061159326449793	-	2686049	2686846	798			hypothetical protein				ATG	 
 lmo2600	1.4907244777750472	0.8653336642246634	-	2686849	2687715	867	cbiO		cobalt ABC transporter ATP-binding subunit				ATG	 
-lmo2601	1.5237303176528343	0.5850649827331971	-	2687691	2688530	840	cbiO		cobalt ABC transporter ATP-binding protein				GTG	 
+lmo2601	1.5237303176528343	0.5850649827331971	-	2687691	2688530	840			cobalt ABC transporter ATP-binding protein				GTG	 
 lmo2602	-0.4002206787661686	1.5772099994036344	+	2688661	2689323	663			hypothetical protein				ATG	 
 lmo2603	0.4202775002950139	1.6763516515178614	+	2689442	2690332	891			hypothetical protein				ATG	 
 lmo2604	-0.5327105012228088	-1.2713358424216272	-	2690371	2691465	1095			hypothetical protein				ATG	 
@@ -2624,7 +4268,7 @@ lmo2615	6.725823273071127	6.79197834226089	-	2697463	2697966	504	rpsE		30S ribos
 lmo2616	5.231096197369048	5.936318494054426	-	2697988	2698347	360	rplR		50S ribosomal protein L18				GTG	 
 lmo2617	6.028490955176375	6.111032421138722	-	2698387	2698923	537	rplF		50S ribosomal protein L6				ATG	 
 lmo2618	5.096519090794008	5.817249465486086	-	2698954	2699352	399	rpsH		30S ribosomal protein S8				ATG	 
-lmo2619	5.424740447585547	5.880795874026964	-	2699383	2699568	186	rpsN		30S ribosomal protein S14				GTG	 
+lmo2619	5.424740447585547	5.880795874026964	-	2699383	2699568	186			30S ribosomal protein S14				GTG	 
 lmo2620	4.994866487272681	5.266014397011231	-	2699600	2700139	540	rplE		50S ribosomal protein L5				ATG	 
 lmo2621	5.707536924702019	6.159687161955402	-	2700166	2700477	312	rplX		50S ribosomal protein L24				ATG	 
 lmo2622	5.7161945718733485	6.257370089457561	-	2700515	2700883	369	rplN		50S ribosomal protein L14				ATG	 
@@ -2654,7 +4298,7 @@ lmo2644a	-4.210370619536336	-2.9495608733922545	-	2718312	2719055	744			hypothet
 lmo2646	-4.748027405479136	-3.3995230658501434	-	2719056	2719775	720			hypothetical protein				TTG	 
 lmo2647	-4.5767406811057665	-5.895292474758648	-	2719735	2720484	750			creatinine amidohydrolase				GTG	 
 lmo2648	-4.5767406811057665	-3.9782675020164158	-	2720497	2721489	993			phosphotriesterase				ATG	 
-lmo2649	-3.89892030645625	-2.6877314048232854	-	2721559	2722857	1299	ulaA		PTS system ascorbate transporter subunit IIC				ATG	 
+lmo2649	-3.89892030645625	-2.6877314048232854	-	2721559	2722857	1299			PTS system ascorbate transporter subunit IIC				ATG	 
 lmo2650	-5.348931450069314	-2.8523403295741008	-	2722884	2723156	273			MFS transporter				ATG	 
 lmo2651	-5.290255122827241	-2.524454779390339	-	2723159	2723593	435			PTS mannitol transporter subunit IIA				ATG	 
 lmo2652	0.3028783291990109	0.8515850028280987	-	2723786	2725852	2067			transcriptional antiterminator				ATG	 
@@ -2823,7 +4467,7 @@ lmo2811	0.6948023663683109	0.34334944109351984	-	2894510	2895883	1374	trmE		tRNA
 lmo2812	-4.348931450069314	-3.4373028302952564	+	2896241	2897059	819			D-alanyl-D-alanine carboxypeptidase				ATG	 
 lmo2813	-2.395330130344628	-2.392580785196979	-	2897116	2897823	708			hypothetical protein				ATG	 
 lmo2814	-2.050121211621357	-1.9693693544724349	-	2897847	2898374	528			TetR family transcriptional regulator				ATG	 
-lmo2815	-1.9645192253758998	-1.7885983768183307	+	2898535	2899266	732	fabG		3-ketoacyl-ACP reductase				ATG	 
+lmo2815	-1.9645192253758998	-1.7885983768183307	+	2898535	2899266	732			3-ketoacyl-ACP reductase				ATG	 
 lmo2816	-4.5767406811057665	-4.907631805932429	-	2899313	2900506	1194			MFS transporter				ATG	 
 lmo2817	-2.773692288872483	-3.6283597601483373	-	2900594	2901784	1191			peptidase				ATG	 
 lmo2818	-4.5767406811057665	-4.599608896881247	-	2901800	2903200	1401			MFS transporter				ATG	 
@@ -2951,3 +4595,159 @@ lmot64	1.1963378955480453	0.7201820475259213	-	2672761	2672836	76	tRNA	tRNA-Asn
 lmot65	3.5833610186572926	1.8777233245124014	-	2676144	2676219	76	tRNA	tRNA-Ala						
 lmot66	3.5455995806448417	3.2533558670532496	-	2676266	2676339	74	tRNA	tRNA-Ile						
 lmot67	-0.12407077314211623	0.05059225246573451	+	2930362	2930434	73	tRNA	tRNA-Val						
+pan	0.840836029083353	1.0198657368334718	-	1977152	1977238	87	CisReg	Rfam		Rfam 2012;				
+rli1 - LhrC-1	-0.14369957989104876	6.794054525359945	+	231884	231994	111	Srna	Christiansen et al. 2006	LhrC-1, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli10 - rliD	-4.5767406811057665	-5.08988216178967	-	1359202	1359529	328	Srna	Mandin et al. 2007	rliD, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli100	-0.2751877672561305	0.07049180990343906	-	2424807	2424866	60	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli101	2.1672356198177916	1.3853651472568513	-	2452913	2452994	82	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli102	-1.1334238583159193	0.3191709227601631	+	2454489	2454690	202	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli103	1.8896539671876944	0.7485637150160773	-	2498270	2498344	75	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli104	-4.497580188592579	-3.6664737842627666	-	2505181	2505340	160	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli105	5.959088816022849	4.753564396074443	-	2533481	2533615	135	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli106	1.1394978652624514	1.5965606215710277	-	2594561	2594785	225	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli107	0.7843009670414656	0.09066969184107077	-	2632700	2632770	71	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli108	5.976055613067723	0.7704019355921687	-	2639710	2639789	80	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli109	4.961981099320585	5.340297173714671	-	2694509	2694694	186	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli11 - sbrA	1.7323300520127098	2.6827073421072587	+	1399365	1399616	252	Srna	Nielsen et al. 2008	Rli11-sbrA, sbrA, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;Oliver et al. 2009;				
+rli110	-4.5767406811057665	-4.907631805932429	+	2730489	2730555	67	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli111	-1.4578081703191117	-0.9339640183412365	+	2736457	2736640	184	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli112	2.452921396809531	0.6610122710079391	+	2782958	2783091	134	Srna	Mraheil et al. 2011		Mraheil et al. 2011;Wurtzel et al. 2012;				
+rli113	1.624950740993282	-0.07873419887103683	-	2839401	2839573	173	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli114	-1.7797362652064739	-1.6011569270197938	-	2857252	2857320	69	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli115	-2.914419930505408	-4.79302608885914	+	77597	77863	267	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;				
+rli116	-2.620746741445317	-4.907631805932429	+	143795	144000	206	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;				
+rli117	-4.338323350503333	-3.2295166978043013	+	145571	145841	271	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;				
+rli118	-0.45257152195296513	1.280596667911353	+	199775	199884	110	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;				
+rli119	-0.15543392234084408	1.7205493388464816	-	215458	215587	130	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli12 - ssrS-6S	7.905343235242592	8.19966967031635	-	1546336	1546531	196	Srna	Mandin et al. 2007	ssrS, ssrS-6S, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+rli120	1.034043876522869	0.019742329384828672	+	226546	226640	95	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli121	-1.9353889955300803	-3.144143755576143	+	495786	496381	596	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli122	-0.4083128504954914	1.2980434918719332	-	507021	507161	141	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli123	-4.504101822593047	-3.5924732028189896	+	862938	863241	304	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli124	1.3200038657819126	3.601707619993771	-	1057361	1057621	261	Srna	Wurtzel et al. 2012	rli66, 	Wurtzel et al. 2012;Oliver et al. 2009;				
+rli125	-1.732285871367878	-2.8080700626465847	-	1154319	1154671	353	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli126	-3.4915564009648086	-2.6331969651523344	+	1159877	1160115	239	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli127	4.30259300058254	4.078855282838067	-	1473701	1473829	129	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli128	0.7684946715612666	4.48095657939246	-	1575917	1575995	79	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli129	2.814825132176278	0.931088753238023	-	1613300	1613451	152	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli13 - rliE	-3.4721117083486095	-4.533230057091891	+	1584586	1584808	223	Srna	Mandin et al. 2007	rliE, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli130	4.532002511224279	2.7651695022992318	-	2008753	2008871	119	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli131	-1.2287634301647783	-0.785441493631148	-	2031272	2031354	83	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli132	-2.695308533533462	-2.3218256128753203	-	2109721	2109972	252	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli133	-1.4911678167532365	-2.4584167549037117	-	2145524	2145648	125	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli134	3.8262919061902654	5.168523892863968	-	2151510	2151605	96	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli135	2.4746164679088505	0.7168548552887399	-	2213168	2213213	46	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli136	3.6992132057432485	1.4968952782083242	-	2286256	2286586	331	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli137	0.2843940722132414	-0.7175988352418994	+	2293286	2293472	187	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli138	1.4568387770985254	1.5414753840786402	+	2321818	2322026	209	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli139	-4.404470784201097	-3.573364379871285	-	2321818	2321967	150	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli14 - LhrB	6.606504929388823	7.771602992136495	-	1859870	1860017	148	Srna	Christiansen et al. 2006	LhrB, LhrB-L20, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+rli140	-4.5767406811057665	1.3130621131775184	-	2395032	2395244	213	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli141	-0.773214631206006	-1.577820208115961	+	2399283	2399512	230	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli142	-4.5767406811057665	-3.1259054029000635	+	2569572	2569681	110	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli143	0.041939341367410954	0.42636758884747294	-	2584861	2585032	172	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli144	3.380741254819169	2.1670291553071355	-	2640531	2640819	289	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli145	-1.8652335349757747	-1.3624675973726665	-	2794580	2794741	162	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli146	-4.5767406811057665	-4.907631805932429	+	318784	318834	51	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli147	2.1664941725465177	0.7140715130165933	-	2784594	2784775	182	Srna	Wurtzel et al. 2012		Wurtzel et al. 2012;				
+rli148 - sbrB	-3.9004229634380745	-4.907631805932429	+	1275554	1275719	166	Srna	Oliver et al. 2009	sbrB, 	Oliver et al. 2009;				
+rli149 - sbrD	-4.5767406811057665	-4.907631805932429	+	2613033	2613100	68	Srna	Oliver et al. 2009	sbrD, 	Oliver et al. 2009;				
+rli15 - rnpB	6.617350327527783	8.52708037454138	-	1961807	1962188	382	Srna	Mandin et al. 2007	RNaseP_bact_b, rnpB, rnpB-RNase P, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;Mraheil et al. 2011;				
+rli16 - rliF	-3.957011807229876	-3.5136898706962456	-	2106073	2106292	220	Srna	Mandin et al. 2007	rliF, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli17 - LhrA	4.753354956490089	7.538660670696373	-	2346166	2346382	217	Srna	Christiansen et al. 2006	LhrA, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli18 - rliG	-1.046665652985138	1.2953170526433864	-	2386715	2386992	278	Srna	Mandin et al. 2007	rliG, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+rli19 - ssrA	12.165086627130743	9.741820937424631	-	2509852	2510220	369	Srna	Mandin et al. 2007	ssrA, ssrA-tmRNA, tmRNA, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;Mraheil et al. 2011;				
+rli2 - LhrC-2	-1.478566730485909	6.626478003416924	+	232086	232197	112	Srna	Christiansen et al. 2006	LhrC-2, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli20 - SRP	6.113962878780521	7.973486738423958	-	2784311	2784413	103	Srna	Barry et al. 1999	Bacteria_large_SRP, Bacteria_small_SRP, SRP, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;Rfam 2012-2;				
+rli21 - rliI	-1.6915604538201077	-0.8197929984219252	-	2841962	2842199	238	Srna	Mandin et al. 2007	rliI, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli22	-4.5767406811057665	0.1736936946194012	+	31997	32107	111	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;Rfam 2012;				
+rli23	-1.548956058377307	-1.3470400012867945	+	172171	172268	98	Srna	Toledo-Arana et al. 2009	rli23-1, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli24	0.5924529582027089	0.7856686922454799	+	271014	271201	188	Srna	Toledo-Arana et al. 2009		Mraheil et al. 2011;Toledo-Arana et al. 2009;Wurtzel et al. 2012;Rfam 2012;Oliver et al. 2009;				
+rli25	-1.9426748363326798	-1.4188306843548038	-	357516	357618	103	Srna	Toledo-Arana et al. 2009	rli23-2, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli26	-0.823064080731835	-0.9052606438498829	-	388590	388707	118	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;				
+rli27	-1.2689983495070445	-0.5525091195867731	+	434817	434929	113	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli28	4.694808870642229	5.154522685200387	-	507141	507372	232	Srna	Toledo-Arana et al. 2009	rli28-1, 	Wurtzel et al. 2012;Mraheil et al. 2011;Toledo-Arana et al. 2009;Rfam 2012;				
+rli28-2	1.4350881037222134	0.9062133837544142	+	2039064	2039248	185	Srna	Toledo-Arana et al. 2009		Rfam 2012;				
+rli28-3	3.5081637939422254	1.5377411788018938	-	2154893	2155080	188	Srna	Toledo-Arana et al. 2009		Rfam 2012;				
+rli29	2.009485566091156	1.5848600187091142	-	507450	507632	183	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+rli3 - LhrC-3	-4.063529231207065	5.960160807854015	+	232289	232400	112	Srna	Christiansen et al. 2006	LhrC-3, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli30	1.639003285809733	1.7786695515757698	-	540670	540785	116	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;				
+rli31	-3.444246769365744	-1.6511933944461799	+	597806	597926	121	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;Oliver et al. 2009;				
+rli32	4.794451763920506	6.977382405511957	-	600604	600750	147	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli33	-2.128267940809568	1.9278198399437896	+	708618	708860	243	Srna	Toledo-Arana et al. 2009	rli33-2, 	Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli33-2	1.118079109351494	3.7012580002377202	+	708309	708494	186	Srna	Toledo-Arana et al. 2009	rli33-1, 	Mraheil et al. 2011;				
+rli33-3	-0.2848508646068497	2.7917315741724504	+	708326	708860	535	Srna	Toledo-Arana et al. 2009	rli33, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli34	-4.5767406811057665	-4.907631805932429	-	802948	803031	84	Srna	Toledo-Arana et al. 2009	rli34-2, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli34-2	-4.5767406811057665	-4.907631805932429	-	678220	678303	84	Srna	Toledo-Arana et al. 2009	rli34-1, 	Rfam 2012;				
+rli35	-1.9426748363326798	-1.4188306843548038	-	855393	855495	103	Srna	Toledo-Arana et al. 2009	rli23-3, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli36	-1.7217807448946534	-3.1259054029000635	-	859412	859521	110	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;				
+rli37	2.212521622538671	3.0515709480062103	+	907526	907832	307	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;				
+rli38	-0.8829355367092333	-2.287060194714644	+	1152549	1152917	369	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Rfam 2012;Toledo-Arana et al. 2009;				
+rli39	-1.9023529905364738	-2.3064776485418843	+	1179807	1179993	187	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;Oliver et al. 2009;				
+rli4 - LhrC-4	-3.089064323314203	4.462685825233557	+	232492	232605	114	Srna	Christiansen et al. 2006	LhrC-4, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli40	0.5425769378794048	0.7397382871436369	-	1275547	1275794	248	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;				
+rli41	0.7612427439279488	0.2616759307175558	-	1276713	1277206	494	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Toledo-Arana et al. 2009;Rfam 2012;				
+rli42	-2.461054312567464	-1.9706797670462692	-	1399461	1399616	156	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli43	-0.47027284259684343	-3.2022907184120957	-	1861377	1861533	157	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;				
+rli44	0.7915438817378471	0.3021975259566849	+	2039087	2039375	289	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Oliver et al. 2009;				
+rli45	-0.1774602286708431	-0.1447091668213174	+	2154765	2154852	88	Srna	Toledo-Arana et al. 2009	RatA-3, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli45-2	2.5669479287664583	0.5672301246873221	+	2153775	2153852	78	Srna	Toledo-Arana et al. 2009	rli45, 	Rfam 2012;				
+rli46	2.882063404151072	0.9224050290372192	-	2154765	2155058	294	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+rli47	4.973592927177176	7.022557344991883	+	2226036	2226481	446	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;Oliver et al. 2009;Mraheil et al. 2011;				
+rli48	-2.569777651449603	0.13016631907848009	-	2361274	2361405	132	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli49	-1.216545436644231	-2.008454562445823	+	2660210	2660364	155	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;				
+rli5 - rliA	-4.5767406811057665	-4.907631805932429	+	513584	513807	224	Srna	Mandin et al. 2007	rliA, 	Toledo-Arana et al. 2009;Rfam 2012;				
+rli50	4.816873474213969	4.473273819748545	-	2782981	2783264	284	Srna	Toledo-Arana et al. 2009	rli28-4, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;Mraheil et al. 2011;				
+rli51	-1.274321767923432	6.922705312891644	+	207589	207709	121	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;Mraheil et al. 2011;Oliver et al. 2009;Rfam 2012;				
+rli52	-4.5767406811057665	-4.907631805932429	-	552327	552421	95	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;Mraheil et al. 2011;Wurtzel et al. 2012;Rfam 2012;				
+rli53	-1.8328120572833972	-0.12198909032123417	+	955824	956021	198	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Oliver et al. 2009;Toledo-Arana et al. 2009;Rfam 2012;				
+rli54	2.512371389904269	2.1502190023741736	+	1078584	1079111	528	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;Rfam 2012;				
+rli55	3.7860997583346236	1.699270542917085	+	1198108	1198561	454	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Toledo-Arana et al. 2009;				
+rli56	-1.748027405479136	-0.2241832535012609	+	1199848	1199937	90	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Toledo-Arana et al. 2009;Rfam 2012;				
+rli57	-4.484992999645343	-2.988401879150129	+	1216658	1216957	300	Srna	Toledo-Arana et al. 2009		Toledo-Arana et al. 2009;				
+rli58	1.2059107010225398	0.023047474108500943	-	1639915	1640132	218	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Toledo-Arana et al. 2009;				
+rli59	-0.0714344292924114	1.8371577424187082	-	1702361	1702543	183	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Rfam 2012;Toledo-Arana et al. 2009;				
+rli6 - rliB	-1.5161999651109168	-3.2484275351115848	+	544238	544716	479	Srna	Mandin et al. 2007	rliB, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;Oliver et al. 2009;				
+rli60	0.9840887690457425	-0.946581703455502	+	2054162	2054501	340	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Toledo-Arana et al. 2009;				
+rli61	-2.2200462130636693	-4.907631805932429	-	2275297	2275362	66	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Rfam 2012;Mraheil et al. 2011;				
+rli62	6.947040010503123	7.6431474059925115	-	2364321	2364439	119	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Rfam 2012;Mraheil et al. 2011;				
+rli63	1.1047074200824776	-0.21396157956526007	-	2612921	2613300	380	Srna	Toledo-Arana et al. 2009		Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;				
+rli65	6.512566031759867	4.639638620215372	+	531148	531266	119	Srna	Oliver et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;Oliver et al. 2009;				
+rli66	1.0213847533543374	3.276440052456147	-	1057315	1057642	328	Srna	Oliver et al. 2009	rli124, 	Oliver et al. 2009;Wurtzel et al. 2012;				
+rli67	1.936766563025814	2.2971538260722717	-	1535169	1535409	241	Srna	Oliver et al. 2009		Oliver et al. 2009;				
+rli68	6.003118398603819	6.985207162805795	+	2174995	2175265	271	Srna	Oliver et al. 2009		Oliver et al. 2009;				
+rli69	2.1505955741457816	1.945741747941053	+	2468115	2468289	175	Srna	Oliver et al. 2009		Oliver et al. 2009;				
+rli7 - LhrC-5	-1.2432352534419628	7.321876916907646	+	981621	981731	111	Srna	Christiansen et al. 2006	LhrC-5, 	Wurtzel et al. 2012;Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
+rli70	-4.5767406811057665	-4.57153394526853	+	2533504	2533732	229	Srna	Oliver et al. 2009		Oliver et al. 2009;				
+rli71	-4.5767406811057665	-4.907631805932429	+	28964	29061	98	Srna	Oliver et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli72	7.0708941893400095	5.359754241819131	+	200410	200519	110	Srna	Oliver et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli73	2.0287064048009693	-0.13114205126621137	+	200942	201217	276	Srna	Oliver et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli74	-2.258737872704977	5.616980162809959	+	209321	209453	133	Srna	Oliver et al. 2009		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli75	-4.5767406811057665	-4.907631805932429	+	321290	321363	74	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli76	-4.5767406811057665	-4.907631805932429	-	344675	344771	97	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli77	-0.3114567446506511	2.922099970010768	+	454095	454227	133	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli78	1.502767508223	0.41638314814151745	+	507068	507473	406	Srna	Mraheil et al. 2011	RatA-1, 	Wurtzel et al. 2012;Mraheil et al. 2011;Rfam 2012;				
+rli79	3.5080127537517694	4.848099388566991	+	696818	696880	63	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli8 - rliC	-5.284080305719346	-2.438308058854108	+	1154414	1154674	261	Srna	Mandin et al. 2007	rliC, 	Mraheil et al. 2011;Toledo-Arana et al. 2009;				
+rli80	1.8151644725708014	2.1976838263572187	+	787038	787254	217	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli81	4.333361553782641	3.60526855345638	+	905685	905801	117	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli82	-1.2631149349555555	3.0274230880115542	-	910875	910942	68	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli83	-0.7075868633118994	-3.2271887387372455	+	926922	927039	118	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli84	2.1706102810187495	1.5351600769068847	+	1093855	1093954	100	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli85	-1.545283089528855	-3.534370248255421	-	1154617	1154762	146	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli86	-1.003471118322536	-0.8820772766762683	+	1272592	1272662	71	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli87	1.015905236287339	1.7096743897075273	+	1301287	1301551	265	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli88	0.2847919090288338	1.3175429708783586	+	1320429	1320501	73	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli89	0.9952324654983684	2.6116000210351693	+	1399490	1399656	167	Srna	Mraheil et al. 2011	rli42, 	Mraheil et al. 2011;Oliver et al. 2009;				
+rli9 - rliH	-3.335523430483606	-4.907631805932429	+	1180826	1181254	429	Srna	Mandin et al. 2007	rliH, 	Toledo-Arana et al. 2009;Rfam 2012;Oliver et al. 2009;				
+rli90	4.119308953581877	3.3954253900267872	-	1527941	1528048	108	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli91	-1.0501212116213567	1.8082382241911166	-	1575830	1575917	88	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli92	8.399368339520363	8.612440235237173	+	1638942	1639091	150	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli93	-4.5767406811057665	-4.907631805932429	+	1641179	1641239	61	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli94	-1.4917751394483298	-2.121989090321234	-	2039079	2039375	297	Srna	Mraheil et al. 2011	RatA-2, 	Wurtzel et al. 2012;Mraheil et al. 2011;Rfam 2012;				
+rli95	-4.211884059274368	-3.418830684354804	+	2106222	2106324	103	Srna	Mraheil et al. 2011		Mraheil et al. 2011;				
+rli96	-1.412908802832737	-2.702085835870575	-	2239222	2239295	74	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli97	3.2331534518621137	4.240416811345753	-	2279995	2280110	116	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli98	-3.1586456683995263	-2.8906635442147786	+	2361329	2361581	253	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+rli99	-2.3975087095389918	-3.02402578888085	+	2395032	2395236	205	Srna	Mraheil et al. 2011		Wurtzel et al. 2012;Mraheil et al. 2011;				
+yybP-ykoY	0.08847386223798459	2.216588133441677	+	1021463	1021588	126	CisReg	Rfam		Toledo-Arana et al. 2009;Mraheil et al. 2011;Rfam 2012;				
